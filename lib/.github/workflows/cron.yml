@@ -1,0 +1,18 @@
+name: Deploy_To_Firebase 
+
+on:
+  schedule: 
+    - cron:  '37 10 * * *'
+
+jobs:
+  deploy: 
+    runs-on: ubuntu-latest  
+    steps: 
+    - uses: actions/checkout@3
+    - uses: actions/setup-python@v4  
+      with: 
+        python-version: '3.8' 
+        cache: 'pip'
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+    - run: python cron.py
