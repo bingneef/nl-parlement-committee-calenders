@@ -17,14 +17,14 @@ def fetch_api_data(path):
         raise Exception('API_FAIL')
 
 
-def fetch_commissions():
+def fetch_committees():
     return fetch_api_data(
         f"Commissie?$select=NaamNL,Afkorting&$filter=(Afkorting ne null) and (NaamNL ne null)&$orderby=GewijzigdOp asc"
     )
 
 
-def fetch_events_for_commission_abbr(commission_abbr):
-    safe_commission_abbr = urllib.parse.quote(commission_abbr.encode('utf8'))
+def fetch_events_for_committee_abbr(committee_abbr):
+    safe_committee_abbr = urllib.parse.quote(committee_abbr.encode('utf8'))
     return fetch_api_data(
-        f"Activiteit?$filter=(Soort eq 'Commissiedebat' and (Aanvangstijd ne null) and (Status eq 'Gepland' or Status eq 'Uitgevoerd') and Voortouwafkorting eq '{safe_commission_abbr}')&$select=Onderwerp,Aanvangstijd,Eindtijd,Besloten,Status,Voortouwafkorting&$orderby=Aanvangstijd asc&$expand=ActiviteitActor($select=ActorNaam,ActorFractie)"
+        f"Activiteit?$filter=(Soort eq 'Commissiedebat' and (Aanvangstijd ne null) and (Status eq 'Gepland' or Status eq 'Uitgevoerd') and Voortouwafkorting eq '{safe_committee_abbr}')&$select=Onderwerp,Aanvangstijd,Eindtijd,Besloten,Status,Voortouwafkorting&$orderby=Aanvangstijd asc&$expand=ActiviteitActor($select=ActorNaam,ActorFractie)"
     )
