@@ -7,9 +7,10 @@ def generate_github_page_from_commissions(commissions):
 
     calender_content = ''
     for __, commission in commissions.iterrows():
+        calender_url = f"https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calenders/{generate_safe_filename(commission['Afkorting'])}.ics"
         commission_rows = [
-            commission['NaamNL'],
-            f"https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/data/calenders/{generate_safe_filename(commission['Afkorting'])}.ics"
+            f"**{commission['NaamNL']}**\\",
+            f"[{calender_url}]({calender_url})"
         ]
         calender_content = calender_content + '\n'.join(commission_rows) + '\n\n'
 
