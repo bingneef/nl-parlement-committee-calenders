@@ -12,6 +12,7 @@ def event_from_api_entry(entry = None):
     e = Event()
     e.name = "My cool event"
     e.begin = '2022-07-27 00:00:00'
+    e.end = '2022-07-27 10:00:00'
     c.events.add(e)
     c.events
     with open('my.ics', 'w') as f:
