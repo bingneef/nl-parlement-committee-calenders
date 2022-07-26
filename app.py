@@ -3,7 +3,7 @@ import json
 import os.path
 import pandas as pd
 from lib.calender import generate_calendar_from_events
-from lib.api import fetch_events_for_commission_abbr, fetch_active_commissions
+from lib.api import fetch_events_for_commission_abbr, fetch_commissions
 
 app = Flask(__name__)
 
@@ -20,5 +20,5 @@ def commission_calendar(commission):
 
 @app.route("/commissies")
 def commissions():
-    commissions = fetch_active_commissions()
-
+    commissions = fetch_commissions()
+    return jsonify(commissions.to_dict(orient='records'))

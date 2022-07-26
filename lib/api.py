@@ -17,9 +17,9 @@ def fetch_api_data(path):
         raise Exception('API_FAIL')
 
 
-def fetch_active_commissions():
+def fetch_commissions():
     return fetch_api_data(
-        f"Commissie?$select=NaamNL,Afkorting&$filter=(DatumInactief eq null) and (Afkorting ne null) and (NaamNL ne null)&$orderby=GewijzigdOp asc"
+        f"Commissie?$select=NaamNL,Afkorting&$filter=(Afkorting ne null) and (NaamNL ne null)&$orderby=GewijzigdOp asc"
     )
 
 
@@ -27,10 +27,4 @@ def fetch_events_for_commission_abbr(commission_abbr):
     safe_commission_abbr = urllib.parse.quote(commission_abbr.encode('utf8'))
     return fetch_api_data(
         f"Activiteit?$filter=(Soort eq 'Commissiedebat' and (Aanvangstijd ne null) and (Status eq 'Gepland' or Status eq 'Uitgevoerd') and Voortouwafkorting eq '{safe_commission_abbr}')&$select=Onderwerp,Aanvangstijd,Eindtijd,Besloten,Status,Voortouwafkorting&$orderby=Aanvangstijd asc&$expand=ActiviteitActor($select=ActorNaam,ActorFractie)"
-    )
-
-
-def fetch_all_commission_events():
-    return fetch_api_data(
-        f"Activiteit?$filter=(Soort eq 'Commissiedebat' and (Aanvangstijd ne null) and (Status eq 'Gepland' or Status eq 'Uitgevoerd'))&$select=Onderwerp,Aanvangstijd,Eindtijd,Besloten,Status,Voortouwafkorting&$orderby=Aanvangstijd asc&$expand=ActiviteitActor($select=ActorNaam,ActorFractie)"
     )
