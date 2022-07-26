@@ -10,7 +10,7 @@ Sid_diza = 'S-1-365867521-2120874753-3622109579-1217932645-2021516714-2069959739
 def event_from_api_entry(entry = None):
     c = Calendar()
     e = Event()
-    e.name = "My cool event"
+    e.name = "My super cool event"
     e.begin = '2022-07-27 00:00:00'
     e.end = '2022-07-27 10:00:00'
     c.events.add(e)
