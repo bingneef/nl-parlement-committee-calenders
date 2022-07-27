@@ -3,7 +3,7 @@ from datetime import date
 import numpy as np
 
 
-def generate_readme_from_committees(committees):
+def generate_docs_from_committees(committees):
     with open('templates/index.md') as f:
         template = f.read()
 
@@ -29,7 +29,7 @@ def generate_readme_from_committees(committees):
     current_date = date.today().strftime("%d/%m/%Y")
 
     # Fill placeholders in template
-    github_pages_content = template.replace(
+    doc_content = template.replace(
         '[[[calendars_with_events]]]', calendars_with_events_content
     ).replace(
         '[[[calendars_without_events]]]', calendars_without_events_content
@@ -37,7 +37,8 @@ def generate_readme_from_committees(committees):
         '[[[last_update]]]', current_date
     )
 
-    with open('readme.md', 'w') as f:
-        f.write(github_pages_content)
+    for destination in ['README.md', 'docs/index.md']:
+        with open(destination, 'w') as f:
+            f.write(doc_content)
 
     return True

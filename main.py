@@ -1,7 +1,7 @@
 from lib.api import fetch_committees, fetch_events_for_committee_abbr
 from lib.calendar import generate_calendar_from_events
 from lib.tools import generate_safe_filename
-from lib.readme import generate_readme_from_committees
+from lib.docs import generate_docs_from_committees
 
 # Fetch committees and write to csv
 committees = fetch_committees()
@@ -26,6 +26,6 @@ def write_calender_for_committee_and_return_committee(committee):
 committees = committees.apply(write_calender_for_committee_and_return_committee, axis=1)
 
 # Generate new readme
-generate_readme_from_committees(committees)
+generate_docs_from_committees(committees)
 
 print("Done with main.py")
