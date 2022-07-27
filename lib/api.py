@@ -18,9 +18,12 @@ def fetch_api_data(path):
 
 
 def fetch_committees():
-    return fetch_api_data(
+    committees = fetch_api_data(
         "Commissie?$select=NaamNL&$filter=NaamNL ne null&$orderby=NaamNL asc"
     )
+
+    # Commissie voor de Rijksuitgaven exists multiple times, so we need to remove the duplicates
+    return committees.drop_duplicates()
 
 
 def fetch_events_for_committee_name(committee_name):

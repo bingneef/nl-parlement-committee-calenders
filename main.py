@@ -27,4 +27,5 @@ committees = committees.apply(write_calender_for_committee_and_return_committee,
 # Generate new readme
 generate_docs_from_committees(committees)
 
+print(f"Found {committees['Activiteiten Aantal'].sum()} events for {len(committees)} committees")
 print("Done with main.py")

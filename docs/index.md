@@ -1,12 +1,9 @@
 # Commissie vergaderingen Eerste- en Tweede Kamer
 Dit project genereert elke dag de kalenders van de verschillende commissies van de kamers van het parlement. Je kan de link in de kalender programma (bijvoorbeeld Outlook) kopiëren voor automatische synchronisatie.
 
-Laatste update: 27/07/2022
+Laatste update: 27/07/2022 11:10
 
 ## Gevulde kalenders
-**Commissie voor de Rijksuitgaven** (2 gevonden)\
-[https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Commissie-voor-de-Rijksuitgaven.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Commissie-voor-de-Rijksuitgaven.ics)
-
 **Commissie voor de Rijksuitgaven** (2 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Commissie-voor-de-Rijksuitgaven.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Commissie-voor-de-Rijksuitgaven.ics)
 
@@ -178,9 +175,6 @@ Laatste update: 27/07/2022
 
 **IPC Mensenhandel** (0 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/IPC-Mensenhandel.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/IPC-Mensenhandel.ics)
-
-**Kunstcommissie** (0 gevonden)\
-[https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Kunstcommissie.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Kunstcommissie.ics)
 
 **Kunstcommissie** (0 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Kunstcommissie.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Kunstcommissie.ics)

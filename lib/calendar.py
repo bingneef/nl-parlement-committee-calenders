@@ -19,7 +19,7 @@ def _generate_calendar_description_from_event(event):
     if len(event['ActiviteitActor']) > 0:
         description += f"Aanwezigen ({event['ActorCount']}):\n"
         for actor in event['ActiviteitActor']:
-            description += f"  {actor['ActorNaam']} ({actor['ActorFractie']})\n"
+            description += f"  {actor['ActorNaam']} ({actor['ActorFractie'] or '-'})\n"
         description += "\n\n"
 
     return description

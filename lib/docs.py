@@ -1,5 +1,5 @@
 from lib.tools import generate_safe_filename
-from datetime import date
+from datetime import datetime
 import numpy as np
 
 
@@ -26,7 +26,7 @@ def generate_docs_from_committees(committees):
 
     calendars_with_events_content = '\n\n'.join(calendars_with_events)
     calendars_without_events_content = '\n\n'.join(calendars_without_events)
-    current_date = date.today().strftime("%d/%m/%Y")
+    current_date = datetime.now().strftime("%d/%m/%Y %H:%M")
 
     # Fill placeholders in template
     doc_content = template.replace(
