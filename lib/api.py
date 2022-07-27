@@ -19,17 +19,16 @@ def fetch_api_data(path):
 
 def fetch_committees():
     return fetch_api_data(
-        "Commissie?$select=NaamNL,Afkorting&$filter=DatumActief ne null and Afkorting ne null and " +
-        "NaamNL ne null&$orderby=NaamNL asc"
+        "Commissie?$select=NaamNL&$filter=NaamNL ne null&$orderby=NaamNL asc"
     )
 
 
-def fetch_events_for_committee_abbr(committee_abbr):
-    safe_committee_abbr = urllib.parse.quote(committee_abbr.encode('utf8'))
+def fetch_events_for_committee_name(committee_name):
+    safe_committee_name = urllib.parse.quote(committee_name.encode('utf8'))
     return fetch_api_data(
         "Activiteit?" +
-        "$filter=(Soort eq 'Commissiedebat' and Aanvangstijd ne null and (Status eq 'Gepland' or Status eq 'Uitgevoerd') and " +
-        f"Voortouwafkorting eq '{safe_committee_abbr}')&" +
-        "$select=Onderwerp,Aanvangstijd,Eindtijd,Besloten,Status,Voortouwafkorting&" +
+        "$filter=(Soort eq 'Commissiedebat' and Aanvangstijd ne null " +
+        f"and (Status eq 'Gepland' or Status eq 'Uitgevoerd') and Voortouwnaam eq '{safe_committee_name}')&" +
+        "$select=Aanvangstijd,Besloten,Eindtijd,Kamer,Locatie,Noot,Onderwerp,Status,Voortouwnaam&" +
         "$orderby=Aanvangstijd asc&" +
         "$expand=ActiviteitActor($select=ActorNaam,ActorFractie)")

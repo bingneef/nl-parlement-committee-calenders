@@ -12,7 +12,7 @@ def generate_docs_from_committees(committees):
     for __, committee in committees.iterrows():
         calendar_url = (
             "https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/" +
-            f"{generate_safe_filename(committee['Afkorting'])}.ics")
+            f"{generate_safe_filename(committee['NaamNL'])}.ics")
 
         committee_rows = "\n".join([
             f"**{committee['NaamNL']}** ({committee['Activiteiten Aantal']} gevonden)\\",
