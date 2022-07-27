@@ -19,7 +19,8 @@ def fetch_api_data(path):
 
 def fetch_committees():
     return fetch_api_data(
-        "Commissie?$select=NaamNL,Afkorting&$filter=Afkorting ne null and NaamNL ne null&$orderby=NaamNL asc"
+        "Commissie?$select=NaamNL,Afkorting&$filter=DatumActief ne null and Afkorting ne null and " +
+        "NaamNL ne null&$orderby=NaamNL asc"
     )
 
 
