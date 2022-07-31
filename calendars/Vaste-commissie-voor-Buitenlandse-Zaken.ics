@@ -2,192 +2,192 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\n3e herziene convocatie\ni.v.m. toevoeging agendapunt 3\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  M. Koekkoek (Volt)\n  vaste commissie voor Europese Zaken (-)\n  R.P. Brekelmans (VVD)\n  S.W. Sjoerdsma (D66)\n  W.B. Hoekstra (-)\n  C.E. Ellemeet (GroenLinks)\n  A.H. Kuiken (PvdA)\n  K.P. Piri (PvdA)\n  D.G.M. Ceder (ChristenUnie)\n  J.J. (Jasper) van Dijk (SP)\n  None (-)\n\n\n
-DTEND:20220317T120000Z
-DTSTART:20220317T090000Z
-SUMMARY:Raad Buitenlandse Zaken
-UID:7995e8ea-4883-4b11-942b-5ca22e9641bd@7995.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (1):\n  W.B. Hoekstra (-)\n\n\n
-DTEND:20220929T160000Z
-DTSTART:20220929T130000Z
-SUMMARY:China
-UID:4cb226ed-a34c-42f0-8ec9-d28f38e41be8@4cb2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  S.W. Sjoerdsma (D66)\n  A.H. (Agnes) Mulder (CDA)\n  K.P. Piri (PvdA)\n  T. Kuzu (DENK)\n  G. Wilders (PVV)\n  vaste commissie voor Europese Zaken (-)\n  R. de Roon (PVV)\n  H.P.M. Knapen (-)\n  R.P. Brekelmans (VVD)\n\n\n
-DTEND:20211014T153000Z
-DTSTART:20211014T123000Z
-SUMMARY:Raad Buitenlandse Zaken
-UID:d86834f4-cccb-4cd1-8c26-de55e559dd6d@d868.org
+DESCRIPTION:Notitie:\nHerziene convovatie\ni.v.m wijziging eindtijd (was eerst 19.30 uur) en toevoeging agendapunten\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  K.P. Piri (PvdA)\n  S.H. Simons (BIJ1)\n  C. Teunissen (PvdD)\n  T.M.T. van der Lee (GroenLinks)\n  R. de Roon (PVV)\n  R.P. Brekelmans (VVD)\n  C.G. van der Staaij (SGP)\n  G. Wilders (PVV)\n  vaste commissie voor Europese Zaken (-)\n  S.W. Sjoerdsma (D66)\n  J.J. (Jasper) van Dijk (SP)\n  T. Kuzu (DENK)\n  M. Amhaouch (CDA)\n  G.J.M. Segers (ChristenUnie)\n  S.A. Blok (-)\n\n\n
+DTEND:20210520T180000Z
+DTSTART:20210520T150000Z
+SUMMARY:Raad Buitenlandse Zaken 
+UID:dcd63ab2-c555-4f64-88c3-93e930061374@dcd6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. wijziging tijd (was eerst 17.00 uur)\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  D.J. Eppink (JA21)\n  vaste commissie voor Defensie (-)\n  A.H. (Agnes) Mulder (CDA)\n  S.A.M. Kaag (-)\n  K.P. Piri (PvdA)\n  S.W. Sjoerdsma (D66)\n  G. Wilders (PVV)\n  A.Th.B. Bijleveld-Schouten (-)\n  None (-)\n  delegatie naar de NAVO-Assemblee (-)\n  R.P. Brekelmans (VVD)\n\n\n
 DTEND:20210607T113000Z
 DTSTART:20210607T090000Z
 SUMMARY:NAVO Top 
-UID:912f7c84-cc56-4841-82fe-4c530638ab39@912f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (12):\n  K.P. Piri (PvdA)\n  H.P.M. Knapen (-)\n  T. Kuzu (DENK)\n  D.G.M. Ceder (ChristenUnie)\n  H.G.J. Kamp (-)\n  vaste commissie voor Defensie (-)\n  S.W. Sjoerdsma (D66)\n  A.H. (Agnes) Mulder (CDA)\n  R.P. Brekelmans (VVD)\n  R. de Roon (PVV)\n  J.J. (Jasper) van Dijk (SP)\n  C. Stoffer (SGP)\n\n\n
-DTEND:20211216T163000Z
-DTSTART:20211216T123000Z
-SUMMARY:Artikel-100 Nederlandse bijdrage aan de anti-ISIS-coalitie 
-UID:f44d1f18-4569-4a6a-9dfa-7e162f7a6d76@f44d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n2e Herziene convocatie i.v.m. toevoeging agendapunt 4\n\nHet is niet een besloten evenement\n\nAanwezigen (17):\n  G. Wilders (PVV)\n  A.H. (Agnes) Mulder (CDA)\n  None (-)\n  A.R. Hammelburg (D66)\n  R. de Roon (PVV)\n  D.J. Eppink (JA21)\n  W.B. Hoekstra (-)\n  vaste commissie voor Defensie (-)\n  None (-)\n  K.P. Piri (PvdA)\n  None (-)\n  T. Kuzu (DENK)\n  J.J. (Jasper) van Dijk (SP)\n  E.N.A.J. Schreinemacher (-)\n  R.P. Brekelmans (VVD)\n  D.G.M. Ceder (ChristenUnie)\n  vaste commissie voor Buitenlandse Handel en Ontwikkelingssamenwerking (-)\n\n\n
-DTEND:20220127T163000Z
-DTSTART:20220127T123000Z
-SUMMARY:Toekomstige inzet en hulp aan Afghanistan
-UID:cd95cfb6-0f86-4be3-b96e-c02027ca2e42@cd95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\ngewijzigde datum (was eerst 16 september)\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  R.P. Brekelmans (VVD)\n  S.W. Sjoerdsma (D66)\n  J.J. (Jasper) van Dijk (SP)\n  S. Kerseboom (FVD)\n  vaste commissie voor Buitenlandse Handel en Ontwikkelingssamenwerking (-)\n  Th.J.A.M. de Bruijn (-)\n  A.H. (Agnes) Mulder (CDA)\n  C. Teunissen (PvdD)\n  S.A.M. Kaag (-)\n\n\n
-DTEND:20210914T170000Z
-DTSTART:20210914T150000Z
-SUMMARY:AVVN
-UID:ad6e4377-2b38-4f86-8d6d-09659303dbdf@ad6e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n2e Herziene convocatie i.v.m. toevoeging agendapunt\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  R.P. Brekelmans (VVD)\n  R. de Roon (PVV)\n  S.W. Sjoerdsma (D66)\n  vaste commissie voor Defensie (-)\n  K.P. Piri (PvdA)\n  A.H. (Agnes) Mulder (CDA)\n  D.G.M. Ceder (ChristenUnie)\n  D.J. Eppink (JA21)\n  K.H. Ollongren (-)\n  O.R. Ephraim (Groep Van Haga)\n  vaste commissie voor Europese Zaken (-)\n  J.J. (Jasper) van Dijk (SP)\n  W.B. Hoekstra (-)\n  None (-)\n  C.E. Ellemeet (GroenLinks)\n\n\n
-DTEND:20220120T213000Z
-DTSTART:20220120T173000Z
-SUMMARY:Raad Buitenlandse Zaken/ Strategisch Kompas 
-UID:dbb1d679-d55c-40b4-96e0-38009c2255a7@dbb1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging agendapunten 3 en 4.\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  A.H. (Agnes) Mulder (CDA)\n  S.W. Sjoerdsma (D66)\n  J.J. (Jasper) van Dijk (SP)\n  R.P. Brekelmans (VVD)\n  W.B. Hoekstra (-)\n  R.J. (Rudmer) Heerema (VVD)\n  vaste commissie voor Europese Zaken (-)\n  K.P. Piri (PvdA)\n  D.G.M. Ceder (ChristenUnie)\n\n\n
-DTEND:20220615T150000Z
-DTSTART:20220615T120000Z
-SUMMARY:Raad Buitenlandse Zaken
-UID:28c9fed1-e58b-49ce-81fa-a14d66420d96@28c9.org
+UID:656006b1-add0-49fb-b4e1-8a2bf87708fc@6560.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging brief aan agendapunt 1\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  None (-)\n  F.B.J. Grapperhaus (-)\n  J. van Wijngaarden (VVD)\n  vaste commissie voor Justitie en Veiligheid (-)\n  G. Wilders (PVV)\n  H.M. Palland (CDA)\n  M. van Nispen (SP)\n  R. de Roon (PVV)\n  S.A.M. Kaag (-)\n  K.P. Piri (PvdA)\n  S.W. Sjoerdsma (D66)\n\n\n
 DTEND:20210616T200000Z
 DTSTART:20210616T170000Z
 SUMMARY:MH-17
-UID:c1cd84ea-d2ff-4ef9-95ec-4c3cf6dacc6c@c1cd.org
+UID:9ad49a45-2904-4e54-a424-a19dd42a8c7e@9ad4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\n3e Herziene convocatie i.v.m. wijziging datum\, was eerst 22 juni\n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  R.P. Brekelmans (VVD)\n  K.H. Ollongren (-)\n  W.B. Hoekstra (-)\n  vaste commissie voor Defensie (-)\n  A.H. (Agnes) Mulder (CDA)\n  S.W. Sjoerdsma (D66)\n  K.P. Piri (PvdA)\n\n\n
 DTEND:20220623T193000Z
 DTSTART:20220623T173000Z
 SUMMARY:NAVO 
-UID:b776d7dc-fcd6-4c20-9ce2-b5099dd85d45@b776.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (6):\n  H.P.M. Knapen (-)\n  A.H. (Agnes) Mulder (CDA)\n  R.P. Brekelmans (VVD)\n  R. de Roon (PVV)\n  None (-)\n  S.W. Sjoerdsma (D66)\n\n\n
-DTEND:20211102T183000Z
-DTSTART:20211102T153000Z
-SUMMARY:Consulaire Zaken 
-UID:06faace5-7836-4b6a-b592-67c82902d39b@06fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging agendapunten\n\nHet is niet een besloten evenement\n\nAanwezigen (17):\n  S. Kerseboom (FVD)\n  vaste commissie voor Europese Zaken (-)\n  C.G. van der Staaij (SGP)\n  T. Kuzu (DENK)\n  J.J. (Jasper) van Dijk (SP)\n  None (-)\n  A.H. (Agnes) Mulder (CDA)\n  L.A.J.M. Dassen (Volt)\n  G.J.M. Segers (ChristenUnie)\n  K.P. Piri (PvdA)\n  G. Wilders (PVV)\n  S.A.M. Kaag (-)\n  T.M.T. van der Lee (GroenLinks)\n  S.W. Sjoerdsma (D66)\n  R. de Roon (PVV)\n  D.J. Eppink (JA21)\n  R.P. Brekelmans (VVD)\n\n\n
-DTEND:20210616T150000Z
-DTSTART:20210616T120000Z
-SUMMARY:Raad Buitenlandse Zaken 
-UID:077d7fc9-0d01-4d17-9d52-fe48179449ad@077d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHerziene convovatie\ni.v.m wijziging eindtijd (was eerst 19.30 uur) en toevoeging agendapunten\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  K.P. Piri (PvdA)\n  S.H. Simons (BIJ1)\n  C. Teunissen (PvdD)\n  T.M.T. van der Lee (GroenLinks)\n  R. de Roon (PVV)\n  R.P. Brekelmans (VVD)\n  C.G. van der Staaij (SGP)\n  G. Wilders (PVV)\n  vaste commissie voor Europese Zaken (-)\n  S.W. Sjoerdsma (D66)\n  J.J. (Jasper) van Dijk (SP)\n  T. Kuzu (DENK)\n  M. Amhaouch (CDA)\n  G.J.M. Segers (ChristenUnie)\n  S.A. Blok (-)\n\n\n
-DTEND:20210520T180000Z
-DTSTART:20210520T150000Z
-SUMMARY:Raad Buitenlandse Zaken 
-UID:91c8b59c-ed00-4178-8ef4-ae4a0fbd5aa7@91c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n2e Herziene convocatie i.v.m. toevoeging agendapunten 3 en 4.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  K.P. Piri (PvdA)\n  R. de Roon (PVV)\n  L.A.J.M. Dassen (Volt)\n  S.W. Sjoerdsma (D66)\n  A.H. (Agnes) Mulder (CDA)\n  T.M.T. van der Lee (GroenLinks)\n  R.P. Brekelmans (VVD)\n  vaste commissie voor Europese Zaken (-)\n  W.B. Hoekstra (-)\n  J.J. (Jasper) van Dijk (SP)\n  T. Kuzu (DENK)\n\n\n
-DTEND:20220406T100000Z
-DTSTART:20220406T080000Z
-SUMMARY:Raad Buitenlandse Zaken
-UID:a18f037e-2cf6-40e9-a568-9b560f32e973@a18f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (13):\n  D.J. Eppink (JA21)\n  A.H. (Agnes) Mulder (CDA)\n  T.M.T. van der Lee (GroenLinks)\n  J.J. (Jasper) van Dijk (SP)\n  R. de Roon (PVV)\n  S.W. Sjoerdsma (D66)\n  D.G.M. Ceder (ChristenUnie)\n  vaste commissie voor Defensie (-)\n  S.A. Blok (-)\n  R.P. Brekelmans (VVD)\n  T. Kuzu (DENK)\n  A.Th.B. Bijleveld-Schouten (-)\n  K.P. Piri (PvdA)\n\n\n
-DTEND:20210422T113000Z
-DTSTART:20210422T073000Z
-SUMMARY:Aanvullende artikel 100-inzet Resolute Support missie Afghanistan
-UID:52ead595-aa16-4e31-b9ea-60063ccd0a58@52ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n2e Herziene convocatie i.v.m. toevoeging agendapunten 3\,4 en 5\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  D.G.M. Ceder (ChristenUnie)\n  K.P. Piri (PvdA)\n  R. de Roon (PVV)\n  S.W. Sjoerdsma (D66)\n  vaste commissie voor Europese Zaken (-)\n  D.J. Eppink (JA21)\n  J.J. (Jasper) van Dijk (SP)\n  None (-)\n  S.R.T. van Baarle (DENK)\n  W.B. Hoekstra (-)\n  R.P. Brekelmans (VVD)\n  vaste commissie voor Defensie (-)\n  M. Amhaouch (CDA)\n\n\n
-DTEND:20220216T150000Z
-DTSTART:20220216T110000Z
-SUMMARY:Raad Buitenlandse Zaken (gewijzigde aanvangstijd)
-UID:f9bf7ad1-871f-4db6-8882-f1a0228e75e6@f9bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n3e Herziene convocatie i.v.m. toevoeging agendapunt \n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  A.H. (Agnes) Mulder (CDA)\n  T.M.T. van der Lee (GroenLinks)\n  None (-)\n  R.J. (Rudmer) Heerema (VVD)\n  vaste commissie voor Justitie en Veiligheid (-)\n  vaste commissie voor Digitale Zaken (-)\n  S.W. Sjoerdsma (D66)\n  M. Koekkoek (Volt)\n  R.P. Brekelmans (VVD)\n  None (-)\n  W.B. Hoekstra (-)\n  None (-)\n\n\n
-DTEND:20220413T160000Z
-DTSTART:20220413T130000Z
-SUMMARY:Internationale cyberveiligheid 
-UID:0a5a6233-e892-497b-9db3-dbb172364a41@0a5a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  T.M.T. van der Lee (GroenLinks)\n  R.P. Brekelmans (VVD)\n  J.J. (Jasper) van Dijk (SP)\n  H.P.M. Knapen (-)\n  K.P. Piri (PvdA)\n  A.H. (Agnes) Mulder (CDA)\n  T. Kuzu (DENK)\n  S.W. Sjoerdsma (D66)\n  vaste commissie voor Europese Zaken (-)\n  R. de Roon (PVV)\n\n\n
-DTEND:20211207T190000Z
-DTSTART:20211207T160000Z
-SUMMARY:Raad Buitenlandse Zaken
-UID:3cb91cc8-e108-46b1-bab6-5453ce0cd28d@3cb9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE i.v.m. wijziging datum (was 4 november)\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  R.P. Brekelmans (VVD)\n  C. Stoffer (SGP)\n  G. Wilders (PVV)\n  S.W. Sjoerdsma (D66)\n  A.H. (Agnes) Mulder (CDA)\n  K.P. Piri (PvdA)\n  vaste commissie voor Defensie (-)\n  H.P.M. Knapen (-)\n  T.M.T. van der Lee (GroenLinks)\n  H.G.J. Kamp (-)\n  vaste commissie voor Buitenlandse Handel en Ontwikkelingssamenwerking (-)\n  G. Markuszower (PVV)\n  J.J. (Jasper) van Dijk (SP)\n  T. Kuzu (DENK)\n\n\n
-DTEND:20211027T140000Z
-DTSTART:20211027T110000Z
-SUMMARY:Artikel 100-bijdrage aan VN-missie MINUSMA in Mali
-UID:d7e8f932-8d08-48e1-8e3b-39f33f41fb2a@d7e8.org
+UID:3f84fff4-36be-4709-ab16-33ebe69d88b6@3f84.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (13):\n  K.P. Piri (PvdA)\n  T. Kuzu (DENK)\n  G. Wilders (PVV)\n  R.P. Brekelmans (VVD)\n  vaste commissie voor Europese Zaken (-)\n  R. de Roon (PVV)\n  L.A.J.M. Dassen (Volt)\n  S.A.M. Kaag (-)\n  None (-)\n  T.M.T. van der Lee (GroenLinks)\n  A.H. (Agnes) Mulder (CDA)\n  S.W. Sjoerdsma (D66)\n  J.J. (Jasper) van Dijk (SP)\n\n\n
 DTEND:20210708T110000Z
 DTSTART:20210708T080000Z
 SUMMARY:Raad Buitenlandse Zaken 
-UID:3d8961cd-59fb-40a6-ae08-f2f560a0906d@3d89.org
+UID:cc585538-30af-4bac-9f40-825be4830a14@cc58.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\n5e Herziene convocatie i.v.m.  wijziging tijd en duur van het overleg (was 10.00-13.00 uur)\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  C.G. van der Staaij (SGP)\n  J.J. (Jasper) van Dijk (SP)\n  None (-)\n  R. de Roon (PVV)\n  None (-)\n  S.W. Sjoerdsma (D66)\n  vaste commissie voor Buitenlandse Handel en Ontwikkelingssamenwerking (-)\n  A.H. (Agnes) Mulder (CDA)\n  K.P. Piri (PvdA)\n  S. Kerseboom (FVD)\n  R.P. Brekelmans (VVD)\n  T. Kuzu (DENK)\n  None (-)\n  H.P.M. Knapen (-)\n  D.J. Eppink (JA21)\n\n\n
-DTEND:20211104T123000Z
-DTSTART:20211104T083000Z
-SUMMARY:China (gewijzigde tijd)
-UID:26321048-20e8-4d71-ab92-b74ada66082a@2632.org
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (1):\n  W.B. Hoekstra (-)\n\n\n
+DTEND:20220929T160000Z
+DTSTART:20220929T130000Z
+SUMMARY:China
+UID:daafdd29-6bd7-4fe5-9913-d4253bf9a7cd@daaf.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (7):\n  R.P. Brekelmans (VVD)\n  T.M.T. van der Lee (GroenLinks)\n  vaste commissie voor Europese Zaken (-)\n  K.P. Piri (PvdA)\n  R. de Roon (PVV)\n  S.W. Sjoerdsma (D66)\n  H.P.M. Knapen (-)\n\n\n
-DTEND:20211108T180000Z
-DTSTART:20211108T150000Z
+DESCRIPTION:Notitie:\n2e Herziene convocatie i.v.m. toevoeging agendapunt 4\n\nHet is niet een besloten evenement\n\nAanwezigen (17):\n  G. Wilders (PVV)\n  A.H. (Agnes) Mulder (CDA)\n  None (-)\n  A.R. Hammelburg (D66)\n  R. de Roon (PVV)\n  D.J. Eppink (JA21)\n  W.B. Hoekstra (-)\n  vaste commissie voor Defensie (-)\n  None (-)\n  K.P. Piri (PvdA)\n  None (-)\n  T. Kuzu (DENK)\n  J.J. (Jasper) van Dijk (SP)\n  E.N.A.J. Schreinemacher (-)\n  R.P. Brekelmans (VVD)\n  D.G.M. Ceder (ChristenUnie)\n  vaste commissie voor Buitenlandse Handel en Ontwikkelingssamenwerking (-)\n\n\n
+DTEND:20220127T163000Z
+DTSTART:20220127T123000Z
+SUMMARY:Toekomstige inzet en hulp aan Afghanistan
+UID:094bc1d3-f6d7-4a26-ae12-c023b6752f6c@094b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE i.v.m. wijziging datum (was 4 november)\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  R.P. Brekelmans (VVD)\n  C. Stoffer (SGP)\n  G. Wilders (PVV)\n  S.W. Sjoerdsma (D66)\n  A.H. (Agnes) Mulder (CDA)\n  K.P. Piri (PvdA)\n  vaste commissie voor Defensie (-)\n  H.P.M. Knapen (-)\n  T.M.T. van der Lee (GroenLinks)\n  H.G.J. Kamp (-)\n  vaste commissie voor Buitenlandse Handel en Ontwikkelingssamenwerking (-)\n  G. Markuszower (PVV)\n  J.J. (Jasper) van Dijk (SP)\n  T. Kuzu (DENK)\n\n\n
+DTEND:20211027T140000Z
+DTSTART:20211027T110000Z
+SUMMARY:Artikel 100-bijdrage aan VN-missie MINUSMA in Mali
+UID:f3215824-2f91-43b5-b7d6-bb0bb99d8ecd@f321.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n2e Herziene convocatie i.v.m. toevoeging agendapunten 3 en 4.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  K.P. Piri (PvdA)\n  R. de Roon (PVV)\n  L.A.J.M. Dassen (Volt)\n  S.W. Sjoerdsma (D66)\n  A.H. (Agnes) Mulder (CDA)\n  T.M.T. van der Lee (GroenLinks)\n  R.P. Brekelmans (VVD)\n  vaste commissie voor Europese Zaken (-)\n  W.B. Hoekstra (-)\n  J.J. (Jasper) van Dijk (SP)\n  T. Kuzu (DENK)\n\n\n
+DTEND:20220406T100000Z
+DTSTART:20220406T080000Z
 SUMMARY:Raad Buitenlandse Zaken
-UID:0bc12eba-63ca-444a-bd2f-2ded61adb003@0bc1.org
+UID:172867a0-fc9b-4fc9-9c8b-484664572059@1728.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. wijziging tijdstip (was eerst 15.00-18.00 uur)\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  S. Kerseboom (FVD)\n  K.P. Piri (PvdA)\n  S.W. Sjoerdsma (D66)\n  J.J. (Jasper) van Dijk (SP)\n  A.H. (Agnes) Mulder (CDA)\n  R.P. Brekelmans (VVD)\n  T.M.T. van der Lee (GroenLinks)\n  S.A. Blok (-)\n  R. de Roon (PVV)\n  S.R.T. van Baarle (DENK)\n  vaste commissie voor Europese Zaken (-)\n\n\n
-DTEND:20210415T170000Z
-DTSTART:20210415T140000Z
-SUMMARY:Raad Buitenlandse Zaken NB gewijzigd tijdstip
-UID:b9e3ae5b-6081-4aa0-a2dd-c6ae4203ddf2@b9e3.org
+DESCRIPTION:Notitie:\n3e herziene convocatie\ni.v.m. toevoeging agendapunt 3\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  M. Koekkoek (Volt)\n  vaste commissie voor Europese Zaken (-)\n  R.P. Brekelmans (VVD)\n  S.W. Sjoerdsma (D66)\n  W.B. Hoekstra (-)\n  C.E. Ellemeet (GroenLinks)\n  A.H. Kuiken (PvdA)\n  K.P. Piri (PvdA)\n  D.G.M. Ceder (ChristenUnie)\n  J.J. (Jasper) van Dijk (SP)\n  None (-)\n\n\n
+DTEND:20220317T120000Z
+DTSTART:20220317T090000Z
+SUMMARY:Raad Buitenlandse Zaken
+UID:7fdca5f4-cb04-4501-80b2-cff53a25a68a@7fdc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. verlenging overleg met 2 uur en toevoeging agendapunten\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  R.P. Brekelmans (VVD)\n  T.M.T. van der Lee (GroenLinks)\n  W.B. Hoekstra (-)\n  A.H. (Agnes) Mulder (CDA)\n  K.P. Piri (PvdA)\n  D.G.M. Ceder (ChristenUnie)\n  R. de Roon (PVV)\n  vaste commissie voor Europese Zaken (-)\n  J.J. (Jasper) van Dijk (SP)\n  G.F.C. van Meijeren (FVD)\n  T. Kuzu (DENK)\n  S.W. Sjoerdsma (D66)\n  C.A.M. van der Plas (BBB)\n  C.G. van der Staaij (SGP)\n\n\n
 DTEND:20220614T215500Z
 DTSTART:20220614T170000Z
 SUMMARY:Hoofdlijnen beleid Ministerie van Buitenlandse Zaken
-UID:94130f27-13c1-4297-aba0-47341520c105@9413.org
+UID:46bcbc8a-9e4e-4c1d-9441-42654fd958ec@46bc.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  G. Wilders (PVV)\n  delegatie naar de OVSE-Assemblee (-)\n  delegatie naar de NAVO-Assemblee (-)\n  T.M.T. van der Lee (GroenLinks)\n  H.P.M. Knapen (-)\n  A.H. (Agnes) Mulder (CDA)\n  R.P. Brekelmans (VVD)\n  R. de Roon (PVV)\n  K.P. Piri (PvdA)\n  S.W. Sjoerdsma (D66)\n\n\n
-DTEND:20211124T153000Z
-DTSTART:20211124T123000Z
-SUMMARY:NAVO/OVSE
-UID:42b288f2-6133-4293-80f2-9ac0280ab5c4@42b2.org
+DESCRIPTION:Notitie:\n2e Herziene convocatie i.v.m. toevoeging agendapunten 3\,4 en 5\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  D.G.M. Ceder (ChristenUnie)\n  K.P. Piri (PvdA)\n  R. de Roon (PVV)\n  S.W. Sjoerdsma (D66)\n  vaste commissie voor Europese Zaken (-)\n  D.J. Eppink (JA21)\n  J.J. (Jasper) van Dijk (SP)\n  None (-)\n  S.R.T. van Baarle (DENK)\n  W.B. Hoekstra (-)\n  R.P. Brekelmans (VVD)\n  vaste commissie voor Defensie (-)\n  M. Amhaouch (CDA)\n\n\n
+DTEND:20220216T150000Z
+DTSTART:20220216T110000Z
+SUMMARY:Raad Buitenlandse Zaken (gewijzigde aanvangstijd)
+UID:e4121a3b-b4f2-4f00-b2a0-0e5996910b4b@e412.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (13):\n  D.J. Eppink (JA21)\n  A.H. (Agnes) Mulder (CDA)\n  T.M.T. van der Lee (GroenLinks)\n  J.J. (Jasper) van Dijk (SP)\n  R. de Roon (PVV)\n  S.W. Sjoerdsma (D66)\n  D.G.M. Ceder (ChristenUnie)\n  vaste commissie voor Defensie (-)\n  S.A. Blok (-)\n  R.P. Brekelmans (VVD)\n  T. Kuzu (DENK)\n  A.Th.B. Bijleveld-Schouten (-)\n  K.P. Piri (PvdA)\n\n\n
+DTEND:20210422T113000Z
+DTSTART:20210422T073000Z
+SUMMARY:Aanvullende artikel 100-inzet Resolute Support missie Afghanistan
+UID:e36ec5e7-f0fe-4848-b134-c59250ccc090@e36e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. wijziging tijdstip (was eerst 15.00-18.00 uur)\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  S. Kerseboom (FVD)\n  K.P. Piri (PvdA)\n  S.W. Sjoerdsma (D66)\n  J.J. (Jasper) van Dijk (SP)\n  A.H. (Agnes) Mulder (CDA)\n  R.P. Brekelmans (VVD)\n  T.M.T. van der Lee (GroenLinks)\n  S.A. Blok (-)\n  R. de Roon (PVV)\n  S.R.T. van Baarle (DENK)\n  vaste commissie voor Europese Zaken (-)\n\n\n
+DTEND:20210415T170000Z
+DTSTART:20210415T140000Z
+SUMMARY:Raad Buitenlandse Zaken NB gewijzigd tijdstip
+UID:01648afb-aea3-445c-9ebd-6fcd8f3ee050@0164.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n5e Herziene convocatie i.v.m.  wijziging tijd en duur van het overleg (was 10.00-13.00 uur)\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  C.G. van der Staaij (SGP)\n  J.J. (Jasper) van Dijk (SP)\n  None (-)\n  R. de Roon (PVV)\n  None (-)\n  S.W. Sjoerdsma (D66)\n  vaste commissie voor Buitenlandse Handel en Ontwikkelingssamenwerking (-)\n  A.H. (Agnes) Mulder (CDA)\n  K.P. Piri (PvdA)\n  S. Kerseboom (FVD)\n  R.P. Brekelmans (VVD)\n  T. Kuzu (DENK)\n  None (-)\n  H.P.M. Knapen (-)\n  D.J. Eppink (JA21)\n\n\n
+DTEND:20211104T123000Z
+DTSTART:20211104T083000Z
+SUMMARY:China (gewijzigde tijd)
+UID:44e83b04-abee-4a2f-ba6e-8afc33b94322@44e8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nVierde herziene convocatie i.v.m. wijziging tijdstip \n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  A.H. (Agnes) Mulder (CDA)\n  R. de Roon (PVV)\n  S.W. Sjoerdsma (D66)\n  R.P. Brekelmans (VVD)\n  K.P. Piri (PvdA)\n  W.B. Hoekstra (-)\n  vaste commissie voor Europese Zaken (-)\n  T.M.T. van der Lee (GroenLinks)\n  J.J. (Jasper) van Dijk (SP)\n\n\n
 DTEND:20220512T210000Z
 DTSTART:20220512T180000Z
 SUMMARY:Raad Buitenlandse Zaken
-UID:dbbb57e6-40e5-473f-bb8c-0088716427ff@dbbb.org
+UID:529e57ee-b218-4e2c-b0ef-08b5747002ce@529e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  T.M.T. van der Lee (GroenLinks)\n  R.P. Brekelmans (VVD)\n  J.J. (Jasper) van Dijk (SP)\n  H.P.M. Knapen (-)\n  K.P. Piri (PvdA)\n  A.H. (Agnes) Mulder (CDA)\n  T. Kuzu (DENK)\n  S.W. Sjoerdsma (D66)\n  vaste commissie voor Europese Zaken (-)\n  R. de Roon (PVV)\n\n\n
+DTEND:20211207T190000Z
+DTSTART:20211207T160000Z
+SUMMARY:Raad Buitenlandse Zaken
+UID:cf27678c-22ad-4d89-b6c2-7294d75c63bc@cf27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  G. Wilders (PVV)\n  delegatie naar de OVSE-Assemblee (-)\n  delegatie naar de NAVO-Assemblee (-)\n  T.M.T. van der Lee (GroenLinks)\n  H.P.M. Knapen (-)\n  A.H. (Agnes) Mulder (CDA)\n  R.P. Brekelmans (VVD)\n  R. de Roon (PVV)\n  K.P. Piri (PvdA)\n  S.W. Sjoerdsma (D66)\n\n\n
+DTEND:20211124T153000Z
+DTSTART:20211124T123000Z
+SUMMARY:NAVO/OVSE
+UID:0325316a-63a5-452d-8a14-b96595d84a82@0325.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (7):\n  R.P. Brekelmans (VVD)\n  T.M.T. van der Lee (GroenLinks)\n  vaste commissie voor Europese Zaken (-)\n  K.P. Piri (PvdA)\n  R. de Roon (PVV)\n  S.W. Sjoerdsma (D66)\n  H.P.M. Knapen (-)\n\n\n
+DTEND:20211108T180000Z
+DTSTART:20211108T150000Z
+SUMMARY:Raad Buitenlandse Zaken
+UID:aac34e6e-0ba3-4d31-a8ee-b35c8c8b57cb@aac3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n2e Herziene convocatie i.v.m. toevoeging agendapunt\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  R.P. Brekelmans (VVD)\n  R. de Roon (PVV)\n  S.W. Sjoerdsma (D66)\n  vaste commissie voor Defensie (-)\n  K.P. Piri (PvdA)\n  A.H. (Agnes) Mulder (CDA)\n  D.G.M. Ceder (ChristenUnie)\n  D.J. Eppink (JA21)\n  K.H. Ollongren (-)\n  O.R. Ephraim (Groep Van Haga)\n  vaste commissie voor Europese Zaken (-)\n  J.J. (Jasper) van Dijk (SP)\n  W.B. Hoekstra (-)\n  None (-)\n  C.E. Ellemeet (GroenLinks)\n\n\n
+DTEND:20220120T213000Z
+DTSTART:20220120T173000Z
+SUMMARY:Raad Buitenlandse Zaken/ Strategisch Kompas 
+UID:3888df09-2d21-4d74-b853-66aa6075418e@3888.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging agendapunten 3 en 4.\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  A.H. (Agnes) Mulder (CDA)\n  S.W. Sjoerdsma (D66)\n  J.J. (Jasper) van Dijk (SP)\n  R.P. Brekelmans (VVD)\n  W.B. Hoekstra (-)\n  R.J. (Rudmer) Heerema (VVD)\n  vaste commissie voor Europese Zaken (-)\n  K.P. Piri (PvdA)\n  D.G.M. Ceder (ChristenUnie)\n\n\n
+DTEND:20220615T150000Z
+DTSTART:20220615T120000Z
+SUMMARY:Raad Buitenlandse Zaken
+UID:96d2cb80-cceb-4005-93c4-a2cc1dd68361@96d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n3e Herziene convocatie i.v.m. toevoeging agendapunt \n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  A.H. (Agnes) Mulder (CDA)\n  T.M.T. van der Lee (GroenLinks)\n  None (-)\n  R.J. (Rudmer) Heerema (VVD)\n  vaste commissie voor Justitie en Veiligheid (-)\n  vaste commissie voor Digitale Zaken (-)\n  S.W. Sjoerdsma (D66)\n  M. Koekkoek (Volt)\n  R.P. Brekelmans (VVD)\n  None (-)\n  W.B. Hoekstra (-)\n  None (-)\n\n\n
+DTEND:20220413T160000Z
+DTSTART:20220413T130000Z
+SUMMARY:Internationale cyberveiligheid 
+UID:3b0c7dc6-47be-467b-ad06-9b83154dafd1@3b0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging agendapunten\n\nHet is niet een besloten evenement\n\nAanwezigen (17):\n  S. Kerseboom (FVD)\n  vaste commissie voor Europese Zaken (-)\n  C.G. van der Staaij (SGP)\n  T. Kuzu (DENK)\n  J.J. (Jasper) van Dijk (SP)\n  None (-)\n  A.H. (Agnes) Mulder (CDA)\n  L.A.J.M. Dassen (Volt)\n  G.J.M. Segers (ChristenUnie)\n  K.P. Piri (PvdA)\n  G. Wilders (PVV)\n  S.A.M. Kaag (-)\n  T.M.T. van der Lee (GroenLinks)\n  S.W. Sjoerdsma (D66)\n  R. de Roon (PVV)\n  D.J. Eppink (JA21)\n  R.P. Brekelmans (VVD)\n\n\n
+DTEND:20210616T150000Z
+DTSTART:20210616T120000Z
+SUMMARY:Raad Buitenlandse Zaken 
+UID:c0e65efe-21c5-4be2-a239-380490cb08bd@c0e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\ngewijzigde datum (was eerst 16 september)\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  R.P. Brekelmans (VVD)\n  S.W. Sjoerdsma (D66)\n  J.J. (Jasper) van Dijk (SP)\n  S. Kerseboom (FVD)\n  vaste commissie voor Buitenlandse Handel en Ontwikkelingssamenwerking (-)\n  Th.J.A.M. de Bruijn (-)\n  A.H. (Agnes) Mulder (CDA)\n  C. Teunissen (PvdD)\n  S.A.M. Kaag (-)\n\n\n
+DTEND:20210914T170000Z
+DTSTART:20210914T150000Z
+SUMMARY:AVVN
+UID:2591cdfb-5c32-49a7-93f5-ff579a99feb2@2591.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  S.W. Sjoerdsma (D66)\n  A.H. (Agnes) Mulder (CDA)\n  K.P. Piri (PvdA)\n  T. Kuzu (DENK)\n  G. Wilders (PVV)\n  vaste commissie voor Europese Zaken (-)\n  R. de Roon (PVV)\n  H.P.M. Knapen (-)\n  R.P. Brekelmans (VVD)\n\n\n
+DTEND:20211014T153000Z
+DTSTART:20211014T123000Z
+SUMMARY:Raad Buitenlandse Zaken
+UID:2441ecbc-cd65-4d06-8552-66e2f71e8da1@2441.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (6):\n  H.P.M. Knapen (-)\n  A.H. (Agnes) Mulder (CDA)\n  R.P. Brekelmans (VVD)\n  R. de Roon (PVV)\n  None (-)\n  S.W. Sjoerdsma (D66)\n\n\n
+DTEND:20211102T183000Z
+DTSTART:20211102T153000Z
+SUMMARY:Consulaire Zaken 
+UID:75636c11-7e0c-4f61-b47d-41fa9cbdbb70@7563.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (12):\n  K.P. Piri (PvdA)\n  H.P.M. Knapen (-)\n  T. Kuzu (DENK)\n  D.G.M. Ceder (ChristenUnie)\n  H.G.J. Kamp (-)\n  vaste commissie voor Defensie (-)\n  S.W. Sjoerdsma (D66)\n  A.H. (Agnes) Mulder (CDA)\n  R.P. Brekelmans (VVD)\n  R. de Roon (PVV)\n  J.J. (Jasper) van Dijk (SP)\n  C. Stoffer (SGP)\n\n\n
+DTEND:20211216T163000Z
+DTSTART:20211216T123000Z
+SUMMARY:Artikel-100 Nederlandse bijdrage aan de anti-ISIS-coalitie 
+UID:f813bf4b-ff24-4055-b22c-3b1f0fe02fa7@f813.org
 END:VEVENT
 END:VCALENDAR
