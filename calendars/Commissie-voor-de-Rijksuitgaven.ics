@@ -2,17 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\n*Uw fungerend voorzitter stelt een indicatievieve spreektijd van 5 minuten per fractie voor\, uitgaande van ongeveer vijf sprekers*\n\nHet is niet een besloten evenement\n\nAanwezigen (5):\n  J.C. Sneller (D66)\n  W.B. Hoekstra (-)\n  B.A.W. Snels (GroenLinks)\n  J.L. Geurts (CDA)\n  E. Heinen (VVD)\n\n\n
-DTEND:20210624T120000Z
-DTSTART:20210624T100000Z
-SUMMARY:Begroten en verantwoorden 
-UID:f14277fe-1507-4091-85a8-ad50cfed0eea@f142.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (7):\n  vaste commissie voor Justitie en Veiligheid (-)\n  vaste commissie voor Financiën (-)\n  J.C. Sneller (D66)\n  S.A.M. Kaag (-)\n  vaste commissie voor Onderwijs\, Cultuur en Wetenschap (-)\n  vaste commissie voor Landbouw\, Natuur en Voedselkwaliteit (-)\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (-)\n\n\n
 DTEND:20220914T190000Z
 DTSTART:20220914T160000Z
 SUMMARY:Begrotingsproces
-UID:30252a0a-f05d-42c9-9241-0b6942d82d6e@3025.org
+UID:c699188a-c2a8-4a7d-969d-33c315ce41eb@c699.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n*Uw fungerend voorzitter stelt een indicatievieve spreektijd van 5 minuten per fractie voor\, uitgaande van ongeveer vijf sprekers*\n\nHet is niet een besloten evenement\n\nAanwezigen (5):\n  J.C. Sneller (D66)\n  W.B. Hoekstra (-)\n  B.A.W. Snels (GroenLinks)\n  J.L. Geurts (CDA)\n  E. Heinen (VVD)\n\n\n
+DTEND:20210624T120000Z
+DTSTART:20210624T100000Z
+SUMMARY:Begroten en verantwoorden 
+UID:c12b4538-0c72-4026-b6f0-273e9e15cac5@c12b.org
 END:VEVENT
 END:VCALENDAR
