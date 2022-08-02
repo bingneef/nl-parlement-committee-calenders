@@ -2,17 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (7):\n  vaste commissie voor Justitie en Veiligheid (-)\n  vaste commissie voor Financiën (-)\n  J.C. Sneller (D66)\n  S.A.M. Kaag (-)\n  vaste commissie voor Onderwijs\, Cultuur en Wetenschap (-)\n  vaste commissie voor Landbouw\, Natuur en Voedselkwaliteit (-)\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (-)\n\n\n
-DTEND:20220914T190000Z
-DTSTART:20220914T160000Z
-SUMMARY:Begrotingsproces
-UID:9cd4cd1e-3679-4239-97ec-0dd266100303@9cd4.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Notitie:\n*Uw fungerend voorzitter stelt een indicatievieve spreektijd van 5 minuten per fractie voor\, uitgaande van ongeveer vijf sprekers*\n\nHet is niet een besloten evenement\n\nAanwezigen (5):\n  J.C. Sneller (D66)\n  W.B. Hoekstra (-)\n  B.A.W. Snels (GroenLinks)\n  J.L. Geurts (CDA)\n  E. Heinen (VVD)\n\n\n
 DTEND:20210624T120000Z
 DTSTART:20210624T100000Z
 SUMMARY:Begroten en verantwoorden 
-UID:60a20714-c09c-4f44-a1d5-ad6eb06a5271@60a2.org
+UID:61b6e814-7c8d-4456-90ac-4c7f0330d9a9@61b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (7):\n  vaste commissie voor Justitie en Veiligheid (-)\n  vaste commissie voor Financiën (-)\n  J.C. Sneller (D66)\n  S.A.M. Kaag (-)\n  vaste commissie voor Onderwijs\, Cultuur en Wetenschap (-)\n  vaste commissie voor Landbouw\, Natuur en Voedselkwaliteit (-)\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (-)\n\n\n
+DTEND:20220914T190000Z
+DTSTART:20220914T160000Z
+SUMMARY:Begrotingsproces
+UID:2b82f871-d546-4e86-b551-d6c76befdb9b@2b82.org
 END:VEVENT
 END:VCALENDAR
