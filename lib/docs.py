@@ -37,7 +37,7 @@ def generate_docs_from_committees(committees):
         '[[[last_update]]]', current_date
     )
 
-    for destination in ['README.md', 'docs/index.md']:
+    for destination in ['readme.md', 'docs/index.md']:
         with open(destination, 'w') as f:
             f.write(doc_content)
 
