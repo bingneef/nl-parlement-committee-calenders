@@ -19,11 +19,11 @@ def _generate_committee_rows(committees: pd.DataFrame) -> Tuple[list[str], list[
         calendar_url = _generate_calendar_url(committee['NaamNL'])
 
         committee_row = "\n".join([
-            f"**{committee['NaamNL']}** ({committee['Events'].size} gevonden)\\",
+            f"**{committee['NaamNL']}** ({committee['Events'].shape[0]} gevonden)\\",
             f"[{calendar_url}]({calendar_url})"
         ])
 
-        if committee['Events'].size == 0:
+        if committee['Events'].shape[0] == 0:
             calendars_without_events.append(committee_row)
         else:
             calendars_with_events.append(committee_row)

@@ -25,7 +25,7 @@ def fetch_committees() -> pd.DataFrame:
         "Commissie?$select=NaamNL&$filter=NaamNL ne null&$orderby=NaamNL asc"
     )
 
-    print(f"Found {committees.size} committees from the API")
+    print(f"Found {committees.shape[0]} committees from the API")
 
     # Commissie voor de Rijksuitgaven exists multiple times, so we need to remove the duplicates
     return committees.drop_duplicates()
@@ -48,6 +48,6 @@ def fetch_events_for_committee_name(committee_name: str) -> pd.DataFrame:
         "$orderby=Aanvangstijd asc&" +
         "$expand=ActiviteitActor($select=ActorNaam,ActorFractie)")
 
-    print(f"Found {events.size} events from the API")
+    print(f"Found {events.shape[0]} events from the API")
 
     return events
