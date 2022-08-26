@@ -10,7 +10,7 @@ def _persist_committee_calender(committee: pd.DataFrame) -> NoReturn:
     calendar = calendar_from_events(committee['Events'])
 
     # Remove unsafe characters for filenames
-    safe_file_name = generate_safe_filename(committee['NaamNL'], 'ics')
+    safe_file_name = generate_safe_filename(committee['NaamNL'], '.ics')
     with open(f"calendars/{safe_file_name}", 'w') as file:
         file.writelines(calendar)
 

@@ -7,7 +7,7 @@ from datetime import datetime
 def _generate_calendar_url(name: str) -> str:
     return (
         "https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/" +
-        generate_safe_filename(name, 'ics')
+        generate_safe_filename(name, '.ics')
     )
 
 

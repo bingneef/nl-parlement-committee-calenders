@@ -15,7 +15,7 @@ def generate_safe_filename(root_filename: str, extension: str) -> str:
     :return: The safe combined filename str
     """
     safe_root_file_name = re.sub(r"[ /&,.]", "-", root_filename)
-    return f"{safe_root_file_name}.{extension}"
+    return f"{safe_root_file_name}{extension}"
 
 
 def text_from_html_string(text: str, separator="\n") -> str:
