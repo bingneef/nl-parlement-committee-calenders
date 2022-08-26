@@ -22,7 +22,7 @@ def fetch_committees() -> pd.DataFrame:
     :return: Dataframe with the committees pd.DataFrame
     """
     committees = _fetch_api_data(
-        "Commissie?$select=NaamNL&$filter=NaamNL ne null&$orderby=NaamNL asc"
+        "Commissie?$select=NaamNL,Afkorting&$filter=NaamNL ne null&$orderby=NaamNL asc"
     )
 
     print(f"Found {committees.shape[0]} committees from the API")

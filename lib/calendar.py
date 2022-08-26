@@ -3,6 +3,10 @@ from ics import Calendar, Event
 from lib.tools import text_from_html_string
 
 
+def _generate_actor_description_line(actor: pd.Series) -> str:
+    return f"{actor['ActorNaam'] or 'Onbekend'} ({actor['ActorFractie'] or 'onbekend'})"
+
+
 def _description_from_api_event(api_event: pd.DataFrame) -> str:
     description = ""
     if api_event['Noot'] is not None:
@@ -20,7 +24,7 @@ def _description_from_api_event(api_event: pd.DataFrame) -> str:
         description += f"Aanwezigen ({len(api_event['ActiviteitActor'])}):\n"
 
         for actor in api_event['ActiviteitActor']:
-            description += f"  {actor['ActorNaam']} ({actor['ActorFractie'] or 'onbekend'})\n"
+            description += f"  {_generate_actor_description_line(actor)}\n"
 
         description += "\n\n"
 
