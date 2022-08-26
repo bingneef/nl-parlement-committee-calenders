@@ -1,4 +1,4 @@
-name: Flake8 lint
+name: Linting and tests
 
 on: [push]
 
