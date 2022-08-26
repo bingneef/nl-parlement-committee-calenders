@@ -1,31 +1,37 @@
+from typing import NoReturn
+import pandas as pd
 from lib.api import fetch_committees, fetch_events_for_committee_name
-from lib.calendar import generate_calendar_from_events
-from lib.tools import generate_safe_filename
+from lib.calendar import calendar_from_events
+from lib.tools import generate_safe_filename, current_formatted_time
 from lib.docs import generate_docs_from_committees
 
-# Fetch committees
-committees = fetch_committees()
 
-
-# We cannot simply fetch all events, as calendars of committees without
-# events will not be updated
-def write_calender_for_committee_and_return_committee(committee):
-    events = fetch_events_for_committee_name(committee['NaamNL'])
-    calendar = generate_calendar_from_events(events)
+def _persist_committee_calender(committee: pd.DataFrame) -> NoReturn:
+    calendar = calendar_from_events(committee['Events'])
 
     # Remove unsafe characters for filenames
-    safe_file_name = generate_safe_filename(committee['NaamNL'])
-    open(f"calendars/{safe_file_name}.ics", 'w').writelines(calendar)
-
-    committee['Activiteiten Aantal'] = len(calendar.events)
-
-    return committee
+    safe_file_name = generate_safe_filename(committee['NaamNL'], 'ics')
+    with open(f"calendars/{safe_file_name}", 'w') as file:
+        file.writelines(calendar)
 
 
-committees = committees.apply(write_calender_for_committee_and_return_committee, axis=1)
+def main() -> NoReturn:
+    print(f"START RUN AT {current_formatted_time()}")
+    # Fetch committees
+    committees = fetch_committees()
 
-# Generate new readme
-generate_docs_from_committees(committees)
+    # Assign events to committees
+    committees['Events'] = committees['NaamNL'].apply(fetch_events_for_committee_name)
 
-print(f"Found {committees['Activiteiten Aantal'].sum()} events for {len(committees)} committees")
-print("Done with main.py")
+    # Persist calendars
+    committees.apply(_persist_committee_calender, axis=1)
+
+    # Generate new readme
+    generate_docs_from_committees(committees)
+
+    print(f"Found {committees['Events'].apply(len).sum()} events for {len(committees)} committees")
+    print(f"COMPLETED RUN AT {current_formatted_time()}")
+
+
+if __name__ == '__main__':
+    main()
