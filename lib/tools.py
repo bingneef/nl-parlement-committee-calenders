@@ -6,6 +6,7 @@ from datetime import datetime
 def current_formatted_time() -> str:
     return datetime.now().strftime("%H:%M:%S")
 
+
 def generate_safe_filename(root_filename: str, extension: str) -> str:
     """
     Generate the root filename (thus without extension) stripped of unwanted characters ( /&,.)
