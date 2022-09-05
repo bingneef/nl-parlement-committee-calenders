@@ -2,185 +2,192 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging agendapunt *\n\nHet is niet een besloten evenement\n\nAanwezigen (6):\n  J. van Wijngaarden (VVD)\n  D.G. Boswijk (CDA)\n  K.H. Ollongren (onbekend)\n  A.R. Hammelburg (D66)\n  S.R. Fritsma (PVV)\n  K.P. Piri (PvdA)\n\n\n
-DTEND:20220210T190000Z
-DTSTART:20220210T160000Z
-SUMMARY:Commissiedebat NAVO Defensie Ministeriële van 16 en 17 februari 2022
-UID:c1e0b6b0-6fca-4dee-93b4-28c3d3977c06@c1e0.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. alleen deelname van de staatssecretaris van Defensie\n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  D.G. Boswijk (CDA)\n  D.J. Eppink (JA21)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  S. Belhaj (D66)\n  J. van Wijngaarden (VVD)\n  B. Visser (onbekend)\n\n\n
 DTEND:20210601T170000Z
 DTSTART:20210601T140000Z
 SUMMARY:Veiligheid en Integriteit Defensie
-UID:6f93ab9a-9ac9-4faf-9a28-23750890840b@6f93.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd: 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (1):\n  C.A. van der Maat (onbekend)\n\n\n
-DTEND:20220907T160000Z
-DTSTART:20220907T130000Z
-SUMMARY:Personeel Defensie
-UID:097640c9-4511-4765-af6e-fef7f9cd05c8@0976.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (5):\n  S. Belhaj (D66)\n  D.G. Boswijk (CDA)\n  A.Th.B. Bijleveld-Schouten (onbekend)\n  J. van Wijngaarden (VVD)\n  Onbekend (onbekend)\n\n\n
-DTEND:20210520T150000Z
-DTSTART:20210520T130000Z
-SUMMARY:EU Defensieraad
-UID:80a3d16c-a9cc-4836-b997-247d021bb4f9@80a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nspreektijd 3 minuten\nHerziene convocatie i.v.m. wijziging tijdstip\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  C.A. van der Maat (onbekend)\n  K.H. Ollongren (onbekend)\n\n\n
-DTEND:20221020T103000Z
-DTSTART:20221020T083000Z
-SUMMARY:Veiligheid en integriteit Defensie.
-UID:c73bf137-3e14-4d78-8884-84a4be2af0de@c73b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nN.b.: het tweeminutendebat zal aansluitend (van 10.15 uur tot 11.15 uur) plaatsvinden \n\nHet is niet een besloten evenement\n\nAanwezigen (22):\n  D.G.M. Ceder (ChristenUnie)\n  H.G.J. Kamp (onbekend)\n  C.A.M. van der Plas (BBB)\n  S.R. Fritsma (PVV)\n  C. Teunissen (PvdD)\n  L. Bromet (GroenLinks)\n  J. van Wijngaarden (VVD)\n  L.A.J.M. Dassen (Volt)\n  J.J. (Jasper) van Dijk (SP)\n  D.G. Boswijk (CDA)\n  A. Broekers-Knol (onbekend)\n  J.M. Paternotte (D66)\n  S. Belhaj (D66)\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  P.H. Omtzigt (Omtzigt)\n  S.H. Simons (BIJ1)\n  D.J. Eppink (JA21)\n  H.P.M. Knapen (onbekend)\n  K.P. Piri (PvdA)\n  O.R. Ephraim (Groep Van Haga)\n  T. Kuzu (DENK)\n\n\n
-DTEND:20211014T080000Z
-DTSTART:20211014T070000Z
-SUMMARY:Vervolg commissiedebat stand van zaken Afghanistan
-UID:5b3bc261-8c3d-44ec-90da-8dbac360e9d0@5b3b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  G.J.M. Segers (ChristenUnie)\n  D.J. Eppink (JA21)\n  A.R. Hammelburg (D66)\n  P.J. Valstar (VVD)\n  C.A. van der Maat (onbekend)\n  Onbekend (onbekend)\n  S.R. Fritsma (PVV)\n  R. de Roon (PVV)\n  A.H. (Agnes) Mulder (CDA)\n\n\n
-DTEND:20220630T173000Z
-DTSTART:20220630T143000Z
-SUMMARY:Vastgoed Defensie
-UID:9f29f04a-def1-4702-959d-0540bae18b91@9f29.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  A. (Aukje) de Vries (VVD)\n  D.G.M. Ceder (ChristenUnie)\n  D.G. Boswijk (CDA)\n  T. Kuzu (DENK)\n  S. Belhaj (D66)\n  S.R. Fritsma (PVV)\n  K.P. Piri (PvdA)\n  A.Th.B. Bijleveld-Schouten (onbekend)\n  J. van Wijngaarden (VVD)\n  D.J. Eppink (JA21)\n\n\n
-DTEND:20210608T170000Z
-DTSTART:20210608T140000Z
-SUMMARY:Dutchbat-III
-UID:96135273-7d29-4f24-b036-0e379afccc10@9613.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nTweede herziene convocatie i.v.m. toevoeging agendapunten *\nAan het begin van het debat zullen de rapporteurs  vervanging onderzeebootcapaciteit 2022 (de leden Valstar en Stoffer) in totaal 10 minuten krijgen voor een eerste inbreng namens de commissie. \nDe staatssecretaris zal hierop meteen antwoorden en daarna krijgen  alle woordvoerders (dus inclusief de leden Valstar en Stoffer) de gelegenheid om hun inbreng te leveren.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  W.R. van Haga (Groep Van Haga)\n  R. de Roon (PVV)\n  J.J. (Jasper) van Dijk (SP)\n  S.R. Fritsma (PVV)\n  C. Stoffer (SGP)\n  K.P. Piri (PvdA)\n  P.J. Valstar (VVD)\n  C.A. van der Maat (onbekend)\n  A.R. Hammelburg (D66)\n  D.J. Eppink (JA21)\n  S. Belhaj (D66)\n\n\n
-DTEND:20220629T150000Z
-DTSTART:20220629T110000Z
-SUMMARY:Materieel Defensie 
-UID:949e1e7b-dcf8-41ce-b9f3-95f0727f05d6@949e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHerziene convocatie\ni.v.m. Wijziging tijd en aanwezigheid minister Buitenlandse Zaken\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  Onbekend (onbekend)\n  K.P. Piri (PvdA)\n  A. (Aukje) de Vries (VVD)\n  D.G. Boswijk (CDA)\n  J. van Wijngaarden (VVD)\n  L.A.J.M. Dassen (Volt)\n  A.Th.B. Bijleveld-Schouten (onbekend)\n  S. Belhaj (D66)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  D.J. Eppink (JA21)\n  S.A.M. Kaag (onbekend)\n  J.J. (Jasper) van Dijk (SP)\n\n\n
-DTEND:20210525T163000Z
-DTSTART:20210525T140000Z
-SUMMARY:NAVO Ministeriële Defensie en Buitenlandse Zaken
-UID:7fd766a3-fe25-4cd8-b80f-f73a4daa0d3e@7fd7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (3):\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  W.B. Hoekstra (onbekend)\n  K.H. Ollongren (onbekend)\n\n\n
-DTEND:20221103T161500Z
-DTSTART:20221103T121500Z
-SUMMARY:Voortgang/evaluatie missies
-UID:c93f1fae-3227-467e-ac7f-bb2027da0c7c@c93f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging agendapunten\n\nHet is niet een besloten evenement\n\nAanwezigen (23):\n  L.A.J.M. Dassen (Volt)\n  P.H. Omtzigt (Omtzigt)\n  J.M. Paternotte (D66)\n  D.J. Eppink (JA21)\n  O.R. Ephraim (Groep Van Haga)\n  C. Teunissen (PvdD)\n  D.G.M. Ceder (ChristenUnie)\n  S. Belhaj (D66)\n  C. Stoffer (SGP)\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n  T. Kuzu (DENK)\n  D.G. Boswijk (CDA)\n  L. Bromet (GroenLinks)\n  K.P. Piri (PvdA)\n  H.G.J. Kamp (onbekend)\n  A. Broekers-Knol (onbekend)\n  S.H. Simons (BIJ1)\n  J.J. (Jasper) van Dijk (SP)\n  H.P.M. Knapen (onbekend)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  C.A.M. van der Plas (BBB)\n  S.R. Fritsma (PVV)\n  J. van Wijngaarden (VVD)\n\n\n
-DTEND:20211013T150000Z
-DTSTART:20211013T120000Z
-SUMMARY:Stand van zaken Afghanistan
-UID:a0917f10-3082-4e4f-bad6-a7cd5257d438@a091.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  K.H. Ollongren (onbekend)\n  T. Kuzu (DENK)\n  R. de Roon (PVV)\n  vaste commissie voor Europese Zaken (onbekend)\n  C. Stoffer (SGP)\n  P.J. Valstar (VVD)\n  J.J. (Jasper) van Dijk (SP)\n  A.R. Hammelburg (D66)\n  K.P. Piri (PvdA)\n\n\n
-DTEND:20220315T173000Z
-DTSTART:20220315T153000Z
-SUMMARY:Commissiedebat EU Defensieraad 
-UID:0d01acf3-508f-4771-bbd9-03716c1e2d0d@0d01.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHerziene agenda i.v.m. toevoeging agendapunt 9*\nSpreektijd: 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  C. Stoffer (SGP)\n  J. van Wijngaarden (VVD)\n  J.J. (Jasper) van Dijk (SP)\n  vaste commissie voor Buitenlandse Handel en Ontwikkelingssamenwerking (onbekend)\n  A. (Aukje) de Vries (VVD)\n  K.P. Piri (PvdA)\n  L.A.J.M. Dassen (Volt)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  S. Belhaj (D66)\n  A.Th.B. Bijleveld-Schouten (onbekend)\n  S.A.M. Kaag (onbekend)\n\n\n
-DTEND:20210708T150000Z
-DTSTART:20210708T120000Z
-SUMMARY:Voortgang/evaluatie missies en operaties
-UID:d6b6d906-892c-4981-90bd-5462ad4d6580@d6b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijden 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  A.Th.B. Bijleveld-Schouten (onbekend)\n  D.G. Boswijk (CDA)\n  A. (Aukje) de Vries (VVD)\n  vaste commissie voor Europese Zaken (onbekend)\n  S. Belhaj (D66)\n  J.J. (Jasper) van Dijk (SP)\n  J. van Wijngaarden (VVD)\n\n\n
-DTEND:20210420T163000Z
-DTSTART:20210420T143000Z
-SUMMARY:EU Defensieraad
-UID:17f7d3dc-d598-472e-9771-af79c79cead4@17f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. vermelding spreektijd\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  Onbekend (onbekend)\n  J.J. (Jasper) van Dijk (SP)\n  D.J. Eppink (JA21)\n  A.R. Hammelburg (D66)\n  G.J.M. Segers (ChristenUnie)\n  D.G. Boswijk (CDA)\n  K.H. Ollongren (onbekend)\n  R. de Roon (PVV)\n  S.R. Fritsma (PVV)\n  C. Stoffer (SGP)\n  K.P. Piri (PvdA)\n  C.A. van der Maat (onbekend)\n  P.J. Valstar (VVD)\n\n\n
-DTEND:20220317T163000Z
-DTSTART:20220317T123000Z
-SUMMARY:Commissiedebat hoofdlijnen Defensiebeleid
-UID:4064b1fe-ac8e-4bcf-83b4-69f89fb81130@4064.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (12):\n  J. van Wijngaarden (VVD)\n  D.G. Boswijk (CDA)\n  L. Bromet (GroenLinks)\n  E. (Edgar) Mulder (PVV)\n  T. Kuzu (DENK)\n  K.P. Piri (PvdA)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  A. (Aukje) de Vries (VVD)\n  S. Belhaj (D66)\n  D.G.M. Ceder (ChristenUnie)\n  A.Th.B. Bijleveld-Schouten (onbekend)\n  J.J. (Jasper) van Dijk (SP)\n\n\n
-DTEND:20210602T100000Z
-DTSTART:20210602T080000Z
-SUMMARY:Commissiedebat Afghaanse Tolken
-UID:f36fc987-7f62-4898-a99b-8308b4b914af@f36f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging agendapunt\n\nHet is niet een besloten evenement\n\nAanwezigen (6):\n  S.R. Fritsma (PVV)\n  D.G. Boswijk (CDA)\n  J. van Wijngaarden (VVD)\n  H.G.J. Kamp (onbekend)\n  J.J. (Jasper) van Dijk (SP)\n  S. Belhaj (D66)\n\n\n
-DTEND:20211202T114500Z
-DTSTART:20211202T090000Z
-SUMMARY:Commissiedebat LIMC
-UID:f3215829-2740-44de-972f-4ad0f1814cd2@f321.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  J.J. (Jasper) van Dijk (SP)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  R. de Roon (PVV)\n  Onbekend (onbekend)\n  K.H. Ollongren (onbekend)\n  A.R. Hammelburg (D66)\n  K.P. Piri (PvdA)\n  P.J. Valstar (VVD)\n  T. Kuzu (DENK)\n\n\n
-DTEND:20220608T100000Z
-DTSTART:20220608T080000Z
-SUMMARY:NAVO Defensie Ministeriële d.d. 16-17 juni 2022
-UID:50f18615-541f-4588-97b5-369e1ad79a2f@50f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging agendapunten.\nSpreektijd: 5 minuten\n \n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  B. Visser (onbekend)\n  S. Belhaj (D66)\n  F.J.H. Jansen (FVD)\n  A.Th.B. Bijleveld-Schouten (onbekend)\n  D.G. Boswijk (CDA)\n  C. Stoffer (SGP)\n  D.G.M. Ceder (ChristenUnie)\n  K.P. Piri (PvdA)\n  J. van Wijngaarden (VVD)\n\n\n
-DTEND:20210623T133000Z
-DTSTART:20210623T103000Z
-SUMMARY:Personeel Defensie
-UID:43d98491-3a66-40b8-9be5-ba606c8f1f16@43d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHerziene convocatie ivm toevoeging agendapunt.\nNoot: het gedeelte tussen 10:00-11:00 uur zal besloten zijn. Van 11:00-14:00 uur is het commissiedebat openbaar\n \n\nHet is niet een besloten evenement\n\nAanwezigen (21):\n  L. Bromet (GroenLinks)\n  S.H. Simons (BIJ1)\n  C.A.M. van der Plas (BBB)\n  A.Th.B. Bijleveld-Schouten (onbekend)\n  C. Teunissen (PvdD)\n  O.R. Ephraim (Groep Van Haga)\n  S.R. Fritsma (PVV)\n  A. Broekers-Knol (onbekend)\n  J. van Wijngaarden (VVD)\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n  D.G. Boswijk (CDA)\n  L.A.J.M. Dassen (Volt)\n  T. Kuzu (DENK)\n  R.M. Leijten (SP)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  S. Belhaj (D66)\n  B.J. Eerdmans (JA21)\n  K.P. Piri (PvdA)\n  S.A.M. Kaag (onbekend)\n  S. Kerseboom (FVD)\n  D.G.M. Ceder (ChristenUnie)\n\n\n
-DTEND:20210817T120000Z
-DTSTART:20210817T080000Z
-SUMMARY:Commissiedebat over de meest recente situatie in Afghanistan\, inclusief Afghaanse tolken
-UID:e7227548-0eb7-4205-8937-3fd368574275@e722.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  K.H. Ollongren (onbekend)\n  S.R. Fritsma (PVV)\n  W.R. van Haga (Groep Van Haga)\n  J.J. (Jasper) van Dijk (SP)\n  D.G. Boswijk (CDA)\n  R. de Roon (PVV)\n  A.R. Hammelburg (D66)\n  vaste commissie voor Europese Zaken (onbekend)\n  P.J. Valstar (VVD)\n  D.J. Eppink (JA21)\n\n\n
-DTEND:20220512T150000Z
-DTSTART:20220512T120000Z
-SUMMARY:EU Defensieraad en rol EC veiligheid en Defensie
-UID:5b9a7b42-e3ae-4907-9dd8-50bd2773bf67@5b9a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  C.A. van der Maat (onbekend)\n  K.H. Ollongren (onbekend)\n\n\n
-DTEND:20220914T170000Z
-DTSTART:20220914T140000Z
-SUMMARY:Defensienota 2022 – sterker Nederland\, veiliger Europa
-UID:2c8cb5d7-88b0-4228-ba5d-cedc06ff5b2c@2c8c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  A. (Aukje) de Vries (VVD)\n  K.P. Piri (PvdA)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  J.J. (Jasper) van Dijk (SP)\n  R.P. Brekelmans (VVD)\n  S. Belhaj (D66)\n  S.R. Fritsma (PVV)\n  D.G. Boswijk (CDA)\n  D.J. Eppink (JA21)\n  H.P.M. Knapen (onbekend)\n  H.G.J. Kamp (onbekend)\n\n\n
-DTEND:20211125T160000Z
-DTSTART:20211125T130000Z
-SUMMARY:Samenstelling en opdracht onderzoekscommissie evacuaties Afghanistan
-UID:17ffaf07-265a-45e9-90cf-cad06deb0688@17ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nspreektijd 3 minuten\nHerziene convocatie i.v.m.wijziging tijdstip\n\nHet is niet een besloten evenement\n\nAanwezigen (3):\n  R. de Roon (PVV)\n  K.H. Ollongren (onbekend)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n\n\n
-DTEND:20221005T103000Z
-DTSTART:20221005T083000Z
-SUMMARY:NAVO Defensie Ministeriële d.d. 13-14 oktober 2022
-UID:825b3d98-3ef1-419a-a0ea-195980e09a4a@825b.org
+UID:0d48c5ca-b07c-416a-8330-66298da54b19@0d48.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nHerziene convocatie ivm toevoeging agendapunt*.\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  J. van Wijngaarden (VVD)\n  D.G. Boswijk (CDA)\n  Onbekend (onbekend)\n  R. de Roon (PVV)\n  S.R. Fritsma (PVV)\n  J.J. (Jasper) van Dijk (SP)\n  A.R. Hammelburg (D66)\n  C.A. van der Maat (onbekend)\n\n\n
 DTEND:20220216T180000Z
 DTSTART:20220216T150000Z
 SUMMARY:Commissiedebat Veiligheid en Integriteit Defensie
-UID:e9c2c27f-b9d1-410b-9fb9-9f5740342bae@e9c2.org
+UID:bf8016dd-2a16-47bf-ba95-022c9d768d0c@bf80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoegen agendapunt 6\nSpreektijd: 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (1):\n  C.A. van der Maat (onbekend)\n\n\n
+DTEND:20220907T160000Z
+DTSTART:20220907T130000Z
+SUMMARY:Personeel Defensie
+UID:cab4e738-c2a9-473e-8f64-1ed2fb380f0e@cab4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (5):\n  S. Belhaj (D66)\n  D.G. Boswijk (CDA)\n  A.Th.B. Bijleveld-Schouten (onbekend)\n  J. van Wijngaarden (VVD)\n  Onbekend (onbekend)\n\n\n
+DTEND:20210520T150000Z
+DTSTART:20210520T130000Z
+SUMMARY:EU Defensieraad
+UID:3d25352f-8cc8-4900-abff-35c33cf342ba@3d25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  J.J. (Jasper) van Dijk (SP)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  R. de Roon (PVV)\n  Onbekend (onbekend)\n  K.H. Ollongren (onbekend)\n  A.R. Hammelburg (D66)\n  K.P. Piri (PvdA)\n  P.J. Valstar (VVD)\n  T. Kuzu (DENK)\n\n\n
+DTEND:20220608T100000Z
+DTSTART:20220608T080000Z
+SUMMARY:NAVO Defensie Ministeriële d.d. 16-17 juni 2022
+UID:d4bc9a47-a7db-4e6b-8986-6260c2dbcb53@d4bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nN.b.: het tweeminutendebat zal aansluitend (van 10.15 uur tot 11.15 uur) plaatsvinden \n\nHet is niet een besloten evenement\n\nAanwezigen (22):\n  D.G.M. Ceder (ChristenUnie)\n  H.G.J. Kamp (onbekend)\n  C.A.M. van der Plas (BBB)\n  S.R. Fritsma (PVV)\n  C. Teunissen (PvdD)\n  L. Bromet (GroenLinks)\n  J. van Wijngaarden (VVD)\n  L.A.J.M. Dassen (Volt)\n  J.J. (Jasper) van Dijk (SP)\n  D.G. Boswijk (CDA)\n  A. Broekers-Knol (onbekend)\n  J.M. Paternotte (D66)\n  S. Belhaj (D66)\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  P.H. Omtzigt (Omtzigt)\n  S.H. Simons (BIJ1)\n  D.J. Eppink (JA21)\n  H.P.M. Knapen (onbekend)\n  K.P. Piri (PvdA)\n  O.R. Ephraim (Groep Van Haga)\n  T. Kuzu (DENK)\n\n\n
+DTEND:20211014T080000Z
+DTSTART:20211014T070000Z
+SUMMARY:Vervolg commissiedebat stand van zaken Afghanistan
+UID:8be1ccae-14df-4b5e-b757-4c72c902bbf4@8be1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nspreektijd 3 minuten\nHerziene convocatie i.v.m. wijziging tijdstip\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  C.A. van der Maat (onbekend)\n  K.H. Ollongren (onbekend)\n\n\n
+DTEND:20221020T103000Z
+DTSTART:20221020T083000Z
+SUMMARY:Veiligheid en integriteit Defensie.
+UID:7c88aec9-235d-409b-a442-dfa777d87562@7c88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  A. (Aukje) de Vries (VVD)\n  D.G.M. Ceder (ChristenUnie)\n  D.G. Boswijk (CDA)\n  T. Kuzu (DENK)\n  S. Belhaj (D66)\n  S.R. Fritsma (PVV)\n  K.P. Piri (PvdA)\n  A.Th.B. Bijleveld-Schouten (onbekend)\n  J. van Wijngaarden (VVD)\n  D.J. Eppink (JA21)\n\n\n
+DTEND:20210608T170000Z
+DTSTART:20210608T140000Z
+SUMMARY:Dutchbat-III
+UID:12368c07-be57-4a7a-b51e-b300155ca0cc@1236.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (3):\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  W.B. Hoekstra (onbekend)\n  K.H. Ollongren (onbekend)\n\n\n
+DTEND:20221103T161500Z
+DTSTART:20221103T121500Z
+SUMMARY:Voortgang/evaluatie missies
+UID:08d05d5a-3a64-4f84-9120-6c9bca93a42a@08d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. vermelding spreektijd\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  Onbekend (onbekend)\n  J.J. (Jasper) van Dijk (SP)\n  D.J. Eppink (JA21)\n  A.R. Hammelburg (D66)\n  G.J.M. Segers (ChristenUnie)\n  D.G. Boswijk (CDA)\n  K.H. Ollongren (onbekend)\n  R. de Roon (PVV)\n  S.R. Fritsma (PVV)\n  C. Stoffer (SGP)\n  K.P. Piri (PvdA)\n  C.A. van der Maat (onbekend)\n  P.J. Valstar (VVD)\n\n\n
+DTEND:20220317T163000Z
+DTSTART:20220317T123000Z
+SUMMARY:Commissiedebat hoofdlijnen Defensiebeleid
+UID:2176b8cd-186c-4619-b836-b70e095d33bf@2176.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHerziene convocatie ivm toevoeging agendapunt.\nNoot: het gedeelte tussen 10:00-11:00 uur zal besloten zijn. Van 11:00-14:00 uur is het commissiedebat openbaar\n \n\nHet is niet een besloten evenement\n\nAanwezigen (21):\n  L. Bromet (GroenLinks)\n  S.H. Simons (BIJ1)\n  C.A.M. van der Plas (BBB)\n  A.Th.B. Bijleveld-Schouten (onbekend)\n  C. Teunissen (PvdD)\n  O.R. Ephraim (Groep Van Haga)\n  S.R. Fritsma (PVV)\n  A. Broekers-Knol (onbekend)\n  J. van Wijngaarden (VVD)\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n  D.G. Boswijk (CDA)\n  L.A.J.M. Dassen (Volt)\n  T. Kuzu (DENK)\n  R.M. Leijten (SP)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  S. Belhaj (D66)\n  B.J. Eerdmans (JA21)\n  K.P. Piri (PvdA)\n  S.A.M. Kaag (onbekend)\n  S. Kerseboom (FVD)\n  D.G.M. Ceder (ChristenUnie)\n\n\n
+DTEND:20210817T120000Z
+DTSTART:20210817T080000Z
+SUMMARY:Commissiedebat over de meest recente situatie in Afghanistan\, inclusief Afghaanse tolken
+UID:c92eaaeb-3d37-4f43-874f-6a5cf64f0a5c@c92e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHerziene agenda i.v.m. toevoeging agendapunt 9*\nSpreektijd: 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  C. Stoffer (SGP)\n  J. van Wijngaarden (VVD)\n  J.J. (Jasper) van Dijk (SP)\n  vaste commissie voor Buitenlandse Handel en Ontwikkelingssamenwerking (onbekend)\n  A. (Aukje) de Vries (VVD)\n  K.P. Piri (PvdA)\n  L.A.J.M. Dassen (Volt)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  S. Belhaj (D66)\n  A.Th.B. Bijleveld-Schouten (onbekend)\n  S.A.M. Kaag (onbekend)\n\n\n
+DTEND:20210708T150000Z
+DTSTART:20210708T120000Z
+SUMMARY:Voortgang/evaluatie missies en operaties
+UID:c36e6c6d-df3c-46a2-a717-73a0549aebfa@c36e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  G.J.M. Segers (ChristenUnie)\n  D.J. Eppink (JA21)\n  A.R. Hammelburg (D66)\n  P.J. Valstar (VVD)\n  C.A. van der Maat (onbekend)\n  Onbekend (onbekend)\n  S.R. Fritsma (PVV)\n  R. de Roon (PVV)\n  A.H. (Agnes) Mulder (CDA)\n\n\n
+DTEND:20220630T173000Z
+DTSTART:20220630T143000Z
+SUMMARY:Vastgoed Defensie
+UID:a7515365-bd33-422f-8c6d-124f19b66448@a751.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nTweede herziene convocatie i.v.m. toevoeging agendapunten *\nAan het begin van het debat zullen de rapporteurs  vervanging onderzeebootcapaciteit 2022 (de leden Valstar en Stoffer) in totaal 10 minuten krijgen voor een eerste inbreng namens de commissie. \nDe staatssecretaris zal hierop meteen antwoorden en daarna krijgen  alle woordvoerders (dus inclusief de leden Valstar en Stoffer) de gelegenheid om hun inbreng te leveren.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  W.R. van Haga (Groep Van Haga)\n  R. de Roon (PVV)\n  J.J. (Jasper) van Dijk (SP)\n  S.R. Fritsma (PVV)\n  C. Stoffer (SGP)\n  K.P. Piri (PvdA)\n  P.J. Valstar (VVD)\n  C.A. van der Maat (onbekend)\n  A.R. Hammelburg (D66)\n  D.J. Eppink (JA21)\n  S. Belhaj (D66)\n\n\n
+DTEND:20220629T150000Z
+DTSTART:20220629T110000Z
+SUMMARY:Materieel Defensie 
+UID:69e69dc9-2023-455b-83a6-f855aef565fc@69e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (12):\n  J. van Wijngaarden (VVD)\n  D.G. Boswijk (CDA)\n  L. Bromet (GroenLinks)\n  E. (Edgar) Mulder (PVV)\n  T. Kuzu (DENK)\n  K.P. Piri (PvdA)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  A. (Aukje) de Vries (VVD)\n  S. Belhaj (D66)\n  D.G.M. Ceder (ChristenUnie)\n  A.Th.B. Bijleveld-Schouten (onbekend)\n  J.J. (Jasper) van Dijk (SP)\n\n\n
+DTEND:20210602T100000Z
+DTSTART:20210602T080000Z
+SUMMARY:Commissiedebat Afghaanse Tolken
+UID:4ba65667-6f87-444c-850b-786c9c3c8713@4ba6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  K.H. Ollongren (onbekend)\n  S.R. Fritsma (PVV)\n  W.R. van Haga (Groep Van Haga)\n  J.J. (Jasper) van Dijk (SP)\n  D.G. Boswijk (CDA)\n  R. de Roon (PVV)\n  A.R. Hammelburg (D66)\n  vaste commissie voor Europese Zaken (onbekend)\n  P.J. Valstar (VVD)\n  D.J. Eppink (JA21)\n\n\n
+DTEND:20220512T150000Z
+DTSTART:20220512T120000Z
+SUMMARY:EU Defensieraad en rol EC veiligheid en Defensie
+UID:1fe5efa1-2369-4138-8a8d-97fb034f60b6@1fe5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging agendapunten.\nSpreektijd: 5 minuten\n \n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  B. Visser (onbekend)\n  S. Belhaj (D66)\n  F.J.H. Jansen (FVD)\n  A.Th.B. Bijleveld-Schouten (onbekend)\n  D.G. Boswijk (CDA)\n  C. Stoffer (SGP)\n  D.G.M. Ceder (ChristenUnie)\n  K.P. Piri (PvdA)\n  J. van Wijngaarden (VVD)\n\n\n
+DTEND:20210623T133000Z
+DTSTART:20210623T103000Z
+SUMMARY:Personeel Defensie
+UID:ce0f3c56-d2f0-4597-88ca-8e603ee00813@ce0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging agendapunt *\n\nHet is niet een besloten evenement\n\nAanwezigen (6):\n  J. van Wijngaarden (VVD)\n  D.G. Boswijk (CDA)\n  K.H. Ollongren (onbekend)\n  A.R. Hammelburg (D66)\n  S.R. Fritsma (PVV)\n  K.P. Piri (PvdA)\n\n\n
+DTEND:20220210T190000Z
+DTSTART:20220210T160000Z
+SUMMARY:Commissiedebat NAVO Defensie Ministeriële van 16 en 17 februari 2022
+UID:c771d6ff-dbe6-448b-a96a-f6ca2fa8014a@c771.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  K.H. Ollongren (onbekend)\n  T. Kuzu (DENK)\n  R. de Roon (PVV)\n  vaste commissie voor Europese Zaken (onbekend)\n  C. Stoffer (SGP)\n  P.J. Valstar (VVD)\n  J.J. (Jasper) van Dijk (SP)\n  A.R. Hammelburg (D66)\n  K.P. Piri (PvdA)\n\n\n
+DTEND:20220315T173000Z
+DTSTART:20220315T153000Z
+SUMMARY:Commissiedebat EU Defensieraad 
+UID:3e7b2e7e-2659-4e3b-86ea-d9d20dba804a@3e7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nspreektijd 3 minuten\nHerziene convocatie i.v.m.wijziging tijdstip\n\nHet is niet een besloten evenement\n\nAanwezigen (3):\n  R. de Roon (PVV)\n  K.H. Ollongren (onbekend)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n\n\n
+DTEND:20221005T103000Z
+DTSTART:20221005T083000Z
+SUMMARY:NAVO Defensie Ministeriële d.d. 13-14 oktober 2022
+UID:a63e6932-91d8-4df0-8a52-13d3a8c0cec8@a63e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  C.A. van der Maat (onbekend)\n  K.H. Ollongren (onbekend)\n\n\n
+DTEND:20220914T170000Z
+DTSTART:20220914T140000Z
+SUMMARY:Defensienota 2022 – sterker Nederland\, veiliger Europa
+UID:c4ba3a0e-fd43-49d1-8283-8c54bf9e2fa8@c4ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  A. (Aukje) de Vries (VVD)\n  K.P. Piri (PvdA)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  J.J. (Jasper) van Dijk (SP)\n  R.P. Brekelmans (VVD)\n  S. Belhaj (D66)\n  S.R. Fritsma (PVV)\n  D.G. Boswijk (CDA)\n  D.J. Eppink (JA21)\n  H.P.M. Knapen (onbekend)\n  H.G.J. Kamp (onbekend)\n\n\n
+DTEND:20211125T160000Z
+DTSTART:20211125T130000Z
+SUMMARY:Samenstelling en opdracht onderzoekscommissie evacuaties Afghanistan
+UID:4688ce64-66b0-4180-8bf4-5db0f7982327@4688.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (3):\n  W.B. Hoekstra (onbekend)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  K.H. Ollongren (onbekend)\n\n\n
+DTEND:20221005T170000Z
+DTSTART:20221005T140000Z
+SUMMARY:Autonome Wapens
+UID:d8a3cb3e-bddc-4a55-aca1-4e7882a15acc@d8a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging agendapunt\n\nHet is niet een besloten evenement\n\nAanwezigen (6):\n  S.R. Fritsma (PVV)\n  D.G. Boswijk (CDA)\n  J. van Wijngaarden (VVD)\n  H.G.J. Kamp (onbekend)\n  J.J. (Jasper) van Dijk (SP)\n  S. Belhaj (D66)\n\n\n
+DTEND:20211202T114500Z
+DTSTART:20211202T090000Z
+SUMMARY:Commissiedebat LIMC
+UID:0a43b9e3-e97f-44f9-879a-c0b79b3d7ab2@0a43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHerziene convocatie\ni.v.m. Wijziging tijd en aanwezigheid minister Buitenlandse Zaken\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  Onbekend (onbekend)\n  K.P. Piri (PvdA)\n  A. (Aukje) de Vries (VVD)\n  D.G. Boswijk (CDA)\n  J. van Wijngaarden (VVD)\n  L.A.J.M. Dassen (Volt)\n  A.Th.B. Bijleveld-Schouten (onbekend)\n  S. Belhaj (D66)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  D.J. Eppink (JA21)\n  S.A.M. Kaag (onbekend)\n  J.J. (Jasper) van Dijk (SP)\n\n\n
+DTEND:20210525T163000Z
+DTSTART:20210525T140000Z
+SUMMARY:NAVO Ministeriële Defensie en Buitenlandse Zaken
+UID:31831f97-0cd3-49fa-adc4-fcee1ca51035@3183.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijden 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  A.Th.B. Bijleveld-Schouten (onbekend)\n  D.G. Boswijk (CDA)\n  A. (Aukje) de Vries (VVD)\n  vaste commissie voor Europese Zaken (onbekend)\n  S. Belhaj (D66)\n  J.J. (Jasper) van Dijk (SP)\n  J. van Wijngaarden (VVD)\n\n\n
+DTEND:20210420T163000Z
+DTSTART:20210420T143000Z
+SUMMARY:EU Defensieraad
+UID:87e69570-087e-4864-b6b9-546f5a262572@87e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging agendapunten\n\nHet is niet een besloten evenement\n\nAanwezigen (23):\n  L.A.J.M. Dassen (Volt)\n  P.H. Omtzigt (Omtzigt)\n  J.M. Paternotte (D66)\n  D.J. Eppink (JA21)\n  O.R. Ephraim (Groep Van Haga)\n  C. Teunissen (PvdD)\n  D.G.M. Ceder (ChristenUnie)\n  S. Belhaj (D66)\n  C. Stoffer (SGP)\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n  T. Kuzu (DENK)\n  D.G. Boswijk (CDA)\n  L. Bromet (GroenLinks)\n  K.P. Piri (PvdA)\n  H.G.J. Kamp (onbekend)\n  A. Broekers-Knol (onbekend)\n  S.H. Simons (BIJ1)\n  J.J. (Jasper) van Dijk (SP)\n  H.P.M. Knapen (onbekend)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  C.A.M. van der Plas (BBB)\n  S.R. Fritsma (PVV)\n  J. van Wijngaarden (VVD)\n\n\n
+DTEND:20211013T150000Z
+DTSTART:20211013T120000Z
+SUMMARY:Stand van zaken Afghanistan
+UID:aecd67ad-ff8e-4cf1-bc61-3381102d93d5@aecd.org
 END:VEVENT
 END:VCALENDAR
