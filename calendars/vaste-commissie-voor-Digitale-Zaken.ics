@@ -2,101 +2,101 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\nIndien één van de leden een tweeminutendebat wenst te voeren voorafgaande aan de Telecomraad op 3 juni 2022 dient daartoe een vooraankondiging gedaan te worden tijdens de plenaire Regeling van Werkzaamheden op dinsdag 31 mei 2022.\n \n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  Onbekend (onbekend)\n  A.C. van Huffelen (onbekend)\n  D.G.M. Ceder (ChristenUnie)\n  K. Bouchallikh (GroenLinks)\n  M.A.M. Adriaansens (onbekend)\n  Q.M. Rajkowski (VVD)\n  H. Dekker-Abdulaziz (D66)\n  R.M. Leijten (SP)\n\n\n
+DTEND:20220531T173000Z
+DTSTART:20220531T143000Z
+SUMMARY:Telecomraad (Formeel) d.d. 3 juni 2022
+UID:b12b20d0-6adf-4aad-be78-cafbe7fae52f@b12b.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  Onbekend (onbekend)\n  H. Bontenbal (CDA)\n  Onbekend (onbekend)\n  D. Yesilgöz-Zegerius (onbekend)\n  B.C. Kathmann (PvdA)\n  R.M. Leijten (SP)\n  F. Azarkan (DENK)\n  L.M. van Ginneken (D66)\n  V.D.D. van Weerdenburg (PVV)\n  Q.M. Rajkowski (VVD)\n\n\n
 DTEND:20220407T143000Z
 DTSTART:20220407T113000Z
 SUMMARY:Online veiligheid en cybersecurity
-UID:e3c58793-8e7d-4991-8d39-28c94808f1ca@e3c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 3 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  Q.M. Rajkowski (VVD)\n  R.M. Leijten (SP)\n  Onbekend (onbekend)\n  K. Bouchallikh (GroenLinks)\n  Onbekend (onbekend)\n  M.A.M. Adriaansens (onbekend)\n  H. Bontenbal (CDA)\n  G.J. (Gijs) van Dijk (PvdA)\n  L.M. van Ginneken (D66)\n\n\n
-DTEND:20220203T110000Z
-DTSTART:20220203T090000Z
-SUMMARY:Lekken van privégegevens bij de Kamer van Koophandel
-UID:cf9ab3d2-739c-47b7-99c5-4d4571e3cf1f@cf9a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (4):\n  Q.M. Rajkowski (VVD)\n  F. Azarkan (DENK)\n  M.A.M. Adriaansens (onbekend)\n  A.C. van Huffelen (onbekend)\n\n\n
-DTEND:20221006T120000Z
-DTSTART:20221006T080000Z
-SUMMARY:Kunstmatige intelligentie
-UID:eabf3d3e-5741-493b-a846-6ed06203fcb1@eabf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (1):\n  A.C. van Huffelen (onbekend)\n\n\n
-DTEND:20221005T151500Z
-DTSTART:20221005T121500Z
-SUMMARY:Digitaliserende overheid
-UID:ec01e041-e5f1-4229-9785-e041a8990cf1@ec01.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (3):\n  F. Azarkan (DENK)\n  D. Yesilgöz-Zegerius (onbekend)\n  Q.M. Rajkowski (VVD)\n\n\n
-DTEND:20220914T110000Z
-DTSTART:20220914T080000Z
-SUMMARY:Online veiligheid en cybersecurity
-UID:d088ab2b-84fe-46e9-83a3-755d5230758a@d088.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 3 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  Q.M. Rajkowski (VVD)\n  Onbekend (onbekend)\n  V.D.D. van Weerdenburg (PVV)\n  L.A.J.M. Dassen (Volt)\n  L.M. van Ginneken (D66)\n  K. Bouchallikh (GroenLinks)\n  S.A. Blok (onbekend)\n\n\n
-DTEND:20211124T110000Z
-DTSTART:20211124T090000Z
-SUMMARY:Telecomraad (formeel) d.d. 3 december 2021 
-UID:f0324d89-2c82-437d-80d4-dcb3ff6c3b10@f032.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 6 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  V.D.D. van Weerdenburg (PVV)\n  F.B.J. Grapperhaus (onbekend)\n  B.C. Kathmann (PvdA)\n  Q.M. Rajkowski (VVD)\n  L.A.J.M. Dassen (Volt)\n  F. Azarkan (DENK)\n  R.M. Leijten (SP)\n  S.A. Blok (onbekend)\n  R.W. Knops (onbekend)\n  K. Bouchallikh (GroenLinks)\n  M. Amhaouch (CDA)\n  Onbekend (onbekend)\n\n\n
-DTEND:20211201T170000Z
-DTSTART:20211201T130000Z
-SUMMARY:Online veiligheid en cybersecurity
-UID:9f87e5f5-77b9-4865-a59b-02b57e18bb4a@9f87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  W.R. van Haga (Groep Van Haga)\n  R.M. Leijten (SP)\n  Onbekend (onbekend)\n  H. Dekker-Abdulaziz (D66)\n  B.C. Kathmann (PvdA)\n  V.D.D. van Weerdenburg (PVV)\n  K. Bouchallikh (GroenLinks)\n  S.R.T. van Baarle (DENK)\n  Onbekend (onbekend)\n  A.C. van Huffelen (onbekend)\n  Q.M. Rajkowski (VVD)\n  F. Azarkan (DENK)\n\n\n
-DTEND:20220322T190000Z
-DTSTART:20220322T160000Z
-SUMMARY:Digitale overheid\, datagebruik en algoritmen\, digitale identiteit
-UID:e799bfb2-6426-474b-becd-8a5dbf47c078@e799.org
+UID:fd5050a7-7308-4228-aa23-6d6867da005b@fd50.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (4):\n  Onbekend (onbekend)\n  Q.M. Rajkowski (VVD)\n  A.C. van Huffelen (onbekend)\n  S.R.T. van Baarle (DENK)\n\n\n
 DTEND:20220929T143000Z
 DTSTART:20220929T113000Z
 SUMMARY:Inzet algoritmes en data-ethiek binnen de rijksoverheid
-UID:cf350c92-eb45-499b-af48-1fd782c6efee@cf35.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 3 minuten\nIndien één van de leden een tweeminutendebat wenst te voeren voorafgaande aan de Telecomraad op 6 december 2022 dient daartoe een vooraankondiging gedaan te worden tijdens de plenaire Regeling van Werkzaamheden op dinsdag 29 november 2022.\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  M.A.M. Adriaansens (onbekend)\n  A.C. van Huffelen (onbekend)\n\n\n
-DTEND:20221130T110000Z
-DTSTART:20221130T090000Z
-SUMMARY:Telecomraad (Formeel) d.d. 6 december 2022
-UID:710ba3b9-c7c7-4a16-bc08-b7cf0d26b172@710b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 2 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  S.M. Beckerman (SP)\n  R.J. Kamminga (VVD)\n  V.D.D. van Weerdenburg (PVV)\n  Q.M. Rajkowski (VVD)\n  D. Yesilgöz-Zegerius (onbekend)\n  M. Koekkoek (Volt)\n  L.M. van Ginneken (D66)\n  K. Bouchallikh (GroenLinks)\n\n\n
-DTEND:20220525T150000Z
-DTSTART:20220525T140000Z
-SUMMARY:Eventuele anticipatie wetsvoorstel tot wijziging Wet beveiliging netwerk- en informatiesystemen
-UID:a1eb8626-764c-4e65-87f8-8e2014a3966f@a1eb.org
+UID:b21649e0-c937-4f92-a241-13d4a0b43594@b216.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (4):\n  Q.M. Rajkowski (VVD)\n  F.M. Weerwind (onbekend)\n  A.C. van Huffelen (onbekend)\n  F. Azarkan (DENK)\n\n\n
 DTEND:20221020T150000Z
 DTSTART:20221020T110000Z
 SUMMARY:Bescherming persoonsgegevens en digitale grondrechten
-UID:c18d4b15-6a64-43ff-b434-b8c631a7f9c7@c18d.org
+UID:5b1a2cf5-073e-466d-ae3e-41ec805030c2@5b1a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\nIndien één van de leden een tweeminutendebat wenst te voeren voorafgaande aan de Telecomraad op 3 juni 2022 dient daartoe een vooraankondiging gedaan te worden tijdens de plenaire Regeling van Werkzaamheden op dinsdag 31 mei 2022.\n \n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  Onbekend (onbekend)\n  A.C. van Huffelen (onbekend)\n  D.G.M. Ceder (ChristenUnie)\n  K. Bouchallikh (GroenLinks)\n  M.A.M. Adriaansens (onbekend)\n  Q.M. Rajkowski (VVD)\n  H. Dekker-Abdulaziz (D66)\n  R.M. Leijten (SP)\n\n\n
-DTEND:20220531T173000Z
-DTSTART:20220531T143000Z
-SUMMARY:Telecomraad (Formeel) d.d. 3 juni 2022
-UID:ae946c60-95a4-43c8-a5ce-d7eef6deaa2c@ae94.org
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 3 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  Q.M. Rajkowski (VVD)\n  Onbekend (onbekend)\n  V.D.D. van Weerdenburg (PVV)\n  L.A.J.M. Dassen (Volt)\n  L.M. van Ginneken (D66)\n  K. Bouchallikh (GroenLinks)\n  S.A. Blok (onbekend)\n\n\n
+DTEND:20211124T110000Z
+DTSTART:20211124T090000Z
+SUMMARY:Telecomraad (formeel) d.d. 3 december 2021 
+UID:f83c6a32-cdd3-47c1-992e-87d285c52d27@f83c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (4):\n  F. Azarkan (DENK)\n  D. Yesilgöz-Zegerius (onbekend)\n  Q.M. Rajkowski (VVD)\n  L.M. van Ginneken (D66)\n\n\n
+DTEND:20220914T110000Z
+DTSTART:20220914T080000Z
+SUMMARY:Online veiligheid en cybersecurity
+UID:091dd8ef-7d4e-4109-b084-688ccf38686d@091d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (1):\n  A.C. van Huffelen (onbekend)\n\n\n
+DTEND:20221005T151500Z
+DTSTART:20221005T121500Z
+SUMMARY:Digitaliserende overheid
+UID:8e7a5b52-61d4-4ce4-a88f-9750a58cdf76@8e7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 3 minuten\nIndien één van de leden een tweeminutendebat wenst te voeren voorafgaande aan de Telecomraad op 6 december 2022 dient daartoe een vooraankondiging gedaan te worden tijdens de plenaire Regeling van Werkzaamheden op dinsdag 29 november 2022.\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  M.A.M. Adriaansens (onbekend)\n  A.C. van Huffelen (onbekend)\n\n\n
+DTEND:20221130T110000Z
+DTSTART:20221130T090000Z
+SUMMARY:Telecomraad (Formeel) d.d. 6 december 2022
+UID:e64fd079-0527-449b-bbe9-d0d198d214e1@e64f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (4):\n  Q.M. Rajkowski (VVD)\n  F. Azarkan (DENK)\n  M.A.M. Adriaansens (onbekend)\n  A.C. van Huffelen (onbekend)\n\n\n
+DTEND:20221006T120000Z
+DTSTART:20221006T080000Z
+SUMMARY:Kunstmatige intelligentie
+UID:918dce4d-7143-4ba9-bafb-d3b755742611@918d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 3 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  Q.M. Rajkowski (VVD)\n  R.M. Leijten (SP)\n  Onbekend (onbekend)\n  K. Bouchallikh (GroenLinks)\n  Onbekend (onbekend)\n  M.A.M. Adriaansens (onbekend)\n  H. Bontenbal (CDA)\n  G.J. (Gijs) van Dijk (PvdA)\n  L.M. van Ginneken (D66)\n\n\n
+DTEND:20220203T110000Z
+DTSTART:20220203T090000Z
+SUMMARY:Lekken van privégegevens bij de Kamer van Koophandel
+UID:8003f735-205e-41e6-bf10-31743cd8e1a7@8003.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 6 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  V.D.D. van Weerdenburg (PVV)\n  F.B.J. Grapperhaus (onbekend)\n  B.C. Kathmann (PvdA)\n  Q.M. Rajkowski (VVD)\n  L.A.J.M. Dassen (Volt)\n  F. Azarkan (DENK)\n  R.M. Leijten (SP)\n  S.A. Blok (onbekend)\n  R.W. Knops (onbekend)\n  K. Bouchallikh (GroenLinks)\n  M. Amhaouch (CDA)\n  Onbekend (onbekend)\n\n\n
+DTEND:20211201T170000Z
+DTSTART:20211201T130000Z
+SUMMARY:Online veiligheid en cybersecurity
+UID:f45c3dc8-7acd-4155-a9ef-9e08ec70c87f@f45c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  W.R. van Haga (Groep Van Haga)\n  R.M. Leijten (SP)\n  Onbekend (onbekend)\n  H. Dekker-Abdulaziz (D66)\n  B.C. Kathmann (PvdA)\n  V.D.D. van Weerdenburg (PVV)\n  K. Bouchallikh (GroenLinks)\n  S.R.T. van Baarle (DENK)\n  Onbekend (onbekend)\n  A.C. van Huffelen (onbekend)\n  Q.M. Rajkowski (VVD)\n  F. Azarkan (DENK)\n\n\n
+DTEND:20220322T190000Z
+DTSTART:20220322T160000Z
+SUMMARY:Digitale overheid\, datagebruik en algoritmen\, digitale identiteit
+UID:ebb25cc3-5b6d-4a9f-bbbc-99da255ed014@ebb2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 2 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  S.M. Beckerman (SP)\n  R.J. Kamminga (VVD)\n  V.D.D. van Weerdenburg (PVV)\n  Q.M. Rajkowski (VVD)\n  D. Yesilgöz-Zegerius (onbekend)\n  M. Koekkoek (Volt)\n  L.M. van Ginneken (D66)\n  K. Bouchallikh (GroenLinks)\n\n\n
+DTEND:20220525T150000Z
+DTSTART:20220525T140000Z
+SUMMARY:Eventuele anticipatie wetsvoorstel tot wijziging Wet beveiliging netwerk- en informatiesystemen
+UID:f37f518b-790b-4e85-929b-5c8797ee0ff9@f37f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  Onbekend (onbekend)\n  B.C. Kathmann (PvdA)\n  K. Bouchallikh (GroenLinks)\n  Q.M. Rajkowski (VVD)\n  A.C. van Huffelen (onbekend)\n  H. Dekker-Abdulaziz (D66)\n  V.D.D. van Weerdenburg (PVV)\n  F. Azarkan (DENK)\n  Onbekend (onbekend)\n\n\n
 DTEND:20220413T110000Z
 DTSTART:20220413T080000Z
 SUMMARY:Informatiehuishouding op orde\, ICT-projecten en informatiebeveiliging
-UID:639002e0-1ade-4d37-b355-ead6a178b75d@6390.org
+UID:19a8fa51-38ae-4e7e-bb97-0f1a38df3205@19a8.org
 END:VEVENT
 END:VCALENDAR
