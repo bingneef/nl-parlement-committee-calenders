@@ -2,451 +2,458 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  T.M.T. van der Lee (GroenLinks)\n  J.Z.C.M. Tielen (VVD)\n  E. Heinen (VVD)\n  A.P.C. (Tony) van Dijck (PVV)\n  P.H. Omtzigt (Omtzigt)\n  S.A.M. Kaag (onbekend)\n  M.L.A. van Rij (onbekend)\n  O.R. Ephraim (Groep Van Haga)\n  S.P.R.A. van Weyenberg (D66)\n  Onbekend (onbekend)\n  vaste commissie voor Europese Zaken (onbekend)\n\n\n
-DTEND:20220608T104500Z
-DTSTART:20220608T074500Z
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (12):\n  N. Gündogan (Volt)\n  O.R. Ephraim (FVD)\n  J.C. Sneller (D66)\n  B.A.W. Snels (GroenLinks)\n  vaste commissie voor Europese Zaken (onbekend)\n  I. (Inge) van Dijk (CDA)\n  Onbekend (onbekend)\n  H. Nijboer (PvdA)\n  E. Heinen (VVD)\n  W.B. Hoekstra (onbekend)\n  J.Z.C.M. Tielen (VVD)\n  D.J. Eppink (JA21)\n\n\n
+DTEND:20210414T111500Z
+DTSTART:20210414T081500Z
 SUMMARY:Eurogroep/Ecofinraad
-UID:8d24e3ff-128e-4eef-97e1-ef8193ac8b8f@8d24.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nIn de procedurevergadering van 11 mei 2022 is besloten de separate commissiedebatten over consumenten en dienstverlening enerzijds en stabiliteit en instituties anderzijds samen te voegen in één commissiedebat Financiële markten. \n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  Onbekend (onbekend)\n  S.P.R.A. van Weyenberg (D66)\n  F. Azarkan (DENK)\n  P.A. Grinwis (ChristenUnie)\n  L. van Raan (PvdD)\n  I. (Inge) van Dijk (CDA)\n  A.P.C. (Tony) van Dijck (PVV)\n  Onbekend (onbekend)\n  E. Heinen (VVD)\n  H. Nijboer (PvdA)\n  J.Z.C.M. Tielen (VVD)\n  S.A.M. Kaag (onbekend)\n\n\n
-DTEND:20220630T120000Z
-DTSTART:20220630T080000Z
-SUMMARY:Financiële markten 
-UID:1447e872-fd10-4286-b403-44ebf4f60eae@1447.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  P.H. Omtzigt (Omtzigt)\n  S.A.M. Kaag (onbekend)\n  P. van Houwelingen (FVD)\n  E. Heinen (VVD)\n  vaste commissie voor Europese Zaken (onbekend)\n  M.L.A. van Rij (onbekend)\n  S.P.R.A. van Weyenberg (D66)\n  M.Ö. Alkaya (SP)\n  D.J. Eppink (JA21)\n  O.R. Ephraim (Groep Van Haga)\n  L.A.J.M. Dassen (Volt)\n  S. Maatoug (GroenLinks)\n  Onbekend (onbekend)\n  I. (Inge) van Dijk (CDA)\n\n\n
-DTEND:20220908T111500Z
-DTSTART:20220908T073000Z
-SUMMARY:Macro-economische ontwikkelingen in Europees perspectief (incl. Eurogroep/Ecofinraad)
-UID:adee05bd-7f23-48d0-8d39-9b687b2b5b91@adee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (3):\n  vaste commissie voor Europese Zaken (onbekend)\n  S.A.M. Kaag (onbekend)\n  M.L.A. van Rij (onbekend)\n\n\n
-DTEND:20220929T143000Z
-DTSTART:20220929T103000Z
-SUMMARY:Eurogroep/Ecofinraad/IMF
-UID:69968a61-dc0c-401f-afc5-63891e17b06e@6996.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  F. Azarkan (DENK)\n  M.L.A. van Rij (onbekend)\n\n\n
-DTEND:20230125T150000Z
-DTSTART:20230125T120000Z
-SUMMARY:Fiscaliteit
-UID:56998b6f-db19-4cba-9d23-a57dec8541d4@5699.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  I. (Inge) van Dijk (CDA)\n  E. Heinen (VVD)\n  M.Ö. Alkaya (SP)\n  N. Gündogan (Volt)\n  A.R. Hammelburg (D66)\n  H. Nijboer (PvdA)\n  T.M.T. van der Lee (GroenLinks)\n  vaste commissie voor Europese Zaken (onbekend)\n  W.B. Hoekstra (onbekend)\n  J.Z.C.M. Tielen (VVD)\n\n\n
-DTEND:20211117T143000Z
-DTSTART:20211117T123000Z
-SUMMARY:Nederlands Herstel- en veerkrachtplan (Recovery and Resilience Plan\; RRP)
-UID:c9828c56-4b6d-44f0-bc96-ba78af90792f@c982.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (15):\n  Onbekend (onbekend)\n  F. Azarkan (DENK)\n  R.H. (Romke) de Jong (D66)\n  S. Maatoug (GroenLinks)\n  P.H. Omtzigt (Omtzigt)\n  A. de Vries (onbekend)\n  I. (Inge) van Dijk (CDA)\n  C. Stoffer (SGP)\n  K. Arib (PvdA)\n  E. (Edgar) Mulder (PVV)\n  Onbekend (onbekend)\n  P.A. Grinwis (ChristenUnie)\n  J.Z.C.M. Tielen (VVD)\n  F.L. Idsinga (VVD)\n  Onbekend (onbekend)\n\n\n
-DTEND:20220622T140000Z
-DTSTART:20220622T110000Z
-SUMMARY:Toeslagen
-UID:2fc82126-554f-4827-82b1-a2eb293c6b6a@2fc8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (12):\n  C. Stoffer (SGP)\n  H. Nijboer (PvdA)\n  F.L. Idsinga (VVD)\n  M.L.A. van Rij (onbekend)\n  I. (Inge) van Dijk (CDA)\n  D.J. Eppink (JA21)\n  P.H. Omtzigt (Omtzigt)\n  F. Azarkan (DENK)\n  R.H. (Romke) de Jong (D66)\n  J.Z.C.M. Tielen (VVD)\n  T.M.T. van der Lee (GroenLinks)\n  P.A. Grinwis (ChristenUnie)\n\n\n
-DTEND:20220317T120000Z
-DTSTART:20220317T090000Z
-SUMMARY:Belastingen
-UID:ab5cf8e2-80aa-4304-b575-024bc380a8a0@ab5c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  M.Ö. Alkaya (SP)\n  E. (Edgar) Mulder (PVV)\n  I. (Inge) van Dijk (CDA)\n  H. Nijboer (PvdA)\n  L. van Raan (PvdD)\n  J.Z.C.M. Tielen (VVD)\n  J.A. Vijlbrief (onbekend)\n  E. Heinen (VVD)\n  R.H. (Romke) de Jong (D66)\n  T.M.T. van der Lee (GroenLinks)\n\n\n
-DTEND:20211209T120000Z
-DTSTART:20211209T090000Z
-SUMMARY:Exportkredietverzekeringen
-UID:91a4e059-2463-413f-802c-fa7fc8251ac8@91a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (12):\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n  B.A.W. Snels (GroenLinks)\n  O.R. Ephraim (Groep Van Haga)\n  F.B.J. Grapperhaus (onbekend)\n  H. Nijboer (PvdA)\n  J.Z.C.M. Tielen (VVD)\n  F. Azarkan (DENK)\n  A.R. Hammelburg (D66)\n  M.Ö. Alkaya (SP)\n  E. Heinen (VVD)\n  W.B. Hoekstra (onbekend)\n  I. (Inge) van Dijk (CDA)\n\n\n
-DTEND:20210909T110000Z
-DTSTART:20210909T080000Z
-SUMMARY:Bestrijding witwassen en terrorismefinanciering 
-UID:91ed7556-3ae0-48b8-8196-417e07020974@91ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  I. (Inge) van Dijk (CDA)\n  S.A.M. Kaag (onbekend)\n  E. Heinen (VVD)\n  H. Nijboer (PvdA)\n  M.L.A. van Rij (onbekend)\n  T.M.T. van der Lee (GroenLinks)\n  vaste commissie voor Europese Zaken (onbekend)\n  S.P.R.A. van Weyenberg (D66)\n  M.Ö. Alkaya (SP)\n\n\n
-DTEND:20220310T120000Z
-DTSTART:20220310T090000Z
-SUMMARY:Eurogroep/Ecofinraad
-UID:16e4ccf6-747a-4c13-ae03-71f9151604c4@16e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers op de activiteit in Parlis\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  A. de Vries (onbekend)\n  F. Azarkan (DENK)\n\n\n
-DTEND:20221208T163000Z
-DTSTART:20221208T123000Z
-SUMMARY:Hersteloperatie kinderopvangtoeslag
-UID:21453dad-82fd-45cc-971b-24d2e24ed075@2145.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  S.A.M. Kaag (onbekend)\n  M.L.A. van Rij (onbekend)\n\n\n
-DTEND:20230209T120000Z
-DTSTART:20230209T090000Z
-SUMMARY:Eurogroep/Ecofinraad
-UID:1047cbd3-b00c-4a65-86aa-ee3c71e401e1@1047.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (17):\n  W. Paulusma (D66)\n  I. (Inge) van Dijk (CDA)\n  Onbekend (onbekend)\n  M.L.J. Paul (VVD)\n  P.H. Omtzigt (Omtzigt)\n  S.H. Simons (BIJ1)\n  F. Azarkan (DENK)\n  L. van Raan (PvdD)\n  Onbekend (onbekend)\n  P.A. Grinwis (ChristenUnie)\n  Onbekend (onbekend)\n  A. de Vries (onbekend)\n  Onbekend (onbekend)\n  S. Maatoug (GroenLinks)\n  H. Nijboer (PvdA)\n  M.Ö. Alkaya (SP)\n  Onbekend (onbekend)\n\n\n
-DTEND:20220210T100000Z
-DTSTART:20220210T083000Z
-SUMMARY:Voortzetting commissiedebat Hersteloperatie Kinderopvangtoeslag
-UID:ab2c302a-f198-4cc2-b30e-9ee2de717a7f@ab2c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (1):\n  S.A.M. Kaag (onbekend)\n\n\n
-DTEND:20221123T160000Z
-DTSTART:20221123T130000Z
-SUMMARY:Digitale euro
-UID:1ef6177e-8054-41fd-8f89-968dbc216247@1ef6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (13):\n  Onbekend (onbekend)\n  O.R. Ephraim (Groep Van Haga)\n  Onbekend (onbekend)\n  E. Heinen (VVD)\n  vaste commissie voor Europese Zaken (onbekend)\n  S.P.R.A. van Weyenberg (D66)\n  T.M.T. van der Lee (GroenLinks)\n  L.A.J.M. Dassen (Volt)\n  M.Ö. Alkaya (SP)\n  A.P.C. (Tony) van Dijck (PVV)\n  D.J. Eppink (JA21)\n  P.H. Omtzigt (Omtzigt)\n  S.A.M. Kaag (onbekend)\n\n\n
-DTEND:20220707T111500Z
-DTSTART:20220707T081500Z
-SUMMARY:Eurogroep/Ecofinraad
-UID:1f04ac8e-b16d-4ba1-93d5-63f0433d4620@1f04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  M.L.A. van Rij (onbekend)\n  F. Azarkan (DENK)\n\n\n
-DTEND:20230223T150000Z
-DTSTART:20230223T120000Z
-SUMMARY:Belastingdienst
-UID:53d78ef5-ede6-4ea3-aa39-05925bb0dcf5@53d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers op de activiteit in Parlis\n\nHet is niet een besloten evenement\n\nAanwezigen (1):\n  M.L.A. van Rij (onbekend)\n\n\n
-DTEND:20221116T120000Z
-DTSTART:20221116T090000Z
-SUMMARY:Exportkredietverzekeringen
-UID:f5ef20e4-8ce9-4f1f-928b-183f8856f3ee@f5ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat worden verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (3):\n  A. de Vries (onbekend)\n  M.L.J. Paul (VVD)\n  F. Azarkan (DENK)\n\n\n
-DTEND:20221117T150000Z
-DTSTART:20221117T120000Z
-SUMMARY:PwC-onderzoek naar het memo-Palmen
-UID:e403f3a7-3cb4-439b-9894-0c41a8e7b1c5@e403.org
+UID:4a54e806-c86c-47f4-876c-916b38ece397@4a54.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (14):\n  A.C. van Huffelen (onbekend)\n  I. (Inge) van Dijk (CDA)\n  M.Ö. Alkaya (SP)\n  A.R. Hammelburg (D66)\n  J.A. Vijlbrief (onbekend)\n  E. (Edgar) Mulder (PVV)\n  M.L.J. Paul (VVD)\n  H. Nijboer (PvdA)\n  W.B. Hoekstra (onbekend)\n  P.H. Omtzigt (Omtzigt)\n  P.A. Grinwis (ChristenUnie)\n  F. Azarkan (DENK)\n  T.M.T. van der Lee (GroenLinks)\n  Onbekend (onbekend)\n\n\n
 DTEND:20211209T170000Z
 DTSTART:20211209T140000Z
 SUMMARY:Fraudeopsporing door de Belastingdienst.
-UID:34242a23-6db0-47d4-a3de-4e508df38dfe@3424.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (6):\n  Onbekend (onbekend)\n  F.L. Idsinga (VVD)\n  R.H. (Romke) de Jong (D66)\n  T.M.T. van der Lee (GroenLinks)\n  A. de Vries (onbekend)\n  I. (Inge) van Dijk (CDA)\n\n\n
-DTEND:20220309T160000Z
-DTSTART:20220309T130000Z
-SUMMARY:Douane
-UID:26296205-4e82-43c1-900f-abfbd5874cdf@2629.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (3):\n  M.L.A. van Rij (onbekend)\n  S.A.M. Kaag (onbekend)\n  F. Azarkan (DENK)\n\n\n
-DTEND:20221130T160000Z
-DTSTART:20221130T130000Z
-SUMMARY:Staatsdeelnemingen
-UID:2dc09505-9926-4a0d-abf4-885413d04af9@2dc0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers op de activiteit in Parlis\n \n\nHet is niet een besloten evenement\n\nAanwezigen (3):\n  M.L.A. van Rij (onbekend)\n  S.A.M. Kaag (onbekend)\n  vaste commissie voor Europese Zaken (onbekend)\n\n\n
-DTEND:20230511T110000Z
-DTSTART:20230511T080000Z
-SUMMARY:Eurogroep/Ecofinraad
-UID:7c407e74-7ffc-419d-9574-55a9d5c4c488@7c40.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (13):\n  Onbekend (onbekend)\n  J.Z.C.M. Tielen (VVD)\n  A.R. Hammelburg (D66)\n  O.R. Ephraim (Groep Van Haga)\n  W.B. Hoekstra (onbekend)\n  N. Gündogan (Volt)\n  A.P.C. (Tony) van Dijck (PVV)\n  I. (Inge) van Dijk (CDA)\n  vaste commissie voor Europese Zaken (onbekend)\n  B.A.W. Snels (GroenLinks)\n  E. Heinen (VVD)\n  D.J. Eppink (JA21)\n  J.A. Vijlbrief (onbekend)\n\n\n
-DTEND:20210908T111500Z
-DTSTART:20210908T081500Z
-SUMMARY:Eurogroep/Ecofinraad 
-UID:adc0f428-93eb-4abf-989a-9f6f8e815936@adc0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (13):\n  I. (Inge) van Dijk (CDA)\n  L. van Raan (PvdD)\n  E. (Edgar) Mulder (PVV)\n  J.Z.C.M. Tielen (VVD)\n  F. Azarkan (DENK)\n  H. Nijboer (PvdA)\n  F.L. Idsinga (VVD)\n  M.Ö. Alkaya (SP)\n  N. Gündogan (Volt)\n  A.C. van Huffelen (onbekend)\n  H. Kat (D66)\n  P.A. Grinwis (ChristenUnie)\n  B.A.W. Snels (GroenLinks)\n\n\n
-DTEND:20210701T113000Z
-DTSTART:20210701T073000Z
-SUMMARY:Hersteloperatie kinderopvangtoeslag
-UID:1dc3ee8f-e019-4c98-9635-6736ed4f4059@1dc3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (14):\n  D.J. Eppink (JA21)\n  J.Z.C.M. Tielen (VVD)\n  C. Stoffer (SGP)\n  F.L. Idsinga (VVD)\n  S. Maatoug (GroenLinks)\n  O.R. Ephraim (Groep Van Haga)\n  F. Azarkan (DENK)\n  M.L.A. van Rij (onbekend)\n  M.Ö. Alkaya (SP)\n  H. Nijboer (PvdA)\n  P.H. Omtzigt (Omtzigt)\n  P.A. Grinwis (ChristenUnie)\n  R.H. (Romke) de Jong (D66)\n  Onbekend (onbekend)\n\n\n
-DTEND:20220629T120000Z
-DTSTART:20220629T080000Z
-SUMMARY:Contouren box 3-heffing op basis van werkelijk rendement
-UID:b5f4f0d1-058f-444f-b90a-edf235423242@b5f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  E. Heinen (VVD)\n  vaste commissie voor Europese Zaken (onbekend)\n  M.L.A. van Rij (onbekend)\n  M.Ö. Alkaya (SP)\n  P. van Houwelingen (FVD)\n  T.M.T. van der Lee (GroenLinks)\n  S.P.R.A. van Weyenberg (D66)\n  S.A.M. Kaag (onbekend)\n  A.P.C. (Tony) van Dijck (PVV)\n\n\n
-DTEND:20220331T113000Z
-DTSTART:20220331T083000Z
-SUMMARY:Eurogroep/Ecofinraad
-UID:aa3bd4f9-2c81-4b0e-88df-2e4314bc7f29@aa3b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (15):\n  S.P.R.A. van Weyenberg (D66)\n  P.A. Grinwis (ChristenUnie)\n  M.Ö. Alkaya (SP)\n  H. Nijboer (PvdA)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  E. (Edgar) Mulder (PVV)\n  B.A.W. Snels (GroenLinks)\n  I. (Inge) van Dijk (CDA)\n  F. Azarkan (DENK)\n  J.A. Vijlbrief (onbekend)\n  Onbekend (onbekend)\n  F.L. Idsinga (VVD)\n  Onbekend (onbekend)\n  J.Z.C.M. Tielen (VVD)\n\n\n
-DTEND:20210622T200000Z
-DTSTART:20210622T160000Z
-SUMMARY:Belastingdienst
-UID:76b23ec9-890d-45e8-96b0-bef042d8f763@76b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (12):\n  N. Gündogan (Volt)\n  O.R. Ephraim (FVD)\n  J.C. Sneller (D66)\n  B.A.W. Snels (GroenLinks)\n  vaste commissie voor Europese Zaken (onbekend)\n  I. (Inge) van Dijk (CDA)\n  Onbekend (onbekend)\n  H. Nijboer (PvdA)\n  E. Heinen (VVD)\n  W.B. Hoekstra (onbekend)\n  J.Z.C.M. Tielen (VVD)\n  D.J. Eppink (JA21)\n\n\n
-DTEND:20210414T111500Z
-DTSTART:20210414T081500Z
-SUMMARY:Eurogroep/Ecofinraad
-UID:9217bcca-8af3-4bb3-8500-62dfa3e63d24@9217.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (16):\n  R.H. (Romke) de Jong (D66)\n  F.L. Idsinga (VVD)\n  Onbekend (onbekend)\n  M.L.A. van Rij (onbekend)\n  Onbekend (onbekend)\n  H. Nijboer (PvdA)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  J.Z.C.M. Tielen (VVD)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  E. (Edgar) Mulder (PVV)\n  I. (Inge) van Dijk (CDA)\n  T.M.T. van der Lee (GroenLinks)\n  F. Azarkan (DENK)\n  M.Ö. Alkaya (SP)\n\n\n
-DTEND:20220324T120000Z
-DTSTART:20220324T090000Z
-SUMMARY:Belastingdienst
-UID:3b9513f0-16fb-449d-a5e4-fc7a848022da@3b95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers op de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  M.L.A. van Rij (onbekend)\n  I. (Inge) van Dijk (CDA)\n  M. Amhaouch (CDA)\n  M.Ö. Alkaya (SP)\n  R.H. (Romke) de Jong (D66)\n  P.H. Omtzigt (Omtzigt)\n  C. Stoffer (SGP)\n  F.L. Idsinga (VVD)\n  S. Maatoug (GroenLinks)\n  Onbekend (onbekend)\n  F. Azarkan (DENK)\n\n\n
-DTEND:20220907T110000Z
-DTSTART:20220907T080000Z
-SUMMARY:Belastingdienst
-UID:69f8e724-600e-4ea6-8738-562e55394d99@69f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (3):\n  vaste commissie voor Europese Zaken (onbekend)\n  M.L.A. van Rij (onbekend)\n  S.A.M. Kaag (onbekend)\n\n\n
-DTEND:20221103T120000Z
-DTSTART:20221103T090000Z
-SUMMARY:Eurogroep/Ecofinraad
-UID:3d335f8e-2545-4255-87ec-aea0749897f2@3d33.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (12):\n  A.P.C. (Tony) van Dijck (PVV)\n  T.M.T. van der Lee (GroenLinks)\n  J.Z.C.M. Tielen (VVD)\n  E. Heinen (VVD)\n  M.L.A. van Rij (onbekend)\n  Onbekend (onbekend)\n  P.A. Grinwis (ChristenUnie)\n  vaste commissie voor Europese Zaken (onbekend)\n  I. (Inge) van Dijk (CDA)\n  Onbekend (onbekend)\n  S.A.M. Kaag (onbekend)\n  O.R. Ephraim (Groep Van Haga)\n\n\n
-DTEND:20220519T110000Z
-DTSTART:20220519T080000Z
-SUMMARY:Eurogroep/Ecofinraad
-UID:69366978-39a1-47e2-8796-20c765f958a3@6936.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich\naan te melden via het tabblad deelnemers in Parlis\n\nHet is niet een besloten evenement\n\nAanwezigen (4):\n  A. de Vries (onbekend)\n  K. Arib (PvdA)\n  H. Kat (D66)\n  J.Z.C.M. Tielen (VVD)\n\n\n
-DTEND:20220915T190000Z
-DTSTART:20220915T170000Z
-SUMMARY:Reactie op zorgpunten uit gesprekken met het Ouderpanel Kinderopvangtoeslag
-UID:1a75b0ef-1e6c-4768-b8df-612d1c787426@1a75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (7):\n  F.L. Idsinga (VVD)\n  R.H. (Romke) de Jong (D66)\n  E. (Edgar) Mulder (PVV)\n  M.L.A. van Rij (onbekend)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  J.Z.C.M. Tielen (VVD)\n\n\n
-DTEND:20220622T163000Z
-DTSTART:20220622T150000Z
-SUMMARY:Fatca
-UID:d7105fa5-4ec7-430a-a852-f61de99a26e4@d710.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nDe eerste termijn van dit commissiedebat heeft plaatsgevonden op 20 april 2022\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  T.M.T. van der Lee (GroenLinks)\n  F.L. Idsinga (VVD)\n  M.L.A. van Rij (onbekend)\n  H. Nijboer (PvdA)\n  R.H. (Romke) de Jong (D66)\n  Onbekend (onbekend)\n  P.H. Omtzigt (Omtzigt)\n  I. (Inge) van Dijk (CDA)\n  E. (Edgar) Mulder (PVV)\n  M.Ö. Alkaya (SP)\n  O.R. Ephraim (Groep Van Haga)\n  P.A. Grinwis (ChristenUnie)\n\n\n
-DTEND:20220512T093000Z
-DTSTART:20220512T080000Z
-SUMMARY:Voortzetting commissiedebat Opties voor rechtsherstel box 3 (tweede termijn)
-UID:6a937c64-f583-4a7f-a066-7c270393d05e@6a93.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers op de activiteit in Parlis\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  S.A.M. Kaag (onbekend)\n  F. Azarkan (DENK)\n\n\n
-DTEND:20221020T160000Z
-DTSTART:20221020T130000Z
-SUMMARY:Bestrijding witwassen en terrorismefinanciering
-UID:c4bf96ba-09d4-4a15-aa3e-00ef1c6202f5@c4bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (13):\n  N. Gündogan (Volt)\n  M.Ö. Alkaya (SP)\n  I. (Inge) van Dijk (CDA)\n  J.Z.C.M. Tielen (VVD)\n  D.J. Eppink (JA21)\n  O.R. Ephraim (Groep Van Haga)\n  vaste commissie voor Europese Zaken (onbekend)\n  E. Heinen (VVD)\n  A.R. Hammelburg (D66)\n  Onbekend (onbekend)\n  J.A. Vijlbrief (onbekend)\n  B.A.W. Snels (GroenLinks)\n  W.B. Hoekstra (onbekend)\n\n\n
-DTEND:20210616T111500Z
-DTSTART:20210616T081500Z
-SUMMARY:Eurogroep/Ecofinraad
-UID:32e55006-58ca-4469-9ce8-0667c6d6c81b@32e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (8):\n  A.R. Hammelburg (D66)\n  M.Ö. Alkaya (SP)\n  E. Heinen (VVD)\n  H. Nijboer (PvdA)\n  W.B. Hoekstra (onbekend)\n  J.Z.C.M. Tielen (VVD)\n  O.R. Ephraim (Groep Van Haga)\n  I. (Inge) van Dijk (CDA)\n\n\n
-DTEND:20210610T151500Z
-DTSTART:20210610T121500Z
-SUMMARY:Financiële markten
-UID:bd10391a-a52e-44dd-bfb4-67897b82d380@bd10.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (18):\n  L. van Raan (PvdD)\n  P.A. Grinwis (ChristenUnie)\n  J.Z.C.M. Tielen (VVD)\n  I. (Inge) van Dijk (CDA)\n  A. de Vries (onbekend)\n  Onbekend (onbekend)\n  M.L.J. Paul (VVD)\n  S. Maatoug (GroenLinks)\n  F. Azarkan (DENK)\n  C.A.M. van der Plas (BBB)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  H. Kat (D66)\n  K. Arib (PvdA)\n  M.Ö. Alkaya (SP)\n  E. (Edgar) Mulder (PVV)\n  Onbekend (onbekend)\n  P.H. Omtzigt (Omtzigt)\n\n\n
-DTEND:20220519T180000Z
-DTSTART:20220519T140000Z
-SUMMARY:Hersteloperatie kinderopvangtoeslag (Let op:gewijzigd tijdstip)
-UID:d8bf7ddb-174e-40c5-92c1-8784519f76c7@d8bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers op de activiteit in Parlis\n \n\nHet is niet een besloten evenement\n\nAanwezigen (3):\n  vaste commissie voor Europese Zaken (onbekend)\n  S.A.M. Kaag (onbekend)\n  M.L.A. van Rij (onbekend)\n\n\n
-DTEND:20230309T120000Z
-DTSTART:20230309T090000Z
-SUMMARY:Eurogroep/Ecofinraad
-UID:b2e31de4-be28-4d87-b8cc-38198171540d@b2e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (1):\n  S.A.M. Kaag (onbekend)\n\n\n
-DTEND:20230330T110000Z
-DTSTART:20230330T080000Z
-SUMMARY:Accountancy
-UID:559d82ea-7cc4-44d4-bc0c-bf283e1312a8@559d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (15):\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (onbekend)\n  F.L. Idsinga (VVD)\n  L. van Raan (PvdD)\n  P.A. Grinwis (ChristenUnie)\n  N. Gündogan (Volt)\n  B.A.W. Snels (GroenLinks)\n  H. Nijboer (PvdA)\n  F. Azarkan (DENK)\n  I. (Inge) van Dijk (CDA)\n  M.Ö. Alkaya (SP)\n  E. (Edgar) Mulder (PVV)\n  S.H. Simons (BIJ1)\n  H. Kat (D66)\n  J.Z.C.M. Tielen (VVD)\n  A.C. van Huffelen (onbekend)\n\n\n
-DTEND:20210527T150000Z
-DTSTART:20210527T110000Z
-SUMMARY:Hersteloperatie kinderopvangtoeslag
-UID:58216434-8c58-43c5-af68-23627405f480@5821.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (4):\n  M.L.A. van Rij (onbekend)\n  Onbekend (onbekend)\n  F. Azarkan (DENK)\n  R.H. (Romke) de Jong (D66)\n\n\n
-DTEND:20221124T160000Z
-DTSTART:20221124T130000Z
-SUMMARY:Autobelastingen
-UID:671a361a-7439-47c5-b1a4-7878c853199d@671a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (17):\n  M.Ö. Alkaya (SP)\n  S. Maatoug (GroenLinks)\n  L. van Raan (PvdD)\n  A.P.C. (Tony) van Dijck (PVV)\n  S.P.R.A. van Weyenberg (D66)\n  E. Heinen (VVD)\n  P.A. Grinwis (ChristenUnie)\n  H. Nijboer (PvdA)\n  Onbekend (onbekend)\n  I. (Inge) van Dijk (CDA)\n  M.L.A. van Rij (onbekend)\n  R.H. (Romke) de Jong (D66)\n  F. Azarkan (DENK)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  S.A.M. Kaag (onbekend)\n  Onbekend (onbekend)\n\n\n
-DTEND:20220126T160000Z
-DTSTART:20220126T130000Z
-SUMMARY:Staatsdeelnemingen
-UID:21a1d722-bf07-4a15-8ee6-071e8b5f3794@21a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (12):\n  Onbekend (onbekend)\n  N. Gündogan (Volt)\n  W.B. Hoekstra (onbekend)\n  P. van Houwelingen (FVD)\n  M.Ö. Alkaya (SP)\n  I. (Inge) van Dijk (CDA)\n  O.R. Ephraim (Groep Van Haga)\n  Onbekend (onbekend)\n  A.R. Hammelburg (D66)\n  Onbekend (onbekend)\n  J.Z.C.M. Tielen (VVD)\n  E. Heinen (VVD)\n\n\n
-DTEND:20211111T153000Z
-DTSTART:20211111T133000Z
-SUMMARY:Digitale euro
-UID:9bd5e7b5-0794-48f8-8fe6-5f9e81ea9a0f@9bd5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (16):\n  I. (Inge) van Dijk (CDA)\n  R.H. (Romke) de Jong (D66)\n  M.Ö. Alkaya (SP)\n  D.J. Eppink (JA21)\n  P.H. Omtzigt (Omtzigt)\n  F.L. Idsinga (VVD)\n  O.R. Ephraim (Groep Van Haga)\n  J.Z.C.M. Tielen (VVD)\n  Onbekend (onbekend)\n  T.M.T. van der Lee (GroenLinks)\n  C. Stoffer (SGP)\n  F. Azarkan (DENK)\n  M.L.A. van Rij (onbekend)\n  H. Nijboer (PvdA)\n  P.A. Grinwis (ChristenUnie)\n  Onbekend (onbekend)\n\n\n
-DTEND:20220420T173000Z
-DTSTART:20220420T143000Z
-SUMMARY:Opties voor rechtsherstel box 3
-UID:2c25ea6c-ce40-4166-a08e-39aa793b4dc5@2c25.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  A. de Vries (onbekend)\n  F. Azarkan (DENK)\n\n\n
-DTEND:20230222T150000Z
-DTSTART:20230222T120000Z
-SUMMARY:Toeslagen
-UID:98cc58c7-0e17-45de-8884-ddb5c7a62008@98cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (1):\n  A. de Vries (onbekend)\n\n\n
-DTEND:20230119T120000Z
-DTSTART:20230119T090000Z
-SUMMARY:Douane
-UID:a0853e65-e2db-4174-ab6e-6d84fa4da29f@a085.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  F. Azarkan (DENK)\n  S.A.M. Kaag (onbekend)\n\n\n
-DTEND:20221214T173000Z
-DTSTART:20221214T143000Z
-SUMMARY: Financiële markten
-UID:0af35318-0f0e-4ae5-b290-6e8dfb211e23@0af3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (3):\n  M.L.A. van Rij (onbekend)\n  S.A.M. Kaag (onbekend)\n  vaste commissie voor Europese Zaken (onbekend)\n\n\n
-DTEND:20221201T120000Z
-DTSTART:20221201T090000Z
-SUMMARY:Eurogroep/Ecofinraad
-UID:79db73be-5ad4-4c44-a53b-b8f527a13bc5@79db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n \n\nHet is niet een besloten evenement\n\nAanwezigen (3):\n  S.A.M. Kaag (onbekend)\n  M.L.A. van Rij (onbekend)\n  F. Azarkan (DENK)\n\n\n
-DTEND:20230601T110000Z
-DTSTART:20230601T080000Z
-SUMMARY:Staatsdeelnemingen
-UID:1bd7b781-9d27-49f3-bb01-1f4045f48f5e@1bd7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  J.Z.C.M. Tielen (VVD)\n  Onbekend (onbekend)\n  T.M.T. van der Lee (GroenLinks)\n  E. Heinen (VVD)\n  F. Azarkan (DENK)\n  M.Ö. Alkaya (SP)\n  O.R. Ephraim (Groep Van Haga)\n  S.A.M. Kaag (onbekend)\n  S.P.R.A. van Weyenberg (D66)\n\n\n
-DTEND:20220413T140000Z
-DTSTART:20220413T120000Z
-SUMMARY:IMF
-UID:8dea997e-3d16-4909-93a4-16acd83a9b4b@8dea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (14):\n  W.B. Hoekstra (onbekend)\n  Onbekend (onbekend)\n  I. (Inge) van Dijk (CDA)\n  P.H. Omtzigt (Omtzigt)\n  J.Z.C.M. Tielen (VVD)\n  Onbekend (onbekend)\n  A.R. Hammelburg (D66)\n  N. Gündogan (Volt)\n  H. Nijboer (PvdA)\n  M.Ö. Alkaya (SP)\n  E. Heinen (VVD)\n  vaste commissie voor Europese Zaken (onbekend)\n  J.A. Vijlbrief (onbekend)\n  O.R. Ephraim (Groep Van Haga)\n\n\n
-DTEND:20211102T203000Z
-DTSTART:20211102T173000Z
-SUMMARY:Eurogroep/Ecofinraad
-UID:4d34e181-2fd8-4b81-81d2-edb0ba24d0d8@4d34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  M.L.A. van Rij (onbekend)\n  F. Azarkan (DENK)\n\n\n
-DTEND:20230614T140000Z
-DTSTART:20230614T110000Z
-SUMMARY:Fiscaliteit
-UID:0905d311-072b-496e-b5a2-f2840cb750a8@0905.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  T.M.T. van der Lee (GroenLinks)\n  F. Azarkan (DENK)\n  M.Ö. Alkaya (SP)\n  H. Nijboer (PvdA)\n  S.A.M. Kaag (onbekend)\n  Onbekend (onbekend)\n  M. Amhaouch (CDA)\n  O.R. Ephraim (Groep Van Haga)\n  S.P.R.A. van Weyenberg (D66)\n  E. Heinen (VVD)\n\n\n
-DTEND:20220330T110000Z
-DTSTART:20220330T080000Z
-SUMMARY:Accountancy
-UID:f5cc169c-e651-4ead-ade3-2a18decd17eb@f5cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (13):\n  N. Gündogan (Volt)\n  I. (Inge) van Dijk (CDA)\n  M.Ö. Alkaya (SP)\n  S.P.R.A. van Weyenberg (D66)\n  O.R. Ephraim (Groep Van Haga)\n  J.A. Vijlbrief (onbekend)\n  H. Nijboer (PvdA)\n  P.A. Grinwis (ChristenUnie)\n  E. (Edgar) Mulder (PVV)\n  C. Stoffer (SGP)\n  B.A.W. Snels (GroenLinks)\n  F.L. Idsinga (VVD)\n  D.J. Eppink (JA21)\n\n\n
-DTEND:20210630T104500Z
-DTSTART:20210630T074500Z
-SUMMARY:Belastingen
-UID:94ee98c1-8cd3-42cc-97c3-73c020a42720@94ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (13):\n  D.J. Eppink (JA21)\n  T.M.T. van der Lee (GroenLinks)\n  N. Gündogan (Volt)\n  Onbekend (onbekend)\n  vaste commissie voor Europese Zaken (onbekend)\n  A.R. Hammelburg (D66)\n  Onbekend (onbekend)\n  J.A. Vijlbrief (onbekend)\n  E. Heinen (VVD)\n  I. (Inge) van Dijk (CDA)\n  Onbekend (onbekend)\n  W.B. Hoekstra (onbekend)\n  O.R. Ephraim (Groep Van Haga)\n\n\n
-DTEND:20211202T121500Z
-DTSTART:20211202T091500Z
-SUMMARY:Eurogroep/Ecofinraad
-UID:2afc69d2-72f4-434f-99c2-308b45a76ed1@2afc.org
+UID:27709e7a-8a09-48c8-b7eb-d1e11737e650@2770.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (14):\n  S. Maatoug (GroenLinks)\n  Onbekend (onbekend)\n  A. de Vries (onbekend)\n  P.H. Omtzigt (Omtzigt)\n  M.Ö. Alkaya (SP)\n  P.A. Grinwis (ChristenUnie)\n  I. (Inge) van Dijk (CDA)\n  S.H. Simons (BIJ1)\n  L. van Raan (PvdD)\n  M.J.T.G. van Beukering-Huijbregts (D66)\n  E. (Edgar) Mulder (PVV)\n  H. Nijboer (PvdA)\n  F. Azarkan (DENK)\n  M.L.J. Paul (VVD)\n\n\n
 DTEND:20220202T130000Z
 DTSTART:20220202T090000Z
 SUMMARY:Hersteloperatie Kinderopvangtoeslag
-UID:cf5b3d4a-dda1-402a-a0ab-d93ca559fd36@cf5b.org
+UID:c1e73fd7-609d-44a2-becf-cc66a94f2b82@c1e7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers op de activiteit in Parlis\n\nHet is niet een besloten evenement\n\nAanwezigen (1):\n  S.A.M. Kaag (onbekend)\n\n\n
 DTEND:20230322T163000Z
 DTSTART:20230322T133000Z
 SUMMARY:Verduurzaming financiële sector
-UID:1ee1a95e-d36d-4720-a91e-330f12578693@1ee1.org
+UID:8901713d-7c41-4938-865e-971cb8e52f29@8901.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (17):\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  S.A.M. Kaag (onbekend)\n  M.Ö. Alkaya (SP)\n  M.L.A. van Rij (onbekend)\n  H. Nijboer (PvdA)\n  A. de Vries (onbekend)\n  J.Z.C.M. Tielen (VVD)\n  F. Azarkan (DENK)\n  Onbekend (onbekend)\n  I. (Inge) van Dijk (CDA)\n  S. Maatoug (GroenLinks)\n  P.A. Grinwis (ChristenUnie)\n  P. van Houwelingen (FVD)\n  E. Heinen (VVD)\n  Onbekend (onbekend)\n  S.P.R.A. van Weyenberg (D66)\n\n\n
-DTEND:20220222T210000Z
-DTSTART:20220222T180000Z
-SUMMARY:Beleidsprioriteiten van de bewindspersonen van het Ministerie van Financiën 
-UID:3671d9be-acb8-470d-86c9-4835b504c2cb@3671.org
+DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers op de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  M.L.A. van Rij (onbekend)\n  I. (Inge) van Dijk (CDA)\n  M. Amhaouch (CDA)\n  M.Ö. Alkaya (SP)\n  R.H. (Romke) de Jong (D66)\n  P.H. Omtzigt (Omtzigt)\n  C. Stoffer (SGP)\n  F.L. Idsinga (VVD)\n  S. Maatoug (GroenLinks)\n  Onbekend (onbekend)\n  F. Azarkan (DENK)\n\n\n
+DTEND:20220907T110000Z
+DTSTART:20220907T080000Z
+SUMMARY:Belastingdienst
+UID:47b03bdb-13f0-457b-9a35-c1c862ae93fc@47b0.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (12):\n  Onbekend (onbekend)\n  D.J. Eppink (JA21)\n  Onbekend (onbekend)\n  O.R. Ephraim (Groep Van Haga)\n  I. (Inge) van Dijk (CDA)\n  A.R. Hammelburg (D66)\n  vaste commissie voor Europese Zaken (onbekend)\n  E. Heinen (VVD)\n  W.B. Hoekstra (onbekend)\n  J.A. Vijlbrief (onbekend)\n  M.Ö. Alkaya (SP)\n  J.Z.C.M. Tielen (VVD)\n\n\n
-DTEND:20210930T111500Z
-DTSTART:20210930T081500Z
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  J.Z.C.M. Tielen (VVD)\n  Onbekend (onbekend)\n  T.M.T. van der Lee (GroenLinks)\n  E. Heinen (VVD)\n  F. Azarkan (DENK)\n  M.Ö. Alkaya (SP)\n  O.R. Ephraim (Groep Van Haga)\n  S.A.M. Kaag (onbekend)\n  S.P.R.A. van Weyenberg (D66)\n\n\n
+DTEND:20220413T140000Z
+DTSTART:20220413T120000Z
+SUMMARY:IMF
+UID:cdf85ded-b750-4db9-a617-f9eac65e1806@cdf8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  M.Ö. Alkaya (SP)\n  E. (Edgar) Mulder (PVV)\n  I. (Inge) van Dijk (CDA)\n  H. Nijboer (PvdA)\n  L. van Raan (PvdD)\n  J.Z.C.M. Tielen (VVD)\n  J.A. Vijlbrief (onbekend)\n  E. Heinen (VVD)\n  R.H. (Romke) de Jong (D66)\n  T.M.T. van der Lee (GroenLinks)\n\n\n
+DTEND:20211209T120000Z
+DTSTART:20211209T090000Z
+SUMMARY:Exportkredietverzekeringen
+UID:fb64c48c-cb7d-4f64-bcc5-91a80a017430@fb64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (12):\n  Onbekend (onbekend)\n  N. Gündogan (Volt)\n  W.B. Hoekstra (onbekend)\n  P. van Houwelingen (FVD)\n  M.Ö. Alkaya (SP)\n  I. (Inge) van Dijk (CDA)\n  O.R. Ephraim (Groep Van Haga)\n  Onbekend (onbekend)\n  A.R. Hammelburg (D66)\n  Onbekend (onbekend)\n  J.Z.C.M. Tielen (VVD)\n  E. Heinen (VVD)\n\n\n
+DTEND:20211111T153000Z
+DTSTART:20211111T133000Z
+SUMMARY:Digitale euro
+UID:99f38ff5-6a02-432e-b4d0-d10f7cd49ac6@99f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (7):\n  F.L. Idsinga (VVD)\n  R.H. (Romke) de Jong (D66)\n  E. (Edgar) Mulder (PVV)\n  M.L.A. van Rij (onbekend)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  J.Z.C.M. Tielen (VVD)\n\n\n
+DTEND:20220622T163000Z
+DTSTART:20220622T150000Z
+SUMMARY:Fatca
+UID:90d11d94-afb9-4a96-9bef-ed8d9d7f0e8c@90d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (16):\n  I. (Inge) van Dijk (CDA)\n  R.H. (Romke) de Jong (D66)\n  M.Ö. Alkaya (SP)\n  D.J. Eppink (JA21)\n  P.H. Omtzigt (Omtzigt)\n  F.L. Idsinga (VVD)\n  O.R. Ephraim (Groep Van Haga)\n  J.Z.C.M. Tielen (VVD)\n  Onbekend (onbekend)\n  T.M.T. van der Lee (GroenLinks)\n  C. Stoffer (SGP)\n  F. Azarkan (DENK)\n  M.L.A. van Rij (onbekend)\n  H. Nijboer (PvdA)\n  P.A. Grinwis (ChristenUnie)\n  Onbekend (onbekend)\n\n\n
+DTEND:20220420T173000Z
+DTSTART:20220420T143000Z
+SUMMARY:Opties voor rechtsherstel box 3
+UID:e2a82ab4-1eb5-4261-9000-bd3b49420cf4@e2a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nDe eerste termijn van dit commissiedebat heeft plaatsgevonden op 20 april 2022\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  T.M.T. van der Lee (GroenLinks)\n  F.L. Idsinga (VVD)\n  M.L.A. van Rij (onbekend)\n  H. Nijboer (PvdA)\n  R.H. (Romke) de Jong (D66)\n  Onbekend (onbekend)\n  P.H. Omtzigt (Omtzigt)\n  I. (Inge) van Dijk (CDA)\n  E. (Edgar) Mulder (PVV)\n  M.Ö. Alkaya (SP)\n  O.R. Ephraim (Groep Van Haga)\n  P.A. Grinwis (ChristenUnie)\n\n\n
+DTEND:20220512T093000Z
+DTSTART:20220512T080000Z
+SUMMARY:Voortzetting commissiedebat Opties voor rechtsherstel box 3 (tweede termijn)
+UID:e3a5d453-831d-4f42-affb-59f3ecb61ba5@e3a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers op de activiteit in Parlis\n\nHet is niet een besloten evenement\n\nAanwezigen (1):\n  vaste commissie voor Europese Zaken (onbekend)\n\n\n
+DTEND:20230412T120000Z
+DTSTART:20230412T080000Z
+SUMMARY:Macro-economische ontwikkelingen in Europees perspectief (incl. informele Eurogroep/Ecofinraad en IMF)
+UID:56d58aae-d385-48d2-82e0-351851fbb586@56d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (13):\n  Onbekend (onbekend)\n  J.Z.C.M. Tielen (VVD)\n  A.R. Hammelburg (D66)\n  O.R. Ephraim (Groep Van Haga)\n  W.B. Hoekstra (onbekend)\n  N. Gündogan (Volt)\n  A.P.C. (Tony) van Dijck (PVV)\n  I. (Inge) van Dijk (CDA)\n  vaste commissie voor Europese Zaken (onbekend)\n  B.A.W. Snels (GroenLinks)\n  E. Heinen (VVD)\n  D.J. Eppink (JA21)\n  J.A. Vijlbrief (onbekend)\n\n\n
+DTEND:20210908T111500Z
+DTSTART:20210908T081500Z
 SUMMARY:Eurogroep/Ecofinraad 
-UID:af4f32d8-9b89-43b4-ad55-34aef47cd3d7@af4f.org
+UID:7f992eed-94b6-4c59-a17a-d0cc0dfd9485@7f99.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (7):\n  F.L. Idsinga (VVD)\n  I. (Inge) van Dijk (CDA)\n  W.B. Hoekstra (onbekend)\n  A.R. Hammelburg (D66)\n  M.Ö. Alkaya (SP)\n  J.A. Vijlbrief (onbekend)\n  J.Z.C.M. Tielen (VVD)\n\n\n
 DTEND:20210928T180000Z
 DTSTART:20210928T160000Z
 SUMMARY:Fatca 
-UID:6fe5854a-4760-40d5-9b5f-7d9432efde67@6fe5.org
+UID:b2bf1567-61e4-4cde-be3f-383248b2bc8c@b2bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat worden verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (3):\n  A. de Vries (onbekend)\n  M.L.J. Paul (VVD)\n  F. Azarkan (DENK)\n\n\n
+DTEND:20221117T150000Z
+DTSTART:20221117T120000Z
+SUMMARY:PwC-onderzoek naar het memo-Palmen
+UID:b12b77f8-9aee-44e3-b5a8-baa8d0323d68@b12b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  S.A.M. Kaag (onbekend)\n  M.L.A. van Rij (onbekend)\n\n\n
+DTEND:20230209T120000Z
+DTSTART:20230209T090000Z
+SUMMARY:Eurogroep/Ecofinraad
+UID:f3ae2c33-f6d3-4ea7-91e3-e31282cf0838@f3ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (12):\n  A.P.C. (Tony) van Dijck (PVV)\n  T.M.T. van der Lee (GroenLinks)\n  J.Z.C.M. Tielen (VVD)\n  E. Heinen (VVD)\n  M.L.A. van Rij (onbekend)\n  Onbekend (onbekend)\n  P.A. Grinwis (ChristenUnie)\n  vaste commissie voor Europese Zaken (onbekend)\n  I. (Inge) van Dijk (CDA)\n  Onbekend (onbekend)\n  S.A.M. Kaag (onbekend)\n  O.R. Ephraim (Groep Van Haga)\n\n\n
+DTEND:20220519T110000Z
+DTSTART:20220519T080000Z
+SUMMARY:Eurogroep/Ecofinraad
+UID:c1cb424c-0ca3-4db8-901e-e78930a5ef94@c1cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (13):\n  N. Gündogan (Volt)\n  M.Ö. Alkaya (SP)\n  I. (Inge) van Dijk (CDA)\n  J.Z.C.M. Tielen (VVD)\n  D.J. Eppink (JA21)\n  O.R. Ephraim (Groep Van Haga)\n  vaste commissie voor Europese Zaken (onbekend)\n  E. Heinen (VVD)\n  A.R. Hammelburg (D66)\n  Onbekend (onbekend)\n  J.A. Vijlbrief (onbekend)\n  B.A.W. Snels (GroenLinks)\n  W.B. Hoekstra (onbekend)\n\n\n
+DTEND:20210616T111500Z
+DTSTART:20210616T081500Z
+SUMMARY:Eurogroep/Ecofinraad
+UID:7de6c1d5-c5d3-4b5c-81fb-277da939be21@7de6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  I. (Inge) van Dijk (CDA)\n  S.A.M. Kaag (onbekend)\n  E. Heinen (VVD)\n  H. Nijboer (PvdA)\n  M.L.A. van Rij (onbekend)\n  T.M.T. van der Lee (GroenLinks)\n  vaste commissie voor Europese Zaken (onbekend)\n  S.P.R.A. van Weyenberg (D66)\n  M.Ö. Alkaya (SP)\n\n\n
+DTEND:20220310T120000Z
+DTSTART:20220310T090000Z
+SUMMARY:Eurogroep/Ecofinraad
+UID:59d69416-5f3d-48d5-bf44-3d966d66db0a@59d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (17):\n  W. Paulusma (D66)\n  I. (Inge) van Dijk (CDA)\n  Onbekend (onbekend)\n  M.L.J. Paul (VVD)\n  P.H. Omtzigt (Omtzigt)\n  S.H. Simons (BIJ1)\n  F. Azarkan (DENK)\n  L. van Raan (PvdD)\n  Onbekend (onbekend)\n  P.A. Grinwis (ChristenUnie)\n  Onbekend (onbekend)\n  A. de Vries (onbekend)\n  Onbekend (onbekend)\n  S. Maatoug (GroenLinks)\n  H. Nijboer (PvdA)\n  M.Ö. Alkaya (SP)\n  Onbekend (onbekend)\n\n\n
+DTEND:20220210T100000Z
+DTSTART:20220210T083000Z
+SUMMARY:Voortzetting commissiedebat Hersteloperatie Kinderopvangtoeslag
+UID:d2937964-a2a5-4f7b-bd47-698ec436cf66@d293.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nIn de procedurevergadering van 11 mei 2022 is besloten de separate commissiedebatten over consumenten en dienstverlening enerzijds en stabiliteit en instituties anderzijds samen te voegen in één commissiedebat Financiële markten. \n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  Onbekend (onbekend)\n  S.P.R.A. van Weyenberg (D66)\n  F. Azarkan (DENK)\n  P.A. Grinwis (ChristenUnie)\n  L. van Raan (PvdD)\n  I. (Inge) van Dijk (CDA)\n  A.P.C. (Tony) van Dijck (PVV)\n  Onbekend (onbekend)\n  E. Heinen (VVD)\n  H. Nijboer (PvdA)\n  J.Z.C.M. Tielen (VVD)\n  S.A.M. Kaag (onbekend)\n\n\n
+DTEND:20220630T120000Z
+DTSTART:20220630T080000Z
+SUMMARY:Financiële markten 
+UID:c959d819-8eb7-4f08-ae77-5d9efca3dbff@c959.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  E. Heinen (VVD)\n  vaste commissie voor Europese Zaken (onbekend)\n  M.L.A. van Rij (onbekend)\n  M.Ö. Alkaya (SP)\n  P. van Houwelingen (FVD)\n  T.M.T. van der Lee (GroenLinks)\n  S.P.R.A. van Weyenberg (D66)\n  S.A.M. Kaag (onbekend)\n  A.P.C. (Tony) van Dijck (PVV)\n\n\n
+DTEND:20220331T113000Z
+DTSTART:20220331T083000Z
+SUMMARY:Eurogroep/Ecofinraad
+UID:1eaa498e-ad35-43fd-be5b-183c032a7be0@1eaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (3):\n  M.L.A. van Rij (onbekend)\n  S.A.M. Kaag (onbekend)\n  vaste commissie voor Europese Zaken (onbekend)\n\n\n
+DTEND:20221201T120000Z
+DTSTART:20221201T090000Z
+SUMMARY:Eurogroep/Ecofinraad
+UID:b092e2b7-feb7-4fc0-a191-ed860d1ebeb0@b092.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers op de activiteit in Parlis\n \n\nHet is niet een besloten evenement\n\nAanwezigen (3):\n  vaste commissie voor Europese Zaken (onbekend)\n  S.A.M. Kaag (onbekend)\n  M.L.A. van Rij (onbekend)\n\n\n
+DTEND:20230309T120000Z
+DTSTART:20230309T090000Z
+SUMMARY:Eurogroep/Ecofinraad
+UID:0ba4218c-bc64-4e33-b09b-66c6f1536b21@0ba4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  M.L.A. van Rij (onbekend)\n  F. Azarkan (DENK)\n\n\n
+DTEND:20230614T140000Z
+DTSTART:20230614T110000Z
+SUMMARY:Fiscaliteit
+UID:c6b42179-0962-4627-8e81-3b796253cba6@c6b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  T.M.T. van der Lee (GroenLinks)\n  J.Z.C.M. Tielen (VVD)\n  E. Heinen (VVD)\n  A.P.C. (Tony) van Dijck (PVV)\n  P.H. Omtzigt (Omtzigt)\n  S.A.M. Kaag (onbekend)\n  M.L.A. van Rij (onbekend)\n  O.R. Ephraim (Groep Van Haga)\n  S.P.R.A. van Weyenberg (D66)\n  Onbekend (onbekend)\n  vaste commissie voor Europese Zaken (onbekend)\n\n\n
+DTEND:20220608T104500Z
+DTSTART:20220608T074500Z
+SUMMARY:Eurogroep/Ecofinraad
+UID:347a99be-5bd9-4001-93a1-6227f4949e51@347a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (1):\n  S.A.M. Kaag (onbekend)\n\n\n
+DTEND:20221123T160000Z
+DTSTART:20221123T130000Z
+SUMMARY:Digitale euro
+UID:8f775544-585e-45e8-9599-db4a0ad212ee@8f77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers op de activiteit in Parlis\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  S.A.M. Kaag (onbekend)\n  F. Azarkan (DENK)\n\n\n
+DTEND:20221020T160000Z
+DTSTART:20221020T130000Z
+SUMMARY:Bestrijding witwassen en terrorismefinanciering
+UID:c7c24e32-251b-4ede-8da2-355775b05d54@c7c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  F. Azarkan (DENK)\n  M.L.A. van Rij (onbekend)\n\n\n
+DTEND:20230125T150000Z
+DTSTART:20230125T120000Z
+SUMMARY:Fiscaliteit
+UID:16ae8a16-d774-41a4-9d0c-d5d04993f4ae@16ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (13):\n  D.J. Eppink (JA21)\n  T.M.T. van der Lee (GroenLinks)\n  N. Gündogan (Volt)\n  Onbekend (onbekend)\n  vaste commissie voor Europese Zaken (onbekend)\n  A.R. Hammelburg (D66)\n  Onbekend (onbekend)\n  J.A. Vijlbrief (onbekend)\n  E. Heinen (VVD)\n  I. (Inge) van Dijk (CDA)\n  Onbekend (onbekend)\n  W.B. Hoekstra (onbekend)\n  O.R. Ephraim (Groep Van Haga)\n\n\n
+DTEND:20211202T121500Z
+DTSTART:20211202T091500Z
+SUMMARY:Eurogroep/Ecofinraad
+UID:b8629b6d-3e5d-4d77-9655-602ad9bad884@b862.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (6):\n  Onbekend (onbekend)\n  F.L. Idsinga (VVD)\n  R.H. (Romke) de Jong (D66)\n  T.M.T. van der Lee (GroenLinks)\n  A. de Vries (onbekend)\n  I. (Inge) van Dijk (CDA)\n\n\n
+DTEND:20220309T160000Z
+DTSTART:20220309T130000Z
+SUMMARY:Douane
+UID:85ab6510-2ca5-4e5f-b34e-bdd8e0156b42@85ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (16):\n  R.H. (Romke) de Jong (D66)\n  F.L. Idsinga (VVD)\n  Onbekend (onbekend)\n  M.L.A. van Rij (onbekend)\n  Onbekend (onbekend)\n  H. Nijboer (PvdA)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  J.Z.C.M. Tielen (VVD)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  E. (Edgar) Mulder (PVV)\n  I. (Inge) van Dijk (CDA)\n  T.M.T. van der Lee (GroenLinks)\n  F. Azarkan (DENK)\n  M.Ö. Alkaya (SP)\n\n\n
+DTEND:20220324T120000Z
+DTSTART:20220324T090000Z
+SUMMARY:Belastingdienst
+UID:c4fc6f22-b58b-4961-8ac4-ead6fbf36bad@c4fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  I. (Inge) van Dijk (CDA)\n  E. Heinen (VVD)\n  M.Ö. Alkaya (SP)\n  N. Gündogan (Volt)\n  A.R. Hammelburg (D66)\n  H. Nijboer (PvdA)\n  T.M.T. van der Lee (GroenLinks)\n  vaste commissie voor Europese Zaken (onbekend)\n  W.B. Hoekstra (onbekend)\n  J.Z.C.M. Tielen (VVD)\n\n\n
+DTEND:20211117T143000Z
+DTSTART:20211117T123000Z
+SUMMARY:Nederlands Herstel- en veerkrachtplan (Recovery and Resilience Plan\; RRP)
+UID:78d04023-58e8-4c7f-ae03-224e8ce6d4df@78d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (8):\n  A.R. Hammelburg (D66)\n  M.Ö. Alkaya (SP)\n  E. Heinen (VVD)\n  H. Nijboer (PvdA)\n  W.B. Hoekstra (onbekend)\n  J.Z.C.M. Tielen (VVD)\n  O.R. Ephraim (Groep Van Haga)\n  I. (Inge) van Dijk (CDA)\n\n\n
+DTEND:20210610T151500Z
+DTSTART:20210610T121500Z
+SUMMARY:Financiële markten
+UID:0d237681-eb0a-499d-9152-cfaaad6f5b18@0d23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (12):\n  Onbekend (onbekend)\n  D.J. Eppink (JA21)\n  Onbekend (onbekend)\n  O.R. Ephraim (Groep Van Haga)\n  I. (Inge) van Dijk (CDA)\n  A.R. Hammelburg (D66)\n  vaste commissie voor Europese Zaken (onbekend)\n  E. Heinen (VVD)\n  W.B. Hoekstra (onbekend)\n  J.A. Vijlbrief (onbekend)\n  M.Ö. Alkaya (SP)\n  J.Z.C.M. Tielen (VVD)\n\n\n
+DTEND:20210930T111500Z
+DTSTART:20210930T081500Z
+SUMMARY:Eurogroep/Ecofinraad 
+UID:21b81105-24fe-4d51-9159-ffde9f06a5cd@21b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  M.L.A. van Rij (onbekend)\n  F. Azarkan (DENK)\n\n\n
+DTEND:20230223T150000Z
+DTSTART:20230223T120000Z
+SUMMARY:Belastingdienst
+UID:68dc216b-2f5e-4354-aa49-9870d103503f@68dc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers op de activiteit in Parlis\n \n\nHet is niet een besloten evenement\n\nAanwezigen (3):\n  vaste commissie voor Europese Zaken (onbekend)\n  M.L.A. van Rij (onbekend)\n  S.A.M. Kaag (onbekend)\n\n\n
 DTEND:20230608T110000Z
 DTSTART:20230608T080000Z
 SUMMARY:Eurogroep/Ecofinraad
-UID:6fdae500-228c-4281-8f49-0b1f1ff1433d@6fda.org
+UID:07e226dc-e9b2-4660-8a17-ed3bb082d133@07e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers op de activiteit in Parlis\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  A. de Vries (onbekend)\n  F. Azarkan (DENK)\n\n\n
+DTEND:20221208T163000Z
+DTSTART:20221208T123000Z
+SUMMARY:Hersteloperatie kinderopvangtoeslag
+UID:5a419ec4-ea23-4796-960b-03d1463b6e2f@5a41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers op de activiteit in Parlis\n \n\nHet is niet een besloten evenement\n\nAanwezigen (3):\n  M.L.A. van Rij (onbekend)\n  S.A.M. Kaag (onbekend)\n  vaste commissie voor Europese Zaken (onbekend)\n\n\n
+DTEND:20230511T110000Z
+DTSTART:20230511T080000Z
+SUMMARY:Eurogroep/Ecofinraad
+UID:864a528d-4a86-44a7-b45b-36f4168c1bcc@864a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (17):\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  S.A.M. Kaag (onbekend)\n  M.Ö. Alkaya (SP)\n  M.L.A. van Rij (onbekend)\n  H. Nijboer (PvdA)\n  A. de Vries (onbekend)\n  J.Z.C.M. Tielen (VVD)\n  F. Azarkan (DENK)\n  Onbekend (onbekend)\n  I. (Inge) van Dijk (CDA)\n  S. Maatoug (GroenLinks)\n  P.A. Grinwis (ChristenUnie)\n  P. van Houwelingen (FVD)\n  E. Heinen (VVD)\n  Onbekend (onbekend)\n  S.P.R.A. van Weyenberg (D66)\n\n\n
+DTEND:20220222T210000Z
+DTSTART:20220222T180000Z
+SUMMARY:Beleidsprioriteiten van de bewindspersonen van het Ministerie van Financiën 
+UID:4163e1d3-4c9f-4c19-bdfc-5de03698d394@4163.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (13):\n  Onbekend (onbekend)\n  O.R. Ephraim (Groep Van Haga)\n  Onbekend (onbekend)\n  E. Heinen (VVD)\n  vaste commissie voor Europese Zaken (onbekend)\n  S.P.R.A. van Weyenberg (D66)\n  T.M.T. van der Lee (GroenLinks)\n  L.A.J.M. Dassen (Volt)\n  M.Ö. Alkaya (SP)\n  A.P.C. (Tony) van Dijck (PVV)\n  D.J. Eppink (JA21)\n  P.H. Omtzigt (Omtzigt)\n  S.A.M. Kaag (onbekend)\n\n\n
+DTEND:20220707T111500Z
+DTSTART:20220707T081500Z
+SUMMARY:Eurogroep/Ecofinraad
+UID:4fe401cc-6248-49b3-ae66-ad53e0e5f33c@4fe4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (3):\n  M.L.A. van Rij (onbekend)\n  S.A.M. Kaag (onbekend)\n  F. Azarkan (DENK)\n\n\n
+DTEND:20221130T160000Z
+DTSTART:20221130T130000Z
+SUMMARY:Staatsdeelnemingen
+UID:cbc3d7f7-6ebf-48fe-be4d-39f0dda2d9d2@cbc3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers op de activiteit in Parlis\n\nHet is niet een besloten evenement\n\nAanwezigen (1):\n  M.L.A. van Rij (onbekend)\n\n\n
+DTEND:20221116T120000Z
+DTSTART:20221116T090000Z
+SUMMARY:Exportkredietverzekeringen
+UID:32a0824e-c72e-4420-b3ab-c48c56c2daf5@32a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (14):\n  D.J. Eppink (JA21)\n  J.Z.C.M. Tielen (VVD)\n  C. Stoffer (SGP)\n  F.L. Idsinga (VVD)\n  S. Maatoug (GroenLinks)\n  O.R. Ephraim (Groep Van Haga)\n  F. Azarkan (DENK)\n  M.L.A. van Rij (onbekend)\n  M.Ö. Alkaya (SP)\n  H. Nijboer (PvdA)\n  P.H. Omtzigt (Omtzigt)\n  P.A. Grinwis (ChristenUnie)\n  R.H. (Romke) de Jong (D66)\n  Onbekend (onbekend)\n\n\n
+DTEND:20220629T120000Z
+DTSTART:20220629T080000Z
+SUMMARY:Contouren box 3-heffing op basis van werkelijk rendement
+UID:5be74874-1f9e-4583-862b-2e096115196d@5be7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (15):\n  Onbekend (onbekend)\n  F. Azarkan (DENK)\n  R.H. (Romke) de Jong (D66)\n  S. Maatoug (GroenLinks)\n  P.H. Omtzigt (Omtzigt)\n  A. de Vries (onbekend)\n  I. (Inge) van Dijk (CDA)\n  C. Stoffer (SGP)\n  K. Arib (PvdA)\n  E. (Edgar) Mulder (PVV)\n  Onbekend (onbekend)\n  P.A. Grinwis (ChristenUnie)\n  J.Z.C.M. Tielen (VVD)\n  F.L. Idsinga (VVD)\n  Onbekend (onbekend)\n\n\n
+DTEND:20220622T140000Z
+DTSTART:20220622T110000Z
+SUMMARY:Toeslagen
+UID:1c5cb41f-be79-4080-a161-3cd70abee283@1c5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (1):\n  A. de Vries (onbekend)\n\n\n
+DTEND:20230119T120000Z
+DTSTART:20230119T090000Z
+SUMMARY:Douane
+UID:8c7f5b8f-194b-4e3c-b102-8499176b5f30@8c7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (17):\n  M.Ö. Alkaya (SP)\n  S. Maatoug (GroenLinks)\n  L. van Raan (PvdD)\n  A.P.C. (Tony) van Dijck (PVV)\n  S.P.R.A. van Weyenberg (D66)\n  E. Heinen (VVD)\n  P.A. Grinwis (ChristenUnie)\n  H. Nijboer (PvdA)\n  Onbekend (onbekend)\n  I. (Inge) van Dijk (CDA)\n  M.L.A. van Rij (onbekend)\n  R.H. (Romke) de Jong (D66)\n  F. Azarkan (DENK)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  S.A.M. Kaag (onbekend)\n  Onbekend (onbekend)\n\n\n
+DTEND:20220126T160000Z
+DTSTART:20220126T130000Z
+SUMMARY:Staatsdeelnemingen
+UID:714dfa7f-c7f0-4079-8a74-5d1d64172850@714d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (14):\n  W.B. Hoekstra (onbekend)\n  Onbekend (onbekend)\n  I. (Inge) van Dijk (CDA)\n  P.H. Omtzigt (Omtzigt)\n  J.Z.C.M. Tielen (VVD)\n  Onbekend (onbekend)\n  A.R. Hammelburg (D66)\n  N. Gündogan (Volt)\n  H. Nijboer (PvdA)\n  M.Ö. Alkaya (SP)\n  E. Heinen (VVD)\n  vaste commissie voor Europese Zaken (onbekend)\n  J.A. Vijlbrief (onbekend)\n  O.R. Ephraim (Groep Van Haga)\n\n\n
+DTEND:20211102T203000Z
+DTSTART:20211102T173000Z
+SUMMARY:Eurogroep/Ecofinraad
+UID:0f3f3876-c34e-4300-90b8-40c931c20298@0f3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  P.H. Omtzigt (Omtzigt)\n  S.A.M. Kaag (onbekend)\n  P. van Houwelingen (FVD)\n  E. Heinen (VVD)\n  vaste commissie voor Europese Zaken (onbekend)\n  M.L.A. van Rij (onbekend)\n  S.P.R.A. van Weyenberg (D66)\n  M.Ö. Alkaya (SP)\n  D.J. Eppink (JA21)\n  O.R. Ephraim (Groep Van Haga)\n  L.A.J.M. Dassen (Volt)\n  S. Maatoug (GroenLinks)\n  Onbekend (onbekend)\n  I. (Inge) van Dijk (CDA)\n\n\n
+DTEND:20220908T111500Z
+DTSTART:20220908T073000Z
+SUMMARY:Macro-economische ontwikkelingen in Europees perspectief (incl. Eurogroep/Ecofinraad)
+UID:7ce276ba-98f9-4235-b698-bccae084dd44@7ce2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (15):\n  S.P.R.A. van Weyenberg (D66)\n  P.A. Grinwis (ChristenUnie)\n  M.Ö. Alkaya (SP)\n  H. Nijboer (PvdA)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  E. (Edgar) Mulder (PVV)\n  B.A.W. Snels (GroenLinks)\n  I. (Inge) van Dijk (CDA)\n  F. Azarkan (DENK)\n  J.A. Vijlbrief (onbekend)\n  Onbekend (onbekend)\n  F.L. Idsinga (VVD)\n  Onbekend (onbekend)\n  J.Z.C.M. Tielen (VVD)\n\n\n
+DTEND:20210622T200000Z
+DTSTART:20210622T160000Z
+SUMMARY:Belastingdienst
+UID:40a9f163-8c20-47e4-98d5-ca172825e50c@40a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (1):\n  S.A.M. Kaag (onbekend)\n\n\n
+DTEND:20230330T110000Z
+DTSTART:20230330T080000Z
+SUMMARY:Accountancy
+UID:fce73877-655c-42d2-85c9-60a5a51e8da7@fce7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (4):\n  M.L.A. van Rij (onbekend)\n  Onbekend (onbekend)\n  F. Azarkan (DENK)\n  R.H. (Romke) de Jong (D66)\n\n\n
+DTEND:20221124T160000Z
+DTSTART:20221124T130000Z
+SUMMARY:Autobelastingen
+UID:11a9195a-de3c-4939-b9a0-32ac9d66887a@11a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  T.M.T. van der Lee (GroenLinks)\n  F. Azarkan (DENK)\n  M.Ö. Alkaya (SP)\n  H. Nijboer (PvdA)\n  S.A.M. Kaag (onbekend)\n  Onbekend (onbekend)\n  M. Amhaouch (CDA)\n  O.R. Ephraim (Groep Van Haga)\n  S.P.R.A. van Weyenberg (D66)\n  E. Heinen (VVD)\n\n\n
+DTEND:20220330T110000Z
+DTSTART:20220330T080000Z
+SUMMARY:Accountancy
+UID:26b1fd0e-be01-4732-86ab-47b32b518b46@26b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (13):\n  I. (Inge) van Dijk (CDA)\n  L. van Raan (PvdD)\n  E. (Edgar) Mulder (PVV)\n  J.Z.C.M. Tielen (VVD)\n  F. Azarkan (DENK)\n  H. Nijboer (PvdA)\n  F.L. Idsinga (VVD)\n  M.Ö. Alkaya (SP)\n  N. Gündogan (Volt)\n  A.C. van Huffelen (onbekend)\n  H. Kat (D66)\n  P.A. Grinwis (ChristenUnie)\n  B.A.W. Snels (GroenLinks)\n\n\n
+DTEND:20210701T113000Z
+DTSTART:20210701T073000Z
+SUMMARY:Hersteloperatie kinderopvangtoeslag
+UID:65e6da09-8bb2-4318-b2d7-5405badff829@65e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (12):\n  C. Stoffer (SGP)\n  H. Nijboer (PvdA)\n  F.L. Idsinga (VVD)\n  M.L.A. van Rij (onbekend)\n  I. (Inge) van Dijk (CDA)\n  D.J. Eppink (JA21)\n  P.H. Omtzigt (Omtzigt)\n  F. Azarkan (DENK)\n  R.H. (Romke) de Jong (D66)\n  J.Z.C.M. Tielen (VVD)\n  T.M.T. van der Lee (GroenLinks)\n  P.A. Grinwis (ChristenUnie)\n\n\n
+DTEND:20220317T120000Z
+DTSTART:20220317T090000Z
+SUMMARY:Belastingen
+UID:c7f137f4-6ab0-482e-90c0-ad78eac8279e@c7f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  A. de Vries (onbekend)\n  F. Azarkan (DENK)\n\n\n
+DTEND:20230222T150000Z
+DTSTART:20230222T120000Z
+SUMMARY:Toeslagen
+UID:6001e19d-a185-4d55-9da7-5675686cb766@6001.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (15):\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (onbekend)\n  F.L. Idsinga (VVD)\n  L. van Raan (PvdD)\n  P.A. Grinwis (ChristenUnie)\n  N. Gündogan (Volt)\n  B.A.W. Snels (GroenLinks)\n  H. Nijboer (PvdA)\n  F. Azarkan (DENK)\n  I. (Inge) van Dijk (CDA)\n  M.Ö. Alkaya (SP)\n  E. (Edgar) Mulder (PVV)\n  S.H. Simons (BIJ1)\n  H. Kat (D66)\n  J.Z.C.M. Tielen (VVD)\n  A.C. van Huffelen (onbekend)\n\n\n
+DTEND:20210527T150000Z
+DTSTART:20210527T110000Z
+SUMMARY:Hersteloperatie kinderopvangtoeslag
+UID:4f3b2566-ced9-400e-9a4d-604fb7a1e7f9@4f3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (3):\n  vaste commissie voor Europese Zaken (onbekend)\n  M.L.A. van Rij (onbekend)\n  S.A.M. Kaag (onbekend)\n\n\n
+DTEND:20221103T120000Z
+DTSTART:20221103T090000Z
+SUMMARY:Eurogroep/Ecofinraad
+UID:4292ca43-989b-406f-a9a6-36d974211971@4292.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (3):\n  vaste commissie voor Europese Zaken (onbekend)\n  S.A.M. Kaag (onbekend)\n  M.L.A. van Rij (onbekend)\n\n\n
+DTEND:20220929T143000Z
+DTSTART:20220929T103000Z
+SUMMARY:Eurogroep/Ecofinraad/IMF
+UID:2ab9f3ba-a2aa-4792-a1e2-0a8fdf02dc94@2ab9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (12):\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n  B.A.W. Snels (GroenLinks)\n  O.R. Ephraim (Groep Van Haga)\n  F.B.J. Grapperhaus (onbekend)\n  H. Nijboer (PvdA)\n  J.Z.C.M. Tielen (VVD)\n  F. Azarkan (DENK)\n  A.R. Hammelburg (D66)\n  M.Ö. Alkaya (SP)\n  E. Heinen (VVD)\n  W.B. Hoekstra (onbekend)\n  I. (Inge) van Dijk (CDA)\n\n\n
+DTEND:20210909T110000Z
+DTSTART:20210909T080000Z
+SUMMARY:Bestrijding witwassen en terrorismefinanciering 
+UID:9769333f-159a-4b0c-b2a3-320f67bbc832@9769.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n \n\nHet is niet een besloten evenement\n\nAanwezigen (3):\n  S.A.M. Kaag (onbekend)\n  M.L.A. van Rij (onbekend)\n  F. Azarkan (DENK)\n\n\n
+DTEND:20230601T110000Z
+DTSTART:20230601T080000Z
+SUMMARY:Staatsdeelnemingen
+UID:577bd4a7-a9a9-44dd-8563-639b5b1876a9@577b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (18):\n  L. van Raan (PvdD)\n  P.A. Grinwis (ChristenUnie)\n  J.Z.C.M. Tielen (VVD)\n  I. (Inge) van Dijk (CDA)\n  A. de Vries (onbekend)\n  Onbekend (onbekend)\n  M.L.J. Paul (VVD)\n  S. Maatoug (GroenLinks)\n  F. Azarkan (DENK)\n  C.A.M. van der Plas (BBB)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  H. Kat (D66)\n  K. Arib (PvdA)\n  M.Ö. Alkaya (SP)\n  E. (Edgar) Mulder (PVV)\n  Onbekend (onbekend)\n  P.H. Omtzigt (Omtzigt)\n\n\n
+DTEND:20220519T180000Z
+DTSTART:20220519T140000Z
+SUMMARY:Hersteloperatie kinderopvangtoeslag (Let op:gewijzigd tijdstip)
+UID:e019648f-85ff-42c2-b460-1b9a0f486f30@e019.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  F. Azarkan (DENK)\n  S.A.M. Kaag (onbekend)\n\n\n
+DTEND:20221214T173000Z
+DTSTART:20221214T143000Z
+SUMMARY: Financiële markten
+UID:0d06b79d-affa-48ef-9cf2-38f57deab87e@0d06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich\naan te melden via het tabblad deelnemers in Parlis\n\nHet is niet een besloten evenement\n\nAanwezigen (6):\n  A. de Vries (onbekend)\n  I. (Inge) van Dijk (CDA)\n  K. Arib (PvdA)\n  L. van Raan (PvdD)\n  H. Kat (D66)\n  J.Z.C.M. Tielen (VVD)\n\n\n
+DTEND:20220915T190000Z
+DTSTART:20220915T170000Z
+SUMMARY:Reactie op zorgpunten uit gesprekken met het Ouderpanel Kinderopvangtoeslag
+UID:d0f7d234-b93b-49ad-a869-30e556944997@d0f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (13):\n  N. Gündogan (Volt)\n  I. (Inge) van Dijk (CDA)\n  M.Ö. Alkaya (SP)\n  S.P.R.A. van Weyenberg (D66)\n  O.R. Ephraim (Groep Van Haga)\n  J.A. Vijlbrief (onbekend)\n  H. Nijboer (PvdA)\n  P.A. Grinwis (ChristenUnie)\n  E. (Edgar) Mulder (PVV)\n  C. Stoffer (SGP)\n  B.A.W. Snels (GroenLinks)\n  F.L. Idsinga (VVD)\n  D.J. Eppink (JA21)\n\n\n
+DTEND:20210630T104500Z
+DTSTART:20210630T074500Z
+SUMMARY:Belastingen
+UID:9a15d666-5c73-4518-8450-18ce3a2abc77@9a15.org
 END:VEVENT
 END:VCALENDAR
