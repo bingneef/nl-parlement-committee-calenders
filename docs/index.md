@@ -1,14 +1,11 @@
 # Commissie vergaderingen Eerste- en Tweede Kamer
 Dit project genereert elke dag de kalenders van de verschillende commissies van de kamers van het parlement. Je kan de link in de kalender programma (bijvoorbeeld Outlook) kopiëren voor automatische synchronisatie.
 
-Laatste update: 22/09/2022 05:42
+Laatste update: 22/09/2022 16:50
 
 ## Gevulde kalenders
 **Commissie voor de Rijksuitgaven** (2 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Commissie-voor-de-Rijksuitgaven.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Commissie-voor-de-Rijksuitgaven.ics)
-
-**Contactgroep Duitsland** (1 gevonden)\
-[https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Contactgroep-Duitsland.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Contactgroep-Duitsland.ics)
 
 **Vaste commissie voor Binnenlandse Zaken** (36 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Binnenlandse-Zaken.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Binnenlandse-Zaken.ics)
@@ -19,7 +16,7 @@ Laatste update: 22/09/2022 05:42
 **Vaste commissie voor Buitenlandse Zaken** (32 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Buitenlandse-Zaken.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Buitenlandse-Zaken.ics)
 
-**Vaste commissie voor Defensie** (27 gevonden)\
+**Vaste commissie voor Defensie** (28 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Defensie.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Defensie.ics)
 
 **vaste commissie voor Digitale Zaken** (12 gevonden)\
@@ -46,7 +43,7 @@ Laatste update: 22/09/2022 05:42
 **Vaste commissie voor Landbouw, Natuur en Voedselkwaliteit** (34 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Landbouw--Natuur-en-Voedselkwaliteit.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Landbouw--Natuur-en-Voedselkwaliteit.ics)
 
-**Vaste commissie voor Onderwijs, Cultuur en Wetenschap** (25 gevonden)\
+**Vaste commissie voor Onderwijs, Cultuur en Wetenschap** (26 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Onderwijs--Cultuur-en-Wetenschap.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Onderwijs--Cultuur-en-Wetenschap.ics)
 
 **Vaste commissie voor Sociale Zaken en Werkgelegenheid** (29 gevonden)\
@@ -115,6 +112,9 @@ Laatste update: 22/09/2022 05:42
 
 **Contactgroep België** (0 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Contactgroep-België.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Contactgroep-België.ics)
+
+**Contactgroep Duitsland** (0 gevonden)\
+[https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Contactgroep-Duitsland.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Contactgroep-Duitsland.ics)
 
 **Contactgroep Frankrijk** (0 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Contactgroep-Frankrijk.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Contactgroep-Frankrijk.ics)
