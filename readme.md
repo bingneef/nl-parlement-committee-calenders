@@ -1,7 +1,7 @@
 # Commissie vergaderingen Eerste- en Tweede Kamer
 Dit project genereert elke dag de kalenders van de verschillende commissies van de kamers van het parlement. Je kan de link in de kalender programma (bijvoorbeeld Outlook) kopiëren voor automatische synchronisatie.
 
-Laatste update: 29/09/2022 05:44
+Laatste update: 29/09/2022 16:54
 
 ## Gevulde kalenders
 **Commissie voor de Rijksuitgaven** (2 gevonden)\
@@ -16,7 +16,7 @@ Laatste update: 29/09/2022 05:44
 **Vaste commissie voor Buitenlandse Zaken** (32 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Buitenlandse-Zaken.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Buitenlandse-Zaken.ics)
 
-**Vaste commissie voor Defensie** (28 gevonden)\
+**Vaste commissie voor Defensie** (27 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Defensie.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Defensie.ics)
 
 **vaste commissie voor Digitale Zaken** (14 gevonden)\
@@ -25,7 +25,7 @@ Laatste update: 29/09/2022 05:44
 **Vaste commissie voor Economische Zaken en Klimaat** (53 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Economische-Zaken-en-Klimaat.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Economische-Zaken-en-Klimaat.ics)
 
-**Vaste commissie voor Europese Zaken** (14 gevonden)\
+**Vaste commissie voor Europese Zaken** (13 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Europese-Zaken.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Europese-Zaken.ics)
 
 **Vaste commissie voor Financiën** (68 gevonden)\
@@ -40,7 +40,7 @@ Laatste update: 29/09/2022 05:44
 **Vaste commissie voor Koninkrijksrelaties** (7 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Koninkrijksrelaties.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Koninkrijksrelaties.ics)
 
-**Vaste commissie voor Landbouw, Natuur en Voedselkwaliteit** (33 gevonden)\
+**Vaste commissie voor Landbouw, Natuur en Voedselkwaliteit** (32 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Landbouw--Natuur-en-Voedselkwaliteit.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Landbouw--Natuur-en-Voedselkwaliteit.ics)
 
 **Vaste commissie voor Onderwijs, Cultuur en Wetenschap** (26 gevonden)\
@@ -158,8 +158,11 @@ Laatste update: 29/09/2022 05:44
 **Gezamenlijke toezichtsgroep Europol** (0 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Gezamenlijke-toezichtsgroep-Europol.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Gezamenlijke-toezichtsgroep-Europol.ics)
 
-**Interparlementaire commissie inzake de Nederlandse Taalunie** (0 gevonden)\
-[https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Interparlementaire-commissie-inzake-de-Nederlandse-Taalunie.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Interparlementaire-commissie-inzake-de-Nederlandse-Taalunie.ics)
+**Interparlementaire Commissie van de Nederlandse Taalunie** (0 gevonden)\
+[https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Interparlementaire-Commissie-van-de-Nederlandse-Taalunie.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Interparlementaire-Commissie-van-de-Nederlandse-Taalunie.ics)
+
+**Interparlementaire Unie (IPU)** (0 gevonden)\
+[https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Interparlementaire-Unie-(IPU).ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Interparlementaire-Unie-(IPU).ics)
 
 **IPC Artikel 13** (0 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/IPC-Artikel-13.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/IPC-Artikel-13.ics)
@@ -179,17 +182,17 @@ Laatste update: 29/09/2022 05:44
 **Kunstcommissie** (0 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Kunstcommissie.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Kunstcommissie.ics)
 
-**NAVO Assemblee** (0 gevonden)\
-[https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/NAVO-Assemblee.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/NAVO-Assemblee.ics)
+**NAVO Parlementaire Assemblee** (0 gevonden)\
+[https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/NAVO-Parlementaire-Assemblee.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/NAVO-Parlementaire-Assemblee.ics)
 
-**Nederlandse Groep van de Interparlementaire Unie** (0 gevonden)\
-[https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Nederlandse-Groep-van-de-Interparlementaire-Unie.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Nederlandse-Groep-van-de-Interparlementaire-Unie.ics)
+**OVSE Parlementaire Assemblee** (0 gevonden)\
+[https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/OVSE-Parlementaire-Assemblee.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/OVSE-Parlementaire-Assemblee.ics)
 
-**OVSE-Assemblee** (0 gevonden)\
-[https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/OVSE-Assemblee.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/OVSE-Assemblee.ics)
+**Parlementaire Assemblee van de Mediterrane Unie** (0 gevonden)\
+[https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Parlementaire-Assemblee-van-de-Mediterrane-Unie.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Parlementaire-Assemblee-van-de-Mediterrane-Unie.ics)
 
-**Parlementaire Assemblee van de Unie voor de Mediterrane Regio** (0 gevonden)\
-[https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Parlementaire-Assemblee-van-de-Unie-voor-de-Mediterrane-Regio.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Parlementaire-Assemblee-van-de-Unie-voor-de-Mediterrane-Regio.ics)
+**Parlementaire Assemblee van de Raad van Europa** (0 gevonden)\
+[https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Parlementaire-Assemblee-van-de-Raad-van-Europa.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Parlementaire-Assemblee-van-de-Raad-van-Europa.ics)
 
 **Parlementaire enquêtecommissie aardgaswinning Groningen** (0 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Parlementaire-enquêtecommissie-aardgaswinning-Groningen.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Parlementaire-enquêtecommissie-aardgaswinning-Groningen.ics)
@@ -214,9 +217,6 @@ Laatste update: 29/09/2022 05:44
 
 **Parlementaire ondervragingscommissie ongewenste beïnvloeding uit onvrije landen** (0 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Parlementaire-ondervragingscommissie-ongewenste-beïnvloeding-uit-onvrije-landen.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Parlementaire-ondervragingscommissie-ongewenste-beïnvloeding-uit-onvrije-landen.ics)
-
-**Parlementaire Vergadering van de Raad van Europa** (0 gevonden)\
-[https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Parlementaire-Vergadering-van-de-Raad-van-Europa.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Parlementaire-Vergadering-van-de-Raad-van-Europa.ics)
 
 **Presidium** (0 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Presidium.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Presidium.ics)
