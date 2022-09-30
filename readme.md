@@ -1,7 +1,7 @@
 # Commissie vergaderingen Eerste- en Tweede Kamer
 Dit project genereert elke dag de kalenders van de verschillende commissies van de kamers van het parlement. Je kan de link in de kalender programma (bijvoorbeeld Outlook) kopiëren voor automatische synchronisatie.
 
-Laatste update: 30/09/2022 05:42
+Laatste update: 30/09/2022 16:54
 
 ## Gevulde kalenders
 **Commissie voor de Rijksuitgaven** (2 gevonden)\
@@ -22,10 +22,10 @@ Laatste update: 30/09/2022 05:42
 **vaste commissie voor Digitale Zaken** (14 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/vaste-commissie-voor-Digitale-Zaken.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/vaste-commissie-voor-Digitale-Zaken.ics)
 
-**Vaste commissie voor Economische Zaken en Klimaat** (53 gevonden)\
+**Vaste commissie voor Economische Zaken en Klimaat** (54 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Economische-Zaken-en-Klimaat.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Economische-Zaken-en-Klimaat.ics)
 
-**Vaste commissie voor Europese Zaken** (13 gevonden)\
+**Vaste commissie voor Europese Zaken** (14 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Europese-Zaken.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Europese-Zaken.ics)
 
 **Vaste commissie voor Financiën** (68 gevonden)\
@@ -40,7 +40,7 @@ Laatste update: 30/09/2022 05:42
 **Vaste commissie voor Koninkrijksrelaties** (7 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Koninkrijksrelaties.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Koninkrijksrelaties.ics)
 
-**Vaste commissie voor Landbouw, Natuur en Voedselkwaliteit** (32 gevonden)\
+**Vaste commissie voor Landbouw, Natuur en Voedselkwaliteit** (33 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Landbouw--Natuur-en-Voedselkwaliteit.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Landbouw--Natuur-en-Voedselkwaliteit.ics)
 
 **Vaste commissie voor Onderwijs, Cultuur en Wetenschap** (26 gevonden)\
@@ -188,11 +188,11 @@ Laatste update: 30/09/2022 05:42
 **OVSE Parlementaire Assemblee** (0 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/OVSE-Parlementaire-Assemblee.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/OVSE-Parlementaire-Assemblee.ics)
 
-**Parlementaire Assemblee van de Mediterrane Unie** (0 gevonden)\
-[https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Parlementaire-Assemblee-van-de-Mediterrane-Unie.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Parlementaire-Assemblee-van-de-Mediterrane-Unie.ics)
-
 **Parlementaire Assemblee van de Raad van Europa** (0 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Parlementaire-Assemblee-van-de-Raad-van-Europa.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Parlementaire-Assemblee-van-de-Raad-van-Europa.ics)
+
+**Parlementaire Assemblee van de Unie voor de Mediterrane Regio** (0 gevonden)\
+[https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Parlementaire-Assemblee-van-de-Unie-voor-de-Mediterrane-Regio.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Parlementaire-Assemblee-van-de-Unie-voor-de-Mediterrane-Regio.ics)
 
 **Parlementaire enquêtecommissie aardgaswinning Groningen** (0 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Parlementaire-enquêtecommissie-aardgaswinning-Groningen.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Parlementaire-enquêtecommissie-aardgaswinning-Groningen.ics)
