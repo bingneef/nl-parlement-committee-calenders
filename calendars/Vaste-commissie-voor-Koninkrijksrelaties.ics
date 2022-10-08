@@ -2,52 +2,52 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHerziene convocatie verzamel-commissiedebat d.d. 26 mei 2021\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  R.W. Knops (onbekend)\n  A. (Aukje) de Vries (VVD)\n  J.M. Paternotte (D66)\n  S.H. Simons (BIJ1)\n  A.H. Kuiken (PvdA)\n  J.A.M.J. van den Berg (CDA)\n  D.G.M. Ceder (ChristenUnie)\n  J. Wuite (D66)\n\n\n
-DTEND:20210526T170000Z
-DTSTART:20210526T140000Z
-SUMMARY:Verzamel-commissiedebat
-UID:86d0043c-5534-4bb3-ba02-7d5d02ebbea1@86d0.org
+DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging agendapunten*\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  A.C. van Huffelen (onbekend)\n  Onbekend (onbekend)\n  R.J. Kamminga (VVD)\n  Onbekend (onbekend)\n  S.H. Simons (BIJ1)\n  A.H. Kuiken (PvdA)\n  Onbekend (onbekend)\n  J. Wuite (D66)\n  M.L.J. Paul (VVD)\n  J.A.M.J. van den Berg (CDA)\n\n\n
+DTEND:20220310T110000Z
+DTSTART:20220310T083000Z
+SUMMARY:Landspakketten en hervormingen CAS
+UID:37c85953-f99c-4249-8c5f-d4c9f41bc887@37c8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. wijziging tijdstip. \n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  A.H. Kuiken (PvdA)\n  R.J. Kamminga (VVD)\n  J.A.M.J. van den Berg (CDA)\n  D.J. Eppink (JA21)\n  K. Bouchallikh (GroenLinks)\n  D.G.M. Ceder (ChristenUnie)\n  A.C. van Huffelen (onbekend)\n  J. Wuite (D66)\n\n\n
 DTEND:20220414T164500Z
 DTSTART:20220414T141500Z
 SUMMARY:Governance Caribisch Nederland
-UID:2f04419c-13b9-40f9-a697-6818702b1e38@2f04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nZesde herziene convocatie i.v.m. toevoeging zaak aan laatste agendapunt. *\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  A.H. Kuiken (PvdA)\n  R.J. Kamminga (VVD)\n  Onbekend (onbekend)\n  L. van Raan (PvdD)\n  D.G.M. Ceder (ChristenUnie)\n  K. Bouchallikh (GroenLinks)\n  J. Wuite (D66)\n  J.A.M.J. van den Berg (CDA)\n  A.C. van Huffelen (onbekend)\n\n\n
-DTEND:20220323T143000Z
-DTSTART:20220323T113000Z
-SUMMARY:Verzamel-commissiedebat BES
-UID:baa3388a-c091-48e4-9c9b-64642f6ca046@baa3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nLet op! gewijzigd tijdstip\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  A.H. Kuiken (PvdA)\n  J.A.M.J. van den Berg (CDA)\n  A. (Aukje) de Vries (VVD)\n  R.W. Knops (onbekend)\n  D.G.M. Ceder (ChristenUnie)\n  J. Wuite (D66)\n  J.M. Paternotte (D66)\n  S.H. Simons (BIJ1)\n\n\n
-DTEND:20210602T170000Z
-DTSTART:20210602T150000Z
-SUMMARY:Sint Eustatius 
-UID:3bf9ae3d-6a7e-4733-90f6-b75d7672b630@3bf9.org
+UID:c98e7e58-a080-4242-bbd2-58fbeb4954f0@c98e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nHerziene convocatie iv.m. nieuwe datum. \n\nHet is niet een besloten evenement\n\nAanwezigen (4):\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (onbekend)\n  A.C. van Huffelen (onbekend)\n  C.J. Schouten (onbekend)\n  W. Paulusma (D66)\n\n\n
 DTEND:20221115T210000Z
 DTSTART:20221115T170000Z
 SUMMARY:Sociaal domein & Bestuursakkoorden BES 
-UID:d4a99434-b3fb-4ffa-b821-4f2e4b5328ae@d4a9.org
+UID:87203d90-ec2a-43b2-838b-01ea4bc158d9@8720.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nZesde herziene convocatie i.v.m. toevoeging zaak aan laatste agendapunt. *\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  A.H. Kuiken (PvdA)\n  R.J. Kamminga (VVD)\n  Onbekend (onbekend)\n  L. van Raan (PvdD)\n  D.G.M. Ceder (ChristenUnie)\n  K. Bouchallikh (GroenLinks)\n  J. Wuite (D66)\n  J.A.M.J. van den Berg (CDA)\n  A.C. van Huffelen (onbekend)\n\n\n
+DTEND:20220323T143000Z
+DTSTART:20220323T113000Z
+SUMMARY:Verzamel-commissiedebat BES
+UID:761b3627-cb97-4732-be6b-29fb6fbe5ca5@761b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHerziene convocatie verzamel-commissiedebat d.d. 26 mei 2021\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  R.W. Knops (onbekend)\n  A. (Aukje) de Vries (VVD)\n  J.M. Paternotte (D66)\n  S.H. Simons (BIJ1)\n  A.H. Kuiken (PvdA)\n  J.A.M.J. van den Berg (CDA)\n  D.G.M. Ceder (ChristenUnie)\n  J. Wuite (D66)\n\n\n
+DTEND:20210526T170000Z
+DTSTART:20210526T140000Z
+SUMMARY:Verzamel-commissiedebat
+UID:12fa470d-efe7-43c9-bb34-0bb1b274c330@12fa.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nHerziene convocatie  i.v.m. toevoeging agendapunt.* \n\nHet is niet een besloten evenement\n\nAanwezigen (18):\n  Onbekend (onbekend)\n  D.G.M. Ceder (ChristenUnie)\n  R.W. Knops (onbekend)\n  M.C.G. Keijzer (onbekend)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  W. Koolmees (onbekend)\n  S.H. Simons (BIJ1)\n  R.M. Leijten (SP)\n  Onbekend (onbekend)\n  L. Bromet (GroenLinks)\n  Onbekend (onbekend)\n  A. (Aukje) de Vries (VVD)\n  J. Wuite (D66)\n  A.H. Kuiken (PvdA)\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (onbekend)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n\n\n
 DTEND:20210616T170000Z
 DTSTART:20210616T140000Z
 SUMMARY:IJkpunt bestaanszekerheid
-UID:f6f55630-e1a0-43d1-853a-b8c72108d344@f6f5.org
+UID:607ede73-c123-4299-98c7-d973ecedd1a2@607e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging agendapunten*\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  A.C. van Huffelen (onbekend)\n  Onbekend (onbekend)\n  R.J. Kamminga (VVD)\n  Onbekend (onbekend)\n  S.H. Simons (BIJ1)\n  A.H. Kuiken (PvdA)\n  Onbekend (onbekend)\n  J. Wuite (D66)\n  M.L.J. Paul (VVD)\n  J.A.M.J. van den Berg (CDA)\n\n\n
-DTEND:20220310T110000Z
-DTSTART:20220310T083000Z
-SUMMARY:Landspakketten en hervormingen CAS
-UID:46185b6d-80ad-45cb-b7b4-9d05f3b461f2@4618.org
+DESCRIPTION:Notitie:\nLet op! gewijzigd tijdstip\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  A.H. Kuiken (PvdA)\n  J.A.M.J. van den Berg (CDA)\n  A. (Aukje) de Vries (VVD)\n  R.W. Knops (onbekend)\n  D.G.M. Ceder (ChristenUnie)\n  J. Wuite (D66)\n  J.M. Paternotte (D66)\n  S.H. Simons (BIJ1)\n\n\n
+DTEND:20210602T170000Z
+DTSTART:20210602T150000Z
+SUMMARY:Sint Eustatius 
+UID:7f1a9010-5ae9-4858-a2af-ee2f9161c94c@7f1a.org
 END:VEVENT
 END:VCALENDAR
