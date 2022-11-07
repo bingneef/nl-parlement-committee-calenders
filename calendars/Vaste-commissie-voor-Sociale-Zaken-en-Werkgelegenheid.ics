@@ -2,192 +2,199 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd: 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (1):\n  C.J. Schouten (onbekend)\n\n\n
-DTEND:20230119T130000Z
-DTSTART:20230119T090000Z
-SUMMARY:Pensioenonderwerpen
-UID:5b0e84fc-f790-42f4-b8fe-e89a5f0a2595@5b0e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie: 6 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  S. Maatoug (GroenLinks)\n  B.J. Eerdmans (JA21)\n  B. Becker (VVD)\n  S.H. Simons (BIJ1)\n  S.R.T. van Baarle (DENK)\n  D.G.M. Ceder (ChristenUnie)\n  S. Belhaj (D66)\n  W. Koolmees (onbekend)\n  M. Koekkoek (Volt)\n  C.A.M. van der Plas (BBB)\n  M. de Graaf (PVV)\n  P.E. (Pieter) Heerma (CDA)\n  C. Stoffer (SGP)\n\n\n
-DTEND:20210628T120000Z
-DTSTART:20210628T080000Z
-SUMMARY:Inburgering en integratie
-UID:b75640fa-9c60-4c97-b82c-146a79f801f1@b756.org
+DESCRIPTION:Notitie:\nVoortzetting commissiedebat Arbeidsmarktbeleid van 20 oktober 2022\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  H.M. Palland (CDA)\n  S. Maatoug (GroenLinks)\n  B. van Kent (SP)\n  D.G.M. Ceder (ChristenUnie)\n  B.M.G. Smals (VVD)\n  M.J.T.G. van Beukering-Huijbregts (D66)\n  C.E.G. van Gennip (onbekend)\n  B.C. Kathmann (PvdA)\n  L.W.E. (Léon) de Jong (PVV)\n\n\n
+DTEND:20221103T150000Z
+DTSTART:20221103T120000Z
+SUMMARY:Arbeidsmarktbeleid - voortzetting
+UID:399ecf0d-cb54-494d-8cb1-d97b862431b1@399e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nSpreektijd per fractie: 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  M. Koekkoek (Volt)\n  T. Kuzu (DENK)\n  C. Stoffer (SGP)\n  Z. El Yassini (VVD)\n  C.E.G. van Gennip (onbekend)\n  H.M. Palland (CDA)\n  B.C. Kathmann (PvdA)\n  S. Maatoug (GroenLinks)\n  R.H. (Romke) de Jong (D66)\n  W.R. van Haga (Groep Van Haga)\n  L.W.E. (Léon) de Jong (PVV)\n  B. van Kent (SP)\n  D.G.M. Ceder (ChristenUnie)\n  B.J. Eerdmans (JA21)\n\n\n
 DTEND:20220519T110000Z
 DTSTART:20220519T080000Z
 SUMMARY:Arbeidsmigratie
-UID:fb33a2ec-c308-4adf-bd94-f3d56053a73d@fb33.org
+UID:5fdd61f1-098c-4165-934f-3e7d6b7a7010@5fdd.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nVoortzetting commissiedebat Arbeidsmarktbeleid van 20 oktober 2022\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  H.M. Palland (CDA)\n  S. Maatoug (GroenLinks)\n  B. van Kent (SP)\n  D.G.M. Ceder (ChristenUnie)\n  B.M.G. Smals (VVD)\n  M.J.T.G. van Beukering-Huijbregts (D66)\n  C.E.G. van Gennip (onbekend)\n  B.C. Kathmann (PvdA)\n  L.W.E. (Léon) de Jong (PVV)\n\n\n
-DTEND:20221103T150000Z
-DTSTART:20221103T120000Z
-SUMMARY:Arbeidsmarktbeleid - voortzetting
-UID:b171aa26-ca6d-4db5-a297-3369f801b85a@b171.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie: 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  A.H. Kuiken (PvdA)\n  S.H. (Sylvana) Simons (BIJ1)\n  L.W.E. (Léon) de Jong (PVV)\n  A.H.J. de Kort (VVD)\n  T. Kuzu (DENK)\n  H.M. Palland (CDA)\n  S. Maatoug (GroenLinks)\n  D.G.M. Ceder (ChristenUnie)\n  F. Sahla (D66)\n  S.R.T. van Baarle (DENK)\n  C.J. Schouten (onbekend)\n\n\n
-DTEND:20221006T154500Z
-DTSTART:20221006T114500Z
-SUMMARY:Armoede- en schuldenbeleid
-UID:5c919b30-7341-4434-8fd0-38fed8e815fd@5c91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie: 3 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (18):\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  M. Koekkoek (Volt)\n  Onbekend (onbekend)\n  L.W.E. (Léon) de Jong (PVV)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  B.J. Eerdmans (JA21)\n  H.M. Palland (CDA)\n  D.G.M. Ceder (ChristenUnie)\n  T. Kuzu (DENK)\n  C.E.G. van Gennip (onbekend)\n  Z. El Yassini (VVD)\n  A. Podt (D66)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  K.P. Piri (PvdA)\n  B. van Kent (SP)\n\n\n
-DTEND:20220601T133000Z
-DTSTART:20220601T113000Z
-SUMMARY:Arbeidsmigratie (voortzetting CD 19 mei 2022)
-UID:a0926b48-251b-4228-a803-0878ea30f673@a092.org
+DESCRIPTION:Notitie:\nSpreektijd: 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (1):\n  C.J. Schouten (onbekend)\n\n\n
+DTEND:20230119T130000Z
+DTSTART:20230119T090000Z
+SUMMARY:Pensioenonderwerpen
+UID:c33eeddc-ffb5-4532-ac39-da43e94d010b@c33e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nSpreektijd per fractie: 6 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  T. Kuzu (DENK)\n  M. de Graaf (PVV)\n  S. Maatoug (GroenLinks)\n  H.M. Palland (CDA)\n  Onbekend (onbekend)\n  D.G.M. Ceder (ChristenUnie)\n  S. Belhaj (D66)\n  S.R.T. van Baarle (DENK)\n  C.E.G. van Gennip (onbekend)\n  A. Podt (D66)\n  B.C. Kathmann (PvdA)\n  B. Becker (VVD)\n  Onbekend (onbekend)\n\n\n
 DTEND:20220420T150000Z
 DTSTART:20220420T120000Z
 SUMMARY:Inburgering en integratie
-UID:a8690df2-a9a1-4744-9cb1-8c16ee50c50a@a869.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie: 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  S. Maatoug (GroenLinks)\n  L.W.E. (Léon) de Jong (PVV)\n  B.C. Kathmann (PvdA)\n  B.M.G. Smals (VVD)\n  B. van Kent (SP)\n  Onbekend (onbekend)\n  S.R.T. van Baarle (DENK)\n  H.M. Palland (CDA)\n  C. Stoffer (SGP)\n  H. Kat (D66)\n  C.E.G. van Gennip (onbekend)\n  M.J.T.G. van Beukering-Huijbregts (D66)\n  D.G.M. Ceder (ChristenUnie)\n\n\n
-DTEND:20221020T160000Z
-DTSTART:20221020T110000Z
-SUMMARY:Arbeidsmarktbeleid
-UID:4efa906b-c179-452f-bc9c-74d889a25ca1@4efa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd: 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  Onbekend (onbekend)\n  J.P. Kwint (SP)\n  P.A. Grinwis (ChristenUnie)\n  Onbekend (onbekend)\n  C.E.G. van Gennip (onbekend)\n  H. Kat (D66)\n  H.M. Palland (CDA)\n  S. Maatoug (GroenLinks)\n  B.C. Kathmann (PvdA)\n  J. van den Hil (VVD)\n  Onbekend (onbekend)\n  L.W.E. (Léon) de Jong (PVV)\n  F. Sahla (D66)\n\n\n
-DTEND:20220421T120000Z
-DTSTART:20220421T080000Z
-SUMMARY:Kinderopvang
-UID:49f78630-39c3-4c3f-bd27-dcc0d48bd5fd@49f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nspreektijd per fractie: 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (17):\n  H.M. Palland (CDA)\n  T. Kuzu (DENK)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  S. Maatoug (GroenLinks)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  B. van Kent (SP)\n  H. Kat (D66)\n  B.C. Kathmann (PvdA)\n  M.J.T.G. van Beukering-Huijbregts (D66)\n  C.J. Schouten (onbekend)\n  S.R.T. van Baarle (DENK)\n  P.H. Omtzigt (Omtzigt)\n  L.W.E. (Léon) de Jong (PVV)\n  J. van den Hil (VVD)\n  C.E.G. van Gennip (onbekend)\n\n\n
-DTEND:20220406T160000Z
-DTSTART:20220406T130000Z
-SUMMARY:Uitvoering sociale zekerheid
-UID:a92bfb34-6e45-4d47-a711-b5fc1cf20398@a92b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie: 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (1):\n  C.E.G. van Gennip (onbekend)\n\n\n
-DTEND:20221116T154500Z
-DTSTART:20221116T124500Z
-SUMMARY:Kinderopvang 
-UID:35f4f4b7-769b-4fc2-933b-c88c99acaf86@35f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie: 5 minuten.\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  A. Podt (D66)\n  A.H.J. de Kort (VVD)\n  L.W.E. (Léon) de Jong (PVV)\n  S.H. Simons (BIJ1)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  B.C. Kathmann (PvdA)\n  C.J. Schouten (onbekend)\n  H.M. Palland (CDA)\n  B. van Kent (SP)\n  T. Kuzu (DENK)\n  D.G.M. Ceder (ChristenUnie)\n  S. Maatoug (GroenLinks)\n  Onbekend (onbekend)\n\n\n
-DTEND:20220223T210000Z
-DTSTART:20220223T170000Z
-SUMMARY:Participatiewet/Breed Offensief
-UID:7106b0d0-13b5-447e-a0e6-b50fa6aa28fe@7106.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie: 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  W. Koolmees (onbekend)\n  G.J. (Gijs) van Dijk (PvdA)\n  W.P.H.J. Peters (CDA)\n  vaste commissie voor Europese Zaken (onbekend)\n  M. de Graaf (PVV)\n  S. Maatoug (GroenLinks)\n  S.P.R.A. van Weyenberg (D66)\n  J.Z.C.M. Tielen (VVD)\n  P.E. (Pieter) Heerma (CDA)\n\n\n
-DTEND:20210609T100000Z
-DTSTART:20210609T080000Z
-SUMMARY:Formele Raad Werkgelegenheid en Sociaal Beleid van 14 juni 2021
-UID:8b3c2d7a-63d2-475e-ba1c-5dc4e6d61bd0@8b3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie: 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  M.J.T.G. van Beukering-Huijbregts (D66)\n  B.C. Kathmann (PvdA)\n  C.E.G. van Gennip (onbekend)\n  N.L. den Haan (Fractie Den Haan)\n  Onbekend (onbekend)\n  T. Kuzu (DENK)\n  M. Goudzwaard (JA21)\n  S.R.T. van Baarle (DENK)\n  L.W.E. (Léon) de Jong (PVV)\n  C.A.M. van der Plas (BBB)\n  S. Maatoug (GroenLinks)\n  B.M.G. Smals (VVD)\n\n\n
-DTEND:20220413T160000Z
-DTSTART:20220413T120000Z
-SUMMARY:Arbeidsmarktbeleid
-UID:31329d56-e751-4f32-bb30-5103a3d5e414@3132.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie: 6 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  C. Stoffer (SGP)\n  S. Maatoug (GroenLinks)\n  G.J. (Gijs) van Dijk (PvdA)\n  W. Koolmees (onbekend)\n  M.J.T.G. van Beukering-Huijbregts (D66)\n  Onbekend (onbekend)\n  D. de Neef (VVD)\n  H.M. Palland (CDA)\n\n\n
-DTEND:20210624T160000Z
-DTSTART:20210624T120000Z
-SUMMARY:Gezond en veilig werken
-UID:86ec216f-0716-4c1b-a0c0-1a96be8088ef@86ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie: 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  H. Nijboer (PvdA)\n  H. Bevers (VVD)\n  C.A.M. van der Plas (BBB)\n  Onbekend (onbekend)\n  D.G.M. Ceder (ChristenUnie)\n  T. Kuzu (DENK)\n  S. Maatoug (GroenLinks)\n  H. Kat (D66)\n  H.M. Palland (CDA)\n  C.J. Schouten (onbekend)\n  Onbekend (onbekend)\n  L.W.E. (Léon) de Jong (PVV)\n  M. Goudzwaard (JA21)\n  E.M.J. Ploumen (PvdA)\n  S.R.T. van Baarle (DENK)\n\n\n
-DTEND:20220317T170000Z
-DTSTART:20220317T130000Z
-SUMMARY:Armoede- en schuldenbeleid
-UID:cdbc85f8-37d5-4d2d-9dfb-cd5ca9185c75@cdbc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie: 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (4):\n  Onbekend (onbekend)\n  C.E.G. van Gennip (onbekend)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n\n\n
-DTEND:20221215T161500Z
-DTSTART:20221215T131500Z
-SUMMARY:Arbeidsmarktdiscriminatie
-UID:4a705439-e1b8-4ced-ba5b-eebc59fe7994@4a70.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie: 6 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  A.D. Wiersma (VVD)\n  C. Stoffer (SGP)\n  K.P. Piri (PvdA)\n  S. Maatoug (GroenLinks)\n  W. Koolmees (onbekend)\n  B. van Kent (SP)\n  W.P.H.J. Peters (CDA)\n  D.G.M. Ceder (ChristenUnie)\n  M.J.T.G. van Beukering-Huijbregts (D66)\n  Onbekend (onbekend)\n  S.H. Simons (BIJ1)\n\n\n
-DTEND:20210707T120000Z
-DTSTART:20210707T080000Z
-SUMMARY:Arbeidsmigratie
-UID:c53b7be0-4e54-4d52-bc1c-92d90b3983ea@c53b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie: 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  S. Belhaj (D66)\n  C.E.G. van Gennip (onbekend)\n  M. de Graaf (PVV)\n  Onbekend (onbekend)\n  T. Kuzu (DENK)\n  B. Becker (VVD)\n  D.G.M. Ceder (ChristenUnie)\n  S. Maatoug (GroenLinks)\n\n\n
-DTEND:20220706T183000Z
-DTSTART:20220706T153000Z
-SUMMARY:Inburgering en integratie
-UID:dda9a2b5-1719-40ee-944c-721661321d89@dda9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie: 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  C.E.G. van Gennip (onbekend)\n  H.M. Palland (CDA)\n  B. van Kent (SP)\n  C. (Chris) Simons (VVD)\n  S. Maatoug (GroenLinks)\n  B.C. Kathmann (PvdA)\n  L.W.E. (Léon) de Jong (PVV)\n  A. Podt (D66)\n  Onbekend (onbekend)\n\n\n
-DTEND:20220512T140000Z
-DTSTART:20220512T110000Z
-SUMMARY:Gezond en veilig werken
-UID:cf2d9284-3202-4984-9f97-f737eb0aa83a@cf2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie: 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  N.L. den Haan (Fractie Den Haan)\n  L.W.E. (Léon) de Jong (PVV)\n  B. van Kent (SP)\n  T. Kuzu (DENK)\n  H.M. Palland (CDA)\n  M.J.T.G. van Beukering-Huijbregts (D66)\n  C. Stoffer (SGP)\n  H. Nijboer (PvdA)\n  S.R.T. van Baarle (DENK)\n  B.M.G. Smals (VVD)\n  D.G.M. Ceder (ChristenUnie)\n  S. Maatoug (GroenLinks)\n  P.H. Omtzigt (Omtzigt)\n  C.J. Schouten (onbekend)\n  C.E.G. van Gennip (onbekend)\n\n\n
-DTEND:20220217T123000Z
-DTSTART:20220217T093000Z
-SUMMARY:Hoofdlijnendebat Sociale Zaken en Werkgelegenheid
-UID:a2cde841-0eeb-4c12-89fa-d5c339a859fc@a2cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie: 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (1):\n  C.J. Schouten (onbekend)\n\n\n
-DTEND:20221117T161500Z
-DTSTART:20221117T131500Z
-SUMMARY:Tegemoetkoming aan Surinaamse Nederlanders met een onvolledige AOW-opbouw
-UID:21398064-218f-4bd3-9591-8b4639d0c0fd@2139.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie: 3 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  vaste commissie voor Europese Zaken (onbekend)\n  C.E.G. van Gennip (onbekend)\n\n\n
-DTEND:20221206T173000Z
-DTSTART:20221206T153000Z
-SUMMARY:Formele Raad Werkgelegenheid en Sociaal Beleid van 8 december 2022
-UID:249d5cc4-a9af-4537-91bc-117b8ad0af7c@249d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie: 6 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  Onbekend (onbekend)\n  H. Kat (D66)\n  B. van Kent (SP)\n  W. Koolmees (onbekend)\n  J.Z.C.M. Tielen (VVD)\n  D.G.M. Ceder (ChristenUnie)\n  H.M. Palland (CDA)\n  G.J. (Gijs) van Dijk (PvdA)\n  S.H. Simons (BIJ1)\n  S. Maatoug (GroenLinks)\n  Onbekend (onbekend)\n\n\n
-DTEND:20210630T120000Z
-DTSTART:20210630T080000Z
-SUMMARY:Uitvoering sociale zekerheid
-UID:5b2880e6-6767-4637-aef2-6c6a55985e7e@5b28.org
+UID:3c1c3348-763e-4660-a24e-c550cfc57520@3c1c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (12):\n  vaste commissie voor Digitale Zaken (onbekend)\n  S. Maatoug (GroenLinks)\n  C.E.G. van Gennip (onbekend)\n  C.A.M. van der Plas (BBB)\n  B.M.G. Smals (VVD)\n  L.W.E. (Léon) de Jong (PVV)\n  H.M. Palland (CDA)\n  Onbekend (onbekend)\n  M.J.T.G. van Beukering-Huijbregts (D66)\n  vaste commissie voor Europese Zaken (onbekend)\n  B. van Kent (SP)\n  T. Kuzu (DENK)\n\n\n
 DTEND:20220210T113000Z
 DTSTART:20220210T090000Z
 SUMMARY:Informele Raad Werkgelegenheid en Sociaal Beleid van 14-15 februari 2022 en Behandelvoorbehoud EU-richtlijn Platformwerk
-UID:a3a990db-f607-414a-baa7-91a27f5d5133@a3a9.org
+UID:83cbedcc-23b2-43d4-a405-318db55bc382@83cb.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijden per fractie: 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  H.M. Palland (CDA)\n  vaste commissie voor Financiën (onbekend)\n  B.J. Eerdmans (JA21)\n  M.J.T.G. van Beukering-Huijbregts (D66)\n  S. Maatoug (GroenLinks)\n  B. van Kent (SP)\n  C. Stoffer (SGP)\n  B.M.G. Smals (VVD)\n  L.W.E. (Léon) de Jong (PVV)\n  C.E.G. van Gennip (onbekend)\n  A.H. Kuiken (PvdA)\n  M.L.A. van Rij (onbekend)\n  O.R. Ephraim (Groep Van Haga)\n\n\n
-DTEND:20220630T110000Z
-DTSTART:20220630T080000Z
-SUMMARY:Zzp
-UID:8b1b12ae-248e-47e5-b2c5-d7b68e5814cb@8b1b.org
+DESCRIPTION:Notitie:\nSpreektijd per fractie: 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  H. Nijboer (PvdA)\n  H. Bevers (VVD)\n  C.A.M. van der Plas (BBB)\n  Onbekend (onbekend)\n  D.G.M. Ceder (ChristenUnie)\n  T. Kuzu (DENK)\n  S. Maatoug (GroenLinks)\n  H. Kat (D66)\n  H.M. Palland (CDA)\n  C.J. Schouten (onbekend)\n  Onbekend (onbekend)\n  L.W.E. (Léon) de Jong (PVV)\n  M. Goudzwaard (JA21)\n  E.M.J. Ploumen (PvdA)\n  S.R.T. van Baarle (DENK)\n\n\n
+DTEND:20220317T170000Z
+DTSTART:20220317T130000Z
+SUMMARY:Armoede- en schuldenbeleid
+UID:3a1d5111-7bac-4a21-85de-28134ab36059@3a1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie: 6 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  A.D. Wiersma (VVD)\n  C. Stoffer (SGP)\n  K.P. Piri (PvdA)\n  S. Maatoug (GroenLinks)\n  W. Koolmees (onbekend)\n  B. van Kent (SP)\n  W.P.H.J. Peters (CDA)\n  D.G.M. Ceder (ChristenUnie)\n  M.J.T.G. van Beukering-Huijbregts (D66)\n  Onbekend (onbekend)\n  S.H. Simons (BIJ1)\n\n\n
+DTEND:20210707T120000Z
+DTSTART:20210707T080000Z
+SUMMARY:Arbeidsmigratie
+UID:2e99e9a9-1c72-49e0-936c-db01f18790ba@2e99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie: 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  C.J. Schouten (onbekend)\n  S. Maatoug (GroenLinks)\n\n\n
+DTEND:20221214T161500Z
+DTSTART:20221214T121500Z
+SUMMARY:Participatiewet
+UID:663e46e1-a905-41c1-a0fb-7d0af4c46346@663e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie: 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  N.L. den Haan (Fractie Den Haan)\n  L.W.E. (Léon) de Jong (PVV)\n  B. van Kent (SP)\n  T. Kuzu (DENK)\n  H.M. Palland (CDA)\n  M.J.T.G. van Beukering-Huijbregts (D66)\n  C. Stoffer (SGP)\n  H. Nijboer (PvdA)\n  S.R.T. van Baarle (DENK)\n  B.M.G. Smals (VVD)\n  D.G.M. Ceder (ChristenUnie)\n  S. Maatoug (GroenLinks)\n  P.H. Omtzigt (Omtzigt)\n  C.J. Schouten (onbekend)\n  C.E.G. van Gennip (onbekend)\n\n\n
+DTEND:20220217T123000Z
+DTSTART:20220217T093000Z
+SUMMARY:Hoofdlijnendebat Sociale Zaken en Werkgelegenheid
+UID:780a1788-c5c9-446a-9e33-93ee977c3335@780a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie: 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (4):\n  Onbekend (onbekend)\n  C.E.G. van Gennip (onbekend)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n\n\n
+DTEND:20221215T161500Z
+DTSTART:20221215T131500Z
+SUMMARY:Arbeidsmarktdiscriminatie
+UID:f7154833-b2d9-4e6c-b42f-320d0ce95625@f715.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie: 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  S. Maatoug (GroenLinks)\n  L.W.E. (Léon) de Jong (PVV)\n  B.C. Kathmann (PvdA)\n  B.M.G. Smals (VVD)\n  B. van Kent (SP)\n  Onbekend (onbekend)\n  S.R.T. van Baarle (DENK)\n  H.M. Palland (CDA)\n  C. Stoffer (SGP)\n  H. Kat (D66)\n  C.E.G. van Gennip (onbekend)\n  M.J.T.G. van Beukering-Huijbregts (D66)\n  D.G.M. Ceder (ChristenUnie)\n\n\n
+DTEND:20221020T160000Z
+DTSTART:20221020T110000Z
+SUMMARY:Arbeidsmarktbeleid
+UID:df457bfd-dfdb-41d8-9e19-7c367790e4f3@df45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie: 6 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  Onbekend (onbekend)\n  H. Kat (D66)\n  B. van Kent (SP)\n  W. Koolmees (onbekend)\n  J.Z.C.M. Tielen (VVD)\n  D.G.M. Ceder (ChristenUnie)\n  H.M. Palland (CDA)\n  G.J. (Gijs) van Dijk (PvdA)\n  S.H. Simons (BIJ1)\n  S. Maatoug (GroenLinks)\n  Onbekend (onbekend)\n\n\n
+DTEND:20210630T120000Z
+DTSTART:20210630T080000Z
+SUMMARY:Uitvoering sociale zekerheid
+UID:37634225-3f67-4639-ad52-362daf2a5e11@3763.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie: 6 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  C. Stoffer (SGP)\n  S. Maatoug (GroenLinks)\n  G.J. (Gijs) van Dijk (PvdA)\n  W. Koolmees (onbekend)\n  M.J.T.G. van Beukering-Huijbregts (D66)\n  Onbekend (onbekend)\n  D. de Neef (VVD)\n  H.M. Palland (CDA)\n\n\n
+DTEND:20210624T160000Z
+DTSTART:20210624T120000Z
+SUMMARY:Gezond en veilig werken
+UID:f24372b2-8deb-4f3f-947c-981bb4cc3320@f243.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nSpreektijd per fractie: 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  Onbekend (onbekend)\n  P. van Houwelingen (FVD)\n  M. Goudzwaard (JA21)\n  M.J.T.G. van Beukering-Huijbregts (D66)\n  P.H. Omtzigt (Omtzigt)\n  B. van Kent (SP)\n  H.M. Palland (CDA)\n  Onbekend (onbekend)\n  L.W.E. (Léon) de Jong (PVV)\n  B.M.G. Smals (VVD)\n  C.J. Schouten (onbekend)\n  H. Nijboer (PvdA)\n  S. Maatoug (GroenLinks)\n  N.L. den Haan (Fractie Den Haan)\n\n\n
 DTEND:20220331T160000Z
 DTSTART:20220331T120000Z
 SUMMARY:Pensioenonderwerpen
-UID:d17cef85-10f6-4c96-860d-afffe50358e5@d17c.org
+UID:e6867015-1abd-4434-9ca3-84e8ad115015@e686.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nspreektijd per fractie: 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (17):\n  H.M. Palland (CDA)\n  T. Kuzu (DENK)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  S. Maatoug (GroenLinks)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  B. van Kent (SP)\n  H. Kat (D66)\n  B.C. Kathmann (PvdA)\n  M.J.T.G. van Beukering-Huijbregts (D66)\n  C.J. Schouten (onbekend)\n  S.R.T. van Baarle (DENK)\n  P.H. Omtzigt (Omtzigt)\n  L.W.E. (Léon) de Jong (PVV)\n  J. van den Hil (VVD)\n  C.E.G. van Gennip (onbekend)\n\n\n
+DTEND:20220406T160000Z
+DTSTART:20220406T130000Z
+SUMMARY:Uitvoering sociale zekerheid
+UID:3d87511c-6ee7-4c90-bb00-1d93224932c8@3d87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie: 6 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  S. Maatoug (GroenLinks)\n  B.J. Eerdmans (JA21)\n  B. Becker (VVD)\n  S.H. Simons (BIJ1)\n  S.R.T. van Baarle (DENK)\n  D.G.M. Ceder (ChristenUnie)\n  S. Belhaj (D66)\n  W. Koolmees (onbekend)\n  M. Koekkoek (Volt)\n  C.A.M. van der Plas (BBB)\n  M. de Graaf (PVV)\n  P.E. (Pieter) Heerma (CDA)\n  C. Stoffer (SGP)\n\n\n
+DTEND:20210628T120000Z
+DTSTART:20210628T080000Z
+SUMMARY:Inburgering en integratie
+UID:f3fddb3b-1b72-4adb-92ca-d27310883df1@f3fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie: 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  A.H. Kuiken (PvdA)\n  S.H. (Sylvana) Simons (BIJ1)\n  L.W.E. (Léon) de Jong (PVV)\n  A.H.J. de Kort (VVD)\n  T. Kuzu (DENK)\n  H.M. Palland (CDA)\n  S. Maatoug (GroenLinks)\n  D.G.M. Ceder (ChristenUnie)\n  F. Sahla (D66)\n  S.R.T. van Baarle (DENK)\n  C.J. Schouten (onbekend)\n\n\n
+DTEND:20221006T154500Z
+DTSTART:20221006T114500Z
+SUMMARY:Armoede- en schuldenbeleid
+UID:e8adf61c-58f1-4fd1-b421-e4337d5265b8@e8ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie: 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  W. Koolmees (onbekend)\n  G.J. (Gijs) van Dijk (PvdA)\n  W.P.H.J. Peters (CDA)\n  vaste commissie voor Europese Zaken (onbekend)\n  M. de Graaf (PVV)\n  S. Maatoug (GroenLinks)\n  S.P.R.A. van Weyenberg (D66)\n  J.Z.C.M. Tielen (VVD)\n  P.E. (Pieter) Heerma (CDA)\n\n\n
+DTEND:20210609T100000Z
+DTSTART:20210609T080000Z
+SUMMARY:Formele Raad Werkgelegenheid en Sociaal Beleid van 14 juni 2021
+UID:e2761591-53be-4b28-b967-9d4e0eebc805@e276.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie: 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (1):\n  C.E.G. van Gennip (onbekend)\n\n\n
+DTEND:20221116T154500Z
+DTSTART:20221116T124500Z
+SUMMARY:Kinderopvang 
+UID:6240c56b-75c6-4c57-a218-f976bf618b31@6240.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie: 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  S. Belhaj (D66)\n  C.E.G. van Gennip (onbekend)\n  M. de Graaf (PVV)\n  Onbekend (onbekend)\n  T. Kuzu (DENK)\n  B. Becker (VVD)\n  D.G.M. Ceder (ChristenUnie)\n  S. Maatoug (GroenLinks)\n\n\n
+DTEND:20220706T183000Z
+DTSTART:20220706T153000Z
+SUMMARY:Inburgering en integratie
+UID:7b34c4b7-d1f0-4191-b314-4eda5303a9bc@7b34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie: 5 minuten.\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  A. Podt (D66)\n  A.H.J. de Kort (VVD)\n  L.W.E. (Léon) de Jong (PVV)\n  S.H. Simons (BIJ1)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  B.C. Kathmann (PvdA)\n  C.J. Schouten (onbekend)\n  H.M. Palland (CDA)\n  B. van Kent (SP)\n  T. Kuzu (DENK)\n  D.G.M. Ceder (ChristenUnie)\n  S. Maatoug (GroenLinks)\n  Onbekend (onbekend)\n\n\n
+DTEND:20220223T210000Z
+DTSTART:20220223T170000Z
+SUMMARY:Participatiewet/Breed Offensief
+UID:a603f16f-8266-4aab-b3da-3e5acf552eac@a603.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie: 3 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  vaste commissie voor Europese Zaken (onbekend)\n  C.E.G. van Gennip (onbekend)\n\n\n
+DTEND:20221206T173000Z
+DTSTART:20221206T153000Z
+SUMMARY:Formele Raad Werkgelegenheid en Sociaal Beleid van 8 december 2022
+UID:10812190-8246-4d14-9272-d31f24d530bf@1081.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie: 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  M.J.T.G. van Beukering-Huijbregts (D66)\n  B.C. Kathmann (PvdA)\n  C.E.G. van Gennip (onbekend)\n  N.L. den Haan (Fractie Den Haan)\n  Onbekend (onbekend)\n  T. Kuzu (DENK)\n  M. Goudzwaard (JA21)\n  S.R.T. van Baarle (DENK)\n  L.W.E. (Léon) de Jong (PVV)\n  C.A.M. van der Plas (BBB)\n  S. Maatoug (GroenLinks)\n  B.M.G. Smals (VVD)\n\n\n
+DTEND:20220413T160000Z
+DTSTART:20220413T120000Z
+SUMMARY:Arbeidsmarktbeleid
+UID:365db3fa-e7b8-4cd5-9c9a-54dd4d60baa0@365d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie: 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (1):\n  C.J. Schouten (onbekend)\n\n\n
+DTEND:20221117T161500Z
+DTSTART:20221117T131500Z
+SUMMARY:Tegemoetkoming aan Surinaamse Nederlanders met een onvolledige AOW-opbouw
+UID:91727f7a-5caa-4563-bff0-104998c3504b@9172.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie: 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  C.E.G. van Gennip (onbekend)\n  H.M. Palland (CDA)\n  B. van Kent (SP)\n  C. (Chris) Simons (VVD)\n  S. Maatoug (GroenLinks)\n  B.C. Kathmann (PvdA)\n  L.W.E. (Léon) de Jong (PVV)\n  A. Podt (D66)\n  Onbekend (onbekend)\n\n\n
+DTEND:20220512T140000Z
+DTSTART:20220512T110000Z
+SUMMARY:Gezond en veilig werken
+UID:27d5eda5-18c1-4a56-99bb-dbe8210b14c6@27d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie: 3 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (18):\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  M. Koekkoek (Volt)\n  Onbekend (onbekend)\n  L.W.E. (Léon) de Jong (PVV)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  B.J. Eerdmans (JA21)\n  H.M. Palland (CDA)\n  D.G.M. Ceder (ChristenUnie)\n  T. Kuzu (DENK)\n  C.E.G. van Gennip (onbekend)\n  Z. El Yassini (VVD)\n  A. Podt (D66)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  K.P. Piri (PvdA)\n  B. van Kent (SP)\n\n\n
+DTEND:20220601T133000Z
+DTSTART:20220601T113000Z
+SUMMARY:Arbeidsmigratie (voortzetting CD 19 mei 2022)
+UID:8a0feb98-2920-40d3-a31f-eacbc4ac70f8@8a0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd: 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  Onbekend (onbekend)\n  J.P. Kwint (SP)\n  P.A. Grinwis (ChristenUnie)\n  Onbekend (onbekend)\n  C.E.G. van Gennip (onbekend)\n  H. Kat (D66)\n  H.M. Palland (CDA)\n  S. Maatoug (GroenLinks)\n  B.C. Kathmann (PvdA)\n  J. van den Hil (VVD)\n  Onbekend (onbekend)\n  L.W.E. (Léon) de Jong (PVV)\n  F. Sahla (D66)\n\n\n
+DTEND:20220421T120000Z
+DTSTART:20220421T080000Z
+SUMMARY:Kinderopvang
+UID:01d4f355-2306-4d1c-b85e-b98f3e6b9f14@01d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijden per fractie: 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  H.M. Palland (CDA)\n  vaste commissie voor Financiën (onbekend)\n  B.J. Eerdmans (JA21)\n  M.J.T.G. van Beukering-Huijbregts (D66)\n  S. Maatoug (GroenLinks)\n  B. van Kent (SP)\n  C. Stoffer (SGP)\n  B.M.G. Smals (VVD)\n  L.W.E. (Léon) de Jong (PVV)\n  C.E.G. van Gennip (onbekend)\n  A.H. Kuiken (PvdA)\n  M.L.A. van Rij (onbekend)\n  O.R. Ephraim (Groep Van Haga)\n\n\n
+DTEND:20220630T110000Z
+DTSTART:20220630T080000Z
+SUMMARY:Zzp
+UID:5c4515d2-a976-487e-982e-b48c95871e35@5c45.org
 END:VEVENT
 END:VCALENDAR

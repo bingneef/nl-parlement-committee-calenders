@@ -1,7 +1,7 @@
 # Commissie vergaderingen Eerste- en Tweede Kamer
 Dit project genereert elke dag de kalenders van de verschillende commissies van de kamers van het parlement. Je kan de link in de kalender programma (bijvoorbeeld Outlook) kopiëren voor automatische synchronisatie.
 
-Laatste update: 07/11/2022 04:55
+Laatste update: 07/11/2022 16:42
 
 ## Gevulde kalenders
 **Commissie voor de Rijksuitgaven** (2 gevonden)\
@@ -25,7 +25,7 @@ Laatste update: 07/11/2022 04:55
 **Vaste commissie voor Economische Zaken en Klimaat** (54 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Economische-Zaken-en-Klimaat.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Economische-Zaken-en-Klimaat.ics)
 
-**Vaste commissie voor Europese Zaken** (12 gevonden)\
+**Vaste commissie voor Europese Zaken** (11 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Europese-Zaken.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Europese-Zaken.ics)
 
 **Vaste commissie voor Financiën** (70 gevonden)\
@@ -46,7 +46,7 @@ Laatste update: 07/11/2022 04:55
 **Vaste commissie voor Onderwijs, Cultuur en Wetenschap** (28 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Onderwijs--Cultuur-en-Wetenschap.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Onderwijs--Cultuur-en-Wetenschap.ics)
 
-**Vaste commissie voor Sociale Zaken en Werkgelegenheid** (27 gevonden)\
+**Vaste commissie voor Sociale Zaken en Werkgelegenheid** (28 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Sociale-Zaken-en-Werkgelegenheid.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Sociale-Zaken-en-Werkgelegenheid.ics)
 
 **Vaste commissie voor Volksgezondheid, Welzijn en Sport** (48 gevonden)\
