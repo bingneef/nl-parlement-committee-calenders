@@ -2,178 +2,178 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging zaak aan agendapunt. \n\nHet is niet een besloten evenement\n\nAanwezigen (6):\n  T.M.T. van der Lee (GroenLinks)\n  A.R. Hammelburg (D66)\n  J. Thijssen (PvdA)\n  A. Kuik (CDA)\n  J.J. Klink (VVD)\n  E.N.A.J. Schreinemacher (onbekend)\n\n\n
-DTEND:20220414T173000Z
-DTSTART:20220414T150000Z
-SUMMARY:Noodhulp 
-UID:7deb0f0c-f94e-4f80-be14-ba806ffc0356@7deb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (3):\n  E.N.A.J. Schreinemacher (onbekend)\n  J.J. Klink (VVD)\n  vaste commissie voor Europese Zaken (onbekend)\n\n\n
-DTEND:20230524T103000Z
-DTSTART:20230524T080000Z
-SUMMARY:Formele Raad Buitenlandse Zaken Handel
-UID:ad04f753-f4a9-419e-bd26-c6d6dd407490@ad04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  J.J. Klink (VVD)\n  E.M. Westerveld (GroenLinks)\n  Th.J.A.M. de Bruijn (onbekend)\n  J.J. (Jasper) van Dijk (SP)\n  K.P. Piri (PvdA)\n  M. Koekkoek (Volt)\n  S.H. Simons (BIJ1)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  D.G.M. Ceder (ChristenUnie)\n  C.A.M. van der Plas (BBB)\n  A.R. Hammelburg (D66)\n\n\n
-DTEND:20211209T113000Z
-DTSTART:20211209T090000Z
-SUMMARY:Wereldwijde aanpak COVID-19
-UID:9653a63e-2590-45c3-ac26-848a6b2d2549@9653.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHerziene convocatie in verband met toevoeging zaken aan agendapunten. \n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  S.H. Simons (BIJ1)\n  J.J. (Jasper) van Dijk (SP)\n  D.G.M. Ceder (ChristenUnie)\n  J.J. Klink (VVD)\n  A.R. Hammelburg (D66)\n  K.P. Piri (PvdA)\n  V.D.D. van Weerdenburg (PVV)\n  A. Kuik (CDA)\n  C. Stoffer (SGP)\n  T.M.T. van der Lee (GroenLinks)\n  S.A.M. Kaag (onbekend)\n  Onbekend (onbekend)\n  M. Koekkoek (Volt)\n\n\n
-DTEND:20210610T180000Z
-DTSTART:20210610T150000Z
-SUMMARY:Noodhulp
-UID:d5d15dfb-96d1-467d-a91d-244495c1618b@d5d1.org
+DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging agendapunt.*\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  J. Thijssen (PvdA)\n  M. Amhaouch (CDA)\n  E.N.A.J. Schreinemacher (onbekend)\n  A.R. Hammelburg (D66)\n  J.J. (Jasper) van Dijk (SP)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  M. Koekkoek (Volt)\n  J. Wuite (D66)\n  J.J. Klink (VVD)\n  W.B. Hoekstra (onbekend)\n\n\n
+DTEND:20221221T180000Z
+DTSTART:20221221T150000Z
+SUMMARY:Wapenexportbeleid
+UID:c8770f52-33d0-4578-bef7-83af437e1639@c877.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (5):\n  vaste commissie voor Europese Zaken (onbekend)\n  A.R. Hammelburg (D66)\n  M. Koekkoek (Volt)\n  Th.J.A.M. de Bruijn (onbekend)\n  J.J. Klink (VVD)\n\n\n
 DTEND:20211117T103000Z
 DTSTART:20211117T083000Z
 SUMMARY:Raad Buitenlandse Zaken Handel
-UID:51481827-8385-44f6-b0d8-6cf4a1c9129e@5148.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (8):\n  vaste commissie voor Financiën (onbekend)\n  E.N.A.J. Schreinemacher (onbekend)\n  M.A.M. Adriaansens (onbekend)\n  Onbekend (onbekend)\n  M.L.A. van Rij (onbekend)\n  vaste commissie voor Landbouw\, Natuur en Voedselkwaliteit (onbekend)\n  J.J. Klink (VVD)\n  vaste commissie voor Economische Zaken en Klimaat (onbekend)\n\n\n
-DTEND:20230706T130000Z
-DTSTART:20230706T081500Z
-SUMMARY:Beleidscoherentie voor ontwikkeling
-UID:60e37072-8271-4a8e-84d3-ee06c79565c7@60e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nDerde herziene convocatie i.v.m. toevoeging agendapunt*\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  J.J. Klink (VVD)\n  E.N.A.J. Schreinemacher (onbekend)\n  J. Thijssen (PvdA)\n  Onbekend (onbekend)\n  M. Amhaouch (CDA)\n  A.R. Hammelburg (D66)\n  J. Wuite (D66)\n  T.M.T. van der Lee (GroenLinks)\n  T.H.P. Baudet (FVD)\n\n\n
-DTEND:20220707T160000Z
-DTSTART:20220707T133000Z
-SUMMARY:Herstel en Wederopbouw Oekraïne 
-UID:4dd9ae3f-8d78-4195-9b70-87e0c0af5ffc@4dd9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  F.P. Wassenberg (PvdD)\n  N. Gündogan (Gündogan)\n  S.J.F. van der Graaf (ChristenUnie)\n  T. Kuzu (DENK)\n  E.N.A.J. Schreinemacher (onbekend)\n  J. van Wijngaarden (VVD)\n  M. Amhaouch (CDA)\n  S. Mutluer (PvdA)\n  R.J. Dekker (FVD)\n  A.R. Hammelburg (D66)\n\n\n
-DTEND:20230222T210000Z
-DTSTART:20230222T180000Z
-SUMMARY:Humanitaire hulp na aardbeving Turkije en Syrie
-UID:5dd6689e-e0bb-4de1-8271-4072630be904@5dd6.org
+UID:a75fbda5-5d60-4d62-9141-321f7342fd22@a75f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  A. Kuik (CDA)\n  Onbekend (onbekend)\n  E.N.A.J. Schreinemacher (onbekend)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  A.R. Hammelburg (D66)\n  Onbekend (onbekend)\n  J. Thijssen (PvdA)\n  J.J. Klink (VVD)\n  S.H. Simons (BIJ1)\n\n\n
 DTEND:20220310T153000Z
 DTSTART:20220310T130000Z
 SUMMARY:Wereldwijde aanpak COVID-19
-UID:4a1eff7b-a3a4-4887-b844-56126105bbc5@4a1e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nLET OP! Gewijzigd tijdstip.\n\nHet is niet een besloten evenement\n\nAanwezigen (3):\n  E.N.A.J. Schreinemacher (onbekend)\n  vaste commissie voor Europese Zaken (onbekend)\n  J.J. Klink (VVD)\n\n\n
-DTEND:20230307T193000Z
-DTSTART:20230307T173000Z
-SUMMARY:Informele Raad Buitenlandse Zaken Ontwikkelingssamenwerking
-UID:76c6d65e-4aa9-408d-9671-40e05c904a46@76c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (4):\n  E.N.A.J. Schreinemacher (onbekend)\n  J.J. Klink (VVD)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  E.J. Kuipers (onbekend)\n\n\n
-DTEND:20230530T183000Z
-DTSTART:20230530T150000Z
-SUMMARY:Mondiale Gezondheidsstrategie
-UID:85ea835a-c698-437d-99e9-24bb9b5f7d57@85ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (3):\n  vaste commissie voor Landbouw\, Natuur en Voedselkwaliteit (onbekend)\n  E.N.A.J. Schreinemacher (onbekend)\n  P. Adema (onbekend)\n\n\n
-DTEND:20230523T170000Z
-DTSTART:20230523T140000Z
-SUMMARY: Voedselzekerheid en water
-UID:e9e20e2f-fbef-4b98-8c2f-2cbc4d7545bf@e9e2.org
+UID:17a39180-1ca7-48bb-adf9-cb7ed24e5329@17a3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nTweede herziene convocatie i.v.m. toevoeging agendapunten.*\n\nHet is niet een besloten evenement\n\nAanwezigen (4):\n  J.J. Klink (VVD)\n  vaste commissie voor Economische Zaken en Klimaat (onbekend)\n  E.N.A.J. Schreinemacher (onbekend)\n  R.A.A. Jetten (onbekend)\n\n\n
 DTEND:20230330T110000Z
 DTSTART:20230330T080000Z
 SUMMARY:Internationale Klimaatstrategie
-UID:50ddddfc-5928-4bbd-966a-08e28ab07a61@50dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging agendapunt.*\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  J. Thijssen (PvdA)\n  M. Amhaouch (CDA)\n  E.N.A.J. Schreinemacher (onbekend)\n  A.R. Hammelburg (D66)\n  J.J. (Jasper) van Dijk (SP)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  M. Koekkoek (Volt)\n  J. Wuite (D66)\n  J.J. Klink (VVD)\n  W.B. Hoekstra (onbekend)\n\n\n
-DTEND:20221221T180000Z
-DTSTART:20221221T150000Z
-SUMMARY:Wapenexportbeleid
-UID:7e09b809-7788-4707-a52d-46ca709fa487@7e09.org
+UID:a98433e5-1f49-42ef-a960-69c60b54b2f1@a984.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nVierde herziene convocatie in verband met het toevoegen zaken aan agendapunten.*\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  C. Teunissen (PvdD)\n  M. Amhaouch (CDA)\n  J.J. Klink (VVD)\n  J. Wuite (D66)\n  E.N.A.J. Schreinemacher (onbekend)\n  vaste commissie voor Europese Zaken (onbekend)\n  A.R. Hammelburg (D66)\n  T.M.T. van der Lee (GroenLinks)\n\n\n
 DTEND:20221123T160000Z
 DTSTART:20221123T123000Z
 SUMMARY:Raad Buitenlandse Zaken Handel en Raad Buitenlandse Zaken Ontwikkelingssamenwerking 
-UID:f2870791-8b87-4d8f-8752-5a84ffd5d6c6@f287.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  J.J. Klink (VVD)\n  D.J. Eppink (JA21)\n  M. Amhaouch (CDA)\n  V.D.D. van Weerdenburg (PVV)\n  Onbekend (onbekend)\n  S. Kerseboom (FVD)\n  J. Wuite (D66)\n  M. Koekkoek (Volt)\n  E.N.A.J. Schreinemacher (onbekend)\n  A.R. Hammelburg (D66)\n\n\n
-DTEND:20220216T113000Z
-DTSTART:20220216T090000Z
-SUMMARY:Handelsbetrekkingen Afrika
-UID:9b70137f-577b-4ddf-b228-9b5368e3dbfc@9b70.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging agendapunt*\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  M. Amhaouch (CDA)\n  M.A.M. Adriaansens (onbekend)\n  P.J.T. van Strien (VVD)\n  E.N.A.J. Schreinemacher (onbekend)\n  W.R. van Haga (Groep Van Haga)\n  vaste commissie voor Economische Zaken en Klimaat (onbekend)\n  J.J. Klink (VVD)\n  J. Thijssen (PvdA)\n  A.R. Hammelburg (D66)\n  C. Stoffer (SGP)\n\n\n
-DTEND:20220511T163000Z
-DTSTART:20220511T140000Z
-SUMMARY:Gevolgen oorlog Oekraïne voor Nederlands bedrijfsleven
-UID:7af38f6b-6cf3-4c69-a7e0-17557f88b345@7af3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging agendapunten. \n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  M. Amhaouch (CDA)\n  T.M.T. van der Lee (GroenLinks)\n  M. Koekkoek (Volt)\n  Onbekend (onbekend)\n  J.J. Klink (VVD)\n  A.R. Hammelburg (D66)\n  C. Teunissen (PvdD)\n  D.G.M. Ceder (ChristenUnie)\n  J.J. (Jasper) van Dijk (SP)\n  V.D.D. van Weerdenburg (PVV)\n  Th.J.A.M. de Bruijn (onbekend)\n\n\n
-DTEND:20211202T210000Z
-DTSTART:20211202T180000Z
-SUMMARY:Internationaal Maatschappelijk Verantwoord Ondernemen
-UID:49eb8a92-0e6e-474c-ba89-c6b534b29440@49eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (13):\n  C. Teunissen (PvdD)\n  C.A.M. van der Plas (BBB)\n  A.R. Hammelburg (D66)\n  V.D.D. van Weerdenburg (PVV)\n  J.J. (Jasper) van Dijk (SP)\n  Onbekend (onbekend)\n  M. Koekkoek (Volt)\n  S.A.M. Kaag (onbekend)\n  M. Amhaouch (CDA)\n  T.M.T. van der Lee (GroenLinks)\n  D.J. Eppink (JA21)\n  vaste commissie voor Europese Zaken (onbekend)\n  M.L.J. Paul (VVD)\n\n\n
-DTEND:20210518T180000Z
-DTSTART:20210518T150000Z
-SUMMARY:Raad Buitenlandse Zaken Handel
-UID:75f7c818-21dd-41a0-91a0-14e51191d27b@75f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHerziene convocatie i.v.m toevoeging agendapunt*\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  J. Wuite (D66)\n  A. Kuik (CDA)\n  A.R. Hammelburg (D66)\n  D.G.M. Ceder (ChristenUnie)\n  J.J. Klink (VVD)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  E.N.A.J. Schreinemacher (onbekend)\n  T.M.T. van der Lee (GroenLinks)\n  J. Thijssen (PvdA)\n  C. Stoffer (SGP)\n  C.A.M. van der Plas (BBB)\n\n\n
-DTEND:20220324T203000Z
-DTSTART:20220324T173000Z
-SUMMARY:Commissiedebat Humanitaire situatie Oekraïne
-UID:0e8df9f3-4153-4346-8829-6104c7a981fa@0e8d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. nieuwe datum.\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  S. Belhaj (D66)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  J.J. (Jasper) van Dijk (SP)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  J.J. Klink (VVD)\n  Onbekend (onbekend)\n  D.J. Eppink (JA21)\n  H.P.M. Knapen (onbekend)\n  W.R. van Haga (Groep Van Haga)\n  Onbekend (onbekend)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  T.M.T. van der Lee (GroenLinks)\n\n\n
-DTEND:20211103T120000Z
-DTSTART:20211103T090000Z
-SUMMARY:Wapenexportbeleid 
-UID:5512f88b-ad52-44d0-814a-9ebfe6c92a62@5512.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging zaken aan agendapunten*\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  A.R. Hammelburg (D66)\n  S.J.F. van der Graaf (ChristenUnie)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  T.M.T. van der Lee (GroenLinks)\n  C. Teunissen (PvdD)\n  vaste commissie voor Europese Zaken (onbekend)\n  J. Wuite (D66)\n  J.J. Klink (VVD)\n  J.J. (Jasper) van Dijk (SP)\n  E.N.A.J. Schreinemacher (onbekend)\n  J. Thijssen (PvdA)\n\n\n
-DTEND:20220531T193000Z
-DTSTART:20220531T163000Z
-SUMMARY:Raad Buitenlandse Zaken Handel
-UID:6d7f1435-d2ed-4a09-9c24-57508011fb42@6d7f.org
+UID:b892bc14-42c4-4065-9968-aaab23cb0472@b892.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging agendapunten. \n\nHet is niet een besloten evenement\n\nAanwezigen (3):\n  E.N.A.J. Schreinemacher (onbekend)\n  vaste commissie voor Europese Zaken (onbekend)\n  J.J. Klink (VVD)\n\n\n
 DTEND:20230307T214500Z
 DTSTART:20230307T194500Z
 SUMMARY:Informele Raad Buitenlandse Zaken Handel
-UID:e60046ed-de6f-494c-9589-b37e2b079af3@e600.org
+UID:1477c980-927c-40e7-bccd-114216e68107@1477.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging agendapunt. \n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  J.J. Klink (VVD)\n  E.N.A.J. Schreinemacher (onbekend)\n\n\n
-DTEND:20230509T180000Z
-DTSTART:20230509T150000Z
-SUMMARY:Humanitaire hulp
-UID:f333983f-79c1-40f5-9e9c-3efde094ba47@f333.org
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (3):\n  E.N.A.J. Schreinemacher (onbekend)\n  J.J. Klink (VVD)\n  vaste commissie voor Europese Zaken (onbekend)\n\n\n
+DTEND:20230524T103000Z
+DTSTART:20230524T080000Z
+SUMMARY:Formele Raad Buitenlandse Zaken Handel
+UID:5ebeb78d-4a57-4f27-a2a1-b75647747f21@5ebe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHerziene convocatie in verband met toevoeging zaken aan agendapunten. \n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  S.H. Simons (BIJ1)\n  J.J. (Jasper) van Dijk (SP)\n  D.G.M. Ceder (ChristenUnie)\n  J.J. Klink (VVD)\n  A.R. Hammelburg (D66)\n  K.P. Piri (PvdA)\n  V.D.D. van Weerdenburg (PVV)\n  A. Kuik (CDA)\n  C. Stoffer (SGP)\n  T.M.T. van der Lee (GroenLinks)\n  S.A.M. Kaag (onbekend)\n  Onbekend (onbekend)\n  M. Koekkoek (Volt)\n\n\n
+DTEND:20210610T180000Z
+DTSTART:20210610T150000Z
+SUMMARY:Noodhulp
+UID:0cb25708-6fff-4da1-a7f0-de0b86381c29@0cb2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nVierde herziene convocatie i.v.m. toevoeging zaak aan agendapunt.* \n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  J.J. Klink (VVD)\n  E.N.A.J. Schreinemacher (onbekend)\n  vaste commissie voor Europese Zaken (onbekend)\n  C. Teunissen (PvdD)\n  M. Amhaouch (CDA)\n  M. Koekkoek (Volt)\n  A.R. Hammelburg (D66)\n  J. Thijssen (PvdA)\n\n\n
 DTEND:20221019T133000Z
 DTSTART:20221019T110000Z
 SUMMARY:Informele Raad Buitenlandse Zaken Handel 
-UID:60910df6-1836-444d-bb5c-e8e3cc93afc2@6091.org
+UID:64d2fb51-b9d7-44fa-a7c0-fd4e0fd31d55@64d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging zaak aan agendapunt. \n\nHet is niet een besloten evenement\n\nAanwezigen (6):\n  T.M.T. van der Lee (GroenLinks)\n  A.R. Hammelburg (D66)\n  J. Thijssen (PvdA)\n  A. Kuik (CDA)\n  J.J. Klink (VVD)\n  E.N.A.J. Schreinemacher (onbekend)\n\n\n
+DTEND:20220414T173000Z
+DTSTART:20220414T150000Z
+SUMMARY:Noodhulp 
+UID:64766725-91b2-401b-80cf-512a3d18d3b8@6476.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  J.J. Klink (VVD)\n  E.M. Westerveld (GroenLinks)\n  Th.J.A.M. de Bruijn (onbekend)\n  J.J. (Jasper) van Dijk (SP)\n  K.P. Piri (PvdA)\n  M. Koekkoek (Volt)\n  S.H. Simons (BIJ1)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  D.G.M. Ceder (ChristenUnie)\n  C.A.M. van der Plas (BBB)\n  A.R. Hammelburg (D66)\n\n\n
+DTEND:20211209T113000Z
+DTSTART:20211209T090000Z
+SUMMARY:Wereldwijde aanpak COVID-19
+UID:18d4a189-46f9-41c6-b318-1be4a2dd8db8@18d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging zaken aan agendapunten*\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  A.R. Hammelburg (D66)\n  S.J.F. van der Graaf (ChristenUnie)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  T.M.T. van der Lee (GroenLinks)\n  C. Teunissen (PvdD)\n  vaste commissie voor Europese Zaken (onbekend)\n  J. Wuite (D66)\n  J.J. Klink (VVD)\n  J.J. (Jasper) van Dijk (SP)\n  E.N.A.J. Schreinemacher (onbekend)\n  J. Thijssen (PvdA)\n\n\n
+DTEND:20220531T193000Z
+DTSTART:20220531T163000Z
+SUMMARY:Raad Buitenlandse Zaken Handel
+UID:a5cff726-6fe6-49e7-a605-f9268ebd3822@a5cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (8):\n  vaste commissie voor Financiën (onbekend)\n  E.N.A.J. Schreinemacher (onbekend)\n  M.A.M. Adriaansens (onbekend)\n  Onbekend (onbekend)\n  M.L.A. van Rij (onbekend)\n  vaste commissie voor Landbouw\, Natuur en Voedselkwaliteit (onbekend)\n  J.J. Klink (VVD)\n  vaste commissie voor Economische Zaken en Klimaat (onbekend)\n\n\n
+DTEND:20230706T130000Z
+DTSTART:20230706T081500Z
+SUMMARY:Beleidscoherentie voor ontwikkeling
+UID:6b55850b-9be9-41f1-9105-743c827af546@6b55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nLET OP! Gewijzigd tijdstip.\n\nHet is niet een besloten evenement\n\nAanwezigen (3):\n  E.N.A.J. Schreinemacher (onbekend)\n  vaste commissie voor Europese Zaken (onbekend)\n  J.J. Klink (VVD)\n\n\n
+DTEND:20230307T193000Z
+DTSTART:20230307T173000Z
+SUMMARY:Informele Raad Buitenlandse Zaken Ontwikkelingssamenwerking
+UID:c223f3f6-2470-4b95-938b-868e1efe8d6e@c223.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (13):\n  C. Teunissen (PvdD)\n  C.A.M. van der Plas (BBB)\n  A.R. Hammelburg (D66)\n  V.D.D. van Weerdenburg (PVV)\n  J.J. (Jasper) van Dijk (SP)\n  Onbekend (onbekend)\n  M. Koekkoek (Volt)\n  S.A.M. Kaag (onbekend)\n  M. Amhaouch (CDA)\n  T.M.T. van der Lee (GroenLinks)\n  D.J. Eppink (JA21)\n  vaste commissie voor Europese Zaken (onbekend)\n  M.L.J. Paul (VVD)\n\n\n
+DTEND:20210518T180000Z
+DTSTART:20210518T150000Z
+SUMMARY:Raad Buitenlandse Zaken Handel
+UID:cbe5d692-65ed-4ade-987a-24042dfbc2af@cbe5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging agendapunt*\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  M. Amhaouch (CDA)\n  M.A.M. Adriaansens (onbekend)\n  P.J.T. van Strien (VVD)\n  E.N.A.J. Schreinemacher (onbekend)\n  W.R. van Haga (Groep Van Haga)\n  vaste commissie voor Economische Zaken en Klimaat (onbekend)\n  J.J. Klink (VVD)\n  J. Thijssen (PvdA)\n  A.R. Hammelburg (D66)\n  C. Stoffer (SGP)\n\n\n
+DTEND:20220511T163000Z
+DTSTART:20220511T140000Z
+SUMMARY:Gevolgen oorlog Oekraïne voor Nederlands bedrijfsleven
+UID:668dc1d5-2d34-4c06-adad-016c400f198f@668d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHerziene convocatie i.v.m toevoeging agendapunt*\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  J. Wuite (D66)\n  A. Kuik (CDA)\n  A.R. Hammelburg (D66)\n  D.G.M. Ceder (ChristenUnie)\n  J.J. Klink (VVD)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  E.N.A.J. Schreinemacher (onbekend)\n  T.M.T. van der Lee (GroenLinks)\n  J. Thijssen (PvdA)\n  C. Stoffer (SGP)\n  C.A.M. van der Plas (BBB)\n\n\n
+DTEND:20220324T203000Z
+DTSTART:20220324T173000Z
+SUMMARY:Commissiedebat Humanitaire situatie Oekraïne
+UID:cefe6dd7-0e6b-4102-a6ff-b275c1ac8534@cefe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging agendapunt. \n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  J.J. Klink (VVD)\n  E.N.A.J. Schreinemacher (onbekend)\n\n\n
+DTEND:20230509T180000Z
+DTSTART:20230509T150000Z
+SUMMARY:Humanitaire hulp
+UID:42aa5c5b-bde4-4b9d-a198-835ed73b2711@42aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  F.P. Wassenberg (PvdD)\n  N. Gündogan (Gündogan)\n  S.J.F. van der Graaf (ChristenUnie)\n  T. Kuzu (DENK)\n  E.N.A.J. Schreinemacher (onbekend)\n  J. van Wijngaarden (VVD)\n  M. Amhaouch (CDA)\n  S. Mutluer (PvdA)\n  R.J. Dekker (FVD)\n  A.R. Hammelburg (D66)\n\n\n
+DTEND:20230222T210000Z
+DTSTART:20230222T180000Z
+SUMMARY:Humanitaire hulp na aardbeving Turkije en Syrie
+UID:825d830d-f13d-4ea9-88c3-fc8932a22a2a@825d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging agendapunten. \n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  M. Amhaouch (CDA)\n  T.M.T. van der Lee (GroenLinks)\n  M. Koekkoek (Volt)\n  Onbekend (onbekend)\n  J.J. Klink (VVD)\n  A.R. Hammelburg (D66)\n  C. Teunissen (PvdD)\n  D.G.M. Ceder (ChristenUnie)\n  J.J. (Jasper) van Dijk (SP)\n  V.D.D. van Weerdenburg (PVV)\n  Th.J.A.M. de Bruijn (onbekend)\n\n\n
+DTEND:20211202T210000Z
+DTSTART:20211202T180000Z
+SUMMARY:Internationaal Maatschappelijk Verantwoord Ondernemen
+UID:b3e8bbe8-d78d-4af6-96fa-c84a7f1a30e1@b3e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  J.J. Klink (VVD)\n  D.J. Eppink (JA21)\n  M. Amhaouch (CDA)\n  V.D.D. van Weerdenburg (PVV)\n  Onbekend (onbekend)\n  S. Kerseboom (FVD)\n  J. Wuite (D66)\n  M. Koekkoek (Volt)\n  E.N.A.J. Schreinemacher (onbekend)\n  A.R. Hammelburg (D66)\n\n\n
+DTEND:20220216T113000Z
+DTSTART:20220216T090000Z
+SUMMARY:Handelsbetrekkingen Afrika
+UID:e05fd8fe-a7e5-4adb-8e8e-73e039e266b4@e05f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (4):\n  E.N.A.J. Schreinemacher (onbekend)\n  J.J. Klink (VVD)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  E.J. Kuipers (onbekend)\n\n\n
+DTEND:20230530T183000Z
+DTSTART:20230530T150000Z
+SUMMARY:Mondiale Gezondheidsstrategie
+UID:872a8f2d-46ae-446a-9f08-843bed9e8937@872a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nDerde herziene convocatie i.v.m. toevoeging agendapunt*\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  J.J. Klink (VVD)\n  E.N.A.J. Schreinemacher (onbekend)\n  J. Thijssen (PvdA)\n  Onbekend (onbekend)\n  M. Amhaouch (CDA)\n  A.R. Hammelburg (D66)\n  J. Wuite (D66)\n  T.M.T. van der Lee (GroenLinks)\n  T.H.P. Baudet (FVD)\n\n\n
+DTEND:20220707T160000Z
+DTSTART:20220707T133000Z
+SUMMARY:Herstel en Wederopbouw Oekraïne 
+UID:f1dd3052-123e-4616-95d1-2189b96cee3d@f1dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (3):\n  vaste commissie voor Landbouw\, Natuur en Voedselkwaliteit (onbekend)\n  E.N.A.J. Schreinemacher (onbekend)\n  P. Adema (onbekend)\n\n\n
+DTEND:20230523T170000Z
+DTSTART:20230523T140000Z
+SUMMARY: Voedselzekerheid en water
+UID:89a3879b-1bca-4920-8a99-9a1d8cc1adb6@89a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. nieuwe datum.\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  S. Belhaj (D66)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  J.J. (Jasper) van Dijk (SP)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  J.J. Klink (VVD)\n  Onbekend (onbekend)\n  D.J. Eppink (JA21)\n  H.P.M. Knapen (onbekend)\n  W.R. van Haga (Groep Van Haga)\n  Onbekend (onbekend)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  T.M.T. van der Lee (GroenLinks)\n\n\n
+DTEND:20211103T120000Z
+DTSTART:20211103T090000Z
+SUMMARY:Wapenexportbeleid 
+UID:9f8f98df-d23d-4393-9d79-a3c2e10d881c@9f8f.org
 END:VEVENT
 END:VCALENDAR
