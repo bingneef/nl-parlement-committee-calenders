@@ -2,24 +2,24 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (3):\n  J.C. Sneller (D66)\n  vaste commissie voor Financiën (onbekend)\n  S.A.M. Kaag (onbekend)\n\n\n
+DTEND:20230906T150000Z
+DTSTART:20230906T120000Z
+SUMMARY:Begrotingsproces
+UID:bbede447-f2d0-4297-9c92-fef3a26a3ab4@bbed.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Notitie:\nNoot: \nLeden die wensen deel te nemen aan het commissiedebat worden verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n  H. Nijboer (PvdA)\n  vaste commissie voor Financiën (onbekend)\n  I. (Inge) van Dijk (CDA)\n  S. Maatoug (GroenLinks)\n  J.C. Sneller (D66)\n  S.A.M. Kaag (onbekend)\n  vaste commissie voor Onderwijs\, Cultuur en Wetenschap (onbekend)\n  vaste commissie voor Landbouw\, Natuur en Voedselkwaliteit (onbekend)\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (onbekend)\n  E. Heinen (VVD)\n\n\n
 DTEND:20220914T190000Z
 DTSTART:20220914T160000Z
 SUMMARY:Begrotingsproces
-UID:a8044fde-ca56-47fb-b6a1-0824e674c84d@a804.org
+UID:0cc57fdd-bd49-46fa-afc8-4175a900e7ed@0cc5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\n*Uw fungerend voorzitter stelt een indicatievieve spreektijd van 5 minuten per fractie voor\, uitgaande van ongeveer vijf sprekers*\n\nHet is niet een besloten evenement\n\nAanwezigen (5):\n  J.C. Sneller (D66)\n  W.B. Hoekstra (onbekend)\n  B.A.W. Snels (GroenLinks)\n  J.L. Geurts (CDA)\n  E. Heinen (VVD)\n\n\n
 DTEND:20210624T120000Z
 DTSTART:20210624T100000Z
 SUMMARY:Begroten en verantwoorden 
-UID:d1b07ca6-8177-4faf-ad5c-aacf352de51f@d1b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (3):\n  J.C. Sneller (D66)\n  vaste commissie voor Financiën (onbekend)\n  S.A.M. Kaag (onbekend)\n\n\n
-DTEND:20230906T150000Z
-DTSTART:20230906T120000Z
-SUMMARY:Begrotingsproces
-UID:9262aa52-ffcf-47ee-b54d-80e87ce934d1@9262.org
+UID:10235759-314b-4def-9e88-9859997ccff9@1023.org
 END:VEVENT
 END:VCALENDAR
