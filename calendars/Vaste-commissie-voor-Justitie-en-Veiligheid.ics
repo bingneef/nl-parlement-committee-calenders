@@ -2,759 +2,745 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (12):\n  S.H. Simons (BIJ1)\n  M. van Nispen (SP)\n  R.W. Knops (CDA)\n  C.A.M. van der Plas (BBB)\n  Onbekend (onbekend)\n  I.J.M. Michon-Derkzen (VVD)\n  C.E. Ellemeet (GroenLinks)\n  J.J. van der Werf (D66)\n  D. Yesilgöz-Zegerius (onbekend)\n  F. Azarkan (DENK)\n  R. Bisschop (SGP)\n  L.M.J.S. Helder (PVV)\n\n\n
-DTEND:20220217T160000Z
-DTSTART:20220217T130000Z
-SUMMARY:Politie
-UID:6343b669-0a44-4668-baa1-1228c7cf1b57@6343.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (15):\n  B.J. Eerdmans (JA21)\n  W.P.H.J. Peters (CDA)\n  L.A.J.M. Dassen (Volt)\n  S.C. Kröger (GroenLinks)\n  E. van der Burg (onbekend)\n  H. Kat (D66)\n  R.P. Brekelmans (VVD)\n  K.P. Piri (PvdA)\n  T. Kuzu (DENK)\n  O.R. Ephraim (Groep Van Haga)\n  F.W. Futselaar (SP)\n  A. Podt (D66)\n  G. Markuszower (PVV)\n  D.G.M. Ceder (ChristenUnie)\n  Onbekend (onbekend)\n\n\n
-DTEND:20230510T120000Z
-DTSTART:20230510T080000Z
-SUMMARY:Vreemdelingen- en asielbeleid
-UID:92fe2794-6aaf-4124-88c9-c5a78d947ff6@92fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (7):\n  H. Kat (D66)\n  R. Verkuijlen (VVD)\n  D.G.M. Ceder (ChristenUnie)\n  F.M. Weerwind (onbekend)\n  A. Kuik (CDA)\n  S. Mutluer (PvdA)\n  R. Raemakers (D66)\n\n\n
-DTEND:20230531T110000Z
-DTSTART:20230531T080000Z
-SUMMARY:Justitiële jeugd
-UID:a92d9fe6-08ac-404a-a601-2d5286528292@a92d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (14):\n  M. van Nispen (SP)\n  Onbekend (onbekend)\n  D. Yesilgöz-Zegerius (onbekend)\n  C.E. Ellemeet (GroenLinks)\n  Onbekend (onbekend)\n  J.C. Sneller (D66)\n  A.H. Kuiken (PvdA)\n  O.R. Ephraim (Groep Van Haga)\n  P.H. van Meenen (D66)\n  M. Koekkoek (Volt)\n  L.M.J.S. Helder (PVV)\n  C.G. van der Staaij (SGP)\n  Onbekend (onbekend)\n  I.J.M. Michon-Derkzen (VVD)\n\n\n
-DTEND:20220127T153000Z
-DTSTART:20220127T123000Z
-SUMMARY:Georganiseerde criminaliteit en ondermijning
-UID:f17f25f2-bf22-4372-9b25-4e36dfbe3640@f17f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  M.H. Bikker (ChristenUnie)\n  S.H. Simons (BIJ1)\n  M. van Nispen (SP)\n  A. Broekers-Knol (onbekend)\n  A.D. Wiersma (VVD)\n  J.J. van der Werf (D66)\n  R. Bisschop (SGP)\n  A. Kuik (CDA)\n  Onbekend (onbekend)\n\n\n
-DTEND:20210527T110000Z
-DTSTART:20210527T080000Z
-SUMMARY:Mensenhandel en prostitutie
-UID:3f70022e-da81-4365-8acc-37f18150175c@3f70.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (1):\n  F.M. Weerwind (onbekend)\n\n\n
-DTEND:20231116T120000Z
-DTSTART:20231116T090000Z
-SUMMARY:Juridische beroepen
-UID:99118ec1-569e-468f-a2c5-5fe644afb714@9911.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  G. Markuszower (PVV)\n  J.C. Sneller (D66)\n  C.G. van der Staaij (SGP)\n  H. Kat (D66)\n  U. Ellian (VVD)\n  A. Kuik (CDA)\n  Onbekend (onbekend)\n  M. van Nispen (SP)\n  F.M. Weerwind (onbekend)\n  D.G.M. Ceder (ChristenUnie)\n  S. Mutluer (PvdA)\n\n\n
-DTEND:20230704T190000Z
-DTSTART:20230704T150000Z
-SUMMARY:Gevangeniswezen en tbs
-UID:c9662dfa-20b6-4732-bfc0-79925278ef0a@c966.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (7):\n  J.C. Sneller (D66)\n  R.J. (Rudmer) Heerema (VVD)\n  C.E. Ellemeet (GroenLinks)\n  Onbekend (onbekend)\n  F.M. Weerwind (onbekend)\n  M.H. Bikker (ChristenUnie)\n  M. van Nispen (SP)\n\n\n
-DTEND:20221006T160000Z
-DTSTART:20221006T130000Z
-SUMMARY:Kansspelen
-UID:c0e79057-96df-42fb-b57e-7935b01fe965@c0e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (5):\n  U. Ellian (VVD)\n  F.M. Weerwind (onbekend)\n  M. van Nispen (SP)\n  Onbekend (onbekend)\n  J.C. Sneller (D66)\n\n\n
-DTEND:20221110T120000Z
-DTSTART:20221110T100000Z
-SUMMARY:Civielrechtelijke onderwerpen
-UID:9cad5c44-3b03-44ba-a9b5-6603bb4a4683@9cad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\n
-DTEND:20240612T130000Z
-DTSTART:20240612T100000Z
-SUMMARY:JBZ-Raad van 13 en 14 juni 2024 (vreemdelingen- en asielbeleid)
-UID:e5868750-7a7f-4528-ab21-d66c258486a0@e586.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (8):\n  J.J. van der Werf (D66)\n  A. Kuik (CDA)\n  E. van der Burg (onbekend)\n  P.H. van Meenen (D66)\n  Onbekend (onbekend)\n  C.G. van der Staaij (SGP)\n  M. van Nispen (SP)\n  C.E. Ellemeet (GroenLinks)\n\n\n
-DTEND:20220224T170000Z
-DTSTART:20220224T140000Z
-SUMMARY:Mensenhandel en prostitutie
-UID:d500e258-1fe9-44fa-9146-ed112d1ede68@d500.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (6):\n  F.M. Weerwind (onbekend)\n  Onbekend (onbekend)\n  M. van Nispen (SP)\n  J.C. Sneller (D66)\n  S. Mutluer (PvdA)\n  U. Ellian (VVD)\n\n\n
-DTEND:20221123T120000Z
-DTSTART:20221123T090000Z
-SUMMARY:Gesubsidieerde rechtsbijstand
-UID:c0e8f3b3-26c9-4929-98ae-86991c2313c8@c0e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  J.J. (Jasper) van Dijk (SP)\n  P.H. van Meenen (D66)\n  S.C. Kröger (GroenLinks)\n  E. van der Burg (onbekend)\n  vaste commissie voor Europese Zaken (onbekend)\n  R.P. Brekelmans (VVD)\n  T. Kuzu (DENK)\n  D.G.M. Ceder (ChristenUnie)\n  G. Markuszower (PVV)\n\n\n
-DTEND:20221012T100000Z
-DTSTART:20221012T073000Z
-SUMMARY:JBZ-Raad op 13 en 14 oktober te Luxemburg (vreemdelingen- en asielonderwerpen)
-UID:7bfb8e95-14e7-43e0-b214-8b661f830bed@7bfb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (8):\n  S. Dekker (onbekend)\n  F.B.J. Grapperhaus (onbekend)\n  M. van Nispen (SP)\n  H.M. Palland (CDA)\n  C.E. Ellemeet (GroenLinks)\n  J.C. Sneller (D66)\n  P.H. van Meenen (D66)\n  U. Ellian (VVD)\n\n\n
-DTEND:20211104T123000Z
-DTSTART:20211104T083000Z
-SUMMARY:Juridische beroepen
-UID:fb4c992f-2f21-4a48-b0f0-e382de71bd9f@fb4c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  J.C. Sneller (D66)\n  S. Mutluer (PvdA)\n  F.M. Weerwind (onbekend)\n  Onbekend (onbekend)\n  D.G.M. Ceder (ChristenUnie)\n  M. van Nispen (SP)\n  F. Azarkan (DENK)\n  M. Koekkoek (Volt)\n  U. Ellian (VVD)\n\n\n
-DTEND:20220420T104500Z
-DTSTART:20220420T074500Z
-SUMMARY:Gesubsidieerde rechtsbijstand
-UID:8047bcbc-9d49-4d12-9de7-7097b71c96e0@8047.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  J.J. van der Werf (D66)\n  P.H. van Meenen (D66)\n  M. van Nispen (SP)\n  D. Yesilgöz-Zegerius (onbekend)\n  I.J.M. Michon-Derkzen (VVD)\n  S. Mutluer (PvdA)\n  F. Azarkan (DENK)\n  R.W. Knops (CDA)\n  S.H. (Sylvana) Simons (BIJ1)\n  L.M.J.S. Helder (PVV)\n\n\n
-DTEND:20221207T200000Z
-DTSTART:20221207T170000Z
-SUMMARY:Politie
-UID:efe4bdc5-0aff-4130-8a6c-267d04d9bb89@efe4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  R.J. (Rudmer) Heerema (VVD)\n  U. Ellian (VVD)\n  J.C. Sneller (D66)\n  M. van Nispen (SP)\n  M.H. Bikker (ChristenUnie)\n  H.M. Palland (CDA)\n  C.E. Ellemeet (GroenLinks)\n  B.C. Kathmann (PvdA)\n  M. Koekkoek (Volt)\n  S.R.T. van Baarle (DENK)\n  S. Dekker (onbekend)\n\n\n
-DTEND:20210526T103000Z
-DTSTART:20210526T073000Z
-SUMMARY:Gesubsidieerde  rechtsbijstand
-UID:108b17cf-2a82-491a-a986-fae82bd8c1ae@108b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  J.C. Sneller (D66)\n  U. Ellian (VVD)\n  vaste commissie voor Infrastructuur en Waterstaat (onbekend)\n  F. Azarkan (DENK)\n  M. van Nispen (SP)\n  B.C. Kathmann (PvdA)\n  S. Dekker (onbekend)\n  G.F.C. van Meijeren (FVD)\n  P.H. van Meenen (D66)\n  F.B.J. Grapperhaus (onbekend)\n  A. Kuik (CDA)\n\n\n
-DTEND:20210603T153000Z
-DTSTART:20210603T123000Z
-SUMMARY:Strafrechtelijke onderwerpen
-UID:367fdd69-f052-4aab-a0f9-765620e40323@367f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  D. Yesilgöz-Zegerius (onbekend)\n  F. Azarkan (DENK)\n  G. Markuszower (PVV)\n  A. Kuik (CDA)\n  I.J.M. Michon-Derkzen (VVD)\n  J.J. van der Werf (D66)\n  G.F.C. van Meijeren (FVD)\n  H. Kat (D66)\n  W.R. van Haga (Groep Van Haga)\n\n\n
-DTEND:20230607T193000Z
-DTSTART:20230607T163000Z
-SUMMARY:Terrorisme/extremisme
-UID:2bf453cc-924e-4d91-be27-96b07a275b5e@2bf4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (6):\n  J.C. Sneller (D66)\n  A. Kuik (CDA)\n  D. Yesilgöz-Zegerius (onbekend)\n  U. Ellian (VVD)\n  S. Mutluer (PvdA)\n  F.M. Weerwind (onbekend)\n\n\n
-DTEND:20230202T120000Z
-DTSTART:20230202T090000Z
-SUMMARY:Strafrechtelijke onderwerpen
-UID:d4dba2bc-3eea-40f2-93be-5f13c84481b0@d4db.org
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (12):\n  vaste commissie voor Europese Zaken (onbekend)\n  D.G.M. Ceder (ChristenUnie)\n  J.J. (Jasper) van Dijk (SP)\n  P.H. van Meenen (D66)\n  Onbekend (onbekend)\n  M. Koekkoek (Volt)\n  P.J. Valstar (VVD)\n  A. Podt (D66)\n  K.P. Piri (PvdA)\n  S.C. Kröger (GroenLinks)\n  A. Broekers-Knol (onbekend)\n  A. Kuik (CDA)\n\n\n
+DTEND:20211208T133000Z
+DTSTART:20211208T110000Z
+SUMMARY:Formele JBZ-Raad van 9 en 10 december 2021 in Brussel (vreemdelingen- en asielonderwerpen)
+UID:4baddfe1-a4f9-46b6-9d98-dac65947777f@4bad.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (13):\n  J.J. (Jasper) van Dijk (SP)\n  C. Teunissen (PvdD)\n  D.G.M. Ceder (ChristenUnie)\n  K.P. Piri (PvdA)\n  B.J. Eerdmans (JA21)\n  S.H. Simons (BIJ1)\n  S.C. Kröger (GroenLinks)\n  A. Podt (D66)\n  R.P. Brekelmans (VVD)\n  A. Kuik (CDA)\n  G. Markuszower (PVV)\n  E. van der Burg (onbekend)\n  T. Kuzu (DENK)\n\n\n
 DTEND:20220309T123000Z
 DTSTART:20220309T083000Z
 SUMMARY:Vreemdelingen- en asielbeleid
-UID:7337589a-c0b3-47b5-a166-73a3776cb57e@7337.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (13):\n  F.W. Futselaar (SP)\n  B.J. Eerdmans (JA21)\n  G. Markuszower (PVV)\n  A. Podt (D66)\n  R.P. Brekelmans (VVD)\n  G. van den Brink (CDA)\n  D.G.M. Ceder (ChristenUnie)\n  vaste commissie voor Europese Zaken (onbekend)\n  L.A.J.M. Dassen (Volt)\n  R. Bisschop (SGP)\n  T. Kuzu (DENK)\n  E. van der Burg (onbekend)\n  K.P. Piri (PvdA)\n\n\n
-DTEND:20230607T123000Z
-DTSTART:20230607T093000Z
-SUMMARY:JBZ-Raad te Luxemburg van 8 en 9 juni 2023 (vreemdelingen- en asielonderwerpen)
-UID:5538d55d-05d8-47e5-ae6a-fded4c97c303@5538.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  A. Kuik (CDA)\n  F. Azarkan (DENK)\n  S. Mutluer (PvdA)\n  D. Yesilgöz-Zegerius (onbekend)\n  M. van Nispen (SP)\n  I.J.M. Michon-Derkzen (VVD)\n  G. Markuszower (PVV)\n  C.A.M. van der Plas (BBB)\n  J.J. van der Werf (D66)\n\n\n
-DTEND:20221124T160000Z
-DTSTART:20221124T130000Z
-SUMMARY:Terrorisme/extremisme
-UID:49820def-b7f6-4383-a213-4a58249790f8@4982.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  A.D. Wiersma (VVD)\n  M. van Nispen (SP)\n  F.B.J. Grapperhaus (onbekend)\n  H.M. Palland (CDA)\n  C.A.M. van der Plas (BBB)\n  J.J. van der Werf (D66)\n  L.M.J.S. Helder (PVV)\n  B.C. Kathmann (PvdA)\n  P.H. van Meenen (D66)\n\n\n
-DTEND:20210527T150000Z
-DTSTART:20210527T120000Z
-SUMMARY:Taakdifferentiatie brandweer en crisisbeheersing
-UID:8ba9bb76-88f4-456e-9e6b-99e68e2372d3@8ba9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  P.H. van Meenen (D66)\n  B.J. Eerdmans (JA21)\n  M. van Nispen (SP)\n  U. Ellian (VVD)\n  F.M. Weerwind (onbekend)\n  J.C. Sneller (D66)\n  M.H. Bikker (ChristenUnie)\n  Onbekend (onbekend)\n  R.W. Knops (CDA)\n  S. Mutluer (PvdA)\n\n\n
-DTEND:20221109T120000Z
-DTSTART:20221109T090000Z
-SUMMARY:Rechtspraak
-UID:8807a8fb-0052-4da8-a547-0e962b21ec24@8807.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  Onbekend (onbekend)\n  K.P. Piri (PvdA)\n  E. van der Burg (onbekend)\n  T. Kuzu (DENK)\n  D.G.M. Ceder (ChristenUnie)\n  R. Bisschop (SGP)\n  J.J. (Jasper) van Dijk (SP)\n  vaste commissie voor Europese Zaken (onbekend)\n  B.J. Eerdmans (JA21)\n  R.P. Brekelmans (VVD)\n  A. Podt (D66)\n\n\n
-DTEND:20220608T123000Z
-DTSTART:20220608T100000Z
-SUMMARY:JBZ-Raad Luxemburg van 9 en 10 juni 2022 (vreemdelingen- en asielonderwerpen)
-UID:ffd5fa44-83a8-4e6d-8771-7a0ac89f01b2@ffd5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (8):\n  B.C. Kathmann (PvdA)\n  R.J. (Rudmer) Heerema (VVD)\n  M.H. Bikker (ChristenUnie)\n  J.C. Sneller (D66)\n  A. Kuik (CDA)\n  S. Dekker (onbekend)\n  Onbekend (onbekend)\n  M. van Nispen (SP)\n\n\n
-DTEND:20211215T113000Z
-DTSTART:20211215T083000Z
-SUMMARY:Kansspelen
-UID:3e743bec-bd83-4332-93ea-53f0722a7bc7@3e74.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (15):\n  O.R. Ephraim (Groep Van Haga)\n  F.J.H. Jansen (FVD)\n  R.P. Brekelmans (VVD)\n  P.H. van Meenen (D66)\n  E.J. Slootweg (CDA)\n  S.C. Kröger (GroenLinks)\n  C.A.M. van der Plas (BBB)\n  G. Markuszower (PVV)\n  A. Podt (D66)\n  B.J. Eerdmans (JA21)\n  J.J. (Jasper) van Dijk (SP)\n  T. Kuzu (DENK)\n  S.H. (Sylvana) Simons (BIJ1)\n  K.P. Piri (PvdA)\n  E. van der Burg (onbekend)\n\n\n
-DTEND:20220630T160000Z
-DTSTART:20220630T123000Z
-SUMMARY:Vreemdelingen- en asielbeleid
-UID:7d7ea112-a8ad-4664-af9c-7e09618c683e@7d7e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  A. Kuik (CDA)\n  S. Mutluer (PvdA)\n  I.J.M. Michon-Derkzen (VVD)\n  L.M.J.S. Helder (PVV)\n  C.G. van der Staaij (SGP)\n  J.C. Sneller (D66)\n  P.H. van Meenen (D66)\n  M. van Nispen (SP)\n  Onbekend (onbekend)\n  D. Yesilgöz-Zegerius (onbekend)\n\n\n
-DTEND:20221110T160000Z
-DTSTART:20221110T130000Z
-SUMMARY:Criminaliteitsbestrijding\, ondermijning en georganiseerde criminaliteit
-UID:081776c8-01ce-4ef8-a976-7b46f262b73d@0817.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (1):\n  E. van der Burg (onbekend)\n\n\n
-DTEND:20231130T140000Z
-DTSTART:20231130T110000Z
-SUMMARY:JBZ-Raad van 4 en 5 december 2023 (vreemdelingen- en asielbeleid)
-UID:06e085c4-3412-4349-a4b5-9ec86098c592@06e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  J.J. van der Werf (D66)\n  I.J.M. Michon-Derkzen (VVD)\n  R. Bisschop (SGP)\n  P.H. van Meenen (D66)\n  S. Mutluer (PvdA)\n  D. Yesilgöz-Zegerius (onbekend)\n  A. Kuik (CDA)\n  L.M.J.S. Helder (PVV)\n  M.H. Bikker (ChristenUnie)\n\n\n
-DTEND:20221215T160000Z
-DTSTART:20221215T130000Z
-SUMMARY:Seksueel geweld en kindermisbruik
-UID:a67dadef-975e-4f4f-9eef-8a1dc9c9285d@a67d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (13):\n  R. Bisschop (SGP)\n  C.E. Ellemeet (GroenLinks)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  D. Yesilgöz-Zegerius (onbekend)\n  M.H. Bikker (ChristenUnie)\n  P.H. van Meenen (D66)\n  S. Mutluer (PvdA)\n  L.M.J.S. Helder (PVV)\n  M. van Nispen (SP)\n  E.J. Slootweg (CDA)\n  J.C. Sneller (D66)\n  E.J. Kuipers (onbekend)\n  I.J.M. Michon-Derkzen (VVD)\n\n\n
-DTEND:20220512T110000Z
-DTSTART:20220512T080000Z
-SUMMARY:Drugsbeleid
-UID:378fd8de-cf29-4b36-821a-c70dd6185172@378f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  R. Verkuijlen (VVD)\n  P.H. van Meenen (D66)\n  M. van Nispen (SP)\n  L.M.J.S. Helder (PVV)\n  M.H. Bikker (ChristenUnie)\n  S. Mutluer (PvdA)\n  C.G. van der Staaij (SGP)\n  E. van der Burg (onbekend)\n  Onbekend (onbekend)\n  A. Podt (D66)\n  A. Kuik (CDA)\n\n\n
-DTEND:20230119T120000Z
-DTSTART:20230119T090000Z
-SUMMARY:Mensenhandel en prostitutie
-UID:acbda6ce-d89e-4b6b-bb72-1feb5804589c@acbd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (1):\n  F.M. Weerwind (onbekend)\n\n\n
-DTEND:20230927T110000Z
-DTSTART:20230927T080000Z
-SUMMARY:Femicide
-UID:10a59eb2-5082-4db9-8129-c5fabceb5368@10a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (8):\n  B.C. Kathmann (PvdA)\n  M.H. Bikker (ChristenUnie)\n  U. Ellian (VVD)\n  A. Kops (PVV)\n  J.C. Sneller (D66)\n  S.C. Kröger (GroenLinks)\n  M. van Nispen (SP)\n  S. Dekker (onbekend)\n\n\n
-DTEND:20211202T120000Z
-DTSTART:20211202T090000Z
-SUMMARY:Gevangeniswezen en tbs
-UID:ea1942d0-d27a-45bd-b110-3599f3f25374@ea19.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  P.H. van Meenen (D66)\n  D. Yesilgöz-Zegerius (onbekend)\n  R.W. Knops (CDA)\n  I.J.M. Michon-Derkzen (VVD)\n  F.P. Wassenberg (PvdD)\n  S. Mutluer (PvdA)\n  J.J. van der Werf (D66)\n  M. van Nispen (SP)\n  Onbekend (onbekend)\n  L.M.J.S. Helder (PVV)\n\n\n
-DTEND:20220324T160000Z
-DTSTART:20220324T130000Z
-SUMMARY:Brandweer en crisisbeheersing
-UID:67c83137-afca-4521-a4d1-7fe33fca128a@67c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  J.C. Sneller (D66)\n  H.P.M. Hijink (SP)\n  C.G. van der Staaij (SGP)\n  D.G.M. Ceder (ChristenUnie)\n  I.J.M. Michon-Derkzen (VVD)\n  S. Mutluer (PvdA)\n  U. Ellian (VVD)\n  A. Kuik (CDA)\n  G. Markuszower (PVV)\n  F.M. Weerwind (onbekend)\n  B.J. Eerdmans (JA21)\n\n\n
-DTEND:20230208T120000Z
-DTSTART:20230208T090000Z
-SUMMARY:Gevangeniswezen en tbs
-UID:17ab9af4-8216-49c3-9046-01df6e6212f6@17ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  M. Koekkoek (Volt)\n  E. van der Burg (onbekend)\n  T. Kuzu (DENK)\n  D.G.M. Ceder (ChristenUnie)\n  A. Kuik (CDA)\n  R.P. Brekelmans (VVD)\n  K.P. Piri (PvdA)\n  G. Markuszower (PVV)\n  A. Podt (D66)\n  S.C. Kröger (GroenLinks)\n  J.J. (Jasper) van Dijk (SP)\n\n\n
-DTEND:20220323T113000Z
-DTSTART:20220323T090000Z
-SUMMARY:Ingelaste JBZ-raad van 28 maart 2022
-UID:baa31766-4ff9-44dd-8404-b469f79ad46c@baa3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (13):\n  R. Bisschop (SGP)\n  I.J.M. Michon-Derkzen (VVD)\n  M. van Nispen (SP)\n  G.F.C. van Meijeren (FVD)\n  M.H. Bikker (ChristenUnie)\n  S.H. Simons (BIJ1)\n  J.J. van der Werf (D66)\n  L.M.J.S. Helder (PVV)\n  Onbekend (onbekend)\n  H.M. Palland (CDA)\n  B.C. Kathmann (PvdA)\n  F. Azarkan (DENK)\n  F.B.J. Grapperhaus (onbekend)\n\n\n
-DTEND:20210610T110000Z
-DTSTART:20210610T080000Z
-SUMMARY:Politie 
-UID:12e0bdc9-5256-4f90-80b8-5166765917d0@12e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (13):\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  B.J. Eerdmans (JA21)\n  F.B.J. Grapperhaus (onbekend)\n  F. Azarkan (DENK)\n  M. van Nispen (SP)\n  O.R. Ephraim (Groep Van Haga)\n  P.H. van Meenen (D66)\n  B.C. Kathmann (PvdA)\n  J.J. van der Werf (D66)\n  I.J.M. Michon-Derkzen (VVD)\n  H.M. Palland (CDA)\n  C.E. Ellemeet (GroenLinks)\n\n\n
-DTEND:20211201T120000Z
-DTSTART:20211201T090000Z
-SUMMARY:Criminaliteitsbestrijding
-UID:f932c3a7-fe68-4926-9e80-a70a4637ffb8@f932.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (8):\n  S.R.T. van Baarle (DENK)\n  J.J. van der Werf (D66)\n  D. Yesilgöz-Zegerius (onbekend)\n  I.J.M. Michon-Derkzen (VVD)\n  R.M. Leijten (SP)\n  S. Mutluer (PvdA)\n  A. Kuik (CDA)\n  L.M.J.S. Helder (PVV)\n\n\n
-DTEND:20230419T150000Z
-DTSTART:20230419T120000Z
-SUMMARY:Politie
-UID:9a6ad9af-b499-4494-a56b-a4cd51956377@9a6a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\n
-DTEND:20231220T130000Z
-DTSTART:20231220T090000Z
-SUMMARY:Vreemdelingen- en asielbeleid
-UID:cd4c7187-e592-42b9-8d38-9d6b3f716805@cd4c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  I.J.M. Michon-Derkzen (VVD)\n  S. Mutluer (PvdA)\n  vaste commissie voor Infrastructuur en Waterstaat (onbekend)\n  D. Yesilgöz-Zegerius (onbekend)\n  K. Bouchallikh (GroenLinks)\n  F.P. Wassenberg (PvdD)\n  M. van Nispen (SP)\n  L.M.J.S. Helder (PVV)\n  J.J. van der Werf (D66)\n\n\n
-DTEND:20220512T160000Z
-DTSTART:20220512T130000Z
-SUMMARY:Jaarwisseling
-UID:8fc6fe7b-e00c-4d9b-8ab5-5e58cb3eb381@8fc6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (16):\n  A. Podt (D66)\n  Onbekend (onbekend)\n  S.H. (Sylvana) Simons (BIJ1)\n  D.G.M. Ceder (ChristenUnie)\n  J.J. (Jasper) van Dijk (SP)\n  P.H. van Meenen (D66)\n  Onbekend (onbekend)\n  E. van der Burg (onbekend)\n  S.C. Kröger (GroenLinks)\n  R.P. Brekelmans (VVD)\n  Onbekend (onbekend)\n  E.J. Slootweg (CDA)\n  B.J. Eerdmans (JA21)\n  Onbekend (onbekend)\n  T. Kuzu (DENK)\n  K.P. Piri (PvdA)\n\n\n
-DTEND:20220706T130000Z
-DTSTART:20220706T100000Z
-SUMMARY:Vreemdelingen- en asielbeleid (voortzetting tweede termijn)
-UID:0e8474cb-b0e5-4cf4-8c1c-fa5773c8a2e6@0e84.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (13):\n  W.P.H.J. Peters (CDA)\n  A. Podt (D66)\n  B.J. Eerdmans (JA21)\n  C.A.M. van der Plas (BBB)\n  M. Koekkoek (Volt)\n  J.J. (Jasper) van Dijk (SP)\n  vaste commissie voor Europese Zaken (onbekend)\n  G. Markuszower (PVV)\n  Onbekend (onbekend)\n  E. van der Burg (onbekend)\n  R.P. Brekelmans (VVD)\n  S.C. Kröger (GroenLinks)\n  R. Bisschop (SGP)\n\n\n
-DTEND:20230124T200000Z
-DTSTART:20230124T173000Z
-SUMMARY:Informele JBZ-Raad te Stockholm van 25\, 26 en 27 januari 2023 (vreemdelingen- en asielonderwerpen)
-UID:d77067a5-41e0-4055-b1fd-42cb1dcc4ece@d770.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (13):\n  W.P.H.J. Peters (CDA)\n  R. Bisschop (SGP)\n  R.P. Brekelmans (VVD)\n  S.C. Kröger (GroenLinks)\n  L.A.J.M. Dassen (Volt)\n  H. Kat (D66)\n  Onbekend (onbekend)\n  T. Kuzu (DENK)\n  D.G.M. Ceder (ChristenUnie)\n  E. van der Burg (onbekend)\n  K.P. Piri (PvdA)\n  A. Podt (D66)\n  O.R. Ephraim (Groep Van Haga)\n\n\n
-DTEND:20230330T120000Z
-DTSTART:20230330T080000Z
-SUMMARY:Vreemdelingen- en asielbeleid 
-UID:1e0425df-4489-471b-846b-6f45e3e5107b@1e04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (2):\n  F.M. Weerwind (onbekend)\n  D. Yesilgöz-Zegerius (onbekend)\n\n\n
-DTEND:20231012T100000Z
-DTSTART:20231012T080000Z
-SUMMARY:JBZ-Raad van 19 en 20 oktober 2023 (algemeen)
-UID:2fa38882-10ab-4396-8a40-fb135a18c2a9@2fa3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  C.G. van der Staaij (SGP)\n  J.C. Sneller (D66)\n  P.H. van Meenen (D66)\n  B.C. Kathmann (PvdA)\n  F.B.J. Grapperhaus (onbekend)\n  T. van Ark (onbekend)\n  A. Kuik (CDA)\n  M. van Nispen (SP)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  M.H. Bikker (ChristenUnie)\n  I.J.M. Michon-Derkzen (VVD)\n\n\n
-DTEND:20210602T150000Z
-DTSTART:20210602T120000Z
-SUMMARY:Drugsbeleid
-UID:a0904eef-b290-40d1-a294-49898fd7d0b5@a090.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (15):\n  G. Markuszower (PVV)\n  D.G.M. Ceder (ChristenUnie)\n  R.P. Brekelmans (VVD)\n  W.R. van Haga (Groep Van Haga)\n  E. van der Burg (onbekend)\n  F. Azarkan (DENK)\n  Onbekend (onbekend)\n  M. Koekkoek (Volt)\n  T. Kuzu (DENK)\n  A. Podt (D66)\n  Onbekend (onbekend)\n  C.E. Ellemeet (GroenLinks)\n  S.H. (Sylvana) Simons (BIJ1)\n  W.P.H.J. Peters (CDA)\n  J.J. (Jasper) van Dijk (SP)\n\n\n
-DTEND:20221215T120000Z
-DTSTART:20221215T090000Z
-SUMMARY:Vreemdelingen- en asielbeleid
-UID:aa3ae868-9d10-4c65-b766-b6fa3a352b5d@aa3a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (1):\n  E. van der Burg (onbekend)\n\n\n
-DTEND:20231012T130000Z
-DTSTART:20231012T100000Z
-SUMMARY:JBZ-Raad van 19 en 20 oktober 2023 (vreemdelingen- en asielbeleid)
-UID:d8b81710-2d0e-4a55-b19f-1914496b8531@d8b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (2):\n  D. Yesilgöz-Zegerius (onbekend)\n  I.J.M. Michon-Derkzen (VVD)\n\n\n
-DTEND:20231011T120000Z
-DTSTART:20231011T080000Z
-SUMMARY:Criminaliteitsbestrijding\, ondermijning en georganiseerde criminaliteit
-UID:1c3ab78d-90cd-4de1-bca1-89cc8f5035d6@1c3a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  I.J.M. Michon-Derkzen (VVD)\n  E.M. Westerveld (GroenLinks)\n  D.G.M. Ceder (ChristenUnie)\n  Onbekend (onbekend)\n  B.C. Kathmann (PvdA)\n  F.B.J. Grapperhaus (onbekend)\n  A. Kuik (CDA)\n  G.F.C. van Meijeren (FVD)\n  P.H. van Meenen (D66)\n  M. van Nispen (SP)\n  J.J. van der Werf (D66)\n\n\n
-DTEND:20210916T150000Z
-DTSTART:20210916T120000Z
-SUMMARY:Kindermisbruik en seksueel geweld
-UID:c479e713-7808-46b5-b3bb-20b7addcef78@c479.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (14):\n  G. Markuszower (PVV)\n  M. van Nispen (SP)\n  vaste commissie voor Europese Zaken (onbekend)\n  M. Koekkoek (Volt)\n  A. Podt (D66)\n  F. Azarkan (DENK)\n  K.P. Piri (PvdA)\n  A. Broekers-Knol (onbekend)\n  R. Bisschop (SGP)\n  C.E. Ellemeet (GroenLinks)\n  D.G.M. Ceder (ChristenUnie)\n  G.F.C. van Meijeren (FVD)\n  P.J. Valstar (VVD)\n  A. Kuik (CDA)\n\n\n
-DTEND:20211006T123000Z
-DTSTART:20211006T100000Z
-SUMMARY:Formele JBZ-Raad op 7 en 8 oktober 2021 (vreemdelingen- en asielonderwerpen)
-UID:62ba925e-b807-4c3a-a75a-0b4097cb7e03@62ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (13):\n  F. Azarkan (DENK)\n  P.H. van Meenen (D66)\n  R. Bisschop (SGP)\n  P. van Houwelingen (FVD)\n  J.J. van der Werf (D66)\n  M. van Nispen (SP)\n  S.H. (Sylvana) Simons (BIJ1)\n  L.M.J.S. Helder (PVV)\n  C.A.M. van der Plas (BBB)\n  S. Mutluer (PvdA)\n  R.W. Knops (CDA)\n  I.J.M. Michon-Derkzen (VVD)\n  D. Yesilgöz-Zegerius (onbekend)\n\n\n
-DTEND:20220707T110000Z
-DTSTART:20220707T080000Z
-SUMMARY:Politie
-UID:3eb401e3-4ede-414a-a999-0ce5df37aae4@3eb4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  F.M. Weerwind (onbekend)\n  B.J. Eerdmans (JA21)\n  C.G. van der Staaij (SGP)\n  U. Ellian (VVD)\n  H. Kat (D66)\n  A. Kuik (CDA)\n  J.C. Sneller (D66)\n  D. Yesilgöz-Zegerius (onbekend)\n  S. Mutluer (PvdA)\n  Onbekend (onbekend)\n  G. Markuszower (PVV)\n\n\n
-DTEND:20230614T120000Z
-DTSTART:20230614T080000Z
-SUMMARY:Strafrechtketen
-UID:25489197-6deb-44dc-8ed1-88107ef7f6f6@2548.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  D. Yesilgöz-Zegerius (onbekend)\n  S. Mutluer (PvdA)\n  P.H. van Meenen (D66)\n  F. Azarkan (DENK)\n  F.M. Weerwind (onbekend)\n  M. van Nispen (SP)\n  Onbekend (onbekend)\n  J.C. Sneller (D66)\n  U. Ellian (VVD)\n  R.W. Knops (CDA)\n  B.J. Eerdmans (JA21)\n\n\n
-DTEND:20221005T110000Z
-DTSTART:20221005T080000Z
-SUMMARY:Strafrechtelijke onderwerpen
-UID:f712d5b3-83b8-44e8-b55b-7293e71077ee@f712.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\n
-DTEND:20240118T110000Z
-DTSTART:20240118T090000Z
-SUMMARY:Informele JBZ-Raad van 24\, 25 en 26 januari 2024 (algemeen)
-UID:61783b79-dda2-4f37-b9b7-b2ef4577c4f6@6178.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\n
-DTEND:20240229T140000Z
-DTSTART:20240229T110000Z
-SUMMARY:JBZ-Raad van 4 en 5 maart 2024 (vreemdelingen- en asielbeleid)
-UID:5b359b01-2f63-4720-855b-90472316fd76@5b35.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (12):\n  M.H. Bikker (ChristenUnie)\n  M. van Ooijen (onbekend)\n  A. Kuik (CDA)\n  D. Yesilgöz-Zegerius (onbekend)\n  I.J.M. Michon-Derkzen (VVD)\n  R. Bisschop (SGP)\n  C.E. Ellemeet (GroenLinks)\n  J.C. Sneller (D66)\n  E.J. Kuipers (onbekend)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  S. Mutluer (PvdA)\n  L.M.J.S. Helder (PVV)\n\n\n
-DTEND:20230222T120000Z
-DTSTART:20230222T090000Z
-SUMMARY:Drugsbeleid
-UID:f6ee0fcc-3c16-49d1-bb1d-5d602f63de1c@f6ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  D. Yesilgöz-Zegerius (onbekend)\n  L.M.J.S. Helder (PVV)\n  M. van Nispen (SP)\n  R. Bisschop (SGP)\n  B.J. Eerdmans (JA21)\n  F. Azarkan (DENK)\n  J.J. van der Werf (D66)\n  I.J.M. Michon-Derkzen (VVD)\n  R.W. Knops (CDA)\n  P.H. van Meenen (D66)\n  S. Mutluer (PvdA)\n\n\n
-DTEND:20221020T150000Z
-DTSTART:20221020T120000Z
-SUMMARY:Politie
-UID:9fd2aa9c-af77-4d94-9ae1-5b4dcdaa7510@9fd2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  H. Kat (D66)\n  S. Mutluer (PvdA)\n  A. Kuik (CDA)\n  I.J.M. Michon-Derkzen (VVD)\n  L.M.J.S. Helder (PVV)\n  D. Yesilgöz-Zegerius (onbekend)\n  J.C. Sneller (D66)\n  M.H. Bikker (ChristenUnie)\n  C.G. van der Staaij (SGP)\n\n\n
-DTEND:20230406T140000Z
-DTSTART:20230406T110000Z
-SUMMARY:Criminaliteitsbestrijding\, ondermijning en georganiseerde criminaliteit
-UID:526e6278-de09-42eb-b07f-89d12cc57f22@526e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (14):\n  R. Verkuijlen (VVD)\n  W.P.H.J. Peters (CDA)\n  E.M. Westerveld (GroenLinks)\n  D.G.M. Ceder (ChristenUnie)\n  W.R. van Haga (Groep Van Haga)\n  M. van Ooijen (onbekend)\n  S.H. (Sylvana) Simons (BIJ1)\n  R. Raemakers (D66)\n  S. Mutluer (PvdA)\n  V. Maeijer (PVV)\n  J.P. Kwint (SP)\n  N.L. den Haan (Fractie Den Haan)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  F.M. Weerwind (onbekend)\n\n\n
-DTEND:20221124T120000Z
-DTSTART:20221124T090000Z
-SUMMARY:Jeugdbescherming
-UID:37408bd5-328e-4f97-bfa5-e6539e15cbee@3740.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (1):\n  D. Yesilgöz-Zegerius (onbekend)\n\n\n
-DTEND:20231005T160000Z
-DTSTART:20231005T130000Z
-SUMMARY:Justitieketen van het Caribisch deel van het Koninkrijk
-UID:228f7b13-f194-4c3e-859e-4dc5c9e4a060@228f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  F. Azarkan (DENK)\n  M. van Nispen (SP)\n  S. Dekker (onbekend)\n  L.M. van Ginneken (D66)\n  A. Kuik (CDA)\n  Onbekend (onbekend)\n  D.G.M. Ceder (ChristenUnie)\n  U. Ellian (VVD)\n  B.C. Kathmann (PvdA)\n  M. Koekkoek (Volt)\n\n\n
-DTEND:20210520T110000Z
-DTSTART:20210520T080000Z
-SUMMARY:Bescherming persoonsgegevens
-UID:bfe71b64-2c53-4861-84c2-ef4420143bb8@bfe7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  R.W. Knops (CDA)\n  F. Azarkan (DENK)\n  M. van Nispen (SP)\n  D. Yesilgöz-Zegerius (onbekend)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  U. Ellian (VVD)\n  F.M. Weerwind (onbekend)\n  C.G. van der Staaij (SGP)\n  Onbekend (onbekend)\n  J.C. Sneller (D66)\n\n\n
-DTEND:20220908T110000Z
-DTSTART:20220908T080000Z
-SUMMARY:Staats- en bestuursrecht
-UID:251fc356-10e5-4baf-93d5-618d003d6d77@251f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  H. Kat (D66)\n  C.G. van der Staaij (SGP)\n  H. Dekker-Abdulaziz (D66)\n  M.A.M. Adriaansens (onbekend)\n  A.C. van Huffelen (onbekend)\n  A. Kuik (CDA)\n  S. Mutluer (PvdA)\n  D. Yesilgöz-Zegerius (onbekend)\n  Q.M. Rajkowski (VVD)\n  vaste commissie voor Digitale Zaken (onbekend)\n\n\n
-DTEND:20230330T150000Z
-DTSTART:20230330T120000Z
-SUMMARY:Cybercrime
-UID:7d78703f-e247-4bd4-8ebc-30a16ceb136b@7d78.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (7):\n  L.M. van Ginneken (D66)\n  C.G. van der Staaij (SGP)\n  F.M. Weerwind (onbekend)\n  S. Mutluer (PvdA)\n  U. Ellian (VVD)\n  H. Kat (D66)\n  D.G.M. Ceder (ChristenUnie)\n\n\n
-DTEND:20230322T160000Z
-DTSTART:20230322T130000Z
-SUMMARY:Personen- en familierecht
-UID:d8d7ae43-4a94-464e-b3a8-7a19fb97b83b@d8d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\n
-DTEND:20240118T140000Z
-DTSTART:20240118T110000Z
-SUMMARY:Informele JBZ-Raad van 24\, 25 en 26 januari 2024 (vreemdelingen- en asielbeleid)
-UID:9c3fc033-c5a1-4e00-8c12-f68a01eddf11@9c3f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  F.B.J. Grapperhaus (onbekend)\n  Onbekend (onbekend)\n  A.H. Kuiken (PvdA)\n  M. van Nispen (SP)\n  J.J. van der Werf (D66)\n  P.H. van Meenen (D66)\n  M.H. Bikker (ChristenUnie)\n  I.J.M. Michon-Derkzen (VVD)\n  C.E. Ellemeet (GroenLinks)\n  A. Kuik (CDA)\n\n\n
-DTEND:20210616T164500Z
-DTSTART:20210616T114500Z
-SUMMARY:Criminaliteitsbestrijding en georganiseerde criminaliteit/ondermijning
-UID:099523ba-5310-4c73-9201-265cca99548f@0995.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  U. Ellian (VVD)\n  Onbekend (onbekend)\n  C.G. van der Staaij (SGP)\n  F.M. Weerwind (onbekend)\n  L.M. van Ginneken (D66)\n  Onbekend (onbekend)\n  M. van Nispen (SP)\n  P.H. van Meenen (D66)\n  D.G.M. Ceder (ChristenUnie)\n\n\n
-DTEND:20220324T120000Z
-DTSTART:20220324T090000Z
-SUMMARY:Personen- en familierecht
-UID:6f6bf74a-9c9f-4195-9323-1d7a726a5fc5@6f6b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  J.C. Sneller (D66)\n  R.W. Knops (CDA)\n  Onbekend (onbekend)\n  P.H. van Meenen (D66)\n  F.M. Weerwind (onbekend)\n  C.G. van der Staaij (SGP)\n  Onbekend (onbekend)\n  M. van Nispen (SP)\n  F. Azarkan (DENK)\n  U. Ellian (VVD)\n  D. Yesilgöz-Zegerius (onbekend)\n\n\n
-DTEND:20220223T160000Z
-DTSTART:20220223T130000Z
-SUMMARY:Strafrechtelijke onderwerpen
-UID:0976d06e-9c74-416d-b075-bc2379a4efec@0976.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (16):\n  J.P. Kwint (SP)\n  W.P.H.J. Peters (CDA)\n  Onbekend (onbekend)\n  F.M. Weerwind (onbekend)\n  V. Maeijer (PVV)\n  Onbekend (onbekend)\n  S. Mutluer (PvdA)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  M. van Ooijen (onbekend)\n  Onbekend (onbekend)\n  R. Raemakers (D66)\n  W.R. van Haga (Groep Van Haga)\n  R. Verkuijlen (VVD)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  E.M. Westerveld (GroenLinks)\n\n\n
-DTEND:20221201T163000Z
-DTSTART:20221201T143000Z
-SUMMARY:Jeugdbescherming (voortzetting)
-UID:cd9ae6a6-f3fe-4456-b5f0-b022dfd4156b@cd9a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  Onbekend (onbekend)\n  M. van Nispen (SP)\n  H.M. Palland (CDA)\n  L.M. van Ginneken (D66)\n  B.C. Kathmann (PvdA)\n  Onbekend (onbekend)\n  S. Dekker (onbekend)\n  U. Ellian (VVD)\n  S.H. Simons (BIJ1)\n  R. Bisschop (SGP)\n  M.H. Bikker (ChristenUnie)\n\n\n
-DTEND:20210609T110000Z
-DTSTART:20210609T080000Z
-SUMMARY:Adoptie
-UID:3e39871d-20d4-4d6e-b3fb-51a2121f501c@3e39.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (14):\n  R. Bisschop (SGP)\n  M.H. Bikker (ChristenUnie)\n  B.J. Eerdmans (JA21)\n  F.M. Weerwind (onbekend)\n  M. van Nispen (SP)\n  A. Kuik (CDA)\n  Onbekend (onbekend)\n  R. Verkuijlen (VVD)\n  S. Mutluer (PvdA)\n  F. Azarkan (DENK)\n  J.J. van der Werf (D66)\n  I.J.M. Michon-Derkzen (VVD)\n  D. Yesilgöz-Zegerius (onbekend)\n  C.E. Ellemeet (GroenLinks)\n\n\n
-DTEND:20220310T180000Z
-DTSTART:20220310T140000Z
-SUMMARY:Hoofdlijnen beleid Ministerie van Justitie en Veiligheid
-UID:6e7c2a09-711f-42a5-b78a-39e2123e33ea@6e7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (8):\n  J.C. Sneller (D66)\n  M. van Nispen (SP)\n  D. Yesilgöz-Zegerius (onbekend)\n  U. Ellian (VVD)\n  P.H. van Meenen (D66)\n  F. Azarkan (DENK)\n  F.M. Weerwind (onbekend)\n  Onbekend (onbekend)\n\n\n
-DTEND:20221006T110000Z
-DTSTART:20221006T080000Z
-SUMMARY:Juridische beroepen
-UID:791cd561-c95a-4fcd-9374-ef6e5b4d97a6@791c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  R. Bisschop (SGP)\n  D. Yesilgöz-Zegerius (onbekend)\n  S. Mutluer (PvdA)\n  U. Ellian (VVD)\n  A. Kuik (CDA)\n  J.J. van der Werf (D66)\n  S.R.T. van Baarle (DENK)\n  N.G.J. Temmink (SP)\n  L.M.J.S. Helder (PVV)\n  I.J.M. Michon-Derkzen (VVD)\n  B.J. Eerdmans (JA21)\n\n\n
-DTEND:20230706T140000Z
-DTSTART:20230706T110000Z
-SUMMARY:Politie
-UID:a104c5b6-e7af-4782-bc97-e5c438f19b14@a104.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (2):\n  U. Ellian (VVD)\n  F.M. Weerwind (onbekend)\n\n\n
-DTEND:20230914T150000Z
-DTSTART:20230914T120000Z
-SUMMARY:Gesubsidieerde rechtsbijstand
-UID:e67a876a-645f-4d53-b343-9f44a4d05a3c@e67a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (1):\n  D. Yesilgöz-Zegerius (onbekend)\n\n\n
-DTEND:20231109T170000Z
-DTSTART:20231109T130000Z
-SUMMARY:Seksueel geweld en kindermisbruik
-UID:cd93bca0-b774-435b-9e3a-8bd4745a9ad5@cd93.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  F.M. Weerwind (onbekend)\n  J.C. Sneller (D66)\n  U. Ellian (VVD)\n  R.W. Knops (CDA)\n  S. Mutluer (PvdA)\n  C.G. van der Staaij (SGP)\n  P.H. van Meenen (D66)\n  M. van Nispen (SP)\n  M.H. Bikker (ChristenUnie)\n\n\n
-DTEND:20220622T150000Z
-DTSTART:20220622T120000Z
-SUMMARY:Arbitrage\, mediation en herstelrecht
-UID:ac8096ee-dfff-440a-b2b3-b16b144c4df7@ac80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (5):\n  P.H. van Meenen (D66)\n  F. Azarkan (DENK)\n  B.C. Kathmann (PvdA)\n  J.J. van der Werf (D66)\n  F.B.J. Grapperhaus (onbekend)\n\n\n
-DTEND:20211103T120000Z
-DTSTART:20211103T090000Z
-SUMMARY:Politie
-UID:3a25aa3c-b89a-4f13-9c74-065983a4dacf@3a25.org
+UID:41466c70-91bd-4668-9982-a59da0ef13fe@4146.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (2):\n  U. Ellian (VVD)\n  F.M. Weerwind (onbekend)\n\n\n
 DTEND:20231026T110000Z
 DTSTART:20231026T080000Z
 SUMMARY:Rechtspraak 
-UID:86b06174-5e89-4076-bf32-a6fdfbf319a4@86b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\n
-DTEND:20231101T130000Z
-DTSTART:20231101T090000Z
-SUMMARY:Vreemdelingen- en asielbeleid
-UID:622450ee-01f3-4696-b330-13604f582002@6224.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\n
-DTEND:20240612T100000Z
-DTSTART:20240612T080000Z
-SUMMARY:JBZ-Raad van 13 en 14 juni 2024 (algemeen)
-UID:8bbc00e3-f110-4a3b-b144-ed785ef7da8d@8bbc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (12):\n  J.J. van der Werf (D66)\n  C.E. Ellemeet (GroenLinks)\n  Onbekend (onbekend)\n  O.R. Ephraim (Groep Van Haga)\n  F. Azarkan (DENK)\n  M. van Nispen (SP)\n  L.M.J.S. Helder (PVV)\n  R.W. Knops (CDA)\n  Onbekend (onbekend)\n  I.J.M. Michon-Derkzen (VVD)\n  D. Yesilgöz-Zegerius (onbekend)\n  S. Mutluer (PvdA)\n\n\n
-DTEND:20220615T203000Z
-DTSTART:20220615T163000Z
-SUMMARY:Georganiseerde criminaliteit\, ondermijning en criminaliteitsbestrijding
-UID:38336133-8d65-43d3-8a49-ac027a95cafc@3833.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (3):\n  M. van Ooijen (onbekend)\n  R. Verkuijlen (VVD)\n  F.M. Weerwind (onbekend)\n\n\n
-DTEND:20231025T160000Z
-DTSTART:20231025T120000Z
-SUMMARY:Jeugdbescherming
-UID:e1d2d45d-3356-4d55-b22d-f027d0c61eb1@e1d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (8):\n  M. van Nispen (SP)\n  E.M. Westerveld (GroenLinks)\n  G. Markuszower (PVV)\n  R. Raemakers (D66)\n  S. Mutluer (PvdA)\n  F.M. Weerwind (onbekend)\n  Onbekend (onbekend)\n  R. Verkuijlen (VVD)\n\n\n
-DTEND:20220317T120000Z
-DTSTART:20220317T090000Z
-SUMMARY:Justitiële jeugd
-UID:5de82fa9-814d-4be5-bdde-67c9c49ad016@5de8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  P.H. van Meenen (D66)\n  S. Mutluer (PvdA)\n  G. Markuszower (PVV)\n  M. van Nispen (SP)\n  F. Azarkan (DENK)\n  C.G. van der Staaij (SGP)\n  R.W. Knops (CDA)\n  Onbekend (onbekend)\n  U. Ellian (VVD)\n  Onbekend (onbekend)\n  F.M. Weerwind (onbekend)\n\n\n
-DTEND:20220615T110000Z
-DTSTART:20220615T080000Z
-SUMMARY:Gevangeniswezen en tbs
-UID:eaba0f61-d315-40cb-8df7-8538697836c4@eaba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (16):\n  O.R. Ephraim (Groep Van Haga)\n  B.J. Eerdmans (JA21)\n  J.J. (Jasper) van Dijk (SP)\n  T. Kuzu (DENK)\n  S.C. Kröger (GroenLinks)\n  A. Podt (D66)\n  D.G.M. Ceder (ChristenUnie)\n  W.P.H.J. Peters (CDA)\n  K.P. Piri (PvdA)\n  G. Markuszower (PVV)\n  Onbekend (onbekend)\n  L.A.J.M. Dassen (Volt)\n  T.H.P. Baudet (FVD)\n  Onbekend (onbekend)\n  E. van der Burg (onbekend)\n  R.P. Brekelmans (VVD)\n\n\n
-DTEND:20230223T203000Z
-DTSTART:20230223T160000Z
-SUMMARY:Vreemdelingen- en asielbeleid
-UID:8409a9cd-fd8c-47dc-b57f-4cf0d9cf3895@8409.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (8):\n  R.W. Knops (CDA)\n  Onbekend (onbekend)\n  S. Mutluer (PvdA)\n  L.M. van Ginneken (D66)\n  F.M. Weerwind (onbekend)\n  M. van Nispen (SP)\n  U. Ellian (VVD)\n  C.G. van der Staaij (SGP)\n\n\n
-DTEND:20220616T160000Z
-DTSTART:20220616T130000Z
-SUMMARY:Adoptie
-UID:22799b43-beed-427a-bc66-001bbf0365a3@2279.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (13):\n  A. Podt (D66)\n  W.P.H.J. Peters (CDA)\n  T. Kuzu (DENK)\n  S.C. Kröger (GroenLinks)\n  B.J. Eerdmans (JA21)\n  R.P. Brekelmans (VVD)\n  J.J. (Jasper) van Dijk (SP)\n  G. Markuszower (PVV)\n  W.R. van Haga (Groep Van Haga)\n  M. Koekkoek (Volt)\n  E. van der Burg (onbekend)\n  R. Bisschop (SGP)\n  K.P. Piri (PvdA)\n\n\n
-DTEND:20221019T111500Z
-DTSTART:20221019T080000Z
-SUMMARY:Vreemdelingen- en asielbeleid
-UID:dde5efae-1e71-46c5-bc2c-814a0ca8a434@dde5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\n
-DTEND:20240229T110000Z
-DTSTART:20240229T090000Z
-SUMMARY:JBZ-Raad van 4 en 5 maart 2024 (algemeen)
-UID:fa88830a-693d-4943-a158-82bfff7a2a1f@fa88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (12):\n  D. Yesilgöz-Zegerius (onbekend)\n  R.M. Leijten (SP)\n  I.J.M. Michon-Derkzen (VVD)\n  F. Azarkan (DENK)\n  R.W. Knops (CDA)\n  S.H. (Sylvana) Simons (BIJ1)\n  L.M.J.S. Helder (PVV)\n  S. Mutluer (PvdA)\n  J.J. van der Werf (D66)\n  B.J. Eerdmans (JA21)\n  C.A.M. van der Plas (BBB)\n  P.H. van Meenen (D66)\n\n\n
-DTEND:20221222T120000Z
-DTSTART:20221222T090000Z
-SUMMARY:Politie
-UID:4c7ffdd1-a4b1-4f98-b6ae-cf75b646abfa@4c7f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  B.J. Eerdmans (JA21)\n  U. Ellian (VVD)\n  Onbekend (onbekend)\n  G. Markuszower (PVV)\n  M. van Nispen (SP)\n  P.H. van Meenen (D66)\n  J.C. Sneller (D66)\n  S. Dekker (onbekend)\n  B.C. Kathmann (PvdA)\n  H.M. Palland (CDA)\n\n\n
-DTEND:20210520T200000Z
-DTSTART:20210520T170000Z
-SUMMARY:Gevangeniswezen en tbs
-UID:c4485438-a869-4cb7-be7a-96342b78045a@c448.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  Onbekend (onbekend)\n  R. Verkuijlen (VVD)\n  E. van der Burg (onbekend)\n  S. Mutluer (PvdA)\n  C.G. van der Staaij (SGP)\n  Onbekend (onbekend)\n  U. Ellian (VVD)\n  A. Kuik (CDA)\n  A. Podt (D66)\n\n\n
-DTEND:20230517T110000Z
-DTSTART:20230517T080000Z
-SUMMARY:Mensenhandel en prostitutie
-UID:3413d083-b714-4546-bccc-853d41e2b68c@3413.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (2):\n  F.M. Weerwind (onbekend)\n  D. Yesilgöz-Zegerius (onbekend)\n\n\n
-DTEND:20231130T110000Z
-DTSTART:20231130T090000Z
-SUMMARY:JBZ-Raad van 4 en 5 december 2023 (algemeen)
-UID:41310f29-fc20-4dcb-9cd5-20d424ea4a98@4131.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  J.J. van der Werf (D66)\n  C.G. van der Staaij (SGP)\n  S. Mutluer (PvdA)\n  A. Kuik (CDA)\n  I.J.M. Michon-Derkzen (VVD)\n  M.H. Bikker (ChristenUnie)\n  B.J. Eerdmans (JA21)\n  D. Yesilgöz-Zegerius (onbekend)\n  F.M. Weerwind (onbekend)\n\n\n
-DTEND:20220406T110000Z
-DTSTART:20220406T080000Z
-SUMMARY:Seksueel geweld en kindermisbruik
-UID:905c3d06-fa37-402e-8f5e-92c175776734@905c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (13):\n  T. Kuzu (DENK)\n  R. Bisschop (SGP)\n  W.R. van Haga (Groep Van Haga)\n  H. Kat (D66)\n  R.P. Brekelmans (VVD)\n  E. van der Burg (onbekend)\n  K.P. Piri (PvdA)\n  C.A.M. van der Plas (BBB)\n  G. van den Brink (CDA)\n  D.G.M. Ceder (ChristenUnie)\n  G. Markuszower (PVV)\n  B.J. Eerdmans (JA21)\n  A. Podt (D66)\n\n\n
-DTEND:20230628T120000Z
-DTSTART:20230628T080000Z
-SUMMARY:Vreemdelingen- en asielbeleid
-UID:3270d310-fcfa-4d8f-983a-b40c818cb59f@3270.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (12):\n  vaste commissie voor Europese Zaken (onbekend)\n  D.G.M. Ceder (ChristenUnie)\n  J.J. (Jasper) van Dijk (SP)\n  P.H. van Meenen (D66)\n  Onbekend (onbekend)\n  M. Koekkoek (Volt)\n  P.J. Valstar (VVD)\n  A. Podt (D66)\n  K.P. Piri (PvdA)\n  S.C. Kröger (GroenLinks)\n  A. Broekers-Knol (onbekend)\n  A. Kuik (CDA)\n\n\n
-DTEND:20211208T133000Z
-DTSTART:20211208T110000Z
-SUMMARY:Formele JBZ-Raad van 9 en 10 december 2021 in Brussel (vreemdelingen- en asielonderwerpen)
-UID:efb5ef40-19d0-440b-b683-19ef53ac2b84@efb5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  Onbekend (onbekend)\n  F.M. Weerwind (onbekend)\n  U. Ellian (VVD)\n  P.H. van Meenen (D66)\n  J.C. Sneller (D66)\n  E.J. Slootweg (CDA)\n  L.M.J.S. Helder (PVV)\n  S. Mutluer (PvdA)\n  B.J. Eerdmans (JA21)\n  C.G. van der Staaij (SGP)\n  M. van Nispen (SP)\n\n\n
-DTEND:20220601T110000Z
-DTSTART:20220601T080000Z
-SUMMARY:Slachtofferbeleid
-UID:95fc3809-cd52-4180-93c9-02f258a74004@95fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (8):\n  M. van Nispen (SP)\n  J.J. van der Werf (D66)\n  I.J.M. Michon-Derkzen (VVD)\n  F.P. Wassenberg (PvdD)\n  D. Yesilgöz-Zegerius (onbekend)\n  R.W. Knops (CDA)\n  C.A.M. van der Plas (BBB)\n  S. Mutluer (PvdA)\n\n\n
-DTEND:20230201T120000Z
-DTSTART:20230201T090000Z
-SUMMARY:Brandweer en crisisbeheersing
-UID:4deea81f-a43d-447d-bfca-a093ebfa9852@4dee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  K.P. Piri (PvdA)\n  E. van der Burg (onbekend)\n  A. Podt (D66)\n  T. Kuzu (DENK)\n  vaste commissie voor Europese Zaken (onbekend)\n  W.P.H.J. Peters (CDA)\n  D.G.M. Ceder (ChristenUnie)\n  J.J. (Jasper) van Dijk (SP)\n  R.P. Brekelmans (VVD)\n  B.J. Eerdmans (JA21)\n\n\n
-DTEND:20230308T140000Z
-DTSTART:20230308T110000Z
-SUMMARY:JBZ-Raad te Brussel van 9 en 10 maart 2023 (vreemdelingen- en asielonderwerpen)
-UID:fd5495bf-e808-4a9a-adfa-ca5917c1f260@fd54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  Onbekend (onbekend)\n  F. Azarkan (DENK)\n  Onbekend (onbekend)\n  U. Ellian (VVD)\n  J.C. Sneller (D66)\n  R.W. Knops (CDA)\n  Onbekend (onbekend)\n  F.M. Weerwind (onbekend)\n  D. Yesilgöz-Zegerius (onbekend)\n  M. van Nispen (SP)\n\n\n
-DTEND:20220210T113000Z
-DTSTART:20220210T083000Z
-SUMMARY:Strafrechtketen
-UID:45316d4b-37d1-46de-8eca-7a73c3259f26@4531.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (13):\n  M. Koekkoek (Volt)\n  I.J.M. Michon-Derkzen (VVD)\n  M. van Nispen (SP)\n  H.M. Palland (CDA)\n  Onbekend (onbekend)\n  K.P. Piri (PvdA)\n  O.R. Ephraim (Groep Van Haga)\n  G. Markuszower (PVV)\n  Onbekend (onbekend)\n  F. Azarkan (DENK)\n  Onbekend (onbekend)\n  D. Yesilgöz-Zegerius (onbekend)\n  J.J. van der Werf (D66)\n\n\n
-DTEND:20220126T160000Z
-DTSTART:20220126T130000Z
-SUMMARY:Terrorisme/extremisme
-UID:37b7e7a6-bbc5-41c0-8914-cd01a0209d30@37b7.org
+UID:4fb5f512-4150-4176-bef8-f8a4d3b6e243@4fb5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (12):\n  E.J. Slootweg (CDA)\n  S.R.T. van Baarle (DENK)\n  G. Markuszower (PVV)\n  C.E. Ellemeet (GroenLinks)\n  S. Mutluer (PvdA)\n  M. van Nispen (SP)\n  D. Yesilgöz-Zegerius (onbekend)\n  F. Azarkan (DENK)\n  Onbekend (onbekend)\n  I.J.M. Michon-Derkzen (VVD)\n  J.J. van der Werf (D66)\n  Onbekend (onbekend)\n\n\n
 DTEND:20220616T193000Z
 DTSTART:20220616T163000Z
 SUMMARY:Terrorisme/extremisme
-UID:90f642a0-f63f-4937-8f92-c8f58ea6f17e@90f6.org
+UID:d99a52d4-0e13-4402-b014-2d5214cb861e@d99a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  G. Markuszower (PVV)\n  R.W. Knops (CDA)\n  F.M. Weerwind (onbekend)\n  S. Mutluer (PvdA)\n  M.H. Bikker (ChristenUnie)\n  J.C. Sneller (D66)\n  B.J. Eerdmans (JA21)\n  F. Azarkan (DENK)\n  U. Ellian (VVD)\n  M. van Nispen (SP)\n\n\n
-DTEND:20221019T150000Z
-DTSTART:20221019T120000Z
+DESCRIPTION:Het is niet een besloten evenement\n\n
+DTEND:20240118T110000Z
+DTSTART:20240118T090000Z
+SUMMARY:Informele JBZ-Raad van 24\, 25 en 26 januari 2024 (algemeen)
+UID:c36c92aa-3ee3-4e3b-8784-d1407ddf9928@c36c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  J.J. van der Werf (D66)\n  I.J.M. Michon-Derkzen (VVD)\n  R. Bisschop (SGP)\n  P.H. van Meenen (D66)\n  S. Mutluer (PvdA)\n  D. Yesilgöz-Zegerius (onbekend)\n  A. Kuik (CDA)\n  L.M.J.S. Helder (PVV)\n  M.H. Bikker (ChristenUnie)\n\n\n
+DTEND:20221215T160000Z
+DTSTART:20221215T130000Z
+SUMMARY:Seksueel geweld en kindermisbruik
+UID:aa73d77c-2069-4777-9be3-9d145eb634aa@aa73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (2):\n  U. Ellian (VVD)\n  F.M. Weerwind (onbekend)\n\n\n
+DTEND:20230914T150000Z
+DTSTART:20230914T120000Z
+SUMMARY:Gesubsidieerde rechtsbijstand
+UID:70516656-5654-40b8-9790-10b51498d632@7051.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (13):\n  W.P.H.J. Peters (CDA)\n  A. Podt (D66)\n  B.J. Eerdmans (JA21)\n  C.A.M. van der Plas (BBB)\n  M. Koekkoek (Volt)\n  J.J. (Jasper) van Dijk (SP)\n  vaste commissie voor Europese Zaken (onbekend)\n  G. Markuszower (PVV)\n  Onbekend (onbekend)\n  E. van der Burg (onbekend)\n  R.P. Brekelmans (VVD)\n  S.C. Kröger (GroenLinks)\n  R. Bisschop (SGP)\n\n\n
+DTEND:20230124T200000Z
+DTSTART:20230124T173000Z
+SUMMARY:Informele JBZ-Raad te Stockholm van 25\, 26 en 27 januari 2023 (vreemdelingen- en asielonderwerpen)
+UID:8f808e71-797d-4618-9de8-f0d765ccfe99@8f80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  M.H. Bikker (ChristenUnie)\n  S.H. Simons (BIJ1)\n  M. van Nispen (SP)\n  A. Broekers-Knol (onbekend)\n  A.D. Wiersma (VVD)\n  J.J. van der Werf (D66)\n  R. Bisschop (SGP)\n  A. Kuik (CDA)\n  Onbekend (onbekend)\n\n\n
+DTEND:20210527T110000Z
+DTSTART:20210527T080000Z
+SUMMARY:Mensenhandel en prostitutie
+UID:f1753197-0409-4ecf-a3a6-efab1ad221d2@f175.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  F.M. Weerwind (onbekend)\n  B.J. Eerdmans (JA21)\n  C.G. van der Staaij (SGP)\n  U. Ellian (VVD)\n  H. Kat (D66)\n  A. Kuik (CDA)\n  J.C. Sneller (D66)\n  D. Yesilgöz-Zegerius (onbekend)\n  S. Mutluer (PvdA)\n  Onbekend (onbekend)\n  G. Markuszower (PVV)\n\n\n
+DTEND:20230614T120000Z
+DTSTART:20230614T080000Z
+SUMMARY:Strafrechtketen
+UID:6264bb07-4d6d-454c-ba19-a0822d3eaec3@6264.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  I.J.M. Michon-Derkzen (VVD)\n  S. Mutluer (PvdA)\n  vaste commissie voor Infrastructuur en Waterstaat (onbekend)\n  D. Yesilgöz-Zegerius (onbekend)\n  K. Bouchallikh (GroenLinks)\n  F.P. Wassenberg (PvdD)\n  M. van Nispen (SP)\n  L.M.J.S. Helder (PVV)\n  J.J. van der Werf (D66)\n\n\n
+DTEND:20220512T160000Z
+DTSTART:20220512T130000Z
+SUMMARY:Jaarwisseling
+UID:3f599d72-90c3-4fa7-92eb-7e779c246fb5@3f59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  Onbekend (onbekend)\n  F. Azarkan (DENK)\n  Onbekend (onbekend)\n  U. Ellian (VVD)\n  J.C. Sneller (D66)\n  R.W. Knops (CDA)\n  Onbekend (onbekend)\n  F.M. Weerwind (onbekend)\n  D. Yesilgöz-Zegerius (onbekend)\n  M. van Nispen (SP)\n\n\n
+DTEND:20220210T113000Z
+DTSTART:20220210T083000Z
+SUMMARY:Strafrechtketen
+UID:81d037ad-a007-4590-af9f-955605819950@81d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  B.J. Eerdmans (JA21)\n  U. Ellian (VVD)\n  Onbekend (onbekend)\n  G. Markuszower (PVV)\n  M. van Nispen (SP)\n  P.H. van Meenen (D66)\n  J.C. Sneller (D66)\n  S. Dekker (onbekend)\n  B.C. Kathmann (PvdA)\n  H.M. Palland (CDA)\n\n\n
+DTEND:20210520T200000Z
+DTSTART:20210520T170000Z
 SUMMARY:Gevangeniswezen en tbs
-UID:2f91c9bd-6e7d-4895-829f-eb224e0b4c7c@2f91.org
+UID:0bfdf99e-c3b7-4ad0-bf9f-af9b8b4e0e33@0bfd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (13):\n  F. Azarkan (DENK)\n  P.H. van Meenen (D66)\n  R. Bisschop (SGP)\n  P. van Houwelingen (FVD)\n  J.J. van der Werf (D66)\n  M. van Nispen (SP)\n  S.H. (Sylvana) Simons (BIJ1)\n  L.M.J.S. Helder (PVV)\n  C.A.M. van der Plas (BBB)\n  S. Mutluer (PvdA)\n  R.W. Knops (CDA)\n  I.J.M. Michon-Derkzen (VVD)\n  D. Yesilgöz-Zegerius (onbekend)\n\n\n
+DTEND:20220707T110000Z
+DTSTART:20220707T080000Z
+SUMMARY:Politie
+UID:80e1dbec-454b-4177-9054-1d94aeb0778f@80e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  A. Kuik (CDA)\n  S. Mutluer (PvdA)\n  I.J.M. Michon-Derkzen (VVD)\n  L.M.J.S. Helder (PVV)\n  C.G. van der Staaij (SGP)\n  J.C. Sneller (D66)\n  P.H. van Meenen (D66)\n  M. van Nispen (SP)\n  Onbekend (onbekend)\n  D. Yesilgöz-Zegerius (onbekend)\n\n\n
+DTEND:20221110T160000Z
+DTSTART:20221110T130000Z
+SUMMARY:Criminaliteitsbestrijding\, ondermijning en georganiseerde criminaliteit
+UID:56a26df5-11b3-428a-a048-a822211d7e45@56a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (13):\n  R. Bisschop (SGP)\n  C.E. Ellemeet (GroenLinks)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  D. Yesilgöz-Zegerius (onbekend)\n  M.H. Bikker (ChristenUnie)\n  P.H. van Meenen (D66)\n  S. Mutluer (PvdA)\n  L.M.J.S. Helder (PVV)\n  M. van Nispen (SP)\n  E.J. Slootweg (CDA)\n  J.C. Sneller (D66)\n  E.J. Kuipers (onbekend)\n  I.J.M. Michon-Derkzen (VVD)\n\n\n
+DTEND:20220512T110000Z
+DTSTART:20220512T080000Z
+SUMMARY:Drugsbeleid
+UID:87b6534b-34e7-46d0-9df2-790d67034446@87b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\n
+DTEND:20240229T110000Z
+DTSTART:20240229T090000Z
+SUMMARY:JBZ-Raad van 4 en 5 maart 2024 (algemeen)
+UID:649e1bb1-7785-48fc-aded-f93698eff5e9@649e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  R. Bisschop (SGP)\n  D. Yesilgöz-Zegerius (onbekend)\n  S. Mutluer (PvdA)\n  U. Ellian (VVD)\n  A. Kuik (CDA)\n  J.J. van der Werf (D66)\n  S.R.T. van Baarle (DENK)\n  N.G.J. Temmink (SP)\n  L.M.J.S. Helder (PVV)\n  I.J.M. Michon-Derkzen (VVD)\n  B.J. Eerdmans (JA21)\n\n\n
+DTEND:20230706T140000Z
+DTSTART:20230706T110000Z
+SUMMARY:Politie
+UID:3606bdd4-1466-463c-893a-409c08835969@3606.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  J.C. Sneller (D66)\n  U. Ellian (VVD)\n  vaste commissie voor Infrastructuur en Waterstaat (onbekend)\n  F. Azarkan (DENK)\n  M. van Nispen (SP)\n  B.C. Kathmann (PvdA)\n  S. Dekker (onbekend)\n  G.F.C. van Meijeren (FVD)\n  P.H. van Meenen (D66)\n  F.B.J. Grapperhaus (onbekend)\n  A. Kuik (CDA)\n\n\n
+DTEND:20210603T153000Z
+DTSTART:20210603T123000Z
+SUMMARY:Strafrechtelijke onderwerpen
+UID:23c2617e-1bce-4394-b7b0-1040716ebee9@23c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (8):\n  S. Dekker (onbekend)\n  F.B.J. Grapperhaus (onbekend)\n  M. van Nispen (SP)\n  H.M. Palland (CDA)\n  C.E. Ellemeet (GroenLinks)\n  J.C. Sneller (D66)\n  P.H. van Meenen (D66)\n  U. Ellian (VVD)\n\n\n
+DTEND:20211104T123000Z
+DTSTART:20211104T083000Z
+SUMMARY:Juridische beroepen
+UID:dd932b69-89e9-47a9-b34c-845f17792e32@dd93.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (7):\n  C.G. van der Staaij (SGP)\n  A. Kuik (CDA)\n  U. Ellian (VVD)\n  J.C. Sneller (D66)\n  S. Mutluer (PvdA)\n  F.M. Weerwind (onbekend)\n  L.M.J.S. Helder (PVV)\n\n\n
 DTEND:20230223T120000Z
 DTSTART:20230223T090000Z
 SUMMARY:Slachtofferbeleid
-UID:92ff436c-cb3f-4fb7-a06b-07d1c9072c05@92ff.org
+UID:1e10f290-efd7-415c-b759-fb246bf36782@1e10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  Onbekend (onbekend)\n  F.M. Weerwind (onbekend)\n  U. Ellian (VVD)\n  P.H. van Meenen (D66)\n  J.C. Sneller (D66)\n  E.J. Slootweg (CDA)\n  L.M.J.S. Helder (PVV)\n  S. Mutluer (PvdA)\n  B.J. Eerdmans (JA21)\n  C.G. van der Staaij (SGP)\n  M. van Nispen (SP)\n\n\n
+DTEND:20220601T110000Z
+DTSTART:20220601T080000Z
+SUMMARY:Slachtofferbeleid
+UID:a4278acb-bdd5-4611-94ab-d220cdb164d3@a427.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  M. Koekkoek (Volt)\n  E. van der Burg (onbekend)\n  T. Kuzu (DENK)\n  D.G.M. Ceder (ChristenUnie)\n  A. Kuik (CDA)\n  R.P. Brekelmans (VVD)\n  K.P. Piri (PvdA)\n  G. Markuszower (PVV)\n  A. Podt (D66)\n  S.C. Kröger (GroenLinks)\n  J.J. (Jasper) van Dijk (SP)\n\n\n
+DTEND:20220323T113000Z
+DTSTART:20220323T090000Z
+SUMMARY:Ingelaste JBZ-raad van 28 maart 2022
+UID:1c40a654-9a1c-4c13-aa17-36eb2f8728e5@1c40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (1):\n  F.M. Weerwind (onbekend)\n\n\n
+DTEND:20230927T110000Z
+DTSTART:20230927T080000Z
+SUMMARY:Femicide
+UID:dd701c0b-da3c-4d32-a075-4b1e4bfb03f5@dd70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  P.H. van Meenen (D66)\n  D. Yesilgöz-Zegerius (onbekend)\n  R.W. Knops (CDA)\n  I.J.M. Michon-Derkzen (VVD)\n  F.P. Wassenberg (PvdD)\n  S. Mutluer (PvdA)\n  J.J. van der Werf (D66)\n  M. van Nispen (SP)\n  Onbekend (onbekend)\n  L.M.J.S. Helder (PVV)\n\n\n
+DTEND:20220324T160000Z
+DTSTART:20220324T130000Z
+SUMMARY:Brandweer en crisisbeheersing
+UID:9683cfee-4aa0-4646-91e7-d38707b0445c@9683.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  J.J. van der Werf (D66)\n  C.E. Ellemeet (GroenLinks)\n  P.H. van Meenen (D66)\n  M. van Nispen (SP)\n  D. Yesilgöz-Zegerius (onbekend)\n  R. Bisschop (SGP)\n  F. Azarkan (DENK)\n  S. Mutluer (PvdA)\n  L.M.J.S. Helder (PVV)\n  I.J.M. Michon-Derkzen (VVD)\n\n\n
 DTEND:20220511T110000Z
 DTSTART:20220511T080000Z
 SUMMARY:Politie
-UID:a8d3e171-a6ad-4718-8dcf-adff384f8b19@a8d3.org
+UID:3d2ef44e-43b5-4667-8a5c-3dfbacb792ad@3d2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\n
+DTEND:20231220T130000Z
+DTSTART:20231220T090000Z
+SUMMARY:Vreemdelingen- en asielbeleid
+UID:6f214c19-e5c1-4719-94fb-66494ab80544@6f21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (12):\n  J.J. van der Werf (D66)\n  C.E. Ellemeet (GroenLinks)\n  Onbekend (onbekend)\n  O.R. Ephraim (Groep Van Haga)\n  F. Azarkan (DENK)\n  M. van Nispen (SP)\n  L.M.J.S. Helder (PVV)\n  R.W. Knops (CDA)\n  Onbekend (onbekend)\n  I.J.M. Michon-Derkzen (VVD)\n  D. Yesilgöz-Zegerius (onbekend)\n  S. Mutluer (PvdA)\n\n\n
+DTEND:20220615T203000Z
+DTSTART:20220615T163000Z
+SUMMARY:Georganiseerde criminaliteit\, ondermijning en criminaliteitsbestrijding
+UID:792817e1-b2b4-47b5-aec3-e2f23d6df9f2@7928.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  J.J. van der Werf (D66)\n  C.G. van der Staaij (SGP)\n  S. Mutluer (PvdA)\n  A. Kuik (CDA)\n  I.J.M. Michon-Derkzen (VVD)\n  M.H. Bikker (ChristenUnie)\n  B.J. Eerdmans (JA21)\n  D. Yesilgöz-Zegerius (onbekend)\n  F.M. Weerwind (onbekend)\n\n\n
+DTEND:20220406T110000Z
+DTSTART:20220406T080000Z
+SUMMARY:Seksueel geweld en kindermisbruik
+UID:4dee794a-e76b-408f-957d-c7cdbdf17f27@4dee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (12):\n  M.H. Bikker (ChristenUnie)\n  M. van Ooijen (onbekend)\n  A. Kuik (CDA)\n  D. Yesilgöz-Zegerius (onbekend)\n  I.J.M. Michon-Derkzen (VVD)\n  R. Bisschop (SGP)\n  C.E. Ellemeet (GroenLinks)\n  J.C. Sneller (D66)\n  E.J. Kuipers (onbekend)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  S. Mutluer (PvdA)\n  L.M.J.S. Helder (PVV)\n\n\n
+DTEND:20230222T120000Z
+DTSTART:20230222T090000Z
+SUMMARY:Drugsbeleid
+UID:7248d44e-b578-421d-b58f-e552ec149dd1@7248.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  J.C. Sneller (D66)\n  S. Mutluer (PvdA)\n  F.M. Weerwind (onbekend)\n  Onbekend (onbekend)\n  D.G.M. Ceder (ChristenUnie)\n  M. van Nispen (SP)\n  F. Azarkan (DENK)\n  M. Koekkoek (Volt)\n  U. Ellian (VVD)\n\n\n
+DTEND:20220420T104500Z
+DTSTART:20220420T074500Z
+SUMMARY:Gesubsidieerde rechtsbijstand
+UID:e5e4c9f0-7521-4675-b9df-3155867ccdb8@e5e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  R. Verkuijlen (VVD)\n  P.H. van Meenen (D66)\n  M. van Nispen (SP)\n  L.M.J.S. Helder (PVV)\n  M.H. Bikker (ChristenUnie)\n  S. Mutluer (PvdA)\n  C.G. van der Staaij (SGP)\n  E. van der Burg (onbekend)\n  Onbekend (onbekend)\n  A. Podt (D66)\n  A. Kuik (CDA)\n\n\n
+DTEND:20230119T120000Z
+DTSTART:20230119T090000Z
+SUMMARY:Mensenhandel en prostitutie
+UID:54b7abb7-32fe-4a76-a1ee-ebbc0a62c583@54b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  D. Yesilgöz-Zegerius (onbekend)\n  S. Mutluer (PvdA)\n  P.H. van Meenen (D66)\n  F. Azarkan (DENK)\n  F.M. Weerwind (onbekend)\n  M. van Nispen (SP)\n  Onbekend (onbekend)\n  J.C. Sneller (D66)\n  U. Ellian (VVD)\n  R.W. Knops (CDA)\n  B.J. Eerdmans (JA21)\n\n\n
+DTEND:20221005T110000Z
+DTSTART:20221005T080000Z
+SUMMARY:Strafrechtelijke onderwerpen
+UID:2f4ac096-b8cd-4ec8-aa75-670d2b0ebc78@2f4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  G. Markuszower (PVV)\n  R.W. Knops (CDA)\n  F.M. Weerwind (onbekend)\n  S. Mutluer (PvdA)\n  M.H. Bikker (ChristenUnie)\n  J.C. Sneller (D66)\n  B.J. Eerdmans (JA21)\n  F. Azarkan (DENK)\n  U. Ellian (VVD)\n  M. van Nispen (SP)\n\n\n
+DTEND:20221019T150000Z
+DTSTART:20221019T120000Z
+SUMMARY:Gevangeniswezen en tbs
+UID:3e85c2ea-96a6-4833-9fbf-b465de1e3d49@3e85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  Onbekend (onbekend)\n  R. Verkuijlen (VVD)\n  E. van der Burg (onbekend)\n  S. Mutluer (PvdA)\n  C.G. van der Staaij (SGP)\n  Onbekend (onbekend)\n  U. Ellian (VVD)\n  A. Kuik (CDA)\n  A. Podt (D66)\n\n\n
+DTEND:20230517T110000Z
+DTSTART:20230517T080000Z
+SUMMARY:Mensenhandel en prostitutie
+UID:9b39e05d-979c-48c8-9e13-b4281271e14e@9b39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (8):\n  S.R.T. van Baarle (DENK)\n  J.J. van der Werf (D66)\n  D. Yesilgöz-Zegerius (onbekend)\n  I.J.M. Michon-Derkzen (VVD)\n  R.M. Leijten (SP)\n  S. Mutluer (PvdA)\n  A. Kuik (CDA)\n  L.M.J.S. Helder (PVV)\n\n\n
+DTEND:20230419T150000Z
+DTSTART:20230419T120000Z
+SUMMARY:Politie
+UID:f063d9e8-adb5-4995-907c-115061f33762@f063.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  D. Yesilgöz-Zegerius (onbekend)\n  L.M.J.S. Helder (PVV)\n  M. van Nispen (SP)\n  R. Bisschop (SGP)\n  B.J. Eerdmans (JA21)\n  F. Azarkan (DENK)\n  J.J. van der Werf (D66)\n  I.J.M. Michon-Derkzen (VVD)\n  R.W. Knops (CDA)\n  P.H. van Meenen (D66)\n  S. Mutluer (PvdA)\n\n\n
+DTEND:20221020T150000Z
+DTSTART:20221020T120000Z
+SUMMARY:Politie
+UID:76ed2c31-5e92-4300-8bea-be94e8dc41d2@76ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  P.H. van Meenen (D66)\n  S. Mutluer (PvdA)\n  G. Markuszower (PVV)\n  M. van Nispen (SP)\n  F. Azarkan (DENK)\n  C.G. van der Staaij (SGP)\n  R.W. Knops (CDA)\n  Onbekend (onbekend)\n  U. Ellian (VVD)\n  Onbekend (onbekend)\n  F.M. Weerwind (onbekend)\n\n\n
+DTEND:20220615T110000Z
+DTSTART:20220615T080000Z
+SUMMARY:Gevangeniswezen en tbs
+UID:462684e8-9342-4f6f-99b2-767612e49e37@4626.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (15):\n  G. Markuszower (PVV)\n  D.G.M. Ceder (ChristenUnie)\n  R.P. Brekelmans (VVD)\n  W.R. van Haga (Groep Van Haga)\n  E. van der Burg (onbekend)\n  F. Azarkan (DENK)\n  Onbekend (onbekend)\n  M. Koekkoek (Volt)\n  T. Kuzu (DENK)\n  A. Podt (D66)\n  Onbekend (onbekend)\n  C.E. Ellemeet (GroenLinks)\n  S.H. (Sylvana) Simons (BIJ1)\n  W.P.H.J. Peters (CDA)\n  J.J. (Jasper) van Dijk (SP)\n\n\n
+DTEND:20221215T120000Z
+DTSTART:20221215T090000Z
+SUMMARY:Vreemdelingen- en asielbeleid
+UID:7ccfe574-91e4-4e79-b90d-513640fca502@7ccf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (15):\n  B.J. Eerdmans (JA21)\n  W.P.H.J. Peters (CDA)\n  L.A.J.M. Dassen (Volt)\n  S.C. Kröger (GroenLinks)\n  E. van der Burg (onbekend)\n  H. Kat (D66)\n  R.P. Brekelmans (VVD)\n  K.P. Piri (PvdA)\n  T. Kuzu (DENK)\n  O.R. Ephraim (Groep Van Haga)\n  F.W. Futselaar (SP)\n  A. Podt (D66)\n  G. Markuszower (PVV)\n  D.G.M. Ceder (ChristenUnie)\n  Onbekend (onbekend)\n\n\n
+DTEND:20230510T120000Z
+DTSTART:20230510T080000Z
+SUMMARY:Vreemdelingen- en asielbeleid
+UID:eb60ffa0-1932-4453-9eb7-be776e43fb78@eb60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  Onbekend (onbekend)\n  K.P. Piri (PvdA)\n  E. van der Burg (onbekend)\n  T. Kuzu (DENK)\n  D.G.M. Ceder (ChristenUnie)\n  R. Bisschop (SGP)\n  J.J. (Jasper) van Dijk (SP)\n  vaste commissie voor Europese Zaken (onbekend)\n  B.J. Eerdmans (JA21)\n  R.P. Brekelmans (VVD)\n  A. Podt (D66)\n\n\n
+DTEND:20220608T123000Z
+DTSTART:20220608T100000Z
+SUMMARY:JBZ-Raad Luxemburg van 9 en 10 juni 2022 (vreemdelingen- en asielonderwerpen)
+UID:5937da27-ec44-4c11-88f6-a27ddc309eb3@5937.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (14):\n  G. Markuszower (PVV)\n  M. van Nispen (SP)\n  vaste commissie voor Europese Zaken (onbekend)\n  M. Koekkoek (Volt)\n  A. Podt (D66)\n  F. Azarkan (DENK)\n  K.P. Piri (PvdA)\n  A. Broekers-Knol (onbekend)\n  R. Bisschop (SGP)\n  C.E. Ellemeet (GroenLinks)\n  D.G.M. Ceder (ChristenUnie)\n  G.F.C. van Meijeren (FVD)\n  P.J. Valstar (VVD)\n  A. Kuik (CDA)\n\n\n
+DTEND:20211006T123000Z
+DTSTART:20211006T100000Z
+SUMMARY:Formele JBZ-Raad op 7 en 8 oktober 2021 (vreemdelingen- en asielonderwerpen)
+UID:007a636b-75be-4a5c-8cdf-20535bcc7ebd@007a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  Onbekend (onbekend)\n  M. van Nispen (SP)\n  H.M. Palland (CDA)\n  L.M. van Ginneken (D66)\n  B.C. Kathmann (PvdA)\n  Onbekend (onbekend)\n  S. Dekker (onbekend)\n  U. Ellian (VVD)\n  S.H. Simons (BIJ1)\n  R. Bisschop (SGP)\n  M.H. Bikker (ChristenUnie)\n\n\n
+DTEND:20210609T110000Z
+DTSTART:20210609T080000Z
+SUMMARY:Adoptie
+UID:02e4e336-7d38-4bc9-9570-cfefcd305f19@02e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (5):\n  P.H. van Meenen (D66)\n  F. Azarkan (DENK)\n  B.C. Kathmann (PvdA)\n  J.J. van der Werf (D66)\n  F.B.J. Grapperhaus (onbekend)\n\n\n
+DTEND:20211103T120000Z
+DTSTART:20211103T090000Z
+SUMMARY:Politie
+UID:19a70e04-0318-4306-b82a-67bba2bb77a0@19a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (13):\n  T. Kuzu (DENK)\n  R. Bisschop (SGP)\n  W.R. van Haga (Groep Van Haga)\n  H. Kat (D66)\n  R.P. Brekelmans (VVD)\n  E. van der Burg (onbekend)\n  K.P. Piri (PvdA)\n  C.A.M. van der Plas (BBB)\n  G. van den Brink (CDA)\n  D.G.M. Ceder (ChristenUnie)\n  G. Markuszower (PVV)\n  B.J. Eerdmans (JA21)\n  A. Podt (D66)\n\n\n
+DTEND:20230628T120000Z
+DTSTART:20230628T080000Z
+SUMMARY:Vreemdelingen- en asielbeleid
+UID:cebfb494-1dd3-403e-91b2-52b64d35c519@cebf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (7):\n  H. Kat (D66)\n  R. Verkuijlen (VVD)\n  D.G.M. Ceder (ChristenUnie)\n  F.M. Weerwind (onbekend)\n  A. Kuik (CDA)\n  S. Mutluer (PvdA)\n  R. Raemakers (D66)\n\n\n
+DTEND:20230531T110000Z
+DTSTART:20230531T080000Z
+SUMMARY:Justitiële jeugd
+UID:d784b809-09e1-43ea-b9b2-6bcd11bc017b@d784.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (1):\n  F.M. Weerwind (onbekend)\n\n\n
+DTEND:20231116T120000Z
+DTSTART:20231116T090000Z
+SUMMARY:Juridische beroepen
+UID:f4d437e1-7a19-41e9-9bdd-3d6baaf5cbe7@f4d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  A.D. Wiersma (VVD)\n  M. van Nispen (SP)\n  F.B.J. Grapperhaus (onbekend)\n  H.M. Palland (CDA)\n  C.A.M. van der Plas (BBB)\n  J.J. van der Werf (D66)\n  L.M.J.S. Helder (PVV)\n  B.C. Kathmann (PvdA)\n  P.H. van Meenen (D66)\n\n\n
+DTEND:20210527T150000Z
+DTSTART:20210527T120000Z
+SUMMARY:Taakdifferentiatie brandweer en crisisbeheersing
+UID:34278dc9-a807-499f-9d26-3ff207c7b23c@3427.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  G. Markuszower (PVV)\n  J.C. Sneller (D66)\n  C.G. van der Staaij (SGP)\n  H. Kat (D66)\n  U. Ellian (VVD)\n  A. Kuik (CDA)\n  Onbekend (onbekend)\n  M. van Nispen (SP)\n  F.M. Weerwind (onbekend)\n  D.G.M. Ceder (ChristenUnie)\n  S. Mutluer (PvdA)\n\n\n
+DTEND:20230704T190000Z
+DTSTART:20230704T150000Z
+SUMMARY:Gevangeniswezen en tbs
+UID:b8445199-05a2-45ca-b772-d26e1e9cb95f@b844.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (15):\n  O.R. Ephraim (Groep Van Haga)\n  F.J.H. Jansen (FVD)\n  R.P. Brekelmans (VVD)\n  P.H. van Meenen (D66)\n  E.J. Slootweg (CDA)\n  S.C. Kröger (GroenLinks)\n  C.A.M. van der Plas (BBB)\n  G. Markuszower (PVV)\n  A. Podt (D66)\n  B.J. Eerdmans (JA21)\n  J.J. (Jasper) van Dijk (SP)\n  T. Kuzu (DENK)\n  S.H. (Sylvana) Simons (BIJ1)\n  K.P. Piri (PvdA)\n  E. van der Burg (onbekend)\n\n\n
+DTEND:20220630T160000Z
+DTSTART:20220630T123000Z
+SUMMARY:Vreemdelingen- en asielbeleid
+UID:10937ae5-4c40-4548-96c1-86388954b167@1093.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  F.M. Weerwind (onbekend)\n  J.C. Sneller (D66)\n  U. Ellian (VVD)\n  R.W. Knops (CDA)\n  S. Mutluer (PvdA)\n  C.G. van der Staaij (SGP)\n  P.H. van Meenen (D66)\n  M. van Nispen (SP)\n  M.H. Bikker (ChristenUnie)\n\n\n
+DTEND:20220622T150000Z
+DTSTART:20220622T120000Z
+SUMMARY:Arbitrage\, mediation en herstelrecht
+UID:7c404117-dd07-4658-8540-b33f273a310f@7c40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (12):\n  D. Yesilgöz-Zegerius (onbekend)\n  R.M. Leijten (SP)\n  I.J.M. Michon-Derkzen (VVD)\n  F. Azarkan (DENK)\n  R.W. Knops (CDA)\n  S.H. (Sylvana) Simons (BIJ1)\n  L.M.J.S. Helder (PVV)\n  S. Mutluer (PvdA)\n  J.J. van der Werf (D66)\n  B.J. Eerdmans (JA21)\n  C.A.M. van der Plas (BBB)\n  P.H. van Meenen (D66)\n\n\n
+DTEND:20221222T120000Z
+DTSTART:20221222T090000Z
+SUMMARY:Politie
+UID:ef13225d-4c0a-4be0-b314-7998efd64efc@ef13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  R.W. Knops (CDA)\n  F. Azarkan (DENK)\n  M. van Nispen (SP)\n  D. Yesilgöz-Zegerius (onbekend)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  U. Ellian (VVD)\n  F.M. Weerwind (onbekend)\n  C.G. van der Staaij (SGP)\n  Onbekend (onbekend)\n  J.C. Sneller (D66)\n\n\n
+DTEND:20220908T110000Z
+DTSTART:20220908T080000Z
+SUMMARY:Staats- en bestuursrecht
+UID:06accd7e-e5fd-463c-8720-d5c5dbed3038@06ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  I.J.M. Michon-Derkzen (VVD)\n  E.M. Westerveld (GroenLinks)\n  D.G.M. Ceder (ChristenUnie)\n  Onbekend (onbekend)\n  B.C. Kathmann (PvdA)\n  F.B.J. Grapperhaus (onbekend)\n  A. Kuik (CDA)\n  G.F.C. van Meijeren (FVD)\n  P.H. van Meenen (D66)\n  M. van Nispen (SP)\n  J.J. van der Werf (D66)\n\n\n
+DTEND:20210916T150000Z
+DTSTART:20210916T120000Z
+SUMMARY:Kindermisbruik en seksueel geweld
+UID:ebdfaae7-1bee-4c7e-bae7-92195f98abd8@ebdf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (13):\n  A. Podt (D66)\n  W.P.H.J. Peters (CDA)\n  T. Kuzu (DENK)\n  S.C. Kröger (GroenLinks)\n  B.J. Eerdmans (JA21)\n  R.P. Brekelmans (VVD)\n  J.J. (Jasper) van Dijk (SP)\n  G. Markuszower (PVV)\n  W.R. van Haga (Groep Van Haga)\n  M. Koekkoek (Volt)\n  E. van der Burg (onbekend)\n  R. Bisschop (SGP)\n  K.P. Piri (PvdA)\n\n\n
+DTEND:20221019T111500Z
+DTSTART:20221019T080000Z
+SUMMARY:Vreemdelingen- en asielbeleid
+UID:a3522f81-81cc-4584-8e3b-0d05fa08a8ea@a352.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (3):\n  M. van Ooijen (onbekend)\n  R. Verkuijlen (VVD)\n  F.M. Weerwind (onbekend)\n\n\n
+DTEND:20231025T160000Z
+DTSTART:20231025T120000Z
+SUMMARY:Jeugdbescherming
+UID:07710b2f-28a3-4224-a842-909f27cd3844@0771.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  J.J. van der Werf (D66)\n  P.H. van Meenen (D66)\n  M. van Nispen (SP)\n  D. Yesilgöz-Zegerius (onbekend)\n  I.J.M. Michon-Derkzen (VVD)\n  S. Mutluer (PvdA)\n  F. Azarkan (DENK)\n  R.W. Knops (CDA)\n  S.H. (Sylvana) Simons (BIJ1)\n  L.M.J.S. Helder (PVV)\n\n\n
+DTEND:20221207T200000Z
+DTSTART:20221207T170000Z
+SUMMARY:Politie
+UID:7c38c5c4-e5a9-4b27-8f4d-9ad0822a5ab6@7c38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (5):\n  U. Ellian (VVD)\n  F.M. Weerwind (onbekend)\n  M. van Nispen (SP)\n  Onbekend (onbekend)\n  J.C. Sneller (D66)\n\n\n
+DTEND:20221110T120000Z
+DTSTART:20221110T100000Z
+SUMMARY:Civielrechtelijke onderwerpen
+UID:ba1083ac-4708-4519-ae1e-ab073f404cd8@ba10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (8):\n  M. van Nispen (SP)\n  E.M. Westerveld (GroenLinks)\n  G. Markuszower (PVV)\n  R. Raemakers (D66)\n  S. Mutluer (PvdA)\n  F.M. Weerwind (onbekend)\n  Onbekend (onbekend)\n  R. Verkuijlen (VVD)\n\n\n
+DTEND:20220317T120000Z
+DTSTART:20220317T090000Z
+SUMMARY:Justitiële jeugd
+UID:c409d7cb-bcb1-4224-bc53-f114476766f9@c409.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\n
+DTEND:20240612T100000Z
+DTSTART:20240612T080000Z
+SUMMARY:JBZ-Raad van 13 en 14 juni 2024 (algemeen)
+UID:10d5b4cf-b0a5-430f-83d4-d07dbb3da884@10d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  R.J. (Rudmer) Heerema (VVD)\n  U. Ellian (VVD)\n  J.C. Sneller (D66)\n  M. van Nispen (SP)\n  M.H. Bikker (ChristenUnie)\n  H.M. Palland (CDA)\n  C.E. Ellemeet (GroenLinks)\n  B.C. Kathmann (PvdA)\n  M. Koekkoek (Volt)\n  S.R.T. van Baarle (DENK)\n  S. Dekker (onbekend)\n\n\n
+DTEND:20210526T103000Z
+DTSTART:20210526T073000Z
+SUMMARY:Gesubsidieerde  rechtsbijstand
+UID:599a8f99-79d7-4563-ae61-8dfd354d4465@599a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (1):\n  D. Yesilgöz-Zegerius (onbekend)\n\n\n
+DTEND:20231109T170000Z
+DTSTART:20231109T130000Z
+SUMMARY:Seksueel geweld en kindermisbruik
+UID:08b2ee26-d4d3-49e0-9c51-a76fa7af7f9d@08b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\n
+DTEND:20240612T130000Z
+DTSTART:20240612T100000Z
+SUMMARY:JBZ-Raad van 13 en 14 juni 2024 (vreemdelingen- en asielbeleid)
+UID:9fa9ec8b-2dc2-4680-b51b-44bab132bdea@9fa9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  C.G. van der Staaij (SGP)\n  J.C. Sneller (D66)\n  P.H. van Meenen (D66)\n  B.C. Kathmann (PvdA)\n  F.B.J. Grapperhaus (onbekend)\n  T. van Ark (onbekend)\n  A. Kuik (CDA)\n  M. van Nispen (SP)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  M.H. Bikker (ChristenUnie)\n  I.J.M. Michon-Derkzen (VVD)\n\n\n
+DTEND:20210602T150000Z
+DTSTART:20210602T120000Z
+SUMMARY:Drugsbeleid
+UID:966742bc-bec6-45b9-83d6-47d40d8c12e4@9667.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (8):\n  R.W. Knops (CDA)\n  Onbekend (onbekend)\n  S. Mutluer (PvdA)\n  L.M. van Ginneken (D66)\n  F.M. Weerwind (onbekend)\n  M. van Nispen (SP)\n  U. Ellian (VVD)\n  C.G. van der Staaij (SGP)\n\n\n
+DTEND:20220616T160000Z
+DTSTART:20220616T130000Z
+SUMMARY:Adoptie
+UID:9ecb7555-7fef-4421-aabc-d2d235c9d9c8@9ecb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (13):\n  M. Koekkoek (Volt)\n  I.J.M. Michon-Derkzen (VVD)\n  M. van Nispen (SP)\n  H.M. Palland (CDA)\n  Onbekend (onbekend)\n  K.P. Piri (PvdA)\n  O.R. Ephraim (Groep Van Haga)\n  G. Markuszower (PVV)\n  Onbekend (onbekend)\n  F. Azarkan (DENK)\n  Onbekend (onbekend)\n  D. Yesilgöz-Zegerius (onbekend)\n  J.J. van der Werf (D66)\n\n\n
+DTEND:20220126T160000Z
+DTSTART:20220126T130000Z
+SUMMARY:Terrorisme/extremisme
+UID:78484f38-bb9f-4f01-af45-44e3588c3874@7848.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (13):\n  F.W. Futselaar (SP)\n  B.J. Eerdmans (JA21)\n  G. Markuszower (PVV)\n  A. Podt (D66)\n  R.P. Brekelmans (VVD)\n  G. van den Brink (CDA)\n  D.G.M. Ceder (ChristenUnie)\n  vaste commissie voor Europese Zaken (onbekend)\n  L.A.J.M. Dassen (Volt)\n  R. Bisschop (SGP)\n  T. Kuzu (DENK)\n  E. van der Burg (onbekend)\n  K.P. Piri (PvdA)\n\n\n
+DTEND:20230607T123000Z
+DTSTART:20230607T093000Z
+SUMMARY:JBZ-Raad te Luxemburg van 8 en 9 juni 2023 (vreemdelingen- en asielonderwerpen)
+UID:91a979e1-b0b0-4885-a296-d590b2cc882f@91a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (2):\n  D. Yesilgöz-Zegerius (onbekend)\n  I.J.M. Michon-Derkzen (VVD)\n\n\n
+DTEND:20231011T120000Z
+DTSTART:20231011T080000Z
+SUMMARY:Criminaliteitsbestrijding\, ondermijning en georganiseerde criminaliteit
+UID:460a4b66-9146-44a6-b125-9ead51fce55e@460a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (6):\n  J.C. Sneller (D66)\n  A. Kuik (CDA)\n  D. Yesilgöz-Zegerius (onbekend)\n  U. Ellian (VVD)\n  S. Mutluer (PvdA)\n  F.M. Weerwind (onbekend)\n\n\n
+DTEND:20230202T120000Z
+DTSTART:20230202T090000Z
+SUMMARY:Strafrechtelijke onderwerpen
+UID:fd59bbb4-c03c-4cdb-bcba-e6fc31c3f39d@fd59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (7):\n  J.C. Sneller (D66)\n  R.J. (Rudmer) Heerema (VVD)\n  C.E. Ellemeet (GroenLinks)\n  Onbekend (onbekend)\n  F.M. Weerwind (onbekend)\n  M.H. Bikker (ChristenUnie)\n  M. van Nispen (SP)\n\n\n
+DTEND:20221006T160000Z
+DTSTART:20221006T130000Z
+SUMMARY:Kansspelen
+UID:65071389-58f0-4c5c-a039-d19e19192edf@6507.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (13):\n  W.P.H.J. Peters (CDA)\n  R. Bisschop (SGP)\n  R.P. Brekelmans (VVD)\n  S.C. Kröger (GroenLinks)\n  L.A.J.M. Dassen (Volt)\n  H. Kat (D66)\n  Onbekend (onbekend)\n  T. Kuzu (DENK)\n  D.G.M. Ceder (ChristenUnie)\n  E. van der Burg (onbekend)\n  K.P. Piri (PvdA)\n  A. Podt (D66)\n  O.R. Ephraim (Groep Van Haga)\n\n\n
+DTEND:20230330T120000Z
+DTSTART:20230330T080000Z
+SUMMARY:Vreemdelingen- en asielbeleid 
+UID:7c3aae0a-ecc5-4a86-b957-6c837a99847d@7c3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\n
+DTEND:20240229T140000Z
+DTSTART:20240229T110000Z
+SUMMARY:JBZ-Raad van 4 en 5 maart 2024 (vreemdelingen- en asielbeleid)
+UID:94597953-26a6-41f9-8e66-c37f20e555a4@9459.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  J.J. (Jasper) van Dijk (SP)\n  P.H. van Meenen (D66)\n  S.C. Kröger (GroenLinks)\n  E. van der Burg (onbekend)\n  vaste commissie voor Europese Zaken (onbekend)\n  R.P. Brekelmans (VVD)\n  T. Kuzu (DENK)\n  D.G.M. Ceder (ChristenUnie)\n  G. Markuszower (PVV)\n\n\n
+DTEND:20221012T100000Z
+DTSTART:20221012T073000Z
+SUMMARY:JBZ-Raad op 13 en 14 oktober te Luxemburg (vreemdelingen- en asielonderwerpen)
+UID:411a2179-000f-4afe-94dd-9814336b20f1@411a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (8):\n  B.C. Kathmann (PvdA)\n  M.H. Bikker (ChristenUnie)\n  U. Ellian (VVD)\n  A. Kops (PVV)\n  J.C. Sneller (D66)\n  S.C. Kröger (GroenLinks)\n  M. van Nispen (SP)\n  S. Dekker (onbekend)\n\n\n
+DTEND:20211202T120000Z
+DTSTART:20211202T090000Z
+SUMMARY:Gevangeniswezen en tbs
+UID:26e61d8f-c64a-46f5-8d62-2c6d4fc8f46c@26e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (8):\n  J.C. Sneller (D66)\n  M. van Nispen (SP)\n  D. Yesilgöz-Zegerius (onbekend)\n  U. Ellian (VVD)\n  P.H. van Meenen (D66)\n  F. Azarkan (DENK)\n  F.M. Weerwind (onbekend)\n  Onbekend (onbekend)\n\n\n
+DTEND:20221006T110000Z
+DTSTART:20221006T080000Z
+SUMMARY:Juridische beroepen
+UID:d6d515b5-e068-4057-a099-e9a8ba2ba4e2@d6d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (6):\n  F.M. Weerwind (onbekend)\n  Onbekend (onbekend)\n  M. van Nispen (SP)\n  J.C. Sneller (D66)\n  S. Mutluer (PvdA)\n  U. Ellian (VVD)\n\n\n
+DTEND:20221123T120000Z
+DTSTART:20221123T090000Z
+SUMMARY:Gesubsidieerde rechtsbijstand
+UID:d2fd2a4e-2b25-4d12-b6b3-a101002e3263@d2fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (12):\n  S.H. Simons (BIJ1)\n  M. van Nispen (SP)\n  R.W. Knops (CDA)\n  C.A.M. van der Plas (BBB)\n  Onbekend (onbekend)\n  I.J.M. Michon-Derkzen (VVD)\n  C.E. Ellemeet (GroenLinks)\n  J.J. van der Werf (D66)\n  D. Yesilgöz-Zegerius (onbekend)\n  F. Azarkan (DENK)\n  R. Bisschop (SGP)\n  L.M.J.S. Helder (PVV)\n\n\n
+DTEND:20220217T160000Z
+DTSTART:20220217T130000Z
+SUMMARY:Politie
+UID:884f24f3-26b7-44ff-a524-f0ff799d2b05@884f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (8):\n  M. van Nispen (SP)\n  J.J. van der Werf (D66)\n  I.J.M. Michon-Derkzen (VVD)\n  F.P. Wassenberg (PvdD)\n  D. Yesilgöz-Zegerius (onbekend)\n  R.W. Knops (CDA)\n  C.A.M. van der Plas (BBB)\n  S. Mutluer (PvdA)\n\n\n
+DTEND:20230201T120000Z
+DTSTART:20230201T090000Z
+SUMMARY:Brandweer en crisisbeheersing
+UID:4e177da9-fa1c-4524-ba6f-b0574ba1cf84@4e17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (2):\n  F.M. Weerwind (onbekend)\n  D. Yesilgöz-Zegerius (onbekend)\n\n\n
+DTEND:20231130T110000Z
+DTSTART:20231130T090000Z
+SUMMARY:JBZ-Raad van 4 en 5 december 2023 (algemeen)
+UID:2b08fa9c-3c8b-4fcc-b731-6dd89b7c7848@2b08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (8):\n  J.J. van der Werf (D66)\n  A. Kuik (CDA)\n  E. van der Burg (onbekend)\n  P.H. van Meenen (D66)\n  Onbekend (onbekend)\n  C.G. van der Staaij (SGP)\n  M. van Nispen (SP)\n  C.E. Ellemeet (GroenLinks)\n\n\n
+DTEND:20220224T170000Z
+DTSTART:20220224T140000Z
+SUMMARY:Mensenhandel en prostitutie
+UID:11dc358f-7de7-4273-9186-78463d651f8a@11dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  U. Ellian (VVD)\n  Onbekend (onbekend)\n  C.G. van der Staaij (SGP)\n  F.M. Weerwind (onbekend)\n  L.M. van Ginneken (D66)\n  Onbekend (onbekend)\n  M. van Nispen (SP)\n  P.H. van Meenen (D66)\n  D.G.M. Ceder (ChristenUnie)\n\n\n
+DTEND:20220324T120000Z
+DTSTART:20220324T090000Z
+SUMMARY:Personen- en familierecht
+UID:5bcee952-87c7-4c3c-88b8-3b800dcf8149@5bce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  P.H. van Meenen (D66)\n  B.J. Eerdmans (JA21)\n  M. van Nispen (SP)\n  U. Ellian (VVD)\n  F.M. Weerwind (onbekend)\n  J.C. Sneller (D66)\n  M.H. Bikker (ChristenUnie)\n  Onbekend (onbekend)\n  R.W. Knops (CDA)\n  S. Mutluer (PvdA)\n\n\n
+DTEND:20221109T120000Z
+DTSTART:20221109T090000Z
+SUMMARY:Rechtspraak
+UID:d35c1ffe-9cd9-429c-9fc9-5ea213e6d7d9@d35c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (14):\n  M. van Nispen (SP)\n  Onbekend (onbekend)\n  D. Yesilgöz-Zegerius (onbekend)\n  C.E. Ellemeet (GroenLinks)\n  Onbekend (onbekend)\n  J.C. Sneller (D66)\n  A.H. Kuiken (PvdA)\n  O.R. Ephraim (Groep Van Haga)\n  P.H. van Meenen (D66)\n  M. Koekkoek (Volt)\n  L.M.J.S. Helder (PVV)\n  C.G. van der Staaij (SGP)\n  Onbekend (onbekend)\n  I.J.M. Michon-Derkzen (VVD)\n\n\n
+DTEND:20220127T153000Z
+DTSTART:20220127T123000Z
+SUMMARY:Georganiseerde criminaliteit en ondermijning
+UID:f26ba002-8379-4937-8de7-e74b3a7d6737@f26b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (13):\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  B.J. Eerdmans (JA21)\n  F.B.J. Grapperhaus (onbekend)\n  F. Azarkan (DENK)\n  M. van Nispen (SP)\n  O.R. Ephraim (Groep Van Haga)\n  P.H. van Meenen (D66)\n  B.C. Kathmann (PvdA)\n  J.J. van der Werf (D66)\n  I.J.M. Michon-Derkzen (VVD)\n  H.M. Palland (CDA)\n  C.E. Ellemeet (GroenLinks)\n\n\n
+DTEND:20211201T120000Z
+DTSTART:20211201T090000Z
+SUMMARY:Criminaliteitsbestrijding
+UID:e9706281-420e-4da5-9637-86a3ca8da33d@e970.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  F.B.J. Grapperhaus (onbekend)\n  Onbekend (onbekend)\n  A.H. Kuiken (PvdA)\n  M. van Nispen (SP)\n  J.J. van der Werf (D66)\n  P.H. van Meenen (D66)\n  M.H. Bikker (ChristenUnie)\n  I.J.M. Michon-Derkzen (VVD)\n  C.E. Ellemeet (GroenLinks)\n  A. Kuik (CDA)\n\n\n
+DTEND:20210616T164500Z
+DTSTART:20210616T114500Z
+SUMMARY:Criminaliteitsbestrijding en georganiseerde criminaliteit/ondermijning
+UID:33bf8329-80cc-4691-b1b7-876b51ac2abc@33bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  J.C. Sneller (D66)\n  H.P.M. Hijink (SP)\n  C.G. van der Staaij (SGP)\n  D.G.M. Ceder (ChristenUnie)\n  I.J.M. Michon-Derkzen (VVD)\n  S. Mutluer (PvdA)\n  U. Ellian (VVD)\n  A. Kuik (CDA)\n  G. Markuszower (PVV)\n  F.M. Weerwind (onbekend)\n  B.J. Eerdmans (JA21)\n\n\n
+DTEND:20230208T120000Z
+DTSTART:20230208T090000Z
+SUMMARY:Gevangeniswezen en tbs
+UID:9f0a827b-e3c7-4073-bb1e-4433a2fe709a@9f0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (16):\n  O.R. Ephraim (Groep Van Haga)\n  B.J. Eerdmans (JA21)\n  J.J. (Jasper) van Dijk (SP)\n  T. Kuzu (DENK)\n  S.C. Kröger (GroenLinks)\n  A. Podt (D66)\n  D.G.M. Ceder (ChristenUnie)\n  W.P.H.J. Peters (CDA)\n  K.P. Piri (PvdA)\n  G. Markuszower (PVV)\n  Onbekend (onbekend)\n  L.A.J.M. Dassen (Volt)\n  T.H.P. Baudet (FVD)\n  Onbekend (onbekend)\n  E. van der Burg (onbekend)\n  R.P. Brekelmans (VVD)\n\n\n
+DTEND:20230223T203000Z
+DTSTART:20230223T160000Z
+SUMMARY:Vreemdelingen- en asielbeleid
+UID:27f7c3b7-ec21-44ae-a6a5-192e1c2a5d26@27f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (13):\n  R. Bisschop (SGP)\n  I.J.M. Michon-Derkzen (VVD)\n  M. van Nispen (SP)\n  G.F.C. van Meijeren (FVD)\n  M.H. Bikker (ChristenUnie)\n  S.H. Simons (BIJ1)\n  J.J. van der Werf (D66)\n  L.M.J.S. Helder (PVV)\n  Onbekend (onbekend)\n  H.M. Palland (CDA)\n  B.C. Kathmann (PvdA)\n  F. Azarkan (DENK)\n  F.B.J. Grapperhaus (onbekend)\n\n\n
+DTEND:20210610T110000Z
+DTSTART:20210610T080000Z
+SUMMARY:Politie 
+UID:49c6f7d7-bb1d-4dc7-94ac-cd2afa3daaf6@49c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  D. Yesilgöz-Zegerius (onbekend)\n  F. Azarkan (DENK)\n  G. Markuszower (PVV)\n  A. Kuik (CDA)\n  I.J.M. Michon-Derkzen (VVD)\n  J.J. van der Werf (D66)\n  G.F.C. van Meijeren (FVD)\n  H. Kat (D66)\n  W.R. van Haga (Groep Van Haga)\n\n\n
+DTEND:20230607T193000Z
+DTSTART:20230607T163000Z
+SUMMARY:Terrorisme/extremisme
+UID:cec515dc-debf-4d2b-b9e6-2d365c601029@cec5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  J.C. Sneller (D66)\n  R.W. Knops (CDA)\n  Onbekend (onbekend)\n  P.H. van Meenen (D66)\n  F.M. Weerwind (onbekend)\n  C.G. van der Staaij (SGP)\n  Onbekend (onbekend)\n  M. van Nispen (SP)\n  F. Azarkan (DENK)\n  U. Ellian (VVD)\n  D. Yesilgöz-Zegerius (onbekend)\n\n\n
+DTEND:20220223T160000Z
+DTSTART:20220223T130000Z
+SUMMARY:Strafrechtelijke onderwerpen
+UID:dd6871c9-a464-4789-aae8-ca3347e7738f@dd68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (7):\n  L.M. van Ginneken (D66)\n  C.G. van der Staaij (SGP)\n  F.M. Weerwind (onbekend)\n  S. Mutluer (PvdA)\n  U. Ellian (VVD)\n  H. Kat (D66)\n  D.G.M. Ceder (ChristenUnie)\n\n\n
+DTEND:20230322T160000Z
+DTSTART:20230322T130000Z
+SUMMARY:Personen- en familierecht
+UID:92f39029-a746-4a74-8984-321ddd6f60de@92f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\n
+DTEND:20240118T140000Z
+DTSTART:20240118T110000Z
+SUMMARY:Informele JBZ-Raad van 24\, 25 en 26 januari 2024 (vreemdelingen- en asielbeleid)
+UID:b4ddea46-587a-4889-9445-b401fcfcfa97@b4dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (16):\n  A. Podt (D66)\n  Onbekend (onbekend)\n  S.H. (Sylvana) Simons (BIJ1)\n  D.G.M. Ceder (ChristenUnie)\n  J.J. (Jasper) van Dijk (SP)\n  P.H. van Meenen (D66)\n  Onbekend (onbekend)\n  E. van der Burg (onbekend)\n  S.C. Kröger (GroenLinks)\n  R.P. Brekelmans (VVD)\n  Onbekend (onbekend)\n  E.J. Slootweg (CDA)\n  B.J. Eerdmans (JA21)\n  Onbekend (onbekend)\n  T. Kuzu (DENK)\n  K.P. Piri (PvdA)\n\n\n
+DTEND:20220706T130000Z
+DTSTART:20220706T100000Z
+SUMMARY:Vreemdelingen- en asielbeleid (voortzetting tweede termijn)
+UID:a896d2ba-aa90-4955-94d0-16df5a73bbd5@a896.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  H. Kat (D66)\n  S. Mutluer (PvdA)\n  A. Kuik (CDA)\n  I.J.M. Michon-Derkzen (VVD)\n  L.M.J.S. Helder (PVV)\n  D. Yesilgöz-Zegerius (onbekend)\n  J.C. Sneller (D66)\n  M.H. Bikker (ChristenUnie)\n  C.G. van der Staaij (SGP)\n\n\n
+DTEND:20230406T140000Z
+DTSTART:20230406T110000Z
+SUMMARY:Criminaliteitsbestrijding\, ondermijning en georganiseerde criminaliteit
+UID:42551fb6-56be-4220-b20e-427e582342a9@4255.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (14):\n  R. Bisschop (SGP)\n  M.H. Bikker (ChristenUnie)\n  B.J. Eerdmans (JA21)\n  F.M. Weerwind (onbekend)\n  M. van Nispen (SP)\n  A. Kuik (CDA)\n  Onbekend (onbekend)\n  R. Verkuijlen (VVD)\n  S. Mutluer (PvdA)\n  F. Azarkan (DENK)\n  J.J. van der Werf (D66)\n  I.J.M. Michon-Derkzen (VVD)\n  D. Yesilgöz-Zegerius (onbekend)\n  C.E. Ellemeet (GroenLinks)\n\n\n
+DTEND:20220310T180000Z
+DTSTART:20220310T140000Z
+SUMMARY:Hoofdlijnen beleid Ministerie van Justitie en Veiligheid
+UID:c9c6a830-5fd6-40de-8e56-c19369d9aedf@c9c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  F. Azarkan (DENK)\n  M. van Nispen (SP)\n  S. Dekker (onbekend)\n  L.M. van Ginneken (D66)\n  A. Kuik (CDA)\n  Onbekend (onbekend)\n  D.G.M. Ceder (ChristenUnie)\n  U. Ellian (VVD)\n  B.C. Kathmann (PvdA)\n  M. Koekkoek (Volt)\n\n\n
+DTEND:20210520T110000Z
+DTSTART:20210520T080000Z
+SUMMARY:Bescherming persoonsgegevens
+UID:04823ab0-69fc-40d6-b7ee-c881d4788087@0482.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  H. Kat (D66)\n  C.G. van der Staaij (SGP)\n  H. Dekker-Abdulaziz (D66)\n  M.A.M. Adriaansens (onbekend)\n  A.C. van Huffelen (onbekend)\n  A. Kuik (CDA)\n  S. Mutluer (PvdA)\n  D. Yesilgöz-Zegerius (onbekend)\n  Q.M. Rajkowski (VVD)\n  vaste commissie voor Digitale Zaken (onbekend)\n\n\n
+DTEND:20230330T150000Z
+DTSTART:20230330T120000Z
+SUMMARY:Cybercrime
+UID:af25fefd-87e3-4fa7-bb79-ef91c58321b5@af25.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (8):\n  U. Ellian (VVD)\n  B.J. Eerdmans (JA21)\n  G.F.C. van Meijeren (FVD)\n  S. Dekker (onbekend)\n  M. van Nispen (SP)\n  Onbekend (onbekend)\n  J.C. Sneller (D66)\n  H.M. Palland (CDA)\n\n\n
 DTEND:20210930T150000Z
 DTSTART:20210930T120000Z
 SUMMARY:Rechtspraak
-UID:235e1e09-913d-4fd9-a12f-213a17592669@235e.org
+UID:920b187e-2fa7-4393-a1b3-bd02aa1ea76c@920b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (14):\n  R. Verkuijlen (VVD)\n  W.P.H.J. Peters (CDA)\n  E.M. Westerveld (GroenLinks)\n  D.G.M. Ceder (ChristenUnie)\n  W.R. van Haga (Groep Van Haga)\n  M. van Ooijen (onbekend)\n  S.H. (Sylvana) Simons (BIJ1)\n  R. Raemakers (D66)\n  S. Mutluer (PvdA)\n  V. Maeijer (PVV)\n  J.P. Kwint (SP)\n  N.L. den Haan (Fractie Den Haan)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  F.M. Weerwind (onbekend)\n\n\n
+DTEND:20221124T120000Z
+DTSTART:20221124T090000Z
+SUMMARY:Jeugdbescherming
+UID:e4036ec5-7c6c-4f1f-87a0-8a55e5701436@e403.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (3):\n  F.M. Weerwind (onbekend)\n  U. Ellian (VVD)\n  D. Yesilgöz-Zegerius (onbekend)\n\n\n
+DTEND:20231005T160000Z
+DTSTART:20231005T130000Z
+SUMMARY:Strafrechtelijke onderwerpen
+UID:20202ff1-f194-4a0a-9463-0e7a4e9d0c81@2020.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\n
+DTEND:20231101T130000Z
+DTSTART:20231101T090000Z
+SUMMARY:Vreemdelingen- en asielbeleid
+UID:56925865-8d91-405c-b761-857681ad6d33@5692.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  A. Kuik (CDA)\n  F. Azarkan (DENK)\n  S. Mutluer (PvdA)\n  D. Yesilgöz-Zegerius (onbekend)\n  M. van Nispen (SP)\n  I.J.M. Michon-Derkzen (VVD)\n  G. Markuszower (PVV)\n  C.A.M. van der Plas (BBB)\n  J.J. van der Werf (D66)\n\n\n
+DTEND:20221124T160000Z
+DTSTART:20221124T130000Z
+SUMMARY:Terrorisme/extremisme
+UID:48150f23-209a-4954-8c13-b3ddad200b5c@4815.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (16):\n  J.P. Kwint (SP)\n  W.P.H.J. Peters (CDA)\n  Onbekend (onbekend)\n  F.M. Weerwind (onbekend)\n  V. Maeijer (PVV)\n  Onbekend (onbekend)\n  S. Mutluer (PvdA)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  M. van Ooijen (onbekend)\n  Onbekend (onbekend)\n  R. Raemakers (D66)\n  W.R. van Haga (Groep Van Haga)\n  R. Verkuijlen (VVD)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  E.M. Westerveld (GroenLinks)\n\n\n
+DTEND:20221201T163000Z
+DTSTART:20221201T143000Z
+SUMMARY:Jeugdbescherming (voortzetting)
+UID:da6fabff-5187-4807-a464-c2dcf87ceec4@da6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (8):\n  B.C. Kathmann (PvdA)\n  R.J. (Rudmer) Heerema (VVD)\n  M.H. Bikker (ChristenUnie)\n  J.C. Sneller (D66)\n  A. Kuik (CDA)\n  S. Dekker (onbekend)\n  Onbekend (onbekend)\n  M. van Nispen (SP)\n\n\n
+DTEND:20211215T113000Z
+DTSTART:20211215T083000Z
+SUMMARY:Kansspelen
+UID:5763ccbb-eb26-4846-8c56-7b6bf631c361@5763.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (1):\n  E. van der Burg (onbekend)\n\n\n
+DTEND:20231130T140000Z
+DTSTART:20231130T110000Z
+SUMMARY:JBZ-Raad van 4 en 5 december 2023 (vreemdelingen- en asielbeleid)
+UID:0b2c3137-3506-4a33-8cc5-18b9693fa19e@0b2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  K.P. Piri (PvdA)\n  E. van der Burg (onbekend)\n  A. Podt (D66)\n  T. Kuzu (DENK)\n  vaste commissie voor Europese Zaken (onbekend)\n  W.P.H.J. Peters (CDA)\n  D.G.M. Ceder (ChristenUnie)\n  J.J. (Jasper) van Dijk (SP)\n  R.P. Brekelmans (VVD)\n  B.J. Eerdmans (JA21)\n\n\n
+DTEND:20230308T140000Z
+DTSTART:20230308T110000Z
+SUMMARY:JBZ-Raad te Brussel van 9 en 10 maart 2023 (vreemdelingen- en asielonderwerpen)
+UID:1024c08e-c8f3-4622-adb7-f9d05f4aae68@1024.org
 END:VEVENT
 END:VCALENDAR
