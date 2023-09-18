@@ -1,7 +1,7 @@
 # Commissie vergaderingen Eerste- en Tweede Kamer
 Dit project genereert elke dag de kalenders van de verschillende commissies van de kamers van het parlement. Je kan de link in de kalender programma (bijvoorbeeld Outlook) kopiëren voor automatische synchronisatie.
 
-Laatste update: 18/09/2023 04:24
+Laatste update: 18/09/2023 16:21
 
 ## Gevulde kalenders
 **Commissie voor de Rijksuitgaven** (2 gevonden)\
@@ -10,7 +10,7 @@ Laatste update: 18/09/2023 04:24
 **Vaste commissie voor Binnenlandse Zaken** (56 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Binnenlandse-Zaken.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Binnenlandse-Zaken.ics)
 
-**Vaste commissie voor Buitenlandse Handel en Ontwikkelingssamenwerking** (28 gevonden)\
+**Vaste commissie voor Buitenlandse Handel en Ontwikkelingssamenwerking** (27 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Buitenlandse-Handel-en-Ontwikkelingssamenwerking.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Buitenlandse-Handel-en-Ontwikkelingssamenwerking.ics)
 
 **Vaste commissie voor Buitenlandse Zaken** (49 gevonden)\
@@ -49,7 +49,7 @@ Laatste update: 18/09/2023 04:24
 **Vaste commissie voor Sociale Zaken en Werkgelegenheid** (46 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Sociale-Zaken-en-Werkgelegenheid.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Sociale-Zaken-en-Werkgelegenheid.ics)
 
-**Vaste commissie voor Volksgezondheid, Welzijn en Sport** (72 gevonden)\
+**Vaste commissie voor Volksgezondheid, Welzijn en Sport** (69 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Volksgezondheid--Welzijn-en-Sport.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Volksgezondheid--Welzijn-en-Sport.ics)
 
 ## Lege kalenders
