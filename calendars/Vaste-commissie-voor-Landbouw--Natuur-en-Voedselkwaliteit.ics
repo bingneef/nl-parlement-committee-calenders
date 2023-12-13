@@ -2,304 +2,339 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIEN (2) ivm toevoeging agendapunt \nSPREEKTIJD PER FRACTIE 5 MINUTEN\n\nHet is niet een besloten evenement\n\nAanwezigen (16):\n  H. Staghouwer (onbekend)\n  Onbekend (onbekend)\n  E.J. Kuipers (onbekend)\n  E. Ouwehand (PvdD)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  S.M. Beckerman (SP)\n  J.L. Geurts (CDA)\n  S.C. Kröger (GroenLinks)\n  R. Bisschop (SGP)\n  C.A.M. van der Plas (BBB)\n  A.A.H. van Campen (VVD)\n  J. Thijssen (PvdA)\n  A. Podt (D66)\n  Onbekend (onbekend)\n  T.C. (Tjeerd) de Groot (D66)\n  D.G. Boswijk (CDA)\n\n\n
-DTEND:20220224T203000Z
-DTSTART:20220224T173000Z
+DESCRIPTION:Notitie:\nSPREEKTIJD EERSTE TERMIJN 4 MINUTEN\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  A.A.H. van Campen (VVD)\n  Onbekend (onbekend)\n  D.G. Boswijk (CDA)\n  E.J. Kuipers (onbekend)\n  T.C. (Tjeerd) de Groot (D66)\n  R. Bisschop (SGP)\n  J.L. Geurts (CDA)\n  P. Adema (onbekend)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  L. Vestering (PvdD)\n  Onbekend (onbekend)\n  C.A.M. van der Plas (BBB)\n  vaste commissie voor Landbouw\, Natuur en Voedselkwaliteit (onbekend)\n  L. Bromet (GroenLinks)\n\n\n
+DTEND:20221013T173000Z
+DTSTART:20221013T143000Z
 SUMMARY:Zoönosen en dierziekten
-UID:5e640b07-0fc5-47ca-86d5-1a140179cd12@5e64.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSPREEKTIJD EERSTE TERMIJN 5 MINUTEN\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  T.C. (Tjeerd) de Groot (D66)\n  Onbekend (onbekend)\n  C.A.M. van der Plas (BBB)\n  J.L. Geurts (CDA)\n  L. Vestering (PvdD)\n  E.J. Kuipers (onbekend)\n  D.G. Boswijk (CDA)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  H. Staghouwer (onbekend)\n  A.A.H. van Campen (VVD)\n  D.J.G. Graus (PVV)\n  Onbekend (onbekend)\n  A. Podt (D66)\n  R. Bisschop (SGP)\n\n\n
-DTEND:20220628T203000Z
-DTSTART:20220628T163000Z
-SUMMARY:Nederlandse Voedsel- en Warenautoriteit (NVWA) LET OP: gewijzigd tijdstip
-UID:87bf3a0b-a4b4-4e6e-a1a1-164b9740deed@87bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSPREEKTIJD EERSTE TERMIJN 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  P. Adema (onbekend)\n  C.A.M. van der Plas (BBB)\n  S.M. Beckerman (SP)\n  E.J. Kuipers (onbekend)\n  J.L. Geurts (CDA)\n  Onbekend (onbekend)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  T.C. (Tjeerd) de Groot (D66)\n  A. Podt (D66)\n  D.G. Boswijk (CDA)\n  L. Bromet (GroenLinks)\n  A.A.H. van Campen (VVD)\n  L. Vestering (PvdD)\n  D.J.G. Graus (PVV)\n\n\n
-DTEND:20230202T130000Z
-DTSTART:20230202T090000Z
-SUMMARY:Zoönosen en dierziekten
-UID:c94913eb-f2a0-4466-858e-5eeea94dd837@c949.org
+UID:25c7568a-90e8-42d9-8368-70b99442a436@25c7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nSPREEKTIJD 5 MINUTEN PER FRACTIE\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  Onbekend (onbekend)\n  J. Thijssen (PvdA)\n  Onbekend (onbekend)\n  D.G. Boswijk (CDA)\n  F.P. Wassenberg (PvdD)\n  L. Bromet (GroenLinks)\n  A.A.H. van Campen (VVD)\n  R. Bisschop (SGP)\n  J.L. Geurts (CDA)\n  Ch. van der Wal-Zeggelink (onbekend)\n  Onbekend (onbekend)\n  T.C. (Tjeerd) de Groot (D66)\n  C.A.M. van der Plas (BBB)\n  Onbekend (onbekend)\n\n\n
 DTEND:20220210T180000Z
 DTSTART:20220210T150000Z
 SUMMARY:Natuur
-UID:532f2c6e-ee50-4d32-8dd0-6a34219412a8@532f.org
+UID:42a656a1-59aa-4581-a9e8-8a9f84ad1b8d@42a6.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSPREEKTIJD EERSTE TERMIJN 3 MINUTEN\nN.a.v. besluitvorming in de strategische procedurevergadering van de commissie LNV van 8 maart 2023 is de nieuwe werkwijze van de commissie dat u zich \nin Parlis aan dient te melden voor commissiedebatten\n opdat tijdig duidelijk is hoeveel commissieleden deelnemen aan dit debat en of er derhalve voldoende tijd is ingeruimd voor een ordentelijk debat.\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  T.C. (Tjeerd) de Groot (D66)\n  A.A.H. van Campen (VVD)\n  Onbekend (onbekend)\n  R. Bisschop (SGP)\n  A. Podt (D66)\n  P.A. Grinwis (ChristenUnie)\n  L. Bromet (GroenLinks)\n  Onbekend (onbekend)\n  P. Adema (onbekend)\n  D.J.G. Graus (PVV)\n\n\n
-DTEND:20230607T143000Z
-DTSTART:20230607T123000Z
-SUMMARY:Pacht
-UID:b55b78cb-789a-4039-bb3f-702830152d1e@b55b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHerzien: SPREEKTIJD 5 MINUTEN PER FRACTIE\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  D.G. Boswijk (CDA)\n  C.A.M. van der Plas (BBB)\n  T.C. (Tjeerd) de Groot (D66)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  V.L.W.A. Heijnen (onbekend)\n  P.J. Valstar (VVD)\n  P.A. Grinwis (ChristenUnie)\n  Onbekend (onbekend)\n  H. Staghouwer (onbekend)\n  E. (Edgar) Mulder (PVV)\n  vaste commissie voor Economische Zaken en Klimaat (onbekend)\n  vaste commissie voor Infrastructuur en Waterstaat (onbekend)\n\n\n
-DTEND:20220209T180000Z
-DTSTART:20220209T160000Z
-SUMMARY:Biotechnologie en tuinbouw
-UID:11e51e02-29a8-46e6-bb09-b4d51a294351@11e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSPREEKTIJD PER FRACTIE 5 MINUTEN\nN.a.v. besluitvorming in de strategische procedurevergadering van de commissie LNV van 8 maart 2023 is de nieuwe werkwijze van de commissie dat u zich \nin Parlis aan dient te melden voor commissiedebatten\n opdat tijdig duidelijk is hoeveel commissieleden deelnemen aan dit debat en of er derhalve voldoende tijd is ingeruimd voor een ordentelijk debat.\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  Onbekend (onbekend)\n  A. Podt (D66)\n  Onbekend (onbekend)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  P. Adema (onbekend)\n  S.M. Beckerman (SP)\n  J. Thijssen (PvdA)\n  M. Amhaouch (CDA)\n  T.C. (Tjeerd) de Groot (D66)\n  D.J.G. Graus (PVV)\n  E.C. Vedder (CDA)\n  E.S. Akerboom (PvdD)\n  Onbekend (onbekend)\n  A.A.H. van Campen (VVD)\n\n\n
-DTEND:20230531T160000Z
-DTSTART:20230531T110000Z
-SUMMARY:Nederlandse Voedsel- en Warenautoriteit (NVWA)
-UID:f524011f-9ec5-43da-b172-3c770c493f63@f524.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSPREEKTIJD EERSTE TERMIJN 4 MINUTEN\n\nHet is niet een besloten evenement\n\nAanwezigen (22):\n  L. Vestering (PvdD)\n  P. Adema (onbekend)\n  Onbekend (onbekend)\n  P.A. Grinwis (ChristenUnie)\n  D.J.G. Graus (PVV)\n  T.C. (Tjeerd) de Groot (D66)\n  J.L. Geurts (CDA)\n  vaste commissie voor Economische Zaken en Klimaat (onbekend)\n  D.G. Boswijk (CDA)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  A. Podt (D66)\n  P.J. Valstar (VVD)\n  A.A.H. van Campen (VVD)\n  L. Bromet (GroenLinks)\n  M. Koekkoek (Volt)\n  C.A.M. van der Plas (BBB)\n  Onbekend (onbekend)\n  S.M. Beckerman (SP)\n  R. Bisschop (SGP)\n  J. Thijssen (PvdA)\n\n\n
-DTEND:20221020T110000Z
-DTSTART:20221020T080000Z
-SUMMARY:Landbouw\, Klimaat en Voedsel
-UID:566c390b-ac64-4d88-8248-c8e7bb4a4961@566c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nVoortzetting commissiedebat (eerste termijn was op 6 april 2022)\n\nHet is niet een besloten evenement\n\nAanwezigen (17):\n  J. Thijssen (PvdA)\n  H. Staghouwer (onbekend)\n  T.C. (Tjeerd) de Groot (D66)\n  F.P. Wassenberg (PvdD)\n  J.L. Geurts (CDA)\n  R. Bisschop (SGP)\n  C.A.M. van der Plas (BBB)\n  E. (Edgar) Mulder (PVV)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  D.G. Boswijk (CDA)\n  P.A. Grinwis (ChristenUnie)\n  A.A.H. van Campen (VVD)\n  L. Bromet (GroenLinks)\n  Ch. van der Wal-Zeggelink (onbekend)\n  Onbekend (onbekend)\n\n\n
-DTEND:20220412T163000Z
-DTSTART:20220412T143000Z
-SUMMARY:Hoofdlijnendebat LNV (voortzetting van 6 april)
-UID:710d47a5-83b3-467d-83b4-da543cf942ba@710d.org
+DESCRIPTION:Notitie:\nIndien u naar aanleiding van dit commissiedebat een tweeminutendebat inclusief stemmingen wenst te voeren voorafgaand aan de Landbouw- en Visserijraad op 27/28 mei dan kan dit debat inclusief stemmingen uiterlijk plaatsvinden op donderdag 23 mei 2024.\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  P. Adema (onbekend)\n  vaste commissie voor Europese Zaken (onbekend)\n\n\n
+DTEND:20240522T140000Z
+DTSTART:20240522T110000Z
+SUMMARY:Landbouw- en Visserijraad (27/28 mei)
+UID:50b56bc3-7b8a-4903-9790-4316e5f99ca8@50b5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nSPREEKTIJD PER FRACTIE 3 MINUTEN\nHerziene convocatie: agendapunt/zaak toegevoegd (*)\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  C.J. Schouten (onbekend)\n  L. Bromet (GroenLinks)\n  D.G. Boswijk (CDA)\n  E. (Edgar) Mulder (PVV)\n  C.A.M. van der Plas (BBB)\n  P.A. Grinwis (ChristenUnie)\n  R. Bisschop (SGP)\n  L. Vestering (PvdD)\n  A.A.H. van Campen (VVD)\n  T.C. (Tjeerd) de Groot (D66)\n  J. Thijssen (PvdA)\n  A.H. Kuiken (PvdA)\n\n\n
 DTEND:20210610T163000Z
 DTSTART:20210610T143000Z
 SUMMARY:Fosfaatrechtenstelsel
-UID:53dafecc-5e25-4ada-9adc-4e0845ae4df2@53da.org
+UID:4f0e33ad-1080-415e-a443-fbb852c2c2ae@4f0e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSPREEKTIJD 4 MINUTEN PER FRACTIE\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  Onbekend (onbekend)\n  J.L. Geurts (CDA)\n  Onbekend (onbekend)\n  R. Bisschop (SGP)\n  D.J.G. Graus (PVV)\n  T.C. (Tjeerd) de Groot (D66)\n  A. Podt (D66)\n  F.P. Wassenberg (PvdD)\n  E.A. Haverkort (VVD)\n  P. Adema (onbekend)\n\n\n
-DTEND:20230126T160000Z
-DTSTART:20230126T130000Z
-SUMMARY:Dierenwelzijn (buiten de veehouderij)
-UID:744de1f6-3520-4884-a8fc-56d40834a8a7@744d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSPREEKTIJD PER FRACTIE 5 MINUTEN\nIndien u naar aanleiding van dit commissiedebat een tweeminutendebat inclusief stemmingen wenst te voeren voorafgaand aan de Landbouw- en Visserijraad op 21 maart\, da\nn kan dit debat inclusief stemmingen uiterlijk plaatsvinden op donderdag 17 maart.\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  H. Staghouwer (onbekend)\n  A.A.H. van Campen (VVD)\n  T.C. (Tjeerd) de Groot (D66)\n  vaste commissie voor Europese Zaken (onbekend)\n  D.G. Boswijk (CDA)\n  J. Thijssen (PvdA)\n  C.A.M. van der Plas (BBB)\n  J.L. Geurts (CDA)\n  F.P. Wassenberg (PvdD)\n  R. Bisschop (SGP)\n  P.A. Grinwis (ChristenUnie)\n\n\n
-DTEND:20220315T193000Z
-DTSTART:20220315T163000Z
-SUMMARY:Landbouw- en Visserijraad op 21 maart 2022 LET OP: gewijzigd tijdstip (was 16.30-19.30u)
-UID:c7cf9086-1bf4-4265-b392-d00767dae998@c7cf.org
+DESCRIPTION:Notitie:\nHerzien: SPREEKTIJD 5 MINUTEN PER FRACTIE\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  D.G. Boswijk (CDA)\n  C.A.M. van der Plas (BBB)\n  T.C. (Tjeerd) de Groot (D66)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  V.L.W.A. Heijnen (onbekend)\n  P.J. Valstar (VVD)\n  P.A. Grinwis (ChristenUnie)\n  Onbekend (onbekend)\n  H. Staghouwer (onbekend)\n  E. (Edgar) Mulder (PVV)\n  vaste commissie voor Economische Zaken en Klimaat (onbekend)\n  vaste commissie voor Infrastructuur en Waterstaat (onbekend)\n\n\n
+DTEND:20220209T180000Z
+DTSTART:20220209T160000Z
+SUMMARY:Biotechnologie en tuinbouw
+UID:fc88602b-50c2-4108-a65a-f6a7b0c38df7@fc88.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nSPREEKTIJD PER FRACTIE 5 MINUTEN\nHerziene convocatie in verband met aanvulling agenda.\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  J.L. Geurts (CDA)\n  C. Teunissen (PvdD)\n  Ch. van der Wal-Zeggelink (onbekend)\n  L. Bromet (GroenLinks)\n  E.N.A.J. Schreinemacher (onbekend)\n  T.C. (Tjeerd) de Groot (D66)\n  A.A.H. van Campen (VVD)\n  vaste commissie voor Buitenlandse Handel en Ontwikkelingssamenwerking (onbekend)\n\n\n
 DTEND:20220413T193000Z
 DTSTART:20220413T163000Z
 SUMMARY: Nederlandse inzet met betrekking tot het VN-Biodiversiteitsverdrag
-UID:e881e512-5d51-4873-a1e8-574d9c45468b@e881.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSPREEKTIJD EERSTE TERMIJN 4 MINUTEN\nN.a.v. besluitvorming in de strategische procedurevergadering van de commissie LNV van 8 maart 2023 is de nieuwe werkwijze van de commissie dat u zich \nin Parlis aan dient te melden voor commissiedebatten\n opdat tijdig duidelijk is hoeveel commissieleden deelnemen aan dit debat en of er derhalve voldoende tijd is ingeruimd voor een ordentelijk debat.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  Onbekend (onbekend)\n  vaste commissie voor Onderwijs\, Cultuur en Wetenschap (onbekend)\n  D.J.G. Graus (PVV)\n  F.P. Wassenberg (PvdD)\n  A. Podt (D66)\n  J.L. Geurts (CDA)\n  R.H. Dijkgraaf (onbekend)\n  J. Thijssen (PvdA)\n  E.A. Haverkort (VVD)\n  P. Adema (onbekend)\n  T.C. (Tjeerd) de Groot (D66)\n\n\n
-DTEND:20230509T173000Z
-DTSTART:20230509T143000Z
-SUMMARY:Dierproeven
-UID:594c4fdf-6e0f-4f14-b9f9-33ffc3b353b8@594c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSPREEKTIJD EERSTE TERMIJN 5 MINUTEN\nN.a.v. besluitvorming in de strategische procedurevergadering van de commissie LNV van 8 maart 2023 is de nieuwe werkwijze van de commissie dat u zich \nin Parlis aan dient te melden voor commissiedebatten\n opdat tijdig duidelijk is hoeveel commissieleden deelnemen aan dit debat en of er derhalve voldoende tijd is ingeruimd voor een ordentelijk debat.\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  J. Thijssen (PvdA)\n  T.C. (Tjeerd) de Groot (D66)\n  C.A.M. van der Plas (BBB)\n  D.J.G. Graus (PVV)\n  P. Adema (onbekend)\n  M. Amhaouch (CDA)\n  A.A.H. van Campen (VVD)\n  P.A. Grinwis (ChristenUnie)\n  vaste commissie voor Infrastructuur en Waterstaat (onbekend)\n  Onbekend (onbekend)\n  E.S. Akerboom (PvdD)\n  D.G. Boswijk (CDA)\n  L. Bromet (GroenLinks)\n\n\n
-DTEND:20230601T173000Z
-DTSTART:20230601T123000Z
-SUMMARY:Mestbeleid
-UID:f51a7089-fa64-46b7-8ecc-ac4583518095@f51a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSPREEKTIJD EERSTE TERMIJN 4 MINUTEN\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  J.L. Geurts (CDA)\n  C.A.M. van der Plas (BBB)\n  P. Adema (onbekend)\n  vaste commissie voor Infrastructuur en Waterstaat (onbekend)\n  R. Bisschop (SGP)\n  D.G. Boswijk (CDA)\n  T.C. (Tjeerd) de Groot (D66)\n  F.P. Wassenberg (PvdD)\n  L. Vestering (PvdD)\n  P.J. Valstar (VVD)\n  Onbekend (onbekend)\n  P.A. Grinwis (ChristenUnie)\n  D.J.G. Graus (PVV)\n  A. Podt (D66)\n\n\n
-DTEND:20230209T120000Z
-DTSTART:20230209T090000Z
-SUMMARY:Tuinbouw en Visserij
-UID:2dc87a24-27de-40a7-8b63-79fc172b39ee@2dc8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSPREEKTIJD PER FRACTIE 3 MINUTEN \n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  T.C. (Tjeerd) de Groot (D66)\n  C.J. Schouten (onbekend)\n  P.J. Valstar (VVD)\n  L. Vestering (PvdD)\n  S.M. Beckerman (SP)\n  C.A.M. van der Plas (BBB)\n\n\n
-DTEND:20210909T100000Z
-DTSTART:20210909T080000Z
-SUMMARY:Het niet handhaven door de Nederlandse Voedsel- en Warenautoriteit op exportverzamelplaatsen
-UID:5b0ae9c8-13dd-4a44-81ee-46e25c03f33a@5b0a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSPREEKTIJD EERSTE TERMIJN 4 MINUTEN\nN.a.v. besluitvorming in de strategische procedurevergadering van de commissie LNV van 8 maart 2023 is de nieuwe werkwijze van de commissie dat u zich \nin Parlis aan dient te melden voor commissiedebatten\n opdat tijdig duidelijk is hoeveel commissieleden deelnemen aan dit debat en of er derhalve voldoende tijd is ingeruimd voor een ordentelijk debat.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  P.J. Valstar (VVD)\n  R. Bisschop (SGP)\n  C.A.M. van der Plas (BBB)\n  P. Adema (onbekend)\n  vaste commissie voor Europese Zaken (onbekend)\n  J. Thijssen (PvdA)\n  J.L. Geurts (CDA)\n  Onbekend (onbekend)\n  A. Podt (D66)\n  D.G. Boswijk (CDA)\n  F.P. Wassenberg (PvdD)\n\n\n
-DTEND:20230420T104500Z
-DTSTART:20230420T074500Z
-SUMMARY:Landbouw- en Visserijraad 24/25 april
-UID:1d1aa36d-9f46-48eb-9a65-06a622b66185@1d1a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSPREEKTIJD EERSTE TERMIJN 5 MINUTEN\nN.a.v. besluitvorming in de strategische procedurevergadering van de commissie LNV van 8 maart 2023 is de nieuwe werkwijze van de commissie dat u zich \nin Parlis aan dient te melden voor commissiedebatten\n opdat tijdig duidelijk is hoeveel commissieleden deelnemen aan dit debat en of er derhalve voldoende tijd is ingeruimd voor een ordentelijk debat.\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  P. Adema (onbekend)\n  A. Podt (D66)\n  L. Vestering (PvdD)\n  Onbekend (onbekend)\n  T.C. (Tjeerd) de Groot (D66)\n  M. Amhaouch (CDA)\n  L. Bromet (GroenLinks)\n  E.J. Kuipers (onbekend)\n  A.A.H. van Campen (VVD)\n  E.C. Vedder (CDA)\n  S.M. Beckerman (SP)\n  D.J.G. Graus (PVV)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  C.A.M. van der Plas (BBB)\n\n\n
-DTEND:20230906T170000Z
-DTSTART:20230906T130000Z
-SUMMARY:Zoönosen en dierziekten
-UID:845afb30-1ef8-4d53-9996-06a32bf5f718@845a.org
+UID:b1c875a6-e0d1-4216-b723-75f41debc304@b1c8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\n3e herziene convocatie i.v.m. aanvulling agenda (NIEUW)\nNoot: (*)toegevoegd naar aanleiding van het opheffen van de controversieelverklaring op 6 juli 2021) (**)(toegevoegd onder het voorbehoud dat de commissie deze niet controversieel verklaart in de voorafgaande procedurevergadering op 15 september 2021)\nSPREEKTIJD MAXIMAAL 5 MINUTEN PER FRACTIE\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  T.C. (Tjeerd) de Groot (D66)\n  L. Vestering (PvdD)\n  P.A. Grinwis (ChristenUnie)\n  Onbekend (onbekend)\n  A.A.H. van Campen (VVD)\n  C.A.M. van der Plas (BBB)\n  C.J. Schouten (onbekend)\n  J.L. Geurts (CDA)\n  J. Thijssen (PvdA)\n  R. Bisschop (SGP)\n  E. (Edgar) Mulder (PVV)\n\n\n
 DTEND:20210915T173000Z
 DTSTART:20210915T143000Z
 SUMMARY:Mestbeleid
-UID:44498632-6646-4a3d-98e1-ca86e48b850a@4449.org
+UID:fa3df13c-4eb9-4a06-b5d1-cbd85e8d459a@fa3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSPREEKTIJD EERSTE TERMIJN 4 MINUTEN\n\nHet is niet een besloten evenement\n\nAanwezigen (22):\n  L. Vestering (PvdD)\n  P. Adema (onbekend)\n  Onbekend (onbekend)\n  P.A. Grinwis (ChristenUnie)\n  D.J.G. Graus (PVV)\n  T.C. (Tjeerd) de Groot (D66)\n  J.L. Geurts (CDA)\n  vaste commissie voor Economische Zaken en Klimaat (onbekend)\n  D.G. Boswijk (CDA)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  A. Podt (D66)\n  P.J. Valstar (VVD)\n  A.A.H. van Campen (VVD)\n  L. Bromet (GroenLinks)\n  M. Koekkoek (Volt)\n  C.A.M. van der Plas (BBB)\n  Onbekend (onbekend)\n  S.M. Beckerman (SP)\n  R. Bisschop (SGP)\n  J. Thijssen (PvdA)\n\n\n
+DTEND:20221020T110000Z
+DTSTART:20221020T080000Z
+SUMMARY:Landbouw\, Klimaat en Voedsel
+UID:8f8c14ad-7432-47c6-b12d-af9fe2541c5f@8f8c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nSPREEKTIJD EERSTE TERMIJN 5 MINUTEN\nN.a.v. besluitvorming in de strategische procedurevergadering van de commissie LNV van 8 maart 2023 is de nieuwe werkwijze van de commissie dat u zich \nin Parlis aan dient te melden voor commissiedebatten\n opdat tijdig duidelijk is hoeveel commissieleden deelnemen aan dit debat en of er derhalve voldoende tijd is ingeruimd voor een ordentelijk debat.\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  Onbekend (onbekend)\n  A. Podt (D66)\n  T.C. (Tjeerd) de Groot (D66)\n  S.M. Beckerman (SP)\n  L. Bromet (GroenLinks)\n  C.A.M. van der Plas (BBB)\n  E.C. Vedder (CDA)\n  Onbekend (onbekend)\n  M. Amhaouch (CDA)\n  D.J.G. Graus (PVV)\n  Onbekend (onbekend)\n  P. Adema (onbekend)\n  E.S. Akerboom (PvdD)\n  A.A.H. van Campen (VVD)\n\n\n
 DTEND:20230615T153000Z
 DTSTART:20230615T113000Z
 SUMMARY:Dieren in de veehouderij
-UID:0a133b60-84d4-43c4-a2c3-605ad20dde7c@0a13.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSPREEKTIJD EERSTE TERMIJN 5 MINUTEN\nN.a.v. besluitvorming in de strategische procedurevergadering van de commissie LNV van 8 maart 2023 is de nieuwe werkwijze van de commissie dat u zich \nin Parlis aan dient te melden voor commissiedebatten\n opdat tijdig duidelijk is hoeveel commissieleden deelnemen aan dit debat en of er derhalve voldoende tijd is ingeruimd voor een ordentelijk debat.\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  M. Amhaouch (CDA)\n  E.C. Vedder (CDA)\n  vaste commissie voor Infrastructuur en Waterstaat (onbekend)\n  V.L.W.A. Heijnen (onbekend)\n  Onbekend (onbekend)\n  L. Bromet (GroenLinks)\n  S.M. Beckerman (SP)\n  T.C. (Tjeerd) de Groot (D66)\n  vaste commissie voor Binnenlandse Zaken (onbekend)\n  L.M. van Ginneken (D66)\n  A.A.H. van Campen (VVD)\n  P. Adema (onbekend)\n  C.A.M. van der Plas (BBB)\n  R. Bisschop (SGP)\n  E.S. Akerboom (PvdD)\n\n\n
-DTEND:20231010T190000Z
-DTSTART:20231010T150000Z
-SUMMARY:Gewasbeschermingsmiddelen
-UID:4f4e4321-8c65-42db-b0c2-0878c001a71d@4f4e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nLET OP: vroege aanvangstijd\nSPREEKTIJD PER FRACTIE 7 MINUTEN\n\nHet is niet een besloten evenement\n\nAanwezigen (21):\n  A. Podt (D66)\n  vaste commissie voor Infrastructuur en Waterstaat (onbekend)\n  vaste commissie voor Binnenlandse Zaken (onbekend)\n  B. Madlener (PVV)\n  R. Bisschop (SGP)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  F.P. Wassenberg (PvdD)\n  J. Thijssen (PvdA)\n  Ch. van der Wal-Zeggelink (onbekend)\n  E. (Edgar) Mulder (PVV)\n  Onbekend (onbekend)\n  A.A.H. van Campen (VVD)\n  T.C. (Tjeerd) de Groot (D66)\n  C.A.M. van der Plas (BBB)\n  P.A. Grinwis (ChristenUnie)\n  L. Bromet (GroenLinks)\n  J.L. Geurts (CDA)\n  D.J. Eppink (JA21)\n  D.G. Boswijk (CDA)\n  Onbekend (onbekend)\n\n\n
-DTEND:20220310T123000Z
-DTSTART:20220310T083000Z
-SUMMARY:Stikstofproblematiek
-UID:877be8b2-ede5-42d9-815c-0f06a2ded998@877b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSPREEKTIJD EERSTE TERMIJN 4 MINUTEN\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  A.A.H. van Campen (VVD)\n  Onbekend (onbekend)\n  D.G. Boswijk (CDA)\n  E.J. Kuipers (onbekend)\n  T.C. (Tjeerd) de Groot (D66)\n  R. Bisschop (SGP)\n  J.L. Geurts (CDA)\n  P. Adema (onbekend)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  L. Vestering (PvdD)\n  Onbekend (onbekend)\n  C.A.M. van der Plas (BBB)\n  vaste commissie voor Landbouw\, Natuur en Voedselkwaliteit (onbekend)\n  L. Bromet (GroenLinks)\n\n\n
-DTEND:20221013T173000Z
-DTSTART:20221013T143000Z
-SUMMARY:Zoönosen en dierziekten
-UID:eac8775a-3d98-4a16-b49f-d8cde56eb217@eac8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nIndien u naar aanleiding van dit commissiedebat een tweeminutendebat inclusief stemmingen wenst te voeren voorafgaand aan de Landbouw- en Visserijraad op 30 januari dan kan dit debat inclusief stemmingen uiterlijk plaatsvinden op donderdag 26 januari\nSPREEKTIJD EERSTE TERMIJN 4 MINUTEN\n\nHet is niet een besloten evenement\n\nAanwezigen (17):\n  C.A.M. van der Plas (BBB)\n  vaste commissie voor Europese Zaken (onbekend)\n  D.J. Eppink (JA21)\n  Onbekend (onbekend)\n  P. Adema (onbekend)\n  T.C. (Tjeerd) de Groot (D66)\n  J. Thijssen (PvdA)\n  S.M. Beckerman (SP)\n  P.A. Grinwis (ChristenUnie)\n  D.G. Boswijk (CDA)\n  R. Bisschop (SGP)\n  J.L. Geurts (CDA)\n  A.A.H. van Campen (VVD)\n  L. Bromet (GroenLinks)\n  W.R. van Haga (Groep Van Haga)\n  A. Kops (PVV)\n  L. Vestering (PvdD)\n\n\n
-DTEND:20230125T170000Z
-DTSTART:20230125T130000Z
-SUMMARY:Landbouw- en Visserijraad 30 januari (DUUR VERLENGD)
-UID:9e9b38b2-803f-4408-809d-ebfe17fb405b@9e9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n2e Herziene convocatie in verband met aanvulling agendapunten\nSPREEKTIJD PER FRACTIE 5 MINUTEN\n\nHet is niet een besloten evenement\n\nAanwezigen (19):\n  C.A.M. van der Plas (BBB)\n  T.C. (Tjeerd) de Groot (D66)\n  Onbekend (onbekend)\n  F.P. Wassenberg (PvdD)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  S.M. Beckerman (SP)\n  J. Thijssen (PvdA)\n  vaste commissie voor Economische Zaken en Klimaat (onbekend)\n  W.R. van Haga (Groep Van Haga)\n  A.A.H. van Campen (VVD)\n  D.G. Boswijk (CDA)\n  R. Bisschop (SGP)\n  D.J. Eppink (JA21)\n  H. Staghouwer (onbekend)\n  E. (Edgar) Mulder (PVV)\n  J.L. Geurts (CDA)\n  P.A. Grinwis (ChristenUnie)\n  L. Bromet (GroenLinks)\n\n\n
-DTEND:20220330T150000Z
-DTSTART:20220330T120000Z
-SUMMARY:Landbouw\, klimaat en voedsel
-UID:94ca84ca-5af6-4914-ad89-62f1269b542d@94ca.org
+UID:53e738c2-353b-48ca-94cf-d60ad1890475@53e7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nSPREEKTIJD EERSTE TERMIJN 4 MINUTEN\n\nHet is niet een besloten evenement\n\nAanwezigen (16):\n  P.A. Grinwis (ChristenUnie)\n  D.G. Boswijk (CDA)\n  vaste commissie voor Economische Zaken en Klimaat (onbekend)\n  C. Stoffer (SGP)\n  E. (Edgar) Mulder (PVV)\n  P.J. Valstar (VVD)\n  J.L. Geurts (CDA)\n  A. Podt (D66)\n  L. Bromet (GroenLinks)\n  T.C. (Tjeerd) de Groot (D66)\n  vaste commissie voor Infrastructuur en Waterstaat (onbekend)\n  H. Staghouwer (onbekend)\n  Onbekend (onbekend)\n  F.P. Wassenberg (PvdD)\n  C.A.M. van der Plas (BBB)\n  R. Bisschop (SGP)\n\n\n
 DTEND:20220706T134500Z
 DTSTART:20220706T104500Z
 SUMMARY:Visserij en tuinbouw
-UID:b787eb0a-b1e8-4d75-8979-a6a6b671a4eb@b787.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSPREEKTIJD EERSTE TERMIJN 4 MINUTEN\nIndien u naar aanleiding van dit commissiedebat een tweeminutendebat inclusief stemmingen wenst te voeren voorafgaand aan de Landbouw- en Visserijraad op 13 juni\, da\nn kan dit debat inclusief stemmingen uiterlijk plaatsvinden op donderdag 9 juni.\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  D.G. Boswijk (CDA)\n  J. Thijssen (PvdA)\n  C.A.M. van der Plas (BBB)\n  H. Staghouwer (onbekend)\n  vaste commissie voor Europese Zaken (onbekend)\n  D.J. Eppink (JA21)\n  A.A.H. van Campen (VVD)\n  J.L. Geurts (CDA)\n  T.C. (Tjeerd) de Groot (D66)\n  L. Vestering (PvdD)\n  P.A. Grinwis (ChristenUnie)\n  R. Bisschop (SGP)\n  Onbekend (onbekend)\n\n\n
-DTEND:20220608T110000Z
-DTSTART:20220608T080000Z
-SUMMARY:Landbouw- en Visserijraad op 13 juni 2022
-UID:bf964bf5-4b89-4322-ba68-ccc3af97d3ce@bf96.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSPREEKTIJD PER FRACTIE 3 MINUTEN\n\nHet is niet een besloten evenement\n\nAanwezigen (20):\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  J. Thijssen (PvdA)\n  Onbekend (onbekend)\n  S.M. Beckerman (SP)\n  Onbekend (onbekend)\n  L. Bromet (GroenLinks)\n  A.A.H. van Campen (VVD)\n  Onbekend (onbekend)\n  vaste commissie voor Binnenlandse Zaken (onbekend)\n  vaste commissie voor Infrastructuur en Waterstaat (onbekend)\n  A. Podt (D66)\n  P.A. Grinwis (ChristenUnie)\n  D.G. Boswijk (CDA)\n  R. Bisschop (SGP)\n  J.L. Geurts (CDA)\n  L. Vestering (PvdD)\n  Onbekend (onbekend)\n  T.C. (Tjeerd) de Groot (D66)\n  P. Adema (onbekend)\n\n\n
-DTEND:20221020T163000Z
-DTSTART:20221020T143000Z
-SUMMARY:Gewasbeschermingsmiddelen
-UID:6b981548-165d-4bd7-a2d5-2fe14968c8e2@6b98.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSPREEKTIJD EERSTE TERMIJN 4 MINUTEN\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  J.L. Geurts (CDA)\n  L. Bromet (GroenLinks)\n  Onbekend (onbekend)\n  T.C. (Tjeerd) de Groot (D66)\n  L. Vestering (PvdD)\n  Onbekend (onbekend)\n  A. Podt (D66)\n  C.A.M. van der Plas (BBB)\n  R. Bisschop (SGP)\n  A.A.H. van Campen (VVD)\n  D.G. Boswijk (CDA)\n  P. Adema (onbekend)\n\n\n
-DTEND:20221110T170000Z
-DTSTART:20221110T140000Z
-SUMMARY:Dieren in de veehouderij
-UID:e3b9014b-04c6-454d-90f4-17db23668264@e3b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSPREEKTIJD PER FRACTIE 7 MINUTEN\nHerziene convocatie in verband met aanvulling agenda.\n\nHet is niet een besloten evenement\n\nAanwezigen (17):\n  R. Bisschop (SGP)\n  D.J. Eppink (JA21)\n  S.M. Beckerman (SP)\n  E. (Edgar) Mulder (PVV)\n  P.A. Grinwis (ChristenUnie)\n  J.L. Geurts (CDA)\n  L. Bromet (GroenLinks)\n  D.G. Boswijk (CDA)\n  F.P. Wassenberg (PvdD)\n  Ch. van der Wal-Zeggelink (onbekend)\n  M. Koekkoek (Volt)\n  A. Podt (D66)\n  C.A.M. van der Plas (BBB)\n  H. Staghouwer (onbekend)\n  A.A.H. van Campen (VVD)\n  J. Thijssen (PvdA)\n  T.C. (Tjeerd) de Groot (D66)\n\n\n
-DTEND:20220406T210000Z
-DTSTART:20220406T160000Z
-SUMMARY:Hoofdlijnendebat LNV (eerste termijn\, wordt voortgezet)
-UID:8094c907-baa5-4a41-b141-e34eb058a6f6@8094.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSPREEKTIJD EERSTE TERMIJN 5 MINUTEN\nN.a.v. besluitvorming in de strategische procedurevergadering van de commissie LNV van 8 maart 2023 is de nieuwe werkwijze van de commissie dat u zich \nin Parlis aan dient te melden voor commissiedebatten\n opdat tijdig duidelijk is hoeveel commissieleden deelnemen aan dit debat en of er derhalve voldoende tijd is ingeruimd voor een ordentelijk debat.\n\nHet is niet een besloten evenement\n\nAanwezigen (17):\n  P.A. Grinwis (ChristenUnie)\n  L. Bromet (GroenLinks)\n  M. Amhaouch (CDA)\n  C.A.M. van der Plas (BBB)\n  vaste commissie voor Binnenlandse Zaken (onbekend)\n  vaste commissie voor Infrastructuur en Waterstaat (onbekend)\n  Ch. van der Wal-Zeggelink (onbekend)\n  W.R. van Haga (Groep Van Haga)\n  R. Bisschop (SGP)\n  A.A.H. van Campen (VVD)\n  L. Vestering (PvdD)\n  S.M. Beckerman (SP)\n  T.C. (Tjeerd) de Groot (D66)\n  Onbekend (onbekend)\n  P. Adema (onbekend)\n  E.C. Vedder (CDA)\n  G.F.C. van Meijeren (FVD)\n\n\n
-DTEND:20230907T153000Z
-DTSTART:20230907T090000Z
-SUMMARY:Stikstof\, NPLG en natuur 
-UID:2264200d-284d-4be9-9c6e-5cfca44a4eb3@2264.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSPREEKTIJD EERSTE TERMIJN 5 MINUTEN\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  P.A. Grinwis (ChristenUnie)\n  T.C. (Tjeerd) de Groot (D66)\n  L. Bromet (GroenLinks)\n  A. Podt (D66)\n  A.A.H. van Campen (VVD)\n  J. Thijssen (PvdA)\n  Onbekend (onbekend)\n  D.G. Boswijk (CDA)\n  L. Vestering (PvdD)\n  J.L. Geurts (CDA)\n  vaste commissie voor Infrastructuur en Waterstaat (onbekend)\n  E. (Edgar) Mulder (PVV)\n  C.A.M. van der Plas (BBB)\n  C.J. Schouten (onbekend)\n  C.G. van der Staaij (SGP)\n\n\n
-DTEND:20220913T200000Z
-DTSTART:20220913T160000Z
-SUMMARY:Mestbeleid
-UID:bf9bac48-a2ab-4664-9c41-01c682bd1a56@bf9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSPREEKTIJD EERSTE TERMIJN 5 MINUTEN\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  Onbekend (onbekend)\n  C.A.M. van der Plas (BBB)\n  J.L. Geurts (CDA)\n  vaste commissie voor Europese Zaken (onbekend)\n  T.C. (Tjeerd) de Groot (D66)\n  A.A.H. van Campen (VVD)\n  L. Bromet (GroenLinks)\n  J. Thijssen (PvdA)\n  A. Podt (D66)\n  L. Vestering (PvdD)\n  S.M. Beckerman (SP)\n  Ch. van der Wal-Zeggelink (onbekend)\n  R. Bisschop (SGP)\n\n\n
-DTEND:20221109T210000Z
-DTSTART:20221109T170000Z
-SUMMARY:Natuur
-UID:632f3281-3b22-47bf-845a-04555759af1d@632f.org
+UID:f033a246-fac0-4142-bf4c-269d89d59e84@f033.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nSpreektijd maximaal 5 minuten per fractie\nIndien u naar aanleiding van het commissiedebat Landbouw- en Visserijraad behoefte heeft aan het voeren van een tweeminutendebat\,  voorafgaand aan de Landbouw- en Visserijraad op 28 en 29 juni 2021\, dan kan dit debat inclusief stemmingen uiterlijk plaatsvinden donderdag 24 juni. \n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  A.A.H. van Campen (VVD)\n  vaste commissie voor Europese Zaken (onbekend)\n  M. Koekkoek (Volt)\n  L. Bromet (GroenLinks)\n  C.J. Schouten (onbekend)\n  T.C. (Tjeerd) de Groot (D66)\n  L. Vestering (PvdD)\n  D.G. Boswijk (CDA)\n  R. Bisschop (SGP)\n  C.A.M. van der Plas (BBB)\n\n\n
 DTEND:20210623T110000Z
 DTSTART:20210623T080000Z
 SUMMARY:Landbouw- en Visserijraad
-UID:1dc5628b-1d24-4e7a-ad85-85541fe9d882@1dc5.org
+UID:fd044374-60d6-4122-8d4f-73947e320904@fd04.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSPREEKTIJD EERSTE TERMIJN 5 MINUTEN\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  vaste commissie voor Binnenlandse Zaken (onbekend)\n  V.L.W.A. Heijnen (onbekend)\n  R. Bisschop (SGP)\n  A.A.H. van Campen (VVD)\n  J.L. Geurts (CDA)\n  T.C. (Tjeerd) de Groot (D66)\n  vaste commissie voor Infrastructuur en Waterstaat (onbekend)\n  S.M. Beckerman (SP)\n  L. Vestering (PvdD)\n  P.A. Grinwis (ChristenUnie)\n  H. Staghouwer (onbekend)\n  C.A.M. van der Plas (BBB)\n  Onbekend (onbekend)\n  L. Bromet (GroenLinks)\n  J. Thijssen (PvdA)\n\n\n
-DTEND:20220608T170000Z
-DTSTART:20220608T130000Z
+DESCRIPTION:Notitie:\nSPREEKTIJD PER FRACTIE 3 MINUTEN\n\nHet is niet een besloten evenement\n\nAanwezigen (20):\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  J. Thijssen (PvdA)\n  Onbekend (onbekend)\n  S.M. Beckerman (SP)\n  Onbekend (onbekend)\n  L. Bromet (GroenLinks)\n  A.A.H. van Campen (VVD)\n  Onbekend (onbekend)\n  vaste commissie voor Binnenlandse Zaken (onbekend)\n  vaste commissie voor Infrastructuur en Waterstaat (onbekend)\n  A. Podt (D66)\n  P.A. Grinwis (ChristenUnie)\n  D.G. Boswijk (CDA)\n  R. Bisschop (SGP)\n  J.L. Geurts (CDA)\n  L. Vestering (PvdD)\n  Onbekend (onbekend)\n  T.C. (Tjeerd) de Groot (D66)\n  P. Adema (onbekend)\n\n\n
+DTEND:20221020T163000Z
+DTSTART:20221020T143000Z
 SUMMARY:Gewasbeschermingsmiddelen
-UID:dcf22013-c5d7-4f91-8343-990513a220c2@dcf2.org
+UID:590b3487-e2b7-4f05-aa5f-10fe515abb82@590b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSPREEKTIJD PER FRACTIE 5 MINUTEN \n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  P.A. Grinwis (ChristenUnie)\n  J. Thijssen (PvdA)\n  C.A.M. van der Plas (BBB)\n  L. Bromet (GroenLinks)\n  C. Stoffer (SGP)\n  S.M. Beckerman (SP)\n  D.G. Boswijk (CDA)\n  C.J. Schouten (onbekend)\n  E. (Edgar) Mulder (PVV)\n  L. Vestering (PvdD)\n  M. Koekkoek (Volt)\n  T.C. (Tjeerd) de Groot (D66)\n  A.A.H. van Campen (VVD)\n  D.J. Eppink (JA21)\n\n\n
-DTEND:20210930T153000Z
-DTSTART:20210930T120000Z
-SUMMARY:Nationaal Strategisch Plan (NSP)
-UID:831bc236-cd1c-4f86-8a32-54934cad1c56@831b.org
+DESCRIPTION:Notitie:\nSPREEKTIJD EERSTE TERMIJN 4 MINUTEN\nIndien u naar aanleiding van dit commissiedebat een tweeminutendebat inclusief stemmingen wenst te voeren voorafgaand aan de Landbouw- en Visserijraad op 13 juni\, da\nn kan dit debat inclusief stemmingen uiterlijk plaatsvinden op donderdag 9 juni.\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  D.G. Boswijk (CDA)\n  J. Thijssen (PvdA)\n  C.A.M. van der Plas (BBB)\n  H. Staghouwer (onbekend)\n  vaste commissie voor Europese Zaken (onbekend)\n  D.J. Eppink (JA21)\n  A.A.H. van Campen (VVD)\n  J.L. Geurts (CDA)\n  T.C. (Tjeerd) de Groot (D66)\n  L. Vestering (PvdD)\n  P.A. Grinwis (ChristenUnie)\n  R. Bisschop (SGP)\n  Onbekend (onbekend)\n\n\n
+DTEND:20220608T110000Z
+DTSTART:20220608T080000Z
+SUMMARY:Landbouw- en Visserijraad op 13 juni 2022
+UID:88eedee7-3c14-425b-980d-3f4b35ee4650@88ee.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd maximaal 5 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  vaste commissie voor Onderwijs\, Cultuur en Wetenschap (onbekend)\n  H. Staghouwer (onbekend)\n  D.J.G. Graus (PVV)\n  R.H. Dijkgraaf (onbekend)\n  J.L. Geurts (CDA)\n  J. Thijssen (PvdA)\n  E.A. Haverkort (VVD)\n  T.C. (Tjeerd) de Groot (D66)\n  S.M. Beckerman (SP)\n  F.P. Wassenberg (PvdD)\n\n\n
-DTEND:20220421T150000Z
-DTSTART:20220421T120000Z
-SUMMARY:Dierproeven
-UID:34afe9a6-934d-4232-b3cc-5a4d40fd7397@34af.org
+DESCRIPTION:Notitie:\nSPREEKTIJD EERSTE TERMIJN 4 MINUTEN\nN.a.v. besluitvorming in de strategische procedurevergadering van de commissie LNV van 8 maart 2023 is de nieuwe werkwijze van de commissie dat u zich \nin Parlis aan dient te melden voor commissiedebatten\n opdat tijdig duidelijk is hoeveel commissieleden deelnemen aan dit debat en of er derhalve voldoende tijd is ingeruimd voor een ordentelijk debat.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  P.J. Valstar (VVD)\n  R. Bisschop (SGP)\n  C.A.M. van der Plas (BBB)\n  P. Adema (onbekend)\n  vaste commissie voor Europese Zaken (onbekend)\n  J. Thijssen (PvdA)\n  J.L. Geurts (CDA)\n  Onbekend (onbekend)\n  A. Podt (D66)\n  D.G. Boswijk (CDA)\n  F.P. Wassenberg (PvdD)\n\n\n
+DTEND:20230420T104500Z
+DTSTART:20230420T074500Z
+SUMMARY:Landbouw- en Visserijraad 24/25 april
+UID:14cc4044-c3f8-42c8-bf19-3bc293331193@14cc.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSPREEKTIJD PER FRACTIE 5 MINUTEN\nIndien u naar aanleiding van dit commissiedebat een tweeminutendebat inclusief stemmingen wenst te voeren voorafgaand aan de Landbouw- en Visserijraad op 21 februari\, da\nn kan dit debat inclusief stemmingen uiterlijk plaatsvinden op donderdag 17 februari.\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  J.L. Geurts (CDA)\n  L. Bromet (GroenLinks)\n  A.A.H. van Campen (VVD)\n  T.C. (Tjeerd) de Groot (D66)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  J. Thijssen (PvdA)\n  C. Teunissen (PvdD)\n  D.G. Boswijk (CDA)\n  H. Staghouwer (onbekend)\n  vaste commissie voor Europese Zaken (onbekend)\n  R. Bisschop (SGP)\n\n\n
-DTEND:20220216T120000Z
-DTSTART:20220216T090000Z
-SUMMARY:Landbouw- en Visserijraad op 21 februari 2022
-UID:ab7caa11-cf4f-4b92-84f7-2b4b44a30f87@ab7c.org
+DESCRIPTION:Notitie:\nSPREEKTIJD EERSTE TERMIJN 5 MINUTEN\nN.a.v. besluitvorming in de strategische procedurevergadering van de commissie LNV van 8 maart 2023 is de nieuwe werkwijze van de commissie dat u zich \nin Parlis aan dient te melden voor commissiedebatten\n opdat tijdig duidelijk is hoeveel commissieleden deelnemen aan dit debat en of er derhalve voldoende tijd is ingeruimd voor een ordentelijk debat.\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  M. Amhaouch (CDA)\n  E.C. Vedder (CDA)\n  vaste commissie voor Infrastructuur en Waterstaat (onbekend)\n  V.L.W.A. Heijnen (onbekend)\n  Onbekend (onbekend)\n  L. Bromet (GroenLinks)\n  S.M. Beckerman (SP)\n  T.C. (Tjeerd) de Groot (D66)\n  vaste commissie voor Binnenlandse Zaken (onbekend)\n  L.M. van Ginneken (D66)\n  A.A.H. van Campen (VVD)\n  P. Adema (onbekend)\n  C.A.M. van der Plas (BBB)\n  R. Bisschop (SGP)\n  E.S. Akerboom (PvdD)\n\n\n
+DTEND:20231010T190000Z
+DTSTART:20231010T150000Z
+SUMMARY:Gewasbeschermingsmiddelen
+UID:abaae8db-f2eb-4220-85a9-5daccd05191f@abaa.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nIndien u naar aanleiding van dit commissiedebat een tweeminutendebat inclusief stemmingen wenst te voeren voorafgaand aan de Landbouw- en Visserijraad op 30 mei dan kan dit debat inclusief stemmingen uiterlijk plaatsvinden op donderdag 25 mei.\n \nSPREEKTIJD EERSTE TERMIJN 4 MINUTEN\nN.a.v. besluitvorming in de strategische procedurevergadering van de commissie LNV van 8 maart 2023 is de nieuwe werkwijze van de commissie dat u zich \nin Parlis aan dient te melden voor commissiedebatten\n opdat tijdig duidelijk is hoeveel commissieleden deelnemen aan dit debat en of er derhalve voldoende tijd is ingeruimd voor een ordentelijk debat.\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  M. Amhaouch (CDA)\n  P. Adema (onbekend)\n  L. Bromet (GroenLinks)\n  Onbekend (onbekend)\n  T.C. (Tjeerd) de Groot (D66)\n  E. Boutkan (Volt)\n  D.J. Eppink (JA21)\n  Onbekend (onbekend)\n  vaste commissie voor Europese Zaken (onbekend)\n  R. Bisschop (SGP)\n  E.S. Akerboom (PvdD)\n  D.G. Boswijk (CDA)\n  Ch. van der Wal-Zeggelink (onbekend)\n  A.A.H. van Campen (VVD)\n  C.A.M. van der Plas (BBB)\n\n\n
-DTEND:20230524T150000Z
-DTSTART:20230524T120000Z
-SUMMARY:Landbouw- en Visserijraad 30 mei
-UID:47c17104-b127-46fd-a86c-841724698aaa@47c1.org
+DESCRIPTION:Notitie:\nSPREEKTIJD PER FRACTIE 7 MINUTEN\nHerziene convocatie in verband met aanvulling agenda.\n\nHet is niet een besloten evenement\n\nAanwezigen (17):\n  R. Bisschop (SGP)\n  D.J. Eppink (JA21)\n  S.M. Beckerman (SP)\n  E. (Edgar) Mulder (PVV)\n  P.A. Grinwis (ChristenUnie)\n  J.L. Geurts (CDA)\n  L. Bromet (GroenLinks)\n  D.G. Boswijk (CDA)\n  F.P. Wassenberg (PvdD)\n  Ch. van der Wal-Zeggelink (onbekend)\n  M. Koekkoek (Volt)\n  A. Podt (D66)\n  C.A.M. van der Plas (BBB)\n  H. Staghouwer (onbekend)\n  A.A.H. van Campen (VVD)\n  J. Thijssen (PvdA)\n  T.C. (Tjeerd) de Groot (D66)\n\n\n
+DTEND:20220406T210000Z
+DTSTART:20220406T160000Z
+SUMMARY:Hoofdlijnendebat LNV (eerste termijn\, wordt voortgezet)
+UID:f2f01341-ed1e-4e17-b322-db9e78a6d132@f2f0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\n2e Herziene convocatie i.v.m. verplaatsen drie geagendeerde brieven naar commissiedebat Dieren in de veehouderij (Kamerstukken 28286 nrs. 1208\, 1210 en 1232).\nSPREEKTIJD PER FRACTIE 5 MINUTEN \n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  J.L. Geurts (CDA)\n  E.A. Haverkort (VVD)\n  T.C. (Tjeerd) de Groot (D66)\n  Onbekend (onbekend)\n  F.P. Wassenberg (PvdD)\n  A. Podt (D66)\n  D.J.G. Graus (PVV)\n  H. Staghouwer (onbekend)\n  S.M. Beckerman (SP)\n  C.A.M. van der Plas (BBB)\n  D.G. Boswijk (CDA)\n\n\n
 DTEND:20220420T140000Z
 DTSTART:20220420T110000Z
 SUMMARY:Dierenwelzijn
-UID:233dab78-c8eb-4c81-8363-cad6fa603411@233d.org
+UID:2aaa5c7f-3a24-4ac5-b848-ab167869c923@2aaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSPREEKTIJD EERSTE TERMIJN 5 MINUTEN\nN.a.v. besluitvorming in de strategische procedurevergadering van de commissie LNV van 8 maart 2023 is de nieuwe werkwijze van de commissie dat u zich \nin Parlis aan dient te melden voor commissiedebatten\n opdat tijdig duidelijk is hoeveel commissieleden deelnemen aan dit debat en of er derhalve voldoende tijd is ingeruimd voor een ordentelijk debat.\n\nHet is niet een besloten evenement\n\nAanwezigen (17):\n  P.A. Grinwis (ChristenUnie)\n  L. Bromet (GroenLinks)\n  M. Amhaouch (CDA)\n  C.A.M. van der Plas (BBB)\n  vaste commissie voor Binnenlandse Zaken (onbekend)\n  vaste commissie voor Infrastructuur en Waterstaat (onbekend)\n  Ch. van der Wal-Zeggelink (onbekend)\n  W.R. van Haga (Groep Van Haga)\n  R. Bisschop (SGP)\n  A.A.H. van Campen (VVD)\n  L. Vestering (PvdD)\n  S.M. Beckerman (SP)\n  T.C. (Tjeerd) de Groot (D66)\n  Onbekend (onbekend)\n  P. Adema (onbekend)\n  E.C. Vedder (CDA)\n  G.F.C. van Meijeren (FVD)\n\n\n
+DTEND:20230907T153000Z
+DTSTART:20230907T090000Z
+SUMMARY:Stikstof\, NPLG en natuur 
+UID:b774b9bc-9d94-4682-8162-03c5a1321928@b774.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nSPREEKTIJD PER FRACTIE: 7  MINUTEN\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  A.A.H. van Campen (VVD)\n  T.C. (Tjeerd) de Groot (D66)\n  C.J. Schouten (onbekend)\n  L. Vestering (PvdD)\n  E. (Edgar) Mulder (PVV)\n  R. Bisschop (SGP)\n  C.A.M. van der Plas (BBB)\n  D.J. Eppink (JA21)\n  S.M. Beckerman (SP)\n  D.G. Boswijk (CDA)\n  L. Bromet (GroenLinks)\n  M. Koekkoek (Volt)\n\n\n
 DTEND:20211208T130000Z
 DTSTART:20211208T090000Z
 SUMMARY:Nationaal Strategisch Plan (NSP)
-UID:0951a0a4-31c2-4fe3-afe9-4d7e540fb94c@0951.org
+UID:0e383218-7b33-4f8c-9a7b-ba2bd8271177@0e38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSPREEKTIJD PER FRACTIE 3 MINUTEN \n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  T.C. (Tjeerd) de Groot (D66)\n  C.J. Schouten (onbekend)\n  P.J. Valstar (VVD)\n  L. Vestering (PvdD)\n  S.M. Beckerman (SP)\n  C.A.M. van der Plas (BBB)\n\n\n
+DTEND:20210909T100000Z
+DTSTART:20210909T080000Z
+SUMMARY:Het niet handhaven door de Nederlandse Voedsel- en Warenautoriteit op exportverzamelplaatsen
+UID:e9f3cee1-e08a-46b7-841b-2cb4b347c645@e9f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSPREEKTIJD EERSTE TERMIJN 4 MINUTEN\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  J.L. Geurts (CDA)\n  C.A.M. van der Plas (BBB)\n  P. Adema (onbekend)\n  vaste commissie voor Infrastructuur en Waterstaat (onbekend)\n  R. Bisschop (SGP)\n  D.G. Boswijk (CDA)\n  T.C. (Tjeerd) de Groot (D66)\n  F.P. Wassenberg (PvdD)\n  L. Vestering (PvdD)\n  P.J. Valstar (VVD)\n  Onbekend (onbekend)\n  P.A. Grinwis (ChristenUnie)\n  D.J.G. Graus (PVV)\n  A. Podt (D66)\n\n\n
+DTEND:20230209T120000Z
+DTSTART:20230209T090000Z
+SUMMARY:Tuinbouw en Visserij
+UID:4a0c43be-f74a-4d13-8d14-f3c8b2aa8667@4a0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSPREEKTIJD PER FRACTIE 5 MINUTEN\nIndien u naar aanleiding van dit commissiedebat een tweeminutendebat inclusief stemmingen wenst te voeren voorafgaand aan de Landbouw- en Visserijraad op 21 februari\, da\nn kan dit debat inclusief stemmingen uiterlijk plaatsvinden op donderdag 17 februari.\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  J.L. Geurts (CDA)\n  L. Bromet (GroenLinks)\n  A.A.H. van Campen (VVD)\n  T.C. (Tjeerd) de Groot (D66)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  J. Thijssen (PvdA)\n  C. Teunissen (PvdD)\n  D.G. Boswijk (CDA)\n  H. Staghouwer (onbekend)\n  vaste commissie voor Europese Zaken (onbekend)\n  R. Bisschop (SGP)\n\n\n
+DTEND:20220216T120000Z
+DTSTART:20220216T090000Z
+SUMMARY:Landbouw- en Visserijraad op 21 februari 2022
+UID:541b59b0-d9f9-4584-8a3d-c6f3a2a4db3b@541b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSPREEKTIJD 4 MINUTEN PER FRACTIE\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  Onbekend (onbekend)\n  J.L. Geurts (CDA)\n  Onbekend (onbekend)\n  R. Bisschop (SGP)\n  D.J.G. Graus (PVV)\n  T.C. (Tjeerd) de Groot (D66)\n  A. Podt (D66)\n  F.P. Wassenberg (PvdD)\n  E.A. Haverkort (VVD)\n  P. Adema (onbekend)\n\n\n
+DTEND:20230126T160000Z
+DTSTART:20230126T130000Z
+SUMMARY:Dierenwelzijn (buiten de veehouderij)
+UID:d7a081e7-42b2-495d-a521-f963abe16bf3@d7a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSPREEKTIJD EERSTE TERMIJN 5 MINUTEN\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  Onbekend (onbekend)\n  C.A.M. van der Plas (BBB)\n  J.L. Geurts (CDA)\n  vaste commissie voor Europese Zaken (onbekend)\n  T.C. (Tjeerd) de Groot (D66)\n  A.A.H. van Campen (VVD)\n  L. Bromet (GroenLinks)\n  J. Thijssen (PvdA)\n  A. Podt (D66)\n  L. Vestering (PvdD)\n  S.M. Beckerman (SP)\n  Ch. van der Wal-Zeggelink (onbekend)\n  R. Bisschop (SGP)\n\n\n
+DTEND:20221109T210000Z
+DTSTART:20221109T170000Z
+SUMMARY:Natuur
+UID:c2b43c6c-7ec7-4346-9cf0-2dd40c0ad4cb@c2b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSPREEKTIJD EERSTE TERMIJN 5 MINUTEN\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  vaste commissie voor Binnenlandse Zaken (onbekend)\n  V.L.W.A. Heijnen (onbekend)\n  R. Bisschop (SGP)\n  A.A.H. van Campen (VVD)\n  J.L. Geurts (CDA)\n  T.C. (Tjeerd) de Groot (D66)\n  vaste commissie voor Infrastructuur en Waterstaat (onbekend)\n  S.M. Beckerman (SP)\n  L. Vestering (PvdD)\n  P.A. Grinwis (ChristenUnie)\n  H. Staghouwer (onbekend)\n  C.A.M. van der Plas (BBB)\n  Onbekend (onbekend)\n  L. Bromet (GroenLinks)\n  J. Thijssen (PvdA)\n\n\n
+DTEND:20220608T170000Z
+DTSTART:20220608T130000Z
+SUMMARY:Gewasbeschermingsmiddelen
+UID:e7863cb8-2ca9-4b07-9884-e15c30bafa3e@e786.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSPREEKTIJD EERSTE TERMIJN 5 MINUTEN\nN.a.v. besluitvorming in de strategische procedurevergadering van de commissie LNV van 8 maart 2023 is de nieuwe werkwijze van de commissie dat u zich \nin Parlis aan dient te melden voor commissiedebatten\n opdat tijdig duidelijk is hoeveel commissieleden deelnemen aan dit debat en of er derhalve voldoende tijd is ingeruimd voor een ordentelijk debat.\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  J. Thijssen (PvdA)\n  T.C. (Tjeerd) de Groot (D66)\n  C.A.M. van der Plas (BBB)\n  D.J.G. Graus (PVV)\n  P. Adema (onbekend)\n  M. Amhaouch (CDA)\n  A.A.H. van Campen (VVD)\n  P.A. Grinwis (ChristenUnie)\n  vaste commissie voor Infrastructuur en Waterstaat (onbekend)\n  Onbekend (onbekend)\n  E.S. Akerboom (PvdD)\n  D.G. Boswijk (CDA)\n  L. Bromet (GroenLinks)\n\n\n
+DTEND:20230601T173000Z
+DTSTART:20230601T123000Z
+SUMMARY:Mestbeleid
+UID:4fde1a17-6b38-4c5a-b536-404cd9c0f7fd@4fde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nIndien u naar aanleiding van dit commissiedebat een tweeminutendebat inclusief stemmingen wenst te voeren voorafgaand aan de Landbouw- en Visserijraad op 30 mei dan kan dit debat inclusief stemmingen uiterlijk plaatsvinden op donderdag 25 mei.\n \nSPREEKTIJD EERSTE TERMIJN 4 MINUTEN\nN.a.v. besluitvorming in de strategische procedurevergadering van de commissie LNV van 8 maart 2023 is de nieuwe werkwijze van de commissie dat u zich \nin Parlis aan dient te melden voor commissiedebatten\n opdat tijdig duidelijk is hoeveel commissieleden deelnemen aan dit debat en of er derhalve voldoende tijd is ingeruimd voor een ordentelijk debat.\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  M. Amhaouch (CDA)\n  P. Adema (onbekend)\n  L. Bromet (GroenLinks)\n  Onbekend (onbekend)\n  T.C. (Tjeerd) de Groot (D66)\n  E. Boutkan (Volt)\n  D.J. Eppink (JA21)\n  Onbekend (onbekend)\n  vaste commissie voor Europese Zaken (onbekend)\n  R. Bisschop (SGP)\n  E.S. Akerboom (PvdD)\n  D.G. Boswijk (CDA)\n  Ch. van der Wal-Zeggelink (onbekend)\n  A.A.H. van Campen (VVD)\n  C.A.M. van der Plas (BBB)\n\n\n
+DTEND:20230524T150000Z
+DTSTART:20230524T120000Z
+SUMMARY:Landbouw- en Visserijraad 30 mei
+UID:9fa6b166-016d-4d1a-a6ae-dc6c8802251e@9fa6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSPREEKTIJD EERSTE TERMIJN 5 MINUTEN\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  T.C. (Tjeerd) de Groot (D66)\n  Onbekend (onbekend)\n  C.A.M. van der Plas (BBB)\n  J.L. Geurts (CDA)\n  L. Vestering (PvdD)\n  E.J. Kuipers (onbekend)\n  D.G. Boswijk (CDA)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  H. Staghouwer (onbekend)\n  A.A.H. van Campen (VVD)\n  D.J.G. Graus (PVV)\n  Onbekend (onbekend)\n  A. Podt (D66)\n  R. Bisschop (SGP)\n\n\n
+DTEND:20220628T203000Z
+DTSTART:20220628T163000Z
+SUMMARY:Nederlandse Voedsel- en Warenautoriteit (NVWA) LET OP: gewijzigd tijdstip
+UID:22dd470a-cf5c-4a96-8b28-b37016ffb780@22dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSPREEKTIJD EERSTE TERMIJN 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  P. Adema (onbekend)\n  C.A.M. van der Plas (BBB)\n  S.M. Beckerman (SP)\n  E.J. Kuipers (onbekend)\n  J.L. Geurts (CDA)\n  Onbekend (onbekend)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  T.C. (Tjeerd) de Groot (D66)\n  A. Podt (D66)\n  D.G. Boswijk (CDA)\n  L. Bromet (GroenLinks)\n  A.A.H. van Campen (VVD)\n  L. Vestering (PvdD)\n  D.J.G. Graus (PVV)\n\n\n
+DTEND:20230202T130000Z
+DTSTART:20230202T090000Z
+SUMMARY:Zoönosen en dierziekten
+UID:eb97d2ab-d6c0-4fd4-aa8d-d165809f7cb8@eb97.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nSpreektijd maximaal 5 minuten per fractie.\n2e Herziene agenda: ivm aanvulling agendapunten (*)\n \n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  E. (Edgar) Mulder (PVV)\n  C.J. Schouten (onbekend)\n  F.P. Wassenberg (PvdD)\n  A.H. Kuiken (PvdA)\n  P.A. Grinwis (ChristenUnie)\n  R. Bisschop (SGP)\n  J. Thijssen (PvdA)\n  T.C. (Tjeerd) de Groot (D66)\n  P.J. Valstar (VVD)\n  C.A.M. van der Plas (BBB)\n\n\n
 DTEND:20210630T170000Z
 DTSTART:20210630T140000Z
 SUMMARY:Visserij
-UID:c145bcff-e1fa-4f50-8ce7-da6688cf7d61@c145.org
+UID:1b8b84bf-4c45-43de-93aa-67a2fe256fb7@1b8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIEN (2) ivm toevoeging agendapunt \nSPREEKTIJD PER FRACTIE 5 MINUTEN\n\nHet is niet een besloten evenement\n\nAanwezigen (16):\n  H. Staghouwer (onbekend)\n  Onbekend (onbekend)\n  E.J. Kuipers (onbekend)\n  E. Ouwehand (PvdD)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  S.M. Beckerman (SP)\n  J.L. Geurts (CDA)\n  S.C. Kröger (GroenLinks)\n  R. Bisschop (SGP)\n  C.A.M. van der Plas (BBB)\n  A.A.H. van Campen (VVD)\n  J. Thijssen (PvdA)\n  A. Podt (D66)\n  Onbekend (onbekend)\n  T.C. (Tjeerd) de Groot (D66)\n  D.G. Boswijk (CDA)\n\n\n
+DTEND:20220224T203000Z
+DTSTART:20220224T173000Z
+SUMMARY:Zoönosen en dierziekten
+UID:e7272d2b-00f2-4d5c-b78d-482356b1f0b5@e727.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd maximaal 5 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  vaste commissie voor Onderwijs\, Cultuur en Wetenschap (onbekend)\n  H. Staghouwer (onbekend)\n  D.J.G. Graus (PVV)\n  R.H. Dijkgraaf (onbekend)\n  J.L. Geurts (CDA)\n  J. Thijssen (PvdA)\n  E.A. Haverkort (VVD)\n  T.C. (Tjeerd) de Groot (D66)\n  S.M. Beckerman (SP)\n  F.P. Wassenberg (PvdD)\n\n\n
+DTEND:20220421T150000Z
+DTSTART:20220421T120000Z
+SUMMARY:Dierproeven
+UID:c17a6835-8196-41fb-8a60-d01a51b7de91@c17a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSPREEKTIJD EERSTE TERMIJN 3 MINUTEN\nN.a.v. besluitvorming in de strategische procedurevergadering van de commissie LNV van 8 maart 2023 is de nieuwe werkwijze van de commissie dat u zich \nin Parlis aan dient te melden voor commissiedebatten\n opdat tijdig duidelijk is hoeveel commissieleden deelnemen aan dit debat en of er derhalve voldoende tijd is ingeruimd voor een ordentelijk debat.\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  T.C. (Tjeerd) de Groot (D66)\n  A.A.H. van Campen (VVD)\n  Onbekend (onbekend)\n  R. Bisschop (SGP)\n  A. Podt (D66)\n  P.A. Grinwis (ChristenUnie)\n  L. Bromet (GroenLinks)\n  Onbekend (onbekend)\n  P. Adema (onbekend)\n  D.J.G. Graus (PVV)\n\n\n
+DTEND:20230607T143000Z
+DTSTART:20230607T123000Z
+SUMMARY:Pacht
+UID:464031b1-0a5e-4405-b1f3-2df1f5b54cc4@4640.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nIndien u naar aanleiding van dit commissiedebat een tweeminutendebat inclusief stemmingen wenst te voeren voorafgaand aan de Landbouw- en Visserijraad op 30 januari dan kan dit debat inclusief stemmingen uiterlijk plaatsvinden op donderdag 26 januari\nSPREEKTIJD EERSTE TERMIJN 4 MINUTEN\n\nHet is niet een besloten evenement\n\nAanwezigen (17):\n  C.A.M. van der Plas (BBB)\n  vaste commissie voor Europese Zaken (onbekend)\n  D.J. Eppink (JA21)\n  Onbekend (onbekend)\n  P. Adema (onbekend)\n  T.C. (Tjeerd) de Groot (D66)\n  J. Thijssen (PvdA)\n  S.M. Beckerman (SP)\n  P.A. Grinwis (ChristenUnie)\n  D.G. Boswijk (CDA)\n  R. Bisschop (SGP)\n  J.L. Geurts (CDA)\n  A.A.H. van Campen (VVD)\n  L. Bromet (GroenLinks)\n  W.R. van Haga (Groep Van Haga)\n  A. Kops (PVV)\n  L. Vestering (PvdD)\n\n\n
+DTEND:20230125T170000Z
+DTSTART:20230125T130000Z
+SUMMARY:Landbouw- en Visserijraad 30 januari (DUUR VERLENGD)
+UID:ca7ca785-3d04-4f8a-9a5f-058aba3254cb@ca7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSPREEKTIJD EERSTE TERMIJN 4 MINUTEN\nN.a.v. besluitvorming in de strategische procedurevergadering van de commissie LNV van 8 maart 2023 is de nieuwe werkwijze van de commissie dat u zich \nin Parlis aan dient te melden voor commissiedebatten\n opdat tijdig duidelijk is hoeveel commissieleden deelnemen aan dit debat en of er derhalve voldoende tijd is ingeruimd voor een ordentelijk debat.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  Onbekend (onbekend)\n  vaste commissie voor Onderwijs\, Cultuur en Wetenschap (onbekend)\n  D.J.G. Graus (PVV)\n  F.P. Wassenberg (PvdD)\n  A. Podt (D66)\n  J.L. Geurts (CDA)\n  R.H. Dijkgraaf (onbekend)\n  J. Thijssen (PvdA)\n  E.A. Haverkort (VVD)\n  P. Adema (onbekend)\n  T.C. (Tjeerd) de Groot (D66)\n\n\n
+DTEND:20230509T173000Z
+DTSTART:20230509T143000Z
+SUMMARY:Dierproeven
+UID:3a72f0e4-d471-4a68-b019-6440637c58a7@3a72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSPREEKTIJD EERSTE TERMIJN 5 MINUTEN\nN.a.v. besluitvorming in de strategische procedurevergadering van de commissie LNV van 8 maart 2023 is de nieuwe werkwijze van de commissie dat u zich \nin Parlis aan dient te melden voor commissiedebatten\n opdat tijdig duidelijk is hoeveel commissieleden deelnemen aan dit debat en of er derhalve voldoende tijd is ingeruimd voor een ordentelijk debat.\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  P. Adema (onbekend)\n  A. Podt (D66)\n  L. Vestering (PvdD)\n  Onbekend (onbekend)\n  T.C. (Tjeerd) de Groot (D66)\n  M. Amhaouch (CDA)\n  L. Bromet (GroenLinks)\n  E.J. Kuipers (onbekend)\n  A.A.H. van Campen (VVD)\n  E.C. Vedder (CDA)\n  S.M. Beckerman (SP)\n  D.J.G. Graus (PVV)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  C.A.M. van der Plas (BBB)\n\n\n
+DTEND:20230906T170000Z
+DTSTART:20230906T130000Z
+SUMMARY:Zoönosen en dierziekten
+UID:43da7842-85ec-4e58-b9a1-629c2bce95cc@43da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSPREEKTIJD EERSTE TERMIJN 4 MINUTEN\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  J.L. Geurts (CDA)\n  L. Bromet (GroenLinks)\n  Onbekend (onbekend)\n  T.C. (Tjeerd) de Groot (D66)\n  L. Vestering (PvdD)\n  Onbekend (onbekend)\n  A. Podt (D66)\n  C.A.M. van der Plas (BBB)\n  R. Bisschop (SGP)\n  A.A.H. van Campen (VVD)\n  D.G. Boswijk (CDA)\n  P. Adema (onbekend)\n\n\n
+DTEND:20221110T170000Z
+DTSTART:20221110T140000Z
+SUMMARY:Dieren in de veehouderij
+UID:6500d06d-801f-4345-b0ee-3129df91e4be@6500.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nIndien u naar aanleiding van dit commissiedebat een tweeminutendebat inclusief stemmingen wenst te voeren voorafgaand aan de Landbouw- en Visserijraad op 22/23 januari dan kan dit debat inclusief stemmingen uiterlijk plaatsvinden op donderdag 18 januari 2024.\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  P. Adema (onbekend)\n  vaste commissie voor Europese Zaken (onbekend)\n\n\n
+DTEND:20240117T150000Z
+DTSTART:20240117T120000Z
+SUMMARY:Landbouw- en Visserijraad (22/23 januari)
+UID:faf9767f-d598-4287-a316-d51adb518887@faf9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nIndien u naar aanleiding van dit commissiedebat een tweeminutendebat inclusief stemmingen wenst te voeren voorafgaand aan de Landbouw- en Visserijraad op 25/26 maart dan kan dit debat inclusief stemmingen uiterlijk plaatsvinden op donderdag 21 maart 2024.\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  vaste commissie voor Europese Zaken (onbekend)\n  P. Adema (onbekend)\n\n\n
+DTEND:20240320T150000Z
+DTSTART:20240320T120000Z
+SUMMARY:Landbouw- en Visserijraad (25/26 maart)
+UID:7dab0ed7-c12b-4c8e-8ea5-662f517019b3@7dab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSPREEKTIJD PER FRACTIE 5 MINUTEN\nN.a.v. besluitvorming in de strategische procedurevergadering van de commissie LNV van 8 maart 2023 is de nieuwe werkwijze van de commissie dat u zich \nin Parlis aan dient te melden voor commissiedebatten\n opdat tijdig duidelijk is hoeveel commissieleden deelnemen aan dit debat en of er derhalve voldoende tijd is ingeruimd voor een ordentelijk debat.\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  Onbekend (onbekend)\n  A. Podt (D66)\n  Onbekend (onbekend)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  P. Adema (onbekend)\n  S.M. Beckerman (SP)\n  J. Thijssen (PvdA)\n  M. Amhaouch (CDA)\n  T.C. (Tjeerd) de Groot (D66)\n  D.J.G. Graus (PVV)\n  E.C. Vedder (CDA)\n  E.S. Akerboom (PvdD)\n  Onbekend (onbekend)\n  A.A.H. van Campen (VVD)\n\n\n
+DTEND:20230531T160000Z
+DTSTART:20230531T110000Z
+SUMMARY:Nederlandse Voedsel- en Warenautoriteit (NVWA)
+UID:ddf6239c-b87b-473c-9974-d0e9bad5a14d@ddf6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nVoortzetting commissiedebat (eerste termijn was op 6 april 2022)\n\nHet is niet een besloten evenement\n\nAanwezigen (17):\n  J. Thijssen (PvdA)\n  H. Staghouwer (onbekend)\n  T.C. (Tjeerd) de Groot (D66)\n  F.P. Wassenberg (PvdD)\n  J.L. Geurts (CDA)\n  R. Bisschop (SGP)\n  C.A.M. van der Plas (BBB)\n  E. (Edgar) Mulder (PVV)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  D.G. Boswijk (CDA)\n  P.A. Grinwis (ChristenUnie)\n  A.A.H. van Campen (VVD)\n  L. Bromet (GroenLinks)\n  Ch. van der Wal-Zeggelink (onbekend)\n  Onbekend (onbekend)\n\n\n
+DTEND:20220412T163000Z
+DTSTART:20220412T143000Z
+SUMMARY:Hoofdlijnendebat LNV (voortzetting van 6 april)
+UID:c17a595a-0e34-4b03-9d2f-3cc7667ed59d@c17a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSPREEKTIJD EERSTE TERMIJN 5 MINUTEN\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  P.A. Grinwis (ChristenUnie)\n  T.C. (Tjeerd) de Groot (D66)\n  L. Bromet (GroenLinks)\n  A. Podt (D66)\n  A.A.H. van Campen (VVD)\n  J. Thijssen (PvdA)\n  Onbekend (onbekend)\n  D.G. Boswijk (CDA)\n  L. Vestering (PvdD)\n  J.L. Geurts (CDA)\n  vaste commissie voor Infrastructuur en Waterstaat (onbekend)\n  E. (Edgar) Mulder (PVV)\n  C.A.M. van der Plas (BBB)\n  C.J. Schouten (onbekend)\n  C.G. van der Staaij (SGP)\n\n\n
+DTEND:20220913T200000Z
+DTSTART:20220913T160000Z
+SUMMARY:Mestbeleid
+UID:a23b1f79-673d-4501-9348-fdb32441268c@a23b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nIndien u naar aanleiding van dit commissiedebat een tweeminutendebat inclusief stemmingen wenst te voeren voorafgaand aan de Landbouw- en Visserijraad op 24/25 juni dan kan dit debat inclusief stemmingen uiterlijk plaatsvinden op donderdag 20 juni 2024.\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  vaste commissie voor Europese Zaken (onbekend)\n  P. Adema (onbekend)\n\n\n
+DTEND:20240619T140000Z
+DTSTART:20240619T110000Z
+SUMMARY:Landbouw- en Visserijraad (24/25 juni)
+UID:e6a76aae-386a-4569-a558-18670a2b2528@e6a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n2e Herziene convocatie in verband met aanvulling agendapunten\nSPREEKTIJD PER FRACTIE 5 MINUTEN\n\nHet is niet een besloten evenement\n\nAanwezigen (19):\n  C.A.M. van der Plas (BBB)\n  T.C. (Tjeerd) de Groot (D66)\n  Onbekend (onbekend)\n  F.P. Wassenberg (PvdD)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  S.M. Beckerman (SP)\n  J. Thijssen (PvdA)\n  vaste commissie voor Economische Zaken en Klimaat (onbekend)\n  W.R. van Haga (Groep Van Haga)\n  A.A.H. van Campen (VVD)\n  D.G. Boswijk (CDA)\n  R. Bisschop (SGP)\n  D.J. Eppink (JA21)\n  H. Staghouwer (onbekend)\n  E. (Edgar) Mulder (PVV)\n  J.L. Geurts (CDA)\n  P.A. Grinwis (ChristenUnie)\n  L. Bromet (GroenLinks)\n\n\n
+DTEND:20220330T150000Z
+DTSTART:20220330T120000Z
+SUMMARY:Landbouw\, klimaat en voedsel
+UID:f606517a-e21d-4381-885b-d551eddef9e8@f606.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSPREEKTIJD PER FRACTIE 5 MINUTEN\nIndien u naar aanleiding van dit commissiedebat een tweeminutendebat inclusief stemmingen wenst te voeren voorafgaand aan de Landbouw- en Visserijraad op 21 maart\, da\nn kan dit debat inclusief stemmingen uiterlijk plaatsvinden op donderdag 17 maart.\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  H. Staghouwer (onbekend)\n  A.A.H. van Campen (VVD)\n  T.C. (Tjeerd) de Groot (D66)\n  vaste commissie voor Europese Zaken (onbekend)\n  D.G. Boswijk (CDA)\n  J. Thijssen (PvdA)\n  C.A.M. van der Plas (BBB)\n  J.L. Geurts (CDA)\n  F.P. Wassenberg (PvdD)\n  R. Bisschop (SGP)\n  P.A. Grinwis (ChristenUnie)\n\n\n
+DTEND:20220315T193000Z
+DTSTART:20220315T163000Z
+SUMMARY:Landbouw- en Visserijraad op 21 maart 2022 LET OP: gewijzigd tijdstip (was 16.30-19.30u)
+UID:ab144004-b1c0-4b15-b5af-a431538d5745@ab14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nLET OP: vroege aanvangstijd\nSPREEKTIJD PER FRACTIE 7 MINUTEN\n\nHet is niet een besloten evenement\n\nAanwezigen (21):\n  A. Podt (D66)\n  vaste commissie voor Infrastructuur en Waterstaat (onbekend)\n  vaste commissie voor Binnenlandse Zaken (onbekend)\n  B. Madlener (PVV)\n  R. Bisschop (SGP)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  F.P. Wassenberg (PvdD)\n  J. Thijssen (PvdA)\n  Ch. van der Wal-Zeggelink (onbekend)\n  E. (Edgar) Mulder (PVV)\n  Onbekend (onbekend)\n  A.A.H. van Campen (VVD)\n  T.C. (Tjeerd) de Groot (D66)\n  C.A.M. van der Plas (BBB)\n  P.A. Grinwis (ChristenUnie)\n  L. Bromet (GroenLinks)\n  J.L. Geurts (CDA)\n  D.J. Eppink (JA21)\n  D.G. Boswijk (CDA)\n  Onbekend (onbekend)\n\n\n
+DTEND:20220310T123000Z
+DTSTART:20220310T083000Z
+SUMMARY:Stikstofproblematiek
+UID:22638d49-f47b-4329-bb76-d648153c480c@2263.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSPREEKTIJD PER FRACTIE 5 MINUTEN \n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  P.A. Grinwis (ChristenUnie)\n  J. Thijssen (PvdA)\n  C.A.M. van der Plas (BBB)\n  L. Bromet (GroenLinks)\n  C. Stoffer (SGP)\n  S.M. Beckerman (SP)\n  D.G. Boswijk (CDA)\n  C.J. Schouten (onbekend)\n  E. (Edgar) Mulder (PVV)\n  L. Vestering (PvdD)\n  M. Koekkoek (Volt)\n  T.C. (Tjeerd) de Groot (D66)\n  A.A.H. van Campen (VVD)\n  D.J. Eppink (JA21)\n\n\n
+DTEND:20210930T153000Z
+DTSTART:20210930T120000Z
+SUMMARY:Nationaal Strategisch Plan (NSP)
+UID:72061a0f-0d03-44aa-af71-4e1b5cc02a83@7206.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nIndien u naar aanleiding van dit commissiedebat een tweeminutendebat inclusief stemmingen wenst te voeren voorafgaand aan de Landbouw- en Visserijraad op 29/30 april dan kan dit debat inclusief stemmingen uiterlijk plaatsvinden op donderdag 25 april 2024.\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  P. Adema (onbekend)\n  vaste commissie voor Europese Zaken (onbekend)\n\n\n
+DTEND:20240424T140000Z
+DTSTART:20240424T110000Z
+SUMMARY:Landbouw- en Visserijraad (29/30 april)
+UID:61bbf9f5-eb93-48ab-841b-f7b7f8edc4f2@61bb.org
 END:VEVENT
 END:VCALENDAR
