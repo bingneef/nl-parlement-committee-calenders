@@ -1,7 +1,7 @@
 # Commissie vergaderingen Eerste- en Tweede Kamer
 Dit project genereert elke dag de kalenders van de verschillende commissies van de kamers van het parlement. Je kan de link in de kalender programma (bijvoorbeeld Outlook) kopiëren voor automatische synchronisatie.
 
-Laatste update: 16/02/2024 04:20
+Laatste update: 16/02/2024 16:20
 
 ## Gevulde kalenders
 **Commissie voor de Rijksuitgaven** (3 gevonden)\
@@ -28,7 +28,7 @@ Laatste update: 16/02/2024 04:20
 **Vaste commissie voor Europese Zaken** (15 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Europese-Zaken.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Europese-Zaken.ics)
 
-**Vaste commissie voor Financiën** (86 gevonden)\
+**Vaste commissie voor Financiën** (87 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Financiën.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Financiën.ics)
 
 **Vaste commissie voor Infrastructuur en Waterstaat** (103 gevonden)\
@@ -49,7 +49,7 @@ Laatste update: 16/02/2024 04:20
 **Vaste commissie voor Sociale Zaken en Werkgelegenheid** (55 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Sociale-Zaken-en-Werkgelegenheid.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Sociale-Zaken-en-Werkgelegenheid.ics)
 
-**Vaste commissie voor Volksgezondheid, Welzijn en Sport** (67 gevonden)\
+**Vaste commissie voor Volksgezondheid, Welzijn en Sport** (74 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Volksgezondheid--Welzijn-en-Sport.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Volksgezondheid--Welzijn-en-Sport.ics)
 
 ## Lege kalenders
