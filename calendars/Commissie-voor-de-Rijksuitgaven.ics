@@ -2,24 +2,24 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\n*Uw fungerend voorzitter stelt een indicatievieve spreektijd van 5 minuten per fractie voor\, uitgaande van ongeveer vijf sprekers*\n\nHet is niet een besloten evenement\n\nAanwezigen (5):\n  J.C. Sneller (D66)\n  W.B. Hoekstra (onbekend)\n  B.A.W. Snels (GroenLinks)\n  J.L. Geurts (CDA)\n  E. Heinen (VVD)\n\n\n
-DTEND:20210624T120000Z
-DTSTART:20210624T100000Z
-SUMMARY:Begroten en verantwoorden 
-UID:779021ef-366f-4493-a6ff-060969bc72e2@7790.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Notitie:\nNoot: \nLeden die wensen deel te nemen aan het commissiedebat worden verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n  H. Nijboer (PvdA)\n  vaste commissie voor Financiën (onbekend)\n  I. (Inge) van Dijk (CDA)\n  S. Maatoug (GroenLinks)\n  J.C. Sneller (D66)\n  S.A.M. Kaag (onbekend)\n  vaste commissie voor Onderwijs\, Cultuur en Wetenschap (onbekend)\n  vaste commissie voor Landbouw\, Natuur en Voedselkwaliteit (onbekend)\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (onbekend)\n  E. Heinen (VVD)\n\n\n
 DTEND:20220914T190000Z
 DTSTART:20220914T160000Z
 SUMMARY:Begrotingsproces
-UID:640dac6f-45d1-400e-80d5-f4cec167837f@640d.org
+UID:24fba0c2-96f1-45b5-b552-b1e97e3cb6b2@24fb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (2):\n  vaste commissie voor Financiën (onbekend)\n  S.A.M. Kaag (onbekend)\n\n\n
 DTEND:20240911T110000Z
 DTSTART:20240911T080000Z
 SUMMARY:Begrotingsproces
-UID:b8ed9459-a798-4756-a289-f389e095c952@b8ed.org
+UID:6eff18a4-ba14-4adc-987d-b1d78034813f@6eff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n*Uw fungerend voorzitter stelt een indicatievieve spreektijd van 5 minuten per fractie voor\, uitgaande van ongeveer vijf sprekers*\n\nHet is niet een besloten evenement\n\nAanwezigen (5):\n  J.C. Sneller (D66)\n  W.B. Hoekstra (onbekend)\n  B.A.W. Snels (GroenLinks)\n  J.L. Geurts (CDA)\n  E. Heinen (VVD)\n\n\n
+DTEND:20210624T120000Z
+DTSTART:20210624T100000Z
+SUMMARY:Begroten en verantwoorden 
+UID:68f81b72-1cef-4c7a-b3f4-cc8e44f7a355@68f8.org
 END:VEVENT
 END:VCALENDAR
