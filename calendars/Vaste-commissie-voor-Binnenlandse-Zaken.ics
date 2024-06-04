@@ -2,486 +2,500 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\n6e HERZIENE CONVOCATIE\ntoevoeging volgcommissie en agendapunt*\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (6):\n  R.M. Leijten (SP)\n  K.B. Hagen (D66)\n  vaste commissie voor Financiën (onbekend)\n  J.C. Sneller (D66)\n  M.F. Strolenberg (VVD)\n  H.G.J. Bruins Slot (onbekend)\n\n\n
-DTEND:20220914T110000Z
-DTSTART:20220914T080000Z
-SUMMARY:Functioneren Rijksdienst
-UID:eadc2983-6121-44ee-aafa-6038576d1a0b@eadc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  L. Bromet (GroenLinks)\n  J.J. Klink (VVD)\n  F. Boulakjar (D66)\n  S.M. Beckerman (SP)\n  P.C. (Peter) de Groot (VVD)\n  H.M. de Jonge (onbekend)\n  W.R. van Haga (Groep Van Haga)\n  I. (Inge) van Dijk (CDA)\n  Onbekend (onbekend)\n\n\n
-DTEND:20230608T180000Z
-DTSTART:20230608T143000Z
-SUMMARY:Bouwregelgeving 
-UID:8e711cd8-39e3-496e-887d-4f75505a10de@8e71.org
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  H. Dekker-Abdulaziz (D66)\n  M.F. Strolenberg (VVD)\n  B.C. Kathmann (PvdA)\n  P.H. Omtzigt (Omtzigt)\n  K.B. Hagen (D66)\n  R.M. Leijten (SP)\n  H.G.J. Bruins Slot (onbekend)\n  I. (Inge) van Dijk (CDA)\n\n\n
+DTEND:20220421T163000Z
+DTSTART:20220421T130000Z
+SUMMARY:Wijziging van de Wet Huis voor klokkenluiders
+UID:42d67923-18a8-4e0f-a6fb-edce22a7d02e@42d6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\n2e HERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  R. Bisschop (SGP)\n  R.M. Leijten (SP)\n  S.J.F. van der Graaf (ChristenUnie)\n  H. Dekker-Abdulaziz (D66)\n  H.G.J. Bruins Slot (onbekend)\n  vaste commissie voor Europese Zaken (onbekend)\n  L.A.J.M. Dassen (Volt)\n  M.F. Strolenberg (VVD)\n\n\n
 DTEND:20220621T190000Z
 DTSTART:20220621T160000Z
 SUMMARY:Behandelvoorbehoud EU-Kiesakte
-UID:d803b850-baca-48bb-951b-487c1b18fc23@d803.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  Onbekend (onbekend)\n  N.L. den Haan (Fractie Den Haan)\n  P.A. Grinwis (ChristenUnie)\n  S.M. Beckerman (SP)\n  W.R. van Haga (Groep Van Haga)\n  F. Boulakjar (D66)\n  J.F. Klaver (GroenLinks)\n  A. Kops (PVV)\n  P.C. (Peter) de Groot (VVD)\n  J.L. Geurts (CDA)\n  H.M. de Jonge (onbekend)\n  H. Nijboer (PvdA)\n\n\n
-DTEND:20220630T150000Z
-DTSTART:20220630T113000Z
-SUMMARY:Staat van de volkshuisvesting
-UID:4b98df07-f592-4656-a392-35a2bed11620@4b98.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n6e HERZIENE CONVOCATIE\nwijziging tijd i.v.m. plenaire overlap*\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  H.M. de Jonge (onbekend)\n  N.L. den Haan (Fractie Den Haan)\n  P.C. (Peter) de Groot (VVD)\n  K.B. Hagen (D66)\n  W.R. van Haga (Groep Van Haga)\n  H. Nijboer (PvdA)\n  N.J.F. Pouw-Verweij (JA21)\n  L. Bromet (GroenLinks)\n  S.M. Beckerman (SP)\n  J.L. Geurts (CDA)\n  F. Boulakjar (D66)\n  P.A. Grinwis (ChristenUnie)\n\n\n
-DTEND:20230209T140000Z
-DTSTART:20230209T100000Z
-SUMMARY:Woningbouwopgave en koopsector
-UID:a3d72f0d-e975-4773-9c31-ecfa9a172541@a3d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n3e HERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  Onbekend (onbekend)\n  M. Koekkoek (Volt)\n  A.J. Flach (SGP)\n  R.J. Kamminga (VVD)\n  F.A. Zeedijk (NSC)\n  P.C. (Peter) de Groot (VVD)\n  I. (Inge) van Dijk (CDA)\n  H.M. de Jonge (onbekend)\n  G. Chakor (GroenLinks-PvdA)\n\n\n
-DTEND:20240516T160000Z
-DTSTART:20240516T123000Z
-SUMMARY:Regio's en grensoverschrijdende samenwerking 
-UID:60a24fcf-eac4-4bbb-b4eb-32a569c92933@60a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n2e HERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  H. Dekker-Abdulaziz (D66)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  P. van Houwelingen (FVD)\n  E.A. Haverkort (VVD)\n  H.M. de Jonge (onbekend)\n  N.G.J. Temmink (SP)\n\n\n
-DTEND:20231024T180000Z
-DTSTART:20231024T143000Z
-SUMMARY:Versterking lokaal bestuur 
-UID:76215c59-55ac-4f4a-8a40-32b8f13fec53@7621.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  F. Boulakjar (D66)\n  S.M. Beckerman (SP)\n  P.C. (Peter) de Groot (VVD)\n  H. Nijboer (PvdA)\n  H.M. de Jonge (onbekend)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  I. (Inge) van Dijk (CDA)\n  K.B. Hagen (D66)\n\n\n
-DTEND:20231026T113000Z
-DTSTART:20231026T080000Z
-SUMMARY:Funderingsproblematiek
-UID:cbebf530-6d43-4dbe-9eba-f02d1c81ce41@cbeb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  L. Bromet (GroenLinks)\n  P.E. (Pieter) Heerma (CDA)\n  D.A.N. Koerhuis (VVD)\n  H.E. de Hoop (PvdA)\n  S.M. Beckerman (SP)\n  S.R.T. van Baarle (DENK)\n  A. Kops (PVV)\n  Onbekend (onbekend)\n  K.H. Ollongren (onbekend)\n  F. Boulakjar (D66)\n  P.A. Grinwis (ChristenUnie)\n\n\n
-DTEND:20210603T153000Z
-DTSTART:20210603T113000Z
-SUMMARY:Wonen en Corona
-UID:83f79e03-aa6d-4289-988f-bc0c8c248a77@83f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n4e HERZIENE CONVOCATIE\nagendapunten toegevoegd\, verlenging commissiedebat met 1 uur en uitbreiding spreektijd*\nSpreektijd 6 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  K.B. Hagen (D66)\n  S.M. Beckerman (SP)\n  H. Nijboer (PvdA)\n  F. Boulakjar (D66)\n  A. Kops (PVV)\n  P.A. Grinwis (ChristenUnie)\n  H.M. de Jonge (onbekend)\n  R. Bisschop (SGP)\n  J.L. Geurts (CDA)\n  P.C. (Peter) de Groot (VVD)\n  W.R. van Haga (Groep Van Haga)\n  S.R.T. van Baarle (DENK)\n  N.J.F. Pouw-Verweij (JA21)\n\n\n
-DTEND:20220929T160000Z
-DTSTART:20220929T110000Z
-SUMMARY:Wonen
-UID:d7ed5f26-d2dc-47e2-9fda-93f23bb533cf@d7ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  J.C. Sneller (D66)\n  H.G.J. Bruins Slot (onbekend)\n  P.H. Omtzigt (Omtzigt)\n  S.J.F. van der Graaf (ChristenUnie)\n  T.M.T. van der Lee (GroenLinks)\n  F.M. Weerwind (onbekend)\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n  T.J. Bushoff (PvdA)\n  Onbekend (onbekend)\n  I. (Inge) van Dijk (CDA)\n  Onbekend (onbekend)\n  U. Ellian (VVD)\n  Onbekend (onbekend)\n  S.R.T. van Baarle (DENK)\n  Onbekend (onbekend)\n\n\n
-DTEND:20230419T201500Z
-DTSTART:20230419T171500Z
-SUMMARY:Constitutionele toetsing 
-UID:89e9e7ad-a086-4017-a510-112b5d1e9bf5@89e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging agendapunten*)\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  M. Koekkoek (Volt)\n  K.H. Ollongren (onbekend)\n  A.Th.B. Bijleveld-Schouten (onbekend)\n  Onbekend (onbekend)\n  D.G.M. Ceder (ChristenUnie)\n  R.M. Leijten (SP)\n  B.C. Kathmann (PvdA)\n  L. Bromet (GroenLinks)\n  Q.M. Rajkowski (VVD)\n  vaste commissie voor Defensie (onbekend)\n  M. (Martin) Bosma (PVV)\n  L.M. van Ginneken (D66)\n  Onbekend (onbekend)\n  S.R.T. van Baarle (DENK)\n\n\n
-DTEND:20210609T180000Z
-DTSTART:20210609T130000Z
-SUMMARY:IVD
-UID:5abb14cd-e8a3-4ccf-b53d-4b78a6ed015e@5abb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n2e HERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (16):\n  F. Boulakjar (D66)\n  Onbekend (onbekend)\n  S.M. Beckerman (SP)\n  W.R. van Haga (Groep Van Haga)\n  P.C. (Peter) de Groot (VVD)\n  H.M. de Jonge (onbekend)\n  Onbekend (onbekend)\n  N.L. den Haan (Fractie Den Haan)\n  A. Kops (PVV)\n  I. (Inge) van Dijk (CDA)\n  H. Nijboer (PvdA)\n  Onbekend (onbekend)\n  B.J. Eerdmans (JA21)\n  Onbekend (onbekend)\n  R. Bisschop (SGP)\n  J.F. Klaver (GroenLinks)\n\n\n
-DTEND:20230523T183000Z
-DTSTART:20230523T143000Z
-SUMMARY:Staat van de volkshuisvesting 
-UID:5b85f54f-77bd-4d1e-9d4b-0aeee4e0d35c@5b85.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n5e HERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  P.H. Omtzigt (Omtzigt)\n  R.M. Leijten (SP)\n  C. (Chris) Simons (VVD)\n  G. Uslu (onbekend)\n  Onbekend (onbekend)\n  H.G.J. Bruins Slot (onbekend)\n  E.J. Slootweg (CDA)\n  H. Dekker-Abdulaziz (D66)\n  T.J. Bushoff (PvdA)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n\n\n
-DTEND:20230524T154500Z
-DTSTART:20230524T121500Z
-SUMMARY:Archivering van stukken door bewindspersonen onder de archiefwet en de Woo/Wob 
-UID:ac314990-2025-40c9-a291-9925126bc049@ac31.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n4e Herziene convocatie i.v.m. verlenging van het debat met 1 uur*)\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  F.J.H. Jansen (FVD)\n  B.J. Eerdmans (JA21)\n  vaste commissie voor Economische Zaken en Klimaat (onbekend)\n  C. Teunissen (PvdD)\n  M. (Martin) Bosma (PVV)\n  E.M. van Esch (PvdD)\n  vaste commissie voor Europese Zaken (onbekend)\n  K.H. Ollongren (onbekend)\n\n\n
-DTEND:20210422T160000Z
-DTSTART:20210422T110000Z
-SUMMARY:Klimaatakkoord gebouwde omgeving
-UID:fb504672-cd3e-49a6-b0fa-39467148f2f6@fb50.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n** Nieuwe datum i.v.m. plenair debat op 15 februari 2022\nSpreektijd 5 minuten per fractie\n*Tijdens de procedurevergadering van 27 januari 2022 is besloten de ongeplande commissiedebatten Rechtspositie ambtsdragers en Wet gemeenschappelijke regelingen samen te voegen met het commissiedebat Bestuurlijke organisatie en democratie.\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  Onbekend (onbekend)\n  I. (Inge) van Dijk (CDA)\n  J.C. Sneller (D66)\n  Onbekend (onbekend)\n  R.M. Leijten (SP)\n  K.B. Hagen (D66)\n  M.F. Strolenberg (VVD)\n  H.G.J. Bruins Slot (onbekend)\n\n\n
-DTEND:20220223T200000Z
-DTSTART:20220223T163000Z
-SUMMARY:Bestuurlijke organisatie en democratie 
-UID:797b878f-af97-4610-b134-a92bf91028d2@797b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd 5 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (3):\n  vaste commissie voor Defensie (onbekend)\n  K.H. Ollongren (onbekend)\n  H.M. de Jonge (onbekend)\n\n\n
-DTEND:20241023T153000Z
-DTSTART:20241023T113000Z
-SUMMARY:Hoofdlijnennotitie herziening Wiv 2017
-UID:7a4dbd6e-0e8c-4bb5-b0a6-5b75e2512251@7a4d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n3e HERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  J.J. Klink (VVD)\n  S.R.T. van Baarle (DENK)\n  R.M. Leijten (SP)\n  T.J. Bushoff (PvdA)\n  P. van Houwelingen (FVD)\n  L.A.J.M. Dassen (Volt)\n  P.H. Omtzigt (Omtzigt)\n  M. (Martin) Bosma (PVV)\n  H.G.J. Bruins Slot (onbekend)\n  Onbekend (onbekend)\n  J.C. Sneller (D66)\n  Onbekend (onbekend)\n  C. (Chris) Simons (VVD)\n\n\n
-DTEND:20230509T183000Z
-DTSTART:20230509T143000Z
-SUMMARY:Integriteit openbaar bestuur 
-UID:1372ab8b-4898-46b5-a572-bf718ed01b47@1372.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE AGENDA\nAgendapunten met * toegevoegd.\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  vaste commissie voor Europese Zaken (onbekend)\n  L.A.J.M. Dassen (Volt)\n  M.F. Strolenberg (VVD)\n  C.A.M. van der Plas (BBB)\n  S.C. Kröger (GroenLinks)\n  R.M. Leijten (SP)\n  K.B. Hagen (D66)\n  H.G.J. Bruins Slot (onbekend)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  M. (Martin) Bosma (PVV)\n\n\n
-DTEND:20220210T160000Z
-DTSTART:20220210T130000Z
-SUMMARY:EU voorstellen ter versterking van democratie en integriteit van verkiezingen
-UID:24bb0d9b-ecc5-4929-8c6a-fc560f5427bf@24bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging agendapunt *)\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  N.L. den Haan (Fractie Den Haan)\n  H. Nijboer (PvdA)\n  S.R.T. van Baarle (DENK)\n  M. (Martin) Bosma (PVV)\n  D.A.N. Koerhuis (VVD)\n  B.J. Eerdmans (JA21)\n  L. Bromet (GroenLinks)\n  E.M. van Esch (PvdD)\n  K.H. Ollongren (onbekend)\n  S.M. Beckerman (SP)\n  F. Boulakjar (D66)\n  R. Bisschop (SGP)\n  A. Kops (PVV)\n  Onbekend (onbekend)\n\n\n
-DTEND:20210624T163000Z
-DTSTART:20210624T130000Z
-SUMMARY:Woningbouwopgave
-UID:1a862aec-cde1-4692-9a6f-a4f7fef6cdf1@1a86.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n5e HERZIENE CONVOCATIE\nSamengevoegd met het commissiedebat Staat van de Volkshuisvesting (oorspronkelijk 31 maart 2022) en verlengd met een half uur*\nSpreektijd 6 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (18):\n  R. Bisschop (SGP)\n  J.L. Geurts (CDA)\n  A. Kops (PVV)\n  H. Nijboer (PvdA)\n  S.M. Beckerman (SP)\n  J.F. Klaver (GroenLinks)\n  Onbekend (onbekend)\n  M. Goudzwaard (JA21)\n  F. Boulakjar (D66)\n  P.C. (Peter) de Groot (VVD)\n  P.A. Grinwis (ChristenUnie)\n  H.M. de Jonge (onbekend)\n  F. Azarkan (DENK)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  W.R. van Haga (Groep Van Haga)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n\n\n
-DTEND:20220412T193000Z
-DTSTART:20220412T150000Z
-SUMMARY:Woningbouwopgave/ Staat van de volkshuisvesting
-UID:54c1b34f-bd6d-4015-8436-591198287de5@54c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd 5 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  M.C.G. Keijzer (BBB)\n  J.C. Sneller (D66)\n  L. Bromet (GroenLinks-PvdA)\n  W.J.H. Meulenkamp (VVD)\n  Onbekend (onbekend)\n  M. Deen (PVV)\n  M. Koekkoek (Volt)\n  H.M. de Jonge (onbekend)\n  I. (Inge) van Dijk (CDA)\n  S.T.P.H. Palmen (NSC)\n  Onbekend (onbekend)\n\n\n
-DTEND:20240313T170000Z
-DTSTART:20240313T130000Z
-SUMMARY:Bestuurlijke organisatie en democratie
-UID:40f61fa1-7427-4763-8144-757d7657f9e6@40f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (6):\n  H.M. de Jonge (onbekend)\n  R.M. Welzijn (NSC)\n  Onbekend (onbekend)\n  P.C. (Peter) de Groot (VVD)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n\n\n
-DTEND:20240613T160000Z
-DTSTART:20240613T123000Z
-SUMMARY:Leefbaarheid en veiligheid 
-UID:326db031-d52a-4ce1-b44b-a3175d41705a@326d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 5 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  Onbekend (onbekend)\n  P.A. Grinwis (ChristenUnie)\n  Onbekend (onbekend)\n  M.C.G. Keijzer (BBB)\n  P.C. (Peter) de Groot (VVD)\n  G.J.W. Gabriëls (GroenLinks-PvdA)\n  R.M. Welzijn (NSC)\n  H.M. de Jonge (onbekend)\n\n\n
-DTEND:20240529T193000Z
-DTSTART:20240529T153000Z
-SUMMARY:Rijksvastgoed en Renovatie Binnenhof 
-UID:7d6f7cda-4a41-417b-97c8-7356e88c84e1@7d6f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n5e HERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 5 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  T.H.P. Baudet (FVD)\n  vaste commissie voor Defensie (onbekend)\n  K.H. Ollongren (onbekend)\n  R. Bisschop (SGP)\n  K.B. Hagen (D66)\n  Q.M. Rajkowski (VVD)\n  A.R. Hammelburg (D66)\n  M. (Martin) Bosma (PVV)\n  S.R.T. van Baarle (DENK)\n  H.G.J. Bruins Slot (onbekend)\n  E.J. Slootweg (CDA)\n  R.M. Leijten (SP)\n  Onbekend (onbekend)\n\n\n
-DTEND:20230621T160000Z
-DTSTART:20230621T120000Z
-SUMMARY:IVD-aangelegenheden 
-UID:8b655b23-8995-4e46-bcbe-d767beba6dcd@8b65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n5e HERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  C.A.M. van der Plas (BBB)\n  H.M. de Jonge (onbekend)\n  R. Bisschop (SGP)\n  Onbekend (onbekend)\n  J.C. Sneller (D66)\n  N.G.J. Temmink (SP)\n  C. (Chris) Simons (VVD)\n  K. Bouchallikh (GroenLinks)\n  E.A. Haverkort (VVD)\n  Onbekend (onbekend)\n\n\n
-DTEND:20230928T160000Z
-DTSTART:20230928T123000Z
-SUMMARY:Verkiezingen
-UID:5eba4985-3feb-43e8-b37e-fb4bf894bebf@5eba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n2e HERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  vaste commissie voor Infrastructuur en Waterstaat (onbekend)\n  vaste commissie voor Economische Zaken en Klimaat (onbekend)\n  H. Nijboer (PvdA)\n  E.M. van Esch (PvdD)\n  F.B. Minhas (VVD)\n  F. Boulakjar (D66)\n  J.J. Klink (VVD)\n  H.M. de Jonge (onbekend)\n  P.A. Grinwis (ChristenUnie)\n\n\n
-DTEND:20230511T113000Z
-DTSTART:20230511T080000Z
-SUMMARY:Ruimtelijke Ordening
-UID:cbbbe556-53b6-44fa-8dd7-126c5bf90d60@cbbb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  I. (Inge) van Dijk (CDA)\n  P.H. Omtzigt (Omtzigt)\n  M.F. Strolenberg (VVD)\n  H.G.J. Bruins Slot (onbekend)\n  S.R.T. van Baarle (DENK)\n  K. Arib (PvdA)\n  J.C. Sneller (D66)\n  Onbekend (onbekend)\n  R.M. Leijten (SP)\n\n\n
-DTEND:20220310T150000Z
-DTSTART:20220310T120000Z
-SUMMARY:Integriteit openbaar bestuur
-UID:a863afd1-815e-4a68-8097-d995613be90a@a863.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging agendapunten *)\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  B.J. Eerdmans (JA21)\n  M. (Martin) Bosma (PVV)\n  L. Bromet (GroenLinks)\n  K.H. Ollongren (onbekend)\n  B.C. Kathmann (PvdA)\n  F. Boulakjar (D66)\n  D.A.N. Koerhuis (VVD)\n  S.M. Beckerman (SP)\n\n\n
-DTEND:20211007T140000Z
-DTSTART:20211007T110000Z
-SUMMARY:Leefbaarheid en veiligheid 
-UID:57ff0eda-3817-4645-bbc6-8f61eb6c8451@57ff.org
+UID:a402bb2d-004d-4d85-9bcf-f43c95490666@a402.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. nieuwe datum commissiedebat\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  R.M. Leijten (SP)\n  M. (Martin) Bosma (PVV)\n  B.C. Kathmann (PvdA)\n  K.H. Ollongren (onbekend)\n  I. (Inge) van Dijk (CDA)\n  U. Ellian (VVD)\n  L. Bromet (GroenLinks)\n  J.C. Sneller (D66)\n\n\n
 DTEND:20211116T200000Z
 DTSTART:20211116T170000Z
 SUMMARY:Evaluatie Tweede Kamerverkiezing 
-UID:3a2d411b-7e54-4dcd-b24e-bb78e50f1904@3a2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n2e HERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (18):\n  vaste commissie voor Infrastructuur en Waterstaat (onbekend)\n  A. Kops (PVV)\n  R. Bisschop (SGP)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  K.B. Hagen (D66)\n  P.A. Grinwis (ChristenUnie)\n  S.M. Beckerman (SP)\n  Onbekend (onbekend)\n  J. Thijssen (PvdA)\n  vaste commissie voor Landbouw\, Natuur en Voedselkwaliteit (onbekend)\n  E.M. van Esch (PvdD)\n  F. Boulakjar (D66)\n  L. Bromet (GroenLinks)\n  H.M. de Jonge (onbekend)\n  J.L. Geurts (CDA)\n  Onbekend (onbekend)\n  P.C. (Peter) de Groot (VVD)\n\n\n
-DTEND:20230322T160000Z
-DTSTART:20230322T120000Z
-SUMMARY:Klimaatakkoord gebouwde omgeving
-UID:85712757-ae54-4b11-8b9d-92feaccbd5af@8571.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\ni.v.m. aanpassing tijdstip en verlenging spreektijd\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  R. Bisschop (SGP)\n  J.C.M. (Hans) Teunissen (D66)\n  E.A. Haverkort (VVD)\n  T.J. Bushoff (PvdA)\n  N.G.J. Temmink (SP)\n  H.M. de Jonge (onbekend)\n  D.J.G. Graus (PVV)\n  M. Koekkoek (Volt)\n  R.J. Kamminga (VVD)\n  H.M. Krul (CDA)\n  C.A.M. van der Plas (BBB)\n  S.J.F. van der Graaf (ChristenUnie)\n\n\n
-DTEND:20231025T200000Z
-DTSTART:20231025T160000Z
-SUMMARY:Adviesrapport 'Elke regio telt!'
-UID:2de16ba7-796b-4c7a-ab95-22c95616166e@2de1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n2e HERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 5 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  I. (Inge) van Dijk (CDA)\n  W.R. van Haga (Groep Van Haga)\n  K.B. Hagen (D66)\n  S.M. Beckerman (SP)\n  H. Nijboer (PvdA)\n  P.C. (Peter) de Groot (VVD)\n  H.M. de Jonge (onbekend)\n  F. Boulakjar (D66)\n  P.A. Grinwis (ChristenUnie)\n\n\n
-DTEND:20230705T160000Z
-DTSTART:20230705T120000Z
-SUMMARY:Woningbouwopgave en koopsector 
-UID:26c50667-e584-40cb-8867-907cb223681b@26c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n4e HERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 5 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  E.M. van Esch (PvdD)\n  P.C. (Peter) de Groot (VVD)\n  H.M. de Jonge (onbekend)\n  E.A. Haverkort (VVD)\n  Onbekend (onbekend)\n  F. Boulakjar (D66)\n  J. Thijssen (PvdA)\n  Onbekend (onbekend)\n\n\n
-DTEND:20231005T160000Z
-DTSTART:20231005T120000Z
-SUMMARY:Klimaatakkoord gebouwde omgeving
-UID:feea99c5-0e15-4a29-af64-289d2b8a4cab@feea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE AGENDA\nAgendapunt met * toegevoegd\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (17):\n  P.C. (Peter) de Groot (VVD)\n  H. Nijboer (PvdA)\n  S.R.T. van Baarle (DENK)\n  M. (Martin) Bosma (PVV)\n  P.A. Grinwis (ChristenUnie)\n  A. Kops (PVV)\n  S.H. Simons (BIJ1)\n  N.L. den Haan (Fractie Den Haan)\n  L. Bromet (GroenLinks)\n  F.B. Minhas (VVD)\n  C.A.M. van der Plas (BBB)\n  J.L. Geurts (CDA)\n  H.M. de Jonge (onbekend)\n  R. Bisschop (SGP)\n  S.M. Beckerman (SP)\n  F. Boulakjar (D66)\n  E.M. van Esch (PvdD)\n\n\n
-DTEND:20220127T160000Z
-DTSTART:20220127T130000Z
-SUMMARY:Commissiedebat op hoofdlijnen met de nieuwe minister voor Volkshuisvesting en Ruimtelijke Ordening over de maatregelen in het coalitieakkoord op het terrein van Volkshuisvesting en Ruimtelijke Ordening
-UID:06c561d2-befc-4f98-af35-2487ccf0e7da@06c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n2e HERZIENE CONVOCATIE\nAgendapunt met * toegevoegd.\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (17):\n  I. (Inge) van Dijk (CDA)\n  M. Koekkoek (Volt)\n  S. Mutluer (PvdA)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  R.M. Leijten (SP)\n  D.G.M. Ceder (ChristenUnie)\n  S.R.T. van Baarle (DENK)\n  H.H. van der Woude (VVD)\n  H.G.J. Bruins Slot (onbekend)\n  Onbekend (onbekend)\n  F. Boulakjar (D66)\n  E.M. Westerveld (GroenLinks)\n  E.M. van Esch (PvdD)\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n  S.H. Simons (BIJ1)\n  Onbekend (onbekend)\n\n\n
-DTEND:20220224T173000Z
-DTSTART:20220224T140000Z
-SUMMARY:Discriminatie\, racisme en mensenrechten
-UID:f2c58f65-6067-4cc5-97c3-40f03a97c3b4@f2c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n3e HERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 5 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  P.C. (Peter) de Groot (VVD)\n  E.C. Vedder (CDA)\n  H.M. de Jonge (onbekend)\n  P.A. Grinwis (ChristenUnie)\n  B. Madlener (PVV)\n  H.E. de Hoop (GroenLinks-PvdA)\n  A.J. Flach (SGP)\n  S.M. Beckerman (SP)\n  M.C.G. Keijzer (BBB)\n  J.M. Paternotte (D66)\n  R.M. Welzijn (NSC)\n\n\n
-DTEND:20240321T160000Z
-DTSTART:20240321T120000Z
-SUMMARY:Woningbouwopgave en koopsector (wordt voortgezet op 4 april 2024)
-UID:6b6d62e7-b82b-4e10-9b21-78902759e04f@6b6d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n2e HERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  vaste commissie voor Digitale Zaken (onbekend)\n  J.J. Klink (VVD)\n  H. Dekker-Abdulaziz (D66)\n  Onbekend (onbekend)\n  R.M. Leijten (SP)\n  Onbekend (onbekend)\n  A.C. van Huffelen (onbekend)\n  Q.M. Rajkowski (VVD)\n  Onbekend (onbekend)\n\n\n
-DTEND:20221116T160000Z
-DTSTART:20221116T130000Z
-SUMMARY:Basisregistratie Personen en Elektronische identificatie en authenticatie (eID) 
-UID:e2dd820b-8f5d-496f-a455-61e2c1d60f0a@e2dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (6):\n  H.G.J. Bruins Slot (onbekend)\n  I. (Inge) van Dijk (CDA)\n  M. Mohandis (PvdA)\n  M.F. Strolenberg (VVD)\n  M. (Martin) Bosma (PVV)\n  H. Dekker-Abdulaziz (D66)\n\n\n
-DTEND:20221019T153000Z
-DTSTART:20221019T123000Z
-SUMMARY:Burgemeesters
-UID:1483f0d6-11f8-4e2c-a5fb-51cc1cb71fc9@1483.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (5):\n  H.G.J. Bruins Slot (onbekend)\n  I. (Inge) van Dijk (CDA)\n  E.A. Haverkort (VVD)\n  H. Dekker-Abdulaziz (D66)\n  L. Bromet (GroenLinks)\n\n\n
-DTEND:20220622T160000Z
-DTSTART:20220622T130000Z
-SUMMARY:Regiodeals
-UID:f83e0655-b70f-4e16-af10-ddada8d343fb@f83e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n \nHERZIENE AGENDA\nAgendapunt met * toegevoegd\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  B.J. Eerdmans (JA21)\n  S.R.T. van Baarle (DENK)\n  K. Arib (PvdA)\n  M. (Martin) Bosma (PVV)\n  H.G.J. Bruins Slot (onbekend)\n  I. (Inge) van Dijk (CDA)\n  G.F.C. van Meijeren (FVD)\n  D.G.M. Ceder (ChristenUnie)\n  H. Dekker-Abdulaziz (D66)\n  M.F. Strolenberg (VVD)\n  R. Bisschop (SGP)\n  L. Bromet (GroenLinks)\n  P.H. Omtzigt (Omtzigt)\n  R.M. Leijten (SP)\n\n\n
-DTEND:20220126T160000Z
-DTSTART:20220126T130000Z
-SUMMARY:Commissiedebat op hoofdlijnen met de nieuwe minister van Binnenlandse Zaken en Koninkrijksrelaties over de maatregelen in het coalitieakkoord op het terrein van Binnenlandse Zaken
-UID:111859e1-b18c-47db-a011-8419ad990fd3@1118.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n4e HERZIENE CONVOCATIE\ntoevoeging agendapunten*\nSpreektijd 5 minuten per fractie.\n \n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  H. Dekker-Abdulaziz (D66)\n  Z. El Yassini (VVD)\n  S. Mutluer (PvdA)\n  E.M. Westerveld (GroenLinks)\n  S.H. (Sylvana) Simons (BIJ1)\n  H.G.J. Bruins Slot (onbekend)\n  S.R.T. van Baarle (DENK)\n  K.B. Hagen (D66)\n\n\n
-DTEND:20230126T170000Z
-DTSTART:20230126T130000Z
-SUMMARY:Discriminatie\, racisme en mensenrechten
-UID:74bddc86-1400-4eba-96b1-9b912d74d0e4@74bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n2e HERZIENE CONVOCATIE\ninkorting commissiedebat*\nSpreektijd 3 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  G. Chakor (GroenLinks-PvdA)\n  J.C. Sneller (D66)\n  S.P.A. Erkens (VVD)\n  M. Deen (PVV)\n  M. Koekkoek (Volt)\n  Onbekend (onbekend)\n  S.T.P.H. Palmen (NSC)\n  H.M. de Jonge (onbekend)\n\n\n
-DTEND:20240403T163000Z
-DTSTART:20240403T143000Z
-SUMMARY:EU-voorstellen inzake het Pakket ter verdediging van de democratie
-UID:5b06773b-52a5-4ac1-b856-bca7cceb4f49@5b06.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n3e HERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (6):\n  S.T.P.H. Palmen (NSC)\n  G. Chakor (GroenLinks-PvdA)\n  H.M. de Jonge (onbekend)\n  A.J. Flach (SGP)\n  S.P.A. Erkens (VVD)\n  M. Deen (PVV)\n\n\n
-DTEND:20240418T143000Z
-DTSTART:20240418T110000Z
-SUMMARY:Verkiezingen
-UID:4e7f6054-6879-467f-b285-5cddad7a2521@4e7f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nDERDE HERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  R.M. Leijten (SP)\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (onbekend)\n  M. (Martin) Bosma (PVV)\n  S.R.T. van Baarle (DENK)\n  K.B. Hagen (D66)\n  I. (Inge) van Dijk (CDA)\n  T.J. Bushoff (PvdA)\n  C. (Chris) Simons (VVD)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  J.C. Sneller (D66)\n  H.G.J. Bruins Slot (onbekend)\n  P. van Houwelingen (FVD)\n\n\n
-DTEND:20230608T140000Z
-DTSTART:20230608T110000Z
-SUMMARY:Functioneren Rijksdienst
-UID:7244d503-6565-4ce4-aa0b-9e06eb3e85a4@7244.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n2e HERZIENE CONVOCATIE\nportefeuillewijziging staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties*\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  Onbekend (onbekend)\n  C. (Chris) Simons (VVD)\n  Onbekend (onbekend)\n  H. Dekker-Abdulaziz (D66)\n  I. (Inge) van Dijk (CDA)\n  A.C. van Huffelen (onbekend)\n  Onbekend (onbekend)\n  N.G.J. Temmink (SP)\n  Onbekend (onbekend)\n  E.A. Haverkort (VVD)\n\n\n
-DTEND:20230913T160000Z
-DTSTART:20230913T130000Z
-SUMMARY:Klokkenluiders 
-UID:a584902f-1124-4e13-a107-731c69575dfd@a584.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n \n** Nieuwe datum i.v.m. overlap plenair debat op 8 maart 2022\nHERZIENE CONVOCATIE\nAgendapunt met * toegevoegd\n \nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  F. Boulakjar (D66)\n  L. Bromet (GroenLinks)\n  Onbekend (onbekend)\n  F.B. Minhas (VVD)\n  M. Amhaouch (CDA)\n  S.M. Beckerman (SP)\n  M. Goudzwaard (JA21)\n  H.M. de Jonge (onbekend)\n  E.M. van Esch (PvdD)\n  Onbekend (onbekend)\n  J.L. Geurts (CDA)\n  J.J. Klink (VVD)\n\n\n
-DTEND:20220315T183000Z
-DTSTART:20220315T153000Z
-SUMMARY:Omgevingswet
-UID:fd721de1-8ee1-4380-82e9-ddacf183b4e7@fd72.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n2e HERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  W.J.H. Meulenkamp (VVD)\n  Onbekend (onbekend)\n  G. Chakor (GroenLinks-PvdA)\n  M. Koekkoek (Volt)\n  S.T.P.H. Palmen (NSC)\n  J.C. Sneller (D66)\n  A.C. van Huffelen (onbekend)\n\n\n
-DTEND:20240215T180000Z
-DTSTART:20240215T143000Z
-SUMMARY:Wet open overheid
-UID:ba9a6d7d-7a0d-434e-9372-17cf1a0b100f@ba9a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nTWEEDE HERZIENE CONVOCATIE\n \ntoevoeging agendapunt*\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  P.H. Omtzigt (Omtzigt)\n  L. Bromet (GroenLinks)\n  H.G.J. Bruins Slot (onbekend)\n  R.M. Leijten (SP)\n  H. Dekker-Abdulaziz (D66)\n  K.B. Hagen (D66)\n  T.J. Bushoff (PvdA)\n  I. (Inge) van Dijk (CDA)\n  C. (Chris) Simons (VVD)\n\n\n
-DTEND:20230316T150000Z
-DTSTART:20230316T120000Z
-SUMMARY:Wet open overheid
-UID:36aa88ae-da4a-46a8-bebe-7fd993640a32@36aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  P. Bamenga (D66)\n  G. Chakor (GroenLinks-PvdA)\n  S.T.P.H. Palmen (NSC)\n  H.M. de Jonge (onbekend)\n  M. Koekkoek (Volt)\n  I.J.M. Michon-Derkzen (VVD)\n  M. Deen (PVV)\n  S.R.T. van Baarle (DENK)\n\n\n
-DTEND:20240416T180000Z
-DTSTART:20240416T143000Z
-SUMMARY:Discriminatie\, racisme en mensenrechten 
-UID:d8eb011d-ab4f-439f-b837-a65179cd009f@d8eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  H. Dekker-Abdulaziz (D66)\n  M.F. Strolenberg (VVD)\n  B.C. Kathmann (PvdA)\n  P.H. Omtzigt (Omtzigt)\n  K.B. Hagen (D66)\n  R.M. Leijten (SP)\n  H.G.J. Bruins Slot (onbekend)\n  I. (Inge) van Dijk (CDA)\n\n\n
-DTEND:20220421T163000Z
-DTSTART:20220421T130000Z
-SUMMARY:Wijziging van de Wet Huis voor klokkenluiders
-UID:bf6141ed-d84d-43ef-a47a-0acc0587b863@bf61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n4e HERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 5 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  S.M. Beckerman (SP)\n  H. Nijboer (PvdA)\n  P.A. Grinwis (ChristenUnie)\n  W.R. van Haga (Groep Van Haga)\n  P.C. (Peter) de Groot (VVD)\n  K.B. Hagen (D66)\n  F. Boulakjar (D66)\n  T.H.P. Baudet (FVD)\n  Onbekend (onbekend)\n  H.M. de Jonge (onbekend)\n\n\n
-DTEND:20230927T170000Z
-DTSTART:20230927T130000Z
-SUMMARY:Staat van de volkshuisvesting
-UID:21aa7c7d-7f33-44fc-a94c-8c6403ace294@21aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  P.A. Grinwis (ChristenUnie)\n  H.M. de Jonge (onbekend)\n  P.C. (Peter) de Groot (VVD)\n  J.J. Klink (VVD)\n  F. Boulakjar (D66)\n  N.L. den Haan (Fractie Den Haan)\n  J.L. Geurts (CDA)\n  Onbekend (onbekend)\n  S.M. Beckerman (SP)\n  J.F. Klaver (GroenLinks)\n  E.M. van Esch (PvdD)\n  F. Azarkan (DENK)\n  H. Nijboer (PvdA)\n  R. Bisschop (SGP)\n\n\n
-DTEND:20220216T173000Z
-DTSTART:20220216T140000Z
-SUMMARY:Staat van de woningmarkt
-UID:b38a1b43-3203-4302-b00b-4b66da326e0e@b38a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nTWEEDE HERZIENE CONVOCATIE\ntoevoeging agendapunten*\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  R. Bisschop (SGP)\n  I. (Inge) van Dijk (CDA)\n  S.R.T. van Baarle (DENK)\n  C. (Chris) Simons (VVD)\n  R.M. Leijten (SP)\n  K.B. Hagen (D66)\n  H.G.J. Bruins Slot (onbekend)\n  O.R. Ephraim (Groep Van Haga)\n  J.C. Sneller (D66)\n  M. (Martin) Bosma (PVV)\n\n\n
-DTEND:20230118T160000Z
-DTSTART:20230118T120000Z
-SUMMARY:Bestuurlijke organisatie\, democratie en verkiezingen
-UID:d287fbfe-a1d8-42e3-bc50-f75ea4fa3651@d287.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n3e HERZIENE CONVOCATIE\nAgendapunten met * toegevoegd.\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  H.G.J. Bruins Slot (onbekend)\n  P. van Houwelingen (FVD)\n  R.M. Leijten (SP)\n  K. Arib (PvdA)\n  S.J.F. van der Graaf (ChristenUnie)\n  Onbekend (onbekend)\n  H. Dekker-Abdulaziz (D66)\n  R. Bisschop (SGP)\n  I. (Inge) van Dijk (CDA)\n  M.F. Strolenberg (VVD)\n  Onbekend (onbekend)\n\n\n
-DTEND:20220407T140000Z
-DTSTART:20220407T110000Z
-SUMMARY:Financiën decentrale overheden en versterking lokaal bestuur
-UID:0aaff02d-c0ff-4601-8d6a-db4cedf96d27@0aaf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n4e HERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  F. Azarkan (DENK)\n  L. Bromet (GroenLinks)\n  vaste commissie voor Defensie (onbekend)\n  H.G.J. Bruins Slot (onbekend)\n  P. van Houwelingen (FVD)\n  H. Dekker-Abdulaziz (D66)\n  K. Arib (PvdA)\n  R.M. Leijten (SP)\n  K.B. Hagen (D66)\n  Q.M. Rajkowski (VVD)\n  M. (Martin) Bosma (PVV)\n\n\n
-DTEND:20220629T160000Z
-DTSTART:20220629T130000Z
-SUMMARY:IVD-aangelegenheden
-UID:43b4d688-db96-4414-9cfa-4531cd5c0a48@43b4.org
+UID:25a85b20-396b-4e8d-a750-7a623445c90d@25a8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (8):\n  J. Thijssen (PvdA)\n  E.M. van Esch (PvdD)\n  P.C. (Peter) de Groot (VVD)\n  P.A. Grinwis (ChristenUnie)\n  L. Bromet (GroenLinks)\n  F. Boulakjar (D66)\n  S.M. Beckerman (SP)\n  H.M. de Jonge (onbekend)\n\n\n
 DTEND:20220413T140000Z
 DTSTART:20220413T120000Z
 SUMMARY:Klimaatakkoord gebouwde omgeving (afronding 1e termijn en 2e termijn)
-UID:b0e30896-8017-4a2f-af9a-7d73f2123a5c@b0e3.org
+UID:99d5609e-b6d2-42a1-be2f-836f48024c50@99d5.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  D.A.N. Koerhuis (VVD)\n  P.A. Grinwis (ChristenUnie)\n  S.M. Beckerman (SP)\n  A. Kops (PVV)\n  H. Bontenbal (CDA)\n  L. Bromet (GroenLinks)\n  F. Boulakjar (D66)\n  K.H. Ollongren (onbekend)\n  M. (Martin) Bosma (PVV)\n  W.R. van Haga (Groep Van Haga)\n  E.M. van Esch (PvdD)\n\n\n
-DTEND:20211006T150000Z
-DTSTART:20211006T110000Z
-SUMMARY:Klimaatakkoord gebouwde omgeving
-UID:6e4d8d40-b038-4f42-9826-66a3220756a4@6e4d.org
+DESCRIPTION:Notitie:\n2e HERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  H. Dekker-Abdulaziz (D66)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  P. van Houwelingen (FVD)\n  E.A. Haverkort (VVD)\n  H.M. de Jonge (onbekend)\n  N.G.J. Temmink (SP)\n\n\n
+DTEND:20231024T180000Z
+DTSTART:20231024T143000Z
+SUMMARY:Versterking lokaal bestuur 
+UID:7cfa45c1-7f27-42d8-a5ad-b57f8fef5aa4@7cfa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nTWEEDE HERZIENE CONVOCATIE\n \ntoevoeging agendapunt*\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  P.H. Omtzigt (Omtzigt)\n  L. Bromet (GroenLinks)\n  H.G.J. Bruins Slot (onbekend)\n  R.M. Leijten (SP)\n  H. Dekker-Abdulaziz (D66)\n  K.B. Hagen (D66)\n  T.J. Bushoff (PvdA)\n  I. (Inge) van Dijk (CDA)\n  C. (Chris) Simons (VVD)\n\n\n
+DTEND:20230316T150000Z
+DTSTART:20230316T120000Z
+SUMMARY:Wet open overheid
+UID:0d794a86-2ca8-4d0d-a8f7-83d4af7e0a0a@0d79.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (5):\n  F. Boulakjar (D66)\n  H.M. de Jonge (onbekend)\n  P.C. (Peter) de Groot (VVD)\n  Onbekend (onbekend)\n  K.B. Hagen (D66)\n\n\n
 DTEND:20230510T143000Z
 DTSTART:20230510T110000Z
 SUMMARY:Rijksvastgoed en Renovatie Binnenhof
-UID:e19e7764-5cc0-4ea9-b412-3ef6ac989990@e19e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  D.A.N. Koerhuis (VVD)\n  F. Boulakjar (D66)\n  E.M. van Esch (PvdD)\n  J.L. Geurts (CDA)\n  Onbekend (onbekend)\n  L. Bromet (GroenLinks)\n  H. Nijboer (PvdA)\n  S.M. Beckerman (SP)\n  S.R.T. van Baarle (DENK)\n  P.A. Grinwis (ChristenUnie)\n  K.H. Ollongren (onbekend)\n\n\n
-DTEND:20210916T140000Z
-DTSTART:20210916T110000Z
-SUMMARY:Volkshuisvestelijke en ruimtelijk ordeningsaspecten 
-UID:185dee3b-252b-4a57-a936-4ba8ff4a62bf@185d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n*Nieuwe datum i.v.m. plenair debat op 30 maart 2022\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  I. (Inge) van Dijk (CDA)\n  F.M. Weerwind (onbekend)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  P.H. Omtzigt (Omtzigt)\n  R.M. Leijten (SP)\n  H.G.J. Bruins Slot (onbekend)\n  U. Ellian (VVD)\n  O.R. Ephraim (Groep Van Haga)\n  J.C. Sneller (D66)\n  K.B. Hagen (D66)\n\n\n
-DTEND:20220414T180000Z
-DTSTART:20220414T150000Z
-SUMMARY:Conceptopdracht Staatscommissie Rechtsstaat 
-UID:a3a9860b-052b-4da0-9b70-749f0204e1c9@a3a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\ntoevoeging agendapunten*\nSpreektijd 6 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  B. Madlener (PVV)\n  C. Stoffer (SGP)\n  H.M. de Jonge (onbekend)\n  Onbekend (onbekend)\n  H.E. de Hoop (GroenLinks-PvdA)\n  B.J. Eerdmans (JA21)\n  M.C.G. Keijzer (BBB)\n  J.M. Paternotte (D66)\n  R.M. Welzijn (NSC)\n  J.P. Dijk (SP)\n  P.C. (Peter) de Groot (VVD)\n\n\n
-DTEND:20240131T170000Z
-DTSTART:20240131T120000Z
-SUMMARY:Staat van de volkshuisvesting
-UID:f2df717e-e17c-4223-9e4c-7c6c578d33f4@f2df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n3e HERZIENE CONVOCATIE\nAgendapunt met * toegevoegd\nSpreektijd 6 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  F. Boulakjar (D66)\n  S.M. Beckerman (SP)\n  W.R. van Haga (Groep Van Haga)\n  J. Thijssen (PvdA)\n  L. Bromet (GroenLinks)\n  Onbekend (onbekend)\n  P.C. (Peter) de Groot (VVD)\n  E.M. van Esch (PvdD)\n  P.A. Grinwis (ChristenUnie)\n  K.B. Hagen (D66)\n  H.M. de Jonge (onbekend)\n  H. Bontenbal (CDA)\n  B.J. Eerdmans (JA21)\n  A. Kops (PVV)\n  F.J.H. Jansen (FVD)\n\n\n
-DTEND:20220406T150000Z
-DTSTART:20220406T110000Z
-SUMMARY:Klimaatakkoord gebouwde omgeving (het debat zal op een later moment worden voortgezet)
-UID:993b6c9f-bc00-4361-8e50-40ea4acc8831@993b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n2e Herziene convocatie i.v.m. toevoeging agendapunten*)\n\nHet is niet een besloten evenement\n\nAanwezigen (17):\n  M. (Martin) Bosma (PVV)\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n  I. (Inge) van Dijk (CDA)\n  D.G.M. Ceder (ChristenUnie)\n  G.F.C. van Meijeren (FVD)\n  S. Belhaj (D66)\n  M. Koekkoek (Volt)\n  S.R.T. van Baarle (DENK)\n  B.C. Kathmann (PvdA)\n  R.M. Leijten (SP)\n  S.H. Simons (BIJ1)\n  H.H. van der Woude (VVD)\n  K.H. Ollongren (onbekend)\n  N.L. den Haan (Fractie Den Haan)\n  E.M. Westerveld (GroenLinks)\n  E.M. van Esch (PvdD)\n  F.B.J. Grapperhaus (onbekend)\n\n\n
-DTEND:20210630T153000Z
-DTSTART:20210630T120000Z
-SUMMARY:Discriminatie en racisme
-UID:087885d9-a348-400d-807f-cb25073fa5c7@0878.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n4e HERZIENE CONVOCATIE\nagendapunten toegevoegd*\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  R.M. Leijten (SP)\n  P.A. Grinwis (ChristenUnie)\n  L. Bromet (GroenLinks)\n  P.C. (Peter) de Groot (VVD)\n  H. Bontenbal (CDA)\n  E.M. van Esch (PvdD)\n  Onbekend (onbekend)\n  F. Boulakjar (D66)\n  J. Thijssen (PvdA)\n  H.M. de Jonge (onbekend)\n  B.J. Eerdmans (JA21)\n  K.B. Hagen (D66)\n  W.R. van Haga (Groep Van Haga)\n\n\n
-DTEND:20220915T150000Z
-DTSTART:20220915T113000Z
-SUMMARY:Klimaatakkoord gebouwde omgeving
-UID:b33cf599-953d-4d23-9b0f-92c9274f3a8e@b33c.org
+UID:c3bff324-d59a-429b-afb3-58a43a51bc80@c3bf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (8):\n  R. Bisschop (SGP)\n  R.W. Knops (onbekend)\n  F. Boulakjar (D66)\n  R.M. Leijten (SP)\n  A. Kops (PVV)\n  B.C. Kathmann (PvdA)\n  I. (Inge) van Dijk (CDA)\n  M.F. Strolenberg (VVD)\n\n\n
 DTEND:20211110T120000Z
 DTSTART:20211110T090000Z
 SUMMARY:Renovatie Binnenhof
-UID:1b8607f8-6e42-4795-8826-ab277ff19d57@1b86.org
+UID:4c016270-bc77-49f4-8bc3-b8245e6894c4@4c01.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\n4e HERZIENE CONVOCATIE\nagendapunten toegevoegd*\nSpreektijd eerste termijn 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  E.M. van Esch (PvdD)\n  P.A. Grinwis (ChristenUnie)\n  H. Nijboer (PvdA)\n  J.L. Geurts (CDA)\n  H.M. de Jonge (onbekend)\n  F.B. Minhas (VVD)\n  K.B. Hagen (D66)\n  L. Bromet (GroenLinks)\n  S.M. Beckerman (SP)\n\n\n
-DTEND:20220914T160000Z
-DTSTART:20220914T120000Z
-SUMMARY:Ruimtelijke Ordening
-UID:ac668862-461d-468d-9e89-e35080048bf8@ac66.org
+DESCRIPTION:Notitie:\n6e HERZIENE CONVOCATIE\ntoevoeging volgcommissie en agendapunt*\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (6):\n  R.M. Leijten (SP)\n  K.B. Hagen (D66)\n  vaste commissie voor Financiën (onbekend)\n  J.C. Sneller (D66)\n  M.F. Strolenberg (VVD)\n  H.G.J. Bruins Slot (onbekend)\n\n\n
+DTEND:20220914T110000Z
+DTSTART:20220914T080000Z
+SUMMARY:Functioneren Rijksdienst
+UID:6f231ee5-ea3c-4be3-ae4f-09c96410b29b@6f23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n2e HERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (16):\n  F. Boulakjar (D66)\n  Onbekend (onbekend)\n  S.M. Beckerman (SP)\n  W.R. van Haga (Groep Van Haga)\n  P.C. (Peter) de Groot (VVD)\n  H.M. de Jonge (onbekend)\n  Onbekend (onbekend)\n  N.L. den Haan (Fractie Den Haan)\n  A. Kops (PVV)\n  I. (Inge) van Dijk (CDA)\n  H. Nijboer (PvdA)\n  Onbekend (onbekend)\n  B.J. Eerdmans (JA21)\n  Onbekend (onbekend)\n  R. Bisschop (SGP)\n  J.F. Klaver (GroenLinks)\n\n\n
+DTEND:20230523T183000Z
+DTSTART:20230523T143000Z
+SUMMARY:Staat van de volkshuisvesting 
+UID:fcb7bc90-858b-4910-ba93-e1ccdefa66ca@fcb7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging agendapunten*)\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  M. Koekkoek (Volt)\n  K.H. Ollongren (onbekend)\n  A.Th.B. Bijleveld-Schouten (onbekend)\n  Onbekend (onbekend)\n  D.G.M. Ceder (ChristenUnie)\n  R.M. Leijten (SP)\n  B.C. Kathmann (PvdA)\n  L. Bromet (GroenLinks)\n  Q.M. Rajkowski (VVD)\n  vaste commissie voor Defensie (onbekend)\n  M. (Martin) Bosma (PVV)\n  L.M. van Ginneken (D66)\n  Onbekend (onbekend)\n  S.R.T. van Baarle (DENK)\n\n\n
+DTEND:20210609T180000Z
+DTSTART:20210609T130000Z
+SUMMARY:IVD
+UID:2e987d24-1274-48ba-8e50-d51c9306223e@2e98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n \nHERZIENE AGENDA\nAgendapunt met * toegevoegd\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  B.J. Eerdmans (JA21)\n  S.R.T. van Baarle (DENK)\n  K. Arib (PvdA)\n  M. (Martin) Bosma (PVV)\n  H.G.J. Bruins Slot (onbekend)\n  I. (Inge) van Dijk (CDA)\n  G.F.C. van Meijeren (FVD)\n  D.G.M. Ceder (ChristenUnie)\n  H. Dekker-Abdulaziz (D66)\n  M.F. Strolenberg (VVD)\n  R. Bisschop (SGP)\n  L. Bromet (GroenLinks)\n  P.H. Omtzigt (Omtzigt)\n  R.M. Leijten (SP)\n\n\n
+DTEND:20220126T160000Z
+DTSTART:20220126T130000Z
+SUMMARY:Commissiedebat op hoofdlijnen met de nieuwe minister van Binnenlandse Zaken en Koninkrijksrelaties over de maatregelen in het coalitieakkoord op het terrein van Binnenlandse Zaken
+UID:ce3f0028-2b75-4b66-a32a-1cf0e9d20bd2@ce3f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. wijziging aanvangstijd *)\n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  H. Nijboer (PvdA)\n  F. Boulakjar (D66)\n  L. Bromet (GroenLinks)\n  M. (Martin) Bosma (PVV)\n  S.M. Beckerman (SP)\n  K.H. Ollongren (onbekend)\n  D.A.N. Koerhuis (VVD)\n\n\n
 DTEND:20211111T163000Z
 DTSTART:20211111T140000Z
 SUMMARY:Bouwregelgeving (het commissiedebat vangt een uur later aan ivm verlaat zijn van de minister)
-UID:00f812b1-bfb4-4dbc-b8ba-d1213d087c2b@00f8.org
+UID:47bffe6a-ad0d-4f8d-9d48-b8610afce460@47bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n3e HERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (6):\n  S.T.P.H. Palmen (NSC)\n  G. Chakor (GroenLinks-PvdA)\n  H.M. de Jonge (onbekend)\n  A.J. Flach (SGP)\n  S.P.A. Erkens (VVD)\n  M. Deen (PVV)\n\n\n
+DTEND:20240418T143000Z
+DTSTART:20240418T110000Z
+SUMMARY:Verkiezingen
+UID:f9115daa-4196-4991-9a8a-657e35b1da96@f911.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  J.C. Sneller (D66)\n  H.G.J. Bruins Slot (onbekend)\n  P.H. Omtzigt (Omtzigt)\n  S.J.F. van der Graaf (ChristenUnie)\n  T.M.T. van der Lee (GroenLinks)\n  F.M. Weerwind (onbekend)\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n  T.J. Bushoff (PvdA)\n  Onbekend (onbekend)\n  I. (Inge) van Dijk (CDA)\n  Onbekend (onbekend)\n  U. Ellian (VVD)\n  Onbekend (onbekend)\n  S.R.T. van Baarle (DENK)\n  Onbekend (onbekend)\n\n\n
+DTEND:20230419T201500Z
+DTSTART:20230419T171500Z
+SUMMARY:Constitutionele toetsing 
+UID:675df4d9-eb1b-490e-9005-1381a8637491@675d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n2e HERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  vaste commissie voor Digitale Zaken (onbekend)\n  J.J. Klink (VVD)\n  H. Dekker-Abdulaziz (D66)\n  Onbekend (onbekend)\n  R.M. Leijten (SP)\n  Onbekend (onbekend)\n  A.C. van Huffelen (onbekend)\n  Q.M. Rajkowski (VVD)\n  Onbekend (onbekend)\n\n\n
+DTEND:20221116T160000Z
+DTSTART:20221116T130000Z
+SUMMARY:Basisregistratie Personen en Elektronische identificatie en authenticatie (eID) 
+UID:a185daa6-879a-4e80-bff8-d0b18cca7d70@a185.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n5e HERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 5 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  T.H.P. Baudet (FVD)\n  vaste commissie voor Defensie (onbekend)\n  K.H. Ollongren (onbekend)\n  R. Bisschop (SGP)\n  K.B. Hagen (D66)\n  Q.M. Rajkowski (VVD)\n  A.R. Hammelburg (D66)\n  M. (Martin) Bosma (PVV)\n  S.R.T. van Baarle (DENK)\n  H.G.J. Bruins Slot (onbekend)\n  E.J. Slootweg (CDA)\n  R.M. Leijten (SP)\n  Onbekend (onbekend)\n\n\n
+DTEND:20230621T160000Z
+DTSTART:20230621T120000Z
+SUMMARY:IVD-aangelegenheden 
+UID:a2792c76-ffcd-4251-b91f-c310f4740e3a@a279.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  Onbekend (onbekend)\n  N.L. den Haan (Fractie Den Haan)\n  P.A. Grinwis (ChristenUnie)\n  S.M. Beckerman (SP)\n  W.R. van Haga (Groep Van Haga)\n  F. Boulakjar (D66)\n  J.F. Klaver (GroenLinks)\n  A. Kops (PVV)\n  P.C. (Peter) de Groot (VVD)\n  J.L. Geurts (CDA)\n  H.M. de Jonge (onbekend)\n  H. Nijboer (PvdA)\n\n\n
+DTEND:20220630T150000Z
+DTSTART:20220630T113000Z
+SUMMARY:Staat van de volkshuisvesting
+UID:17f808cf-fd4a-42cc-92bd-704fd99134b8@17f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n4e HERZIENE CONVOCATIE\nagendapunten toegevoegd\, verlenging commissiedebat met 1 uur en uitbreiding spreektijd*\nSpreektijd 6 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  K.B. Hagen (D66)\n  S.M. Beckerman (SP)\n  H. Nijboer (PvdA)\n  F. Boulakjar (D66)\n  A. Kops (PVV)\n  P.A. Grinwis (ChristenUnie)\n  H.M. de Jonge (onbekend)\n  R. Bisschop (SGP)\n  J.L. Geurts (CDA)\n  P.C. (Peter) de Groot (VVD)\n  W.R. van Haga (Groep Van Haga)\n  S.R.T. van Baarle (DENK)\n  N.J.F. Pouw-Verweij (JA21)\n\n\n
+DTEND:20220929T160000Z
+DTSTART:20220929T110000Z
+SUMMARY:Wonen
+UID:f317440d-a281-4ea3-9256-0f050b20a55f@f317.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n4e HERZIENE CONVOCATIE\ntoevoeging agendapunten*\nSpreektijd 5 minuten per fractie.\n \n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  H. Dekker-Abdulaziz (D66)\n  Z. El Yassini (VVD)\n  S. Mutluer (PvdA)\n  E.M. Westerveld (GroenLinks)\n  S.H. (Sylvana) Simons (BIJ1)\n  H.G.J. Bruins Slot (onbekend)\n  S.R.T. van Baarle (DENK)\n  K.B. Hagen (D66)\n\n\n
+DTEND:20230126T170000Z
+DTSTART:20230126T130000Z
+SUMMARY:Discriminatie\, racisme en mensenrechten
+UID:6c14c79f-62b0-434c-b812-6b812b5cae76@6c14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\ni.v.m. aanpassing tijdstip en verlenging spreektijd\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  R. Bisschop (SGP)\n  J.C.M. (Hans) Teunissen (D66)\n  E.A. Haverkort (VVD)\n  T.J. Bushoff (PvdA)\n  N.G.J. Temmink (SP)\n  H.M. de Jonge (onbekend)\n  D.J.G. Graus (PVV)\n  M. Koekkoek (Volt)\n  R.J. Kamminga (VVD)\n  H.M. Krul (CDA)\n  C.A.M. van der Plas (BBB)\n  S.J.F. van der Graaf (ChristenUnie)\n\n\n
+DTEND:20231025T200000Z
+DTSTART:20231025T160000Z
+SUMMARY:Adviesrapport 'Elke regio telt!'
+UID:27989e79-0221-40f5-830d-0a7dd4d6561a@2798.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n5e HERZIENE CONVOCATIE\nSamengevoegd met het commissiedebat Staat van de Volkshuisvesting (oorspronkelijk 31 maart 2022) en verlengd met een half uur*\nSpreektijd 6 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (18):\n  R. Bisschop (SGP)\n  J.L. Geurts (CDA)\n  A. Kops (PVV)\n  H. Nijboer (PvdA)\n  S.M. Beckerman (SP)\n  J.F. Klaver (GroenLinks)\n  Onbekend (onbekend)\n  M. Goudzwaard (JA21)\n  F. Boulakjar (D66)\n  P.C. (Peter) de Groot (VVD)\n  P.A. Grinwis (ChristenUnie)\n  H.M. de Jonge (onbekend)\n  F. Azarkan (DENK)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  W.R. van Haga (Groep Van Haga)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n\n\n
+DTEND:20220412T193000Z
+DTSTART:20220412T150000Z
+SUMMARY:Woningbouwopgave/ Staat van de volkshuisvesting
+UID:1ad85a0d-26a2-4984-ad08-6ff89ec5edc6@1ad8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n4e HERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 5 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  E.M. van Esch (PvdD)\n  P.C. (Peter) de Groot (VVD)\n  H.M. de Jonge (onbekend)\n  E.A. Haverkort (VVD)\n  Onbekend (onbekend)\n  F. Boulakjar (D66)\n  J. Thijssen (PvdA)\n  Onbekend (onbekend)\n\n\n
+DTEND:20231005T160000Z
+DTSTART:20231005T120000Z
+SUMMARY:Klimaatakkoord gebouwde omgeving
+UID:a97f7719-112f-44a0-a067-d70b40c7c8d0@a97f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (5):\n  H.G.J. Bruins Slot (onbekend)\n  I. (Inge) van Dijk (CDA)\n  E.A. Haverkort (VVD)\n  H. Dekker-Abdulaziz (D66)\n  L. Bromet (GroenLinks)\n\n\n
+DTEND:20220622T160000Z
+DTSTART:20220622T130000Z
+SUMMARY:Regiodeals
+UID:e531d66c-4d71-46b8-bf3e-7fe4e84e80aa@e531.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE AGENDA\nAgendapunt met * toegevoegd\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (17):\n  P.C. (Peter) de Groot (VVD)\n  H. Nijboer (PvdA)\n  S.R.T. van Baarle (DENK)\n  M. (Martin) Bosma (PVV)\n  P.A. Grinwis (ChristenUnie)\n  A. Kops (PVV)\n  S.H. Simons (BIJ1)\n  N.L. den Haan (Fractie Den Haan)\n  L. Bromet (GroenLinks)\n  F.B. Minhas (VVD)\n  C.A.M. van der Plas (BBB)\n  J.L. Geurts (CDA)\n  H.M. de Jonge (onbekend)\n  R. Bisschop (SGP)\n  S.M. Beckerman (SP)\n  F. Boulakjar (D66)\n  E.M. van Esch (PvdD)\n\n\n
+DTEND:20220127T160000Z
+DTSTART:20220127T130000Z
+SUMMARY:Commissiedebat op hoofdlijnen met de nieuwe minister voor Volkshuisvesting en Ruimtelijke Ordening over de maatregelen in het coalitieakkoord op het terrein van Volkshuisvesting en Ruimtelijke Ordening
+UID:a301090f-7dad-4309-8f2d-4836003491fc@a301.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n4e Herziene convocatie i.v.m. verlenging van het debat met 1 uur*)\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  F.J.H. Jansen (FVD)\n  B.J. Eerdmans (JA21)\n  vaste commissie voor Economische Zaken en Klimaat (onbekend)\n  C. Teunissen (PvdD)\n  M. (Martin) Bosma (PVV)\n  E.M. van Esch (PvdD)\n  vaste commissie voor Europese Zaken (onbekend)\n  K.H. Ollongren (onbekend)\n\n\n
+DTEND:20210422T160000Z
+DTSTART:20210422T110000Z
+SUMMARY:Klimaatakkoord gebouwde omgeving
+UID:60a7317e-042c-4cef-86c5-9a768394b04c@60a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n3e HERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  J.J. Klink (VVD)\n  S.R.T. van Baarle (DENK)\n  R.M. Leijten (SP)\n  T.J. Bushoff (PvdA)\n  P. van Houwelingen (FVD)\n  L.A.J.M. Dassen (Volt)\n  P.H. Omtzigt (Omtzigt)\n  M. (Martin) Bosma (PVV)\n  H.G.J. Bruins Slot (onbekend)\n  Onbekend (onbekend)\n  J.C. Sneller (D66)\n  Onbekend (onbekend)\n  C. (Chris) Simons (VVD)\n\n\n
+DTEND:20230509T183000Z
+DTSTART:20230509T143000Z
+SUMMARY:Integriteit openbaar bestuur 
+UID:ad1faf91-578f-41a9-b026-7ba68423fa52@ad1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n2e HERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  W.J.H. Meulenkamp (VVD)\n  Onbekend (onbekend)\n  G. Chakor (GroenLinks-PvdA)\n  M. Koekkoek (Volt)\n  S.T.P.H. Palmen (NSC)\n  J.C. Sneller (D66)\n  A.C. van Huffelen (onbekend)\n\n\n
+DTEND:20240215T180000Z
+DTSTART:20240215T143000Z
+SUMMARY:Wet open overheid
+UID:4de53d75-2579-4739-9761-c3a1756389ab@4de5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE AGENDA\nAgendapunten met * toegevoegd.\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  vaste commissie voor Europese Zaken (onbekend)\n  L.A.J.M. Dassen (Volt)\n  M.F. Strolenberg (VVD)\n  C.A.M. van der Plas (BBB)\n  S.C. Kröger (GroenLinks)\n  R.M. Leijten (SP)\n  K.B. Hagen (D66)\n  H.G.J. Bruins Slot (onbekend)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  M. (Martin) Bosma (PVV)\n\n\n
+DTEND:20220210T160000Z
+DTSTART:20220210T130000Z
+SUMMARY:EU voorstellen ter versterking van democratie en integriteit van verkiezingen
+UID:883b5b0b-a126-49e5-9999-234c58c27ddb@883b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n3e HERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 5 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  P.C. (Peter) de Groot (VVD)\n  E.C. Vedder (CDA)\n  H.M. de Jonge (onbekend)\n  P.A. Grinwis (ChristenUnie)\n  B. Madlener (PVV)\n  H.E. de Hoop (GroenLinks-PvdA)\n  A.J. Flach (SGP)\n  S.M. Beckerman (SP)\n  M.C.G. Keijzer (BBB)\n  J.M. Paternotte (D66)\n  R.M. Welzijn (NSC)\n\n\n
+DTEND:20240321T160000Z
+DTSTART:20240321T120000Z
+SUMMARY:Woningbouwopgave en koopsector (wordt voortgezet op 4 april 2024)
+UID:cd32d292-010b-49eb-a8df-61331fee37dd@cd32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  L. Bromet (GroenLinks)\n  P.E. (Pieter) Heerma (CDA)\n  D.A.N. Koerhuis (VVD)\n  H.E. de Hoop (PvdA)\n  S.M. Beckerman (SP)\n  S.R.T. van Baarle (DENK)\n  A. Kops (PVV)\n  Onbekend (onbekend)\n  K.H. Ollongren (onbekend)\n  F. Boulakjar (D66)\n  P.A. Grinwis (ChristenUnie)\n\n\n
+DTEND:20210603T153000Z
+DTSTART:20210603T113000Z
+SUMMARY:Wonen en Corona
+UID:6efc8964-5de5-4c32-a8e5-965df9d4fc46@6efc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd 5 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (3):\n  vaste commissie voor Defensie (onbekend)\n  K.H. Ollongren (onbekend)\n  H.M. de Jonge (onbekend)\n\n\n
+DTEND:20241023T153000Z
+DTSTART:20241023T113000Z
+SUMMARY:Hoofdlijnennotitie herziening Wiv 2017
+UID:d6dde53d-c9de-4938-a7e8-620d0cf4fa8c@d6dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n2e HERZIENE CONVOCATIE\ninkorting commissiedebat*\nSpreektijd 3 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  G. Chakor (GroenLinks-PvdA)\n  J.C. Sneller (D66)\n  S.P.A. Erkens (VVD)\n  M. Deen (PVV)\n  M. Koekkoek (Volt)\n  Onbekend (onbekend)\n  S.T.P.H. Palmen (NSC)\n  H.M. de Jonge (onbekend)\n\n\n
+DTEND:20240403T163000Z
+DTSTART:20240403T143000Z
+SUMMARY:EU-voorstellen inzake het Pakket ter verdediging van de democratie
+UID:3fa3ae9d-2e7d-47e5-80b2-f3fbcda0ca2b@3fa3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  P.A. Grinwis (ChristenUnie)\n  H.M. de Jonge (onbekend)\n  P.C. (Peter) de Groot (VVD)\n  J.J. Klink (VVD)\n  F. Boulakjar (D66)\n  N.L. den Haan (Fractie Den Haan)\n  J.L. Geurts (CDA)\n  Onbekend (onbekend)\n  S.M. Beckerman (SP)\n  J.F. Klaver (GroenLinks)\n  E.M. van Esch (PvdD)\n  F. Azarkan (DENK)\n  H. Nijboer (PvdA)\n  R. Bisschop (SGP)\n\n\n
+DTEND:20220216T173000Z
+DTSTART:20220216T140000Z
+SUMMARY:Staat van de woningmarkt
+UID:062719a5-b42e-40c0-8ef7-6fc211643249@0627.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  L. Bromet (GroenLinks)\n  J.J. Klink (VVD)\n  F. Boulakjar (D66)\n  S.M. Beckerman (SP)\n  P.C. (Peter) de Groot (VVD)\n  H.M. de Jonge (onbekend)\n  W.R. van Haga (Groep Van Haga)\n  I. (Inge) van Dijk (CDA)\n  Onbekend (onbekend)\n\n\n
+DTEND:20230608T180000Z
+DTSTART:20230608T143000Z
+SUMMARY:Bouwregelgeving 
+UID:eea73ccd-cf1f-46dc-9879-c1c1282cc464@eea7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n*Nieuwe datum i.v.m. plenair debat op 30 maart 2022\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  I. (Inge) van Dijk (CDA)\n  F.M. Weerwind (onbekend)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  P.H. Omtzigt (Omtzigt)\n  R.M. Leijten (SP)\n  H.G.J. Bruins Slot (onbekend)\n  U. Ellian (VVD)\n  O.R. Ephraim (Groep Van Haga)\n  J.C. Sneller (D66)\n  K.B. Hagen (D66)\n\n\n
+DTEND:20220414T180000Z
+DTSTART:20220414T150000Z
+SUMMARY:Conceptopdracht Staatscommissie Rechtsstaat 
+UID:ac1c0fcc-102b-4814-a7f9-be7fb038366c@ac1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n6e HERZIENE CONVOCATIE\nwijziging tijd i.v.m. plenaire overlap*\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  H.M. de Jonge (onbekend)\n  N.L. den Haan (Fractie Den Haan)\n  P.C. (Peter) de Groot (VVD)\n  K.B. Hagen (D66)\n  W.R. van Haga (Groep Van Haga)\n  H. Nijboer (PvdA)\n  N.J.F. Pouw-Verweij (JA21)\n  L. Bromet (GroenLinks)\n  S.M. Beckerman (SP)\n  J.L. Geurts (CDA)\n  F. Boulakjar (D66)\n  P.A. Grinwis (ChristenUnie)\n\n\n
+DTEND:20230209T140000Z
+DTSTART:20230209T100000Z
+SUMMARY:Woningbouwopgave en koopsector
+UID:c9f861ed-64b5-428b-8dd8-97c8212035e3@c9f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  D.A.N. Koerhuis (VVD)\n  F. Boulakjar (D66)\n  E.M. van Esch (PvdD)\n  J.L. Geurts (CDA)\n  Onbekend (onbekend)\n  L. Bromet (GroenLinks)\n  H. Nijboer (PvdA)\n  S.M. Beckerman (SP)\n  S.R.T. van Baarle (DENK)\n  P.A. Grinwis (ChristenUnie)\n  K.H. Ollongren (onbekend)\n\n\n
+DTEND:20210916T140000Z
+DTSTART:20210916T110000Z
+SUMMARY:Volkshuisvestelijke en ruimtelijk ordeningsaspecten 
+UID:8094321b-645e-487d-87ac-fadc5b283a01@8094.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n4e HERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  F. Azarkan (DENK)\n  L. Bromet (GroenLinks)\n  vaste commissie voor Defensie (onbekend)\n  H.G.J. Bruins Slot (onbekend)\n  P. van Houwelingen (FVD)\n  H. Dekker-Abdulaziz (D66)\n  K. Arib (PvdA)\n  R.M. Leijten (SP)\n  K.B. Hagen (D66)\n  Q.M. Rajkowski (VVD)\n  M. (Martin) Bosma (PVV)\n\n\n
+DTEND:20220629T160000Z
+DTSTART:20220629T130000Z
+SUMMARY:IVD-aangelegenheden
+UID:5ad15936-4d27-47ce-a2cb-d163a008a89e@5ad1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  I. (Inge) van Dijk (CDA)\n  P.H. Omtzigt (Omtzigt)\n  M.F. Strolenberg (VVD)\n  H.G.J. Bruins Slot (onbekend)\n  S.R.T. van Baarle (DENK)\n  K. Arib (PvdA)\n  J.C. Sneller (D66)\n  Onbekend (onbekend)\n  R.M. Leijten (SP)\n\n\n
+DTEND:20220310T150000Z
+DTSTART:20220310T120000Z
+SUMMARY:Integriteit openbaar bestuur
+UID:41defbdb-c7f3-498d-b6ac-0867b0a907e1@41de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nDERDE HERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  R.M. Leijten (SP)\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (onbekend)\n  M. (Martin) Bosma (PVV)\n  S.R.T. van Baarle (DENK)\n  K.B. Hagen (D66)\n  I. (Inge) van Dijk (CDA)\n  T.J. Bushoff (PvdA)\n  C. (Chris) Simons (VVD)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  J.C. Sneller (D66)\n  H.G.J. Bruins Slot (onbekend)\n  P. van Houwelingen (FVD)\n\n\n
+DTEND:20230608T140000Z
+DTSTART:20230608T110000Z
+SUMMARY:Functioneren Rijksdienst
+UID:c9bb8323-c0a7-406e-99b9-10e92ed270e5@c9bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd 5 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  M.C.G. Keijzer (BBB)\n  J.C. Sneller (D66)\n  L. Bromet (GroenLinks-PvdA)\n  W.J.H. Meulenkamp (VVD)\n  Onbekend (onbekend)\n  M. Deen (PVV)\n  M. Koekkoek (Volt)\n  H.M. de Jonge (onbekend)\n  I. (Inge) van Dijk (CDA)\n  S.T.P.H. Palmen (NSC)\n  Onbekend (onbekend)\n\n\n
+DTEND:20240313T170000Z
+DTSTART:20240313T130000Z
+SUMMARY:Bestuurlijke organisatie en democratie
+UID:6cfcb7da-af95-4714-876c-e2140b076561@6cfc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (11):\n  D.A.N. Koerhuis (VVD)\n  P.A. Grinwis (ChristenUnie)\n  S.M. Beckerman (SP)\n  A. Kops (PVV)\n  H. Bontenbal (CDA)\n  L. Bromet (GroenLinks)\n  F. Boulakjar (D66)\n  K.H. Ollongren (onbekend)\n  M. (Martin) Bosma (PVV)\n  W.R. van Haga (Groep Van Haga)\n  E.M. van Esch (PvdD)\n\n\n
+DTEND:20211006T150000Z
+DTSTART:20211006T110000Z
+SUMMARY:Klimaatakkoord gebouwde omgeving
+UID:4807f51c-e7be-4006-84f7-086d716951b4@4807.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n4e HERZIENE CONVOCATIE\nagendapunten toegevoegd*\nSpreektijd eerste termijn 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  E.M. van Esch (PvdD)\n  P.A. Grinwis (ChristenUnie)\n  H. Nijboer (PvdA)\n  J.L. Geurts (CDA)\n  H.M. de Jonge (onbekend)\n  F.B. Minhas (VVD)\n  K.B. Hagen (D66)\n  L. Bromet (GroenLinks)\n  S.M. Beckerman (SP)\n\n\n
+DTEND:20220914T160000Z
+DTSTART:20220914T120000Z
+SUMMARY:Ruimtelijke Ordening
+UID:aeacfe5e-d5c7-4734-8b3f-c01c1927feaf@aeac.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nSpreektijd 5 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  H.M. de Jonge (onbekend)\n  R.M. Welzijn (NSC)\n  P.C. (Peter) de Groot (VVD)\n  H.E. de Hoop (GroenLinks-PvdA)\n  Onbekend (onbekend)\n  A.J. Flach (SGP)\n  P.A. Grinwis (ChristenUnie)\n  Onbekend (onbekend)\n  J.M. Paternotte (D66)\n  B. Madlener (PVV)\n  S.M. Beckerman (SP)\n  Onbekend (onbekend)\n\n\n
 DTEND:20240404T173000Z
 DTSTART:20240404T160000Z
 SUMMARY:Voortzetting commissiedebat Woningbouwopgave en koopsector d.d. 21 maart 2024
-UID:e0f7ad2a-22b5-4fcb-82e1-484693f6d8f4@e0f7.org
+UID:1c612a62-4d39-4ede-a89e-bb57fc732c41@1c61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n5e HERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  P.H. Omtzigt (Omtzigt)\n  R.M. Leijten (SP)\n  C. (Chris) Simons (VVD)\n  G. Uslu (onbekend)\n  Onbekend (onbekend)\n  H.G.J. Bruins Slot (onbekend)\n  E.J. Slootweg (CDA)\n  H. Dekker-Abdulaziz (D66)\n  T.J. Bushoff (PvdA)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n\n\n
+DTEND:20230524T154500Z
+DTSTART:20230524T121500Z
+SUMMARY:Archivering van stukken door bewindspersonen onder de archiefwet en de Woo/Wob 
+UID:7bd57461-1f02-4d2f-9f45-f1444ef446e4@7bd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n3e HERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  Onbekend (onbekend)\n  M. Koekkoek (Volt)\n  A.J. Flach (SGP)\n  R.J. Kamminga (VVD)\n  F.A. Zeedijk (NSC)\n  P.C. (Peter) de Groot (VVD)\n  I. (Inge) van Dijk (CDA)\n  H.M. de Jonge (onbekend)\n  G. Chakor (GroenLinks-PvdA)\n\n\n
+DTEND:20240516T160000Z
+DTSTART:20240516T123000Z
+SUMMARY:Regio's en grensoverschrijdende samenwerking 
+UID:9e2e8975-4b73-44d3-925b-d1dc3c8152d4@9e2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  H.M. de Jonge (onbekend)\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n\n\n
+DTEND:20240924T173000Z
+DTSTART:20240924T143000Z
+SUMMARY:Constitutionele toetsing 
+UID:470009fd-cbd2-4c34-90cc-d19eaff4a69f@4700.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (1):\n  H.M. de Jonge (onbekend)\n\n\n
+DTEND:20241002T143000Z
+DTSTART:20241002T110000Z
+SUMMARY:Ruimtelijke ordening
+UID:789da3ba-642e-49e1-a742-530f44d2f243@789d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n3e HERZIENE CONVOCATIE\nAgendapunt met * toegevoegd\nSpreektijd 6 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  F. Boulakjar (D66)\n  S.M. Beckerman (SP)\n  W.R. van Haga (Groep Van Haga)\n  J. Thijssen (PvdA)\n  L. Bromet (GroenLinks)\n  Onbekend (onbekend)\n  P.C. (Peter) de Groot (VVD)\n  E.M. van Esch (PvdD)\n  P.A. Grinwis (ChristenUnie)\n  K.B. Hagen (D66)\n  H.M. de Jonge (onbekend)\n  H. Bontenbal (CDA)\n  B.J. Eerdmans (JA21)\n  A. Kops (PVV)\n  F.J.H. Jansen (FVD)\n\n\n
+DTEND:20220406T150000Z
+DTSTART:20220406T110000Z
+SUMMARY:Klimaatakkoord gebouwde omgeving (het debat zal op een later moment worden voortgezet)
+UID:d7c8011a-b860-4334-bb05-0d279f11b778@d7c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n5e HERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  C.A.M. van der Plas (BBB)\n  H.M. de Jonge (onbekend)\n  R. Bisschop (SGP)\n  Onbekend (onbekend)\n  J.C. Sneller (D66)\n  N.G.J. Temmink (SP)\n  C. (Chris) Simons (VVD)\n  K. Bouchallikh (GroenLinks)\n  E.A. Haverkort (VVD)\n  Onbekend (onbekend)\n\n\n
+DTEND:20230928T160000Z
+DTSTART:20230928T123000Z
+SUMMARY:Verkiezingen
+UID:a63cb8b6-2cef-460a-b152-2f9a18974941@a63c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\ntoevoeging agendapunten*\nSpreektijd 6 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  B. Madlener (PVV)\n  C. Stoffer (SGP)\n  H.M. de Jonge (onbekend)\n  Onbekend (onbekend)\n  H.E. de Hoop (GroenLinks-PvdA)\n  B.J. Eerdmans (JA21)\n  M.C.G. Keijzer (BBB)\n  J.M. Paternotte (D66)\n  R.M. Welzijn (NSC)\n  J.P. Dijk (SP)\n  P.C. (Peter) de Groot (VVD)\n\n\n
+DTEND:20240131T170000Z
+DTSTART:20240131T120000Z
+SUMMARY:Staat van de volkshuisvesting
+UID:84e2fd97-e3ff-44bf-83af-6ecf76bb382b@84e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n4e HERZIENE CONVOCATIE\nagendapunten toegevoegd*\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  R.M. Leijten (SP)\n  P.A. Grinwis (ChristenUnie)\n  L. Bromet (GroenLinks)\n  P.C. (Peter) de Groot (VVD)\n  H. Bontenbal (CDA)\n  E.M. van Esch (PvdD)\n  Onbekend (onbekend)\n  F. Boulakjar (D66)\n  J. Thijssen (PvdA)\n  H.M. de Jonge (onbekend)\n  B.J. Eerdmans (JA21)\n  K.B. Hagen (D66)\n  W.R. van Haga (Groep Van Haga)\n\n\n
+DTEND:20220915T150000Z
+DTSTART:20220915T113000Z
+SUMMARY:Klimaatakkoord gebouwde omgeving
+UID:76e0fe92-9271-4921-a632-c8dd0d5dd1df@76e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n \n** Nieuwe datum i.v.m. overlap plenair debat op 8 maart 2022\nHERZIENE CONVOCATIE\nAgendapunt met * toegevoegd\n \nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  F. Boulakjar (D66)\n  L. Bromet (GroenLinks)\n  Onbekend (onbekend)\n  F.B. Minhas (VVD)\n  M. Amhaouch (CDA)\n  S.M. Beckerman (SP)\n  M. Goudzwaard (JA21)\n  H.M. de Jonge (onbekend)\n  E.M. van Esch (PvdD)\n  Onbekend (onbekend)\n  J.L. Geurts (CDA)\n  J.J. Klink (VVD)\n\n\n
+DTEND:20220315T183000Z
+DTSTART:20220315T153000Z
+SUMMARY:Omgevingswet
+UID:0dee02d5-6c3f-4995-b77f-316436b24f36@0dee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n** Nieuwe datum i.v.m. plenair debat op 15 februari 2022\nSpreektijd 5 minuten per fractie\n*Tijdens de procedurevergadering van 27 januari 2022 is besloten de ongeplande commissiedebatten Rechtspositie ambtsdragers en Wet gemeenschappelijke regelingen samen te voegen met het commissiedebat Bestuurlijke organisatie en democratie.\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  Onbekend (onbekend)\n  I. (Inge) van Dijk (CDA)\n  J.C. Sneller (D66)\n  Onbekend (onbekend)\n  R.M. Leijten (SP)\n  K.B. Hagen (D66)\n  M.F. Strolenberg (VVD)\n  H.G.J. Bruins Slot (onbekend)\n\n\n
+DTEND:20220223T200000Z
+DTSTART:20220223T163000Z
+SUMMARY:Bestuurlijke organisatie en democratie 
+UID:4ca1ff92-3bcc-4e40-a51c-6be260e4bd08@4ca1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging agendapunt *)\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  N.L. den Haan (Fractie Den Haan)\n  H. Nijboer (PvdA)\n  S.R.T. van Baarle (DENK)\n  M. (Martin) Bosma (PVV)\n  D.A.N. Koerhuis (VVD)\n  B.J. Eerdmans (JA21)\n  L. Bromet (GroenLinks)\n  E.M. van Esch (PvdD)\n  K.H. Ollongren (onbekend)\n  S.M. Beckerman (SP)\n  F. Boulakjar (D66)\n  R. Bisschop (SGP)\n  A. Kops (PVV)\n  Onbekend (onbekend)\n\n\n
+DTEND:20210624T163000Z
+DTSTART:20210624T130000Z
+SUMMARY:Woningbouwopgave
+UID:77d774b2-46f2-41ab-8ac4-058c8bdc082f@77d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n2e HERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (18):\n  vaste commissie voor Infrastructuur en Waterstaat (onbekend)\n  A. Kops (PVV)\n  R. Bisschop (SGP)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  K.B. Hagen (D66)\n  P.A. Grinwis (ChristenUnie)\n  S.M. Beckerman (SP)\n  Onbekend (onbekend)\n  J. Thijssen (PvdA)\n  vaste commissie voor Landbouw\, Natuur en Voedselkwaliteit (onbekend)\n  E.M. van Esch (PvdD)\n  F. Boulakjar (D66)\n  L. Bromet (GroenLinks)\n  H.M. de Jonge (onbekend)\n  J.L. Geurts (CDA)\n  Onbekend (onbekend)\n  P.C. (Peter) de Groot (VVD)\n\n\n
+DTEND:20230322T160000Z
+DTSTART:20230322T120000Z
+SUMMARY:Klimaatakkoord gebouwde omgeving
+UID:f13d63a2-7940-407d-9d68-2ba9802930ce@f13d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n2e HERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 5 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  I. (Inge) van Dijk (CDA)\n  W.R. van Haga (Groep Van Haga)\n  K.B. Hagen (D66)\n  S.M. Beckerman (SP)\n  H. Nijboer (PvdA)\n  P.C. (Peter) de Groot (VVD)\n  H.M. de Jonge (onbekend)\n  F. Boulakjar (D66)\n  P.A. Grinwis (ChristenUnie)\n\n\n
+DTEND:20230705T160000Z
+DTSTART:20230705T120000Z
+SUMMARY:Woningbouwopgave en koopsector 
+UID:05e6cd4f-8ab8-4753-b2a1-bb4067745864@05e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n3e HERZIENE CONVOCATIE\nAgendapunten met * toegevoegd.\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  H.G.J. Bruins Slot (onbekend)\n  P. van Houwelingen (FVD)\n  R.M. Leijten (SP)\n  K. Arib (PvdA)\n  S.J.F. van der Graaf (ChristenUnie)\n  Onbekend (onbekend)\n  H. Dekker-Abdulaziz (D66)\n  R. Bisschop (SGP)\n  I. (Inge) van Dijk (CDA)\n  M.F. Strolenberg (VVD)\n  Onbekend (onbekend)\n\n\n
+DTEND:20220407T140000Z
+DTSTART:20220407T110000Z
+SUMMARY:Financiën decentrale overheden en versterking lokaal bestuur
+UID:8343ab76-ac8f-41c2-9fb1-bb118bbccdf1@8343.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n4e HERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 5 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  S.M. Beckerman (SP)\n  H. Nijboer (PvdA)\n  P.A. Grinwis (ChristenUnie)\n  W.R. van Haga (Groep Van Haga)\n  P.C. (Peter) de Groot (VVD)\n  K.B. Hagen (D66)\n  F. Boulakjar (D66)\n  T.H.P. Baudet (FVD)\n  Onbekend (onbekend)\n  H.M. de Jonge (onbekend)\n\n\n
+DTEND:20230927T170000Z
+DTSTART:20230927T130000Z
+SUMMARY:Staat van de volkshuisvesting
+UID:020d5a85-ca63-4f76-819e-0849ed9100e4@020d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 5 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  Onbekend (onbekend)\n  P.A. Grinwis (ChristenUnie)\n  Onbekend (onbekend)\n  M.C.G. Keijzer (BBB)\n  P.C. (Peter) de Groot (VVD)\n  G.J.W. Gabriëls (GroenLinks-PvdA)\n  R.M. Welzijn (NSC)\n  H.M. de Jonge (onbekend)\n\n\n
+DTEND:20240529T193000Z
+DTSTART:20240529T153000Z
+SUMMARY:Rijksvastgoed en Renovatie Binnenhof 
+UID:4f818473-9bc4-4da1-a720-ccc78fe51a9f@4f81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (6):\n  H.M. de Jonge (onbekend)\n  R.M. Welzijn (NSC)\n  Onbekend (onbekend)\n  P.C. (Peter) de Groot (VVD)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n\n\n
+DTEND:20240613T160000Z
+DTSTART:20240613T123000Z
+SUMMARY:Leefbaarheid en veiligheid 
+UID:880837cd-e410-4ee9-8ba5-ee5f66201a2e@8808.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  F. Boulakjar (D66)\n  S.M. Beckerman (SP)\n  P.C. (Peter) de Groot (VVD)\n  H. Nijboer (PvdA)\n  H.M. de Jonge (onbekend)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  I. (Inge) van Dijk (CDA)\n  K.B. Hagen (D66)\n\n\n
+DTEND:20231026T113000Z
+DTSTART:20231026T080000Z
+SUMMARY:Funderingsproblematiek
+UID:c60cee69-07f1-4342-985f-a71fdb62f9b8@c60c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging agendapunten *)\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  B.J. Eerdmans (JA21)\n  M. (Martin) Bosma (PVV)\n  L. Bromet (GroenLinks)\n  K.H. Ollongren (onbekend)\n  B.C. Kathmann (PvdA)\n  F. Boulakjar (D66)\n  D.A.N. Koerhuis (VVD)\n  S.M. Beckerman (SP)\n\n\n
+DTEND:20211007T140000Z
+DTSTART:20211007T110000Z
+SUMMARY:Leefbaarheid en veiligheid 
+UID:29391cce-3241-4318-9db3-60d97118ba28@2939.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (6):\n  H.G.J. Bruins Slot (onbekend)\n  I. (Inge) van Dijk (CDA)\n  M. Mohandis (PvdA)\n  M.F. Strolenberg (VVD)\n  M. (Martin) Bosma (PVV)\n  H. Dekker-Abdulaziz (D66)\n\n\n
+DTEND:20221019T153000Z
+DTSTART:20221019T123000Z
+SUMMARY:Burgemeesters
+UID:7b7261e7-3128-4eb1-a846-f62f87dae006@7b72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  P. Bamenga (D66)\n  G. Chakor (GroenLinks-PvdA)\n  S.T.P.H. Palmen (NSC)\n  H.M. de Jonge (onbekend)\n  M. Koekkoek (Volt)\n  I.J.M. Michon-Derkzen (VVD)\n  M. Deen (PVV)\n  S.R.T. van Baarle (DENK)\n\n\n
+DTEND:20240416T180000Z
+DTSTART:20240416T143000Z
+SUMMARY:Discriminatie\, racisme en mensenrechten 
+UID:7ed98e7f-4bf2-4c9d-9649-ad975022d62c@7ed9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n2e HERZIENE CONVOCATIE\ntoevoeging agendapunt*\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  vaste commissie voor Infrastructuur en Waterstaat (onbekend)\n  vaste commissie voor Economische Zaken en Klimaat (onbekend)\n  H. Nijboer (PvdA)\n  E.M. van Esch (PvdD)\n  F.B. Minhas (VVD)\n  F. Boulakjar (D66)\n  J.J. Klink (VVD)\n  H.M. de Jonge (onbekend)\n  P.A. Grinwis (ChristenUnie)\n\n\n
+DTEND:20230511T113000Z
+DTSTART:20230511T080000Z
+SUMMARY:Ruimtelijke Ordening
+UID:33173482-f7f3-43ad-98d0-41e43ba3c80e@3317.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n2e HERZIENE CONVOCATIE\nportefeuillewijziging staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties*\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  Onbekend (onbekend)\n  C. (Chris) Simons (VVD)\n  Onbekend (onbekend)\n  H. Dekker-Abdulaziz (D66)\n  I. (Inge) van Dijk (CDA)\n  A.C. van Huffelen (onbekend)\n  Onbekend (onbekend)\n  N.G.J. Temmink (SP)\n  Onbekend (onbekend)\n  E.A. Haverkort (VVD)\n\n\n
+DTEND:20230913T160000Z
+DTSTART:20230913T130000Z
+SUMMARY:Klokkenluiders 
+UID:9d7c96aa-d399-40e0-aebf-c1af7df416bb@9d7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nTWEEDE HERZIENE CONVOCATIE\ntoevoeging agendapunten*\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  R. Bisschop (SGP)\n  I. (Inge) van Dijk (CDA)\n  S.R.T. van Baarle (DENK)\n  C. (Chris) Simons (VVD)\n  R.M. Leijten (SP)\n  K.B. Hagen (D66)\n  H.G.J. Bruins Slot (onbekend)\n  O.R. Ephraim (Groep Van Haga)\n  J.C. Sneller (D66)\n  M. (Martin) Bosma (PVV)\n\n\n
+DTEND:20230118T160000Z
+DTSTART:20230118T120000Z
+SUMMARY:Bestuurlijke organisatie\, democratie en verkiezingen
+UID:30fca042-7ff9-4414-8f91-0655a42234ba@30fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n2e Herziene convocatie i.v.m. toevoeging agendapunten*)\n\nHet is niet een besloten evenement\n\nAanwezigen (17):\n  M. (Martin) Bosma (PVV)\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n  I. (Inge) van Dijk (CDA)\n  D.G.M. Ceder (ChristenUnie)\n  G.F.C. van Meijeren (FVD)\n  S. Belhaj (D66)\n  M. Koekkoek (Volt)\n  S.R.T. van Baarle (DENK)\n  B.C. Kathmann (PvdA)\n  R.M. Leijten (SP)\n  S.H. Simons (BIJ1)\n  H.H. van der Woude (VVD)\n  K.H. Ollongren (onbekend)\n  N.L. den Haan (Fractie Den Haan)\n  E.M. Westerveld (GroenLinks)\n  E.M. van Esch (PvdD)\n  F.B.J. Grapperhaus (onbekend)\n\n\n
+DTEND:20210630T153000Z
+DTSTART:20210630T120000Z
+SUMMARY:Discriminatie en racisme
+UID:2d92551c-3de9-4d2f-b472-ad57c00bb56f@2d92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n2e HERZIENE CONVOCATIE\nAgendapunt met * toegevoegd.\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (17):\n  I. (Inge) van Dijk (CDA)\n  M. Koekkoek (Volt)\n  S. Mutluer (PvdA)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  R.M. Leijten (SP)\n  D.G.M. Ceder (ChristenUnie)\n  S.R.T. van Baarle (DENK)\n  H.H. van der Woude (VVD)\n  H.G.J. Bruins Slot (onbekend)\n  Onbekend (onbekend)\n  F. Boulakjar (D66)\n  E.M. Westerveld (GroenLinks)\n  E.M. van Esch (PvdD)\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n  S.H. Simons (BIJ1)\n  Onbekend (onbekend)\n\n\n
+DTEND:20220224T173000Z
+DTSTART:20220224T140000Z
+SUMMARY:Discriminatie\, racisme en mensenrechten
+UID:b94ded8d-5443-4a08-8106-97fc96cd5a93@b94d.org
 END:VEVENT
 END:VCALENDAR
