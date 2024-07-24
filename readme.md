@@ -1,7 +1,7 @@
 # Commissie vergaderingen Eerste- en Tweede Kamer
 Dit project genereert elke dag de kalenders van de verschillende commissies van de kamers van het parlement. Je kan de link in de kalender programma (bijvoorbeeld Outlook) kopiëren voor automatische synchronisatie.
 
-Laatste update: 24/07/2024 04:21
+Laatste update: 24/07/2024 16:21
 
 ## Gevulde kalenders
 **Commissie voor de Rijksuitgaven** (2 gevonden)\
@@ -334,6 +334,15 @@ Laatste update: 24/07/2024 04:21
 
 **Tijdelijke gemengde commissie subsidiariteitstoets** (0 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Tijdelijke-gemengde-commissie-subsidiariteitstoets.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Tijdelijke-gemengde-commissie-subsidiariteitstoets.ics)
+
+**Vaste commissie Asiel en Migratie** (0 gevonden)\
+[https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-Asiel-en-Migratie.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-Asiel-en-Migratie.ics)
+
+**Vaste commissie van Klimaat en Groene Groei** (0 gevonden)\
+[https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-van-Klimaat-en-Groene-Groei.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-van-Klimaat-en-Groene-Groei.ics)
+
+**Vaste commissie van Volkshuisvesting en Ruimtelijk Ordening** (0 gevonden)\
+[https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-van-Volkshuisvesting-en-Ruimtelijk-Ordening.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-van-Volkshuisvesting-en-Ruimtelijk-Ordening.ics)
 
 **Vaste commissie voor Binnenlandse Zaken en Koninkrijksrelaties** (0 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Binnenlandse-Zaken-en-Koninkrijksrelaties.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Binnenlandse-Zaken-en-Koninkrijksrelaties.ics)
