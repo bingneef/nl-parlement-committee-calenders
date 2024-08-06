@@ -2,59 +2,59 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nDe spreektijd is vastgesteld op 4 minuten per fractie. \n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  D.S. Beljaarts (onbekend)\n  Onbekend (onbekend)\n\n\n
-DTEND:20240911T153000Z
-DTSTART:20240911T123000Z
-SUMMARY:Staat van de economie 
-UID:e53c3785-2875-4d43-9a06-fed52d1860b9@e53c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nIndien een van de leden een tweeminutendebat inclusief stemmingen wenst te voeren\, voorafgaand aan de Raad voor Concurrentievermogen/Interne Markt & Industrie (formeel) op 26 september 2024\, dan dient daartoe een vooraankondiging gedaan te worden tijdens de Regeling van Werkzaamheden op dinsdag 24 september 2024.\nDe spreektijd is vastgesteld op maximaal 4 minuten per fractie in de eerste termijn.\n\nHet is niet een besloten evenement\n\nAanwezigen (3):\n  D.S. Beljaarts (onbekend)\n  vaste commissie voor Europese Zaken (onbekend)\n  Onbekend (onbekend)\n\n\n
-DTEND:20240925T110000Z
-DTSTART:20240925T080000Z
-SUMMARY:Raad voor Concurrentievermogen/Interne Markt & Industrie (formeel)
-UID:d06ebf07-2986-4693-ac33-c38ce9d3c61b@d06e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nDe spreektijd per fractie is vastgesteld op max. 4 minuten in eerste termijn.\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  D.S. Beljaarts (onbekend)\n  Onbekend (onbekend)\n\n\n
-DTEND:20241106T120000Z
-DTSTART:20241106T090000Z
-SUMMARY:Toerisme & recreatie 
-UID:0f5efe14-a47d-4f01-b815-4fa5dcf42abb@0f5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nDe spreektijd is vastgesteld op 4 min. per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (5):\n  D.S. Beljaarts (onbekend)\n  vaste commissie voor Buitenlandse Handel en Ontwikkelingshulp (onbekend)\n  Onbekend (onbekend)\n  G.E.W. van Leeuwen (onbekend)\n  Onbekend (onbekend)\n\n\n
-DTEND:20241107T120000Z
-DTSTART:20241107T090000Z
-SUMMARY:Economische Veiligheid en strategische autonomie
-UID:914e3c66-da20-445e-af58-d96e4676b967@914e.org
+DESCRIPTION:Notitie:\nDe spreektijd is vastgesteld op maximaal 4 minuten per fractie in het eerste termijn.\n\nHet is niet een besloten evenement\n\nAanwezigen (1):\n  D.S. Beljaarts (onbekend)\n\n\n
+DTEND:20241024T140000Z
+DTSTART:20241024T110000Z
+SUMMARY:Verdienvermogen van Nederland.
+UID:be64dbc3-9cee-46b1-9ef7-f2915698d4a6@be64.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nDe spreektijd is vastgesteld op maximaal 4 minuten per fractie in het eerste termijn.\n\nHet is niet een besloten evenement\n\nAanwezigen (1):\n  D.S. Beljaarts (onbekend)\n\n\n
 DTEND:20241023T150000Z
 DTSTART:20241023T120000Z
 SUMMARY:Mkb: Ondernemen en bedrijfsfinanciering 
-UID:fc3908ae-9cfc-4809-897b-2410ab240fe1@fc39.org
+UID:b98032ca-3415-448f-921c-764c5ed1363c@b980.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nDe spreektijd is vastgesteld op 4 minuten per fractie. \n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  D.S. Beljaarts (onbekend)\n  Onbekend (onbekend)\n\n\n
+DTEND:20240911T153000Z
+DTSTART:20240911T123000Z
+SUMMARY:Staat van de economie 
+UID:23c0890f-c0f0-4da7-8ba5-966fbe7a229c@23c0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nDe spreektijd is vastgesteld op 3 min. per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  D.S. Beljaarts (onbekend)\n  Onbekend (onbekend)\n\n\n
 DTEND:20241009T140000Z
 DTSTART:20241009T110000Z
 SUMMARY:Post
-UID:c6bdffc0-613a-44e8-885a-1036b800cbd9@c6bd.org
+UID:aca22f34-1dfd-4ab5-9e15-3b4f2d821b8e@aca2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nIndien een van de leden een tweeminutendebat inclusief stemmingen wenst te voeren\, voorafgaand aan de Raad voor Concurrentievermogen/Interne Markt & Industrie (formeel) op 26 september 2024\, dan dient daartoe een vooraankondiging gedaan te worden tijdens de Regeling van Werkzaamheden op dinsdag 24 september 2024.\nDe spreektijd is vastgesteld op maximaal 4 minuten per fractie in de eerste termijn.\n\nHet is niet een besloten evenement\n\nAanwezigen (3):\n  D.S. Beljaarts (onbekend)\n  vaste commissie voor Europese Zaken (onbekend)\n  Onbekend (onbekend)\n\n\n
+DTEND:20240925T110000Z
+DTSTART:20240925T080000Z
+SUMMARY:Raad voor Concurrentievermogen/Interne Markt & Industrie (formeel)
+UID:fc8a3a6d-40a3-4896-abe5-e31c3fe1e49d@fc8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nDe spreektijd is vastgesteld op 4 min. per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (5):\n  D.S. Beljaarts (onbekend)\n  vaste commissie voor Buitenlandse Handel en Ontwikkelingshulp (onbekend)\n  Onbekend (onbekend)\n  G.E.W. van Leeuwen (onbekend)\n  Onbekend (onbekend)\n\n\n
+DTEND:20241107T120000Z
+DTSTART:20241107T090000Z
+SUMMARY:Economische Veiligheid en strategische autonomie
+UID:ea82d77d-fe13-4d34-9b4f-d87917d463e7@ea82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nDe spreektijd per fractie is vastgesteld op max. 4 minuten in eerste termijn.\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  D.S. Beljaarts (onbekend)\n  Onbekend (onbekend)\n\n\n
+DTEND:20241106T120000Z
+DTSTART:20241106T090000Z
+SUMMARY:Toerisme & recreatie 
+UID:5e5dc2d7-de93-49d8-8c67-3ed85565eddf@5e5d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nIndien een van de leden een tweeminutendebat inclusief stemmingen wenst te voeren\, voorafgaand aan Raad voor Concurrentievermogen / Ruimtevaart\, Onderzoek & Innovatie\, Interne markt & Industrie (formeel) op 28 en 29 november 2024\, dan dient daartoe een vooraankondiging gedaan te worden tijdens de Regeling van Werkzaamheden op dinsdag 26 november 2024.\nDe spreektijd is vastgesteld op maximaal 4 minuten per fractie in de eerste termijn.\n\nHet is niet een besloten evenement\n\nAanwezigen (6):\n  E.E.W. Bruins (onbekend)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  vaste commissie voor Europese Zaken (onbekend)\n  vaste commissie voor Onderwijs\, Cultuur en Wetenschap (onbekend)\n  D.S. Beljaarts (onbekend)\n\n\n
 DTEND:20241127T120000Z
 DTSTART:20241127T090000Z
 SUMMARY:Raad van Concurrentievermogen/Ruimtevaart & Innovatie\, Interne Markt & industrie (formeel)
-UID:00e7f2a5-521b-44af-bbee-05ae34ed89cd@00e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nDe spreektijd is vastgesteld op maximaal 4 minuten per fractie in het eerste termijn.\n\nHet is niet een besloten evenement\n\nAanwezigen (1):\n  D.S. Beljaarts (onbekend)\n\n\n
-DTEND:20241024T140000Z
-DTSTART:20241024T110000Z
-SUMMARY:Verdienvermogen van Nederland.
-UID:21023778-2648-42eb-ad42-3e2852893a58@2102.org
+UID:0a753f85-2cc2-428f-a109-033f20f293bb@0a75.org
 END:VEVENT
 END:VCALENDAR
