@@ -1,7 +1,7 @@
 # Commissie vergaderingen Eerste- en Tweede Kamer
 Dit project genereert elke dag de kalenders van de verschillende commissies van de kamers van het parlement. Je kan de link in de kalender programma (bijvoorbeeld Outlook) kopiëren voor automatische synchronisatie.
 
-Laatste update: 26/08/2024 04:21
+Laatste update: 26/08/2024 16:23
 
 ## Gevulde kalenders
 **Commissie voor de Rijksuitgaven** (2 gevonden)\
@@ -335,6 +335,9 @@ Laatste update: 26/08/2024 04:21
 **Tijdelijke gemengde commissie subsidiariteitstoets** (0 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Tijdelijke-gemengde-commissie-subsidiariteitstoets.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Tijdelijke-gemengde-commissie-subsidiariteitstoets.ics)
 
+**Vaste commissie voor Asiel en Migratie** (0 gevonden)\
+[https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Asiel-en-Migratie.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Asiel-en-Migratie.ics)
+
 **Vaste commissie voor Binnenlandse Zaken en Koninkrijksrelaties** (0 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Binnenlandse-Zaken-en-Koninkrijksrelaties.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Binnenlandse-Zaken-en-Koninkrijksrelaties.ics)
 
@@ -376,9 +379,6 @@ Laatste update: 26/08/2024 04:21
 
 **Vaste commissie voor Welzijn, Volksgezondheid en Cultuur** (0 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Welzijn--Volksgezondheid-en-Cultuur.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Welzijn--Volksgezondheid-en-Cultuur.ics)
-
-**Vaste voor commissie Asiel en Migratie** (0 gevonden)\
-[https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-voor-commissie-Asiel-en-Migratie.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-voor-commissie-Asiel-en-Migratie.ics)
 
 **Werkgroep 5e Nota Ruimtelijke Ordening** (0 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Werkgroep-5e-Nota-Ruimtelijke-Ordening.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Werkgroep-5e-Nota-Ruimtelijke-Ordening.ics)
