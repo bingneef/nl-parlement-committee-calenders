@@ -1,7 +1,7 @@
 # Commissie vergaderingen Eerste- en Tweede Kamer
 Dit project genereert elke dag de kalenders van de verschillende commissies van de kamers van het parlement. Je kan de link in de kalender programma (bijvoorbeeld Outlook) kopiëren voor automatische synchronisatie.
 
-Laatste update: 11/09/2024 04:22
+Laatste update: 11/09/2024 16:21
 
 ## Gevulde kalenders
 **Commissie voor de Rijksuitgaven** (2 gevonden)\
@@ -10,7 +10,7 @@ Laatste update: 11/09/2024 04:22
 **Vaste commissie voor Asiel en Migratie** (3 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Asiel-en-Migratie.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Asiel-en-Migratie.ics)
 
-**Vaste commissie voor Binnenlandse Zaken** (73 gevonden)\
+**Vaste commissie voor Binnenlandse Zaken** (71 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Binnenlandse-Zaken.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Binnenlandse-Zaken.ics)
 
 **Vaste commissie voor Buitenlandse Handel en Ontwikkelingshulp** (4 gevonden)\
@@ -34,7 +34,7 @@ Laatste update: 11/09/2024 04:22
 **Vaste commissie voor Financiën** (95 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Financiën.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Financiën.ics)
 
-**Vaste commissie voor Infrastructuur en Waterstaat** (106 gevonden)\
+**Vaste commissie voor Infrastructuur en Waterstaat** (107 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Infrastructuur-en-Waterstaat.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Infrastructuur-en-Waterstaat.ics)
 
 **Vaste commissie voor Justitie en Veiligheid** (125 gevonden)\
@@ -43,7 +43,7 @@ Laatste update: 11/09/2024 04:22
 **Vaste commissie voor Klimaat en Groene Groei** (13 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Klimaat-en-Groene-Groei.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Klimaat-en-Groene-Groei.ics)
 
-**Vaste commissie voor Koninkrijksrelaties** (16 gevonden)\
+**Vaste commissie voor Koninkrijksrelaties** (15 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Koninkrijksrelaties.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Koninkrijksrelaties.ics)
 
 **Vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur ** (16 gevonden)\
@@ -57,6 +57,9 @@ Laatste update: 11/09/2024 04:22
 
 **Vaste commissie voor Volksgezondheid, Welzijn en Sport** (83 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Volksgezondheid--Welzijn-en-Sport.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Volksgezondheid--Welzijn-en-Sport.ics)
+
+**Vaste commissie voor Volkshuisvesting en Ruimtelijke Ordening** (2 gevonden)\
+[https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Volkshuisvesting-en-Ruimtelijke-Ordening.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Volkshuisvesting-en-Ruimtelijke-Ordening.ics)
 
 ## Lege kalenders
 <details>
@@ -370,9 +373,6 @@ Laatste update: 11/09/2024 04:22
 
 **Vaste commissie voor Verkeer en Waterstaat** (0 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Verkeer-en-Waterstaat.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Verkeer-en-Waterstaat.ics)
-
-**Vaste commissie voor Volkshuisvesting en Ruimtelijke Ordening** (0 gevonden)\
-[https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Volkshuisvesting-en-Ruimtelijke-Ordening.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Volkshuisvesting-en-Ruimtelijke-Ordening.ics)
 
 **Vaste commissie voor Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer** (0 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Volkshuisvesting--Ruimtelijke-Ordening-en-Milieubeheer.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Volkshuisvesting--Ruimtelijke-Ordening-en-Milieubeheer.ics)
