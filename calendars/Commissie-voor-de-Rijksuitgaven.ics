@@ -2,24 +2,24 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (4):\n  vaste commissie voor Financiën (onbekend)\n  Onbekend (onbekend)\n  E. Heinen (onbekend)\n  Onbekend (onbekend)\n\n\n
-DTEND:20241114T163000Z
-DTSTART:20241114T133000Z
-SUMMARY:Begrotingsproces
-UID:1299e9d6-cd8e-48a9-8187-396dfcd559f4@1299.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Notitie:\n*Uw fungerend voorzitter stelt een indicatievieve spreektijd van 5 minuten per fractie voor\, uitgaande van ongeveer vijf sprekers*\n\nHet is niet een besloten evenement\n\nAanwezigen (5):\n  J.C. Sneller (D66)\n  W.B. Hoekstra (onbekend)\n  B.A.W. Snels (GroenLinks)\n  J.L. Geurts (CDA)\n  E. Heinen (VVD)\n\n\n
 DTEND:20210624T120000Z
 DTSTART:20210624T100000Z
 SUMMARY:Begroten en verantwoorden 
-UID:3efebd01-1a0d-44d7-9e7f-39a64f1fdba6@3efe.org
+UID:ad3e4cf1-2d8b-459c-b2b7-ce624e371901@ad3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (4):\n  vaste commissie voor Financiën (onbekend)\n  Onbekend (onbekend)\n  E. Heinen (onbekend)\n  Onbekend (onbekend)\n\n\n
+DTEND:20241114T163000Z
+DTSTART:20241114T133000Z
+SUMMARY:Begrotingsproces
+UID:44847aa2-0080-4284-b560-3349c8bfe74d@4484.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nNoot: \nLeden die wensen deel te nemen aan het commissiedebat worden verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n  H. Nijboer (PvdA)\n  vaste commissie voor Financiën (onbekend)\n  I. (Inge) van Dijk (CDA)\n  S. Maatoug (GroenLinks)\n  J.C. Sneller (D66)\n  S.A.M. Kaag (onbekend)\n  vaste commissie voor Onderwijs\, Cultuur en Wetenschap (onbekend)\n  vaste commissie voor Landbouw\, Natuur en Voedselkwaliteit (onbekend)\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (onbekend)\n  E. Heinen (VVD)\n\n\n
 DTEND:20220914T190000Z
 DTSTART:20220914T160000Z
 SUMMARY:Begrotingsproces
-UID:39c57004-88f2-430f-8a26-0f16a4d0b04e@39c5.org
+UID:e2608068-0050-4f08-afb7-6890b620df32@e260.org
 END:VEVENT
 END:VCALENDAR
