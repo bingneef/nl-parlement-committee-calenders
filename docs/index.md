@@ -1,10 +1,10 @@
 # Commissie vergaderingen Eerste- en Tweede Kamer
 Dit project genereert elke dag de kalenders van de verschillende commissies van de kamers van het parlement. Je kan de link in de kalender programma (bijvoorbeeld Outlook) kopiëren voor automatische synchronisatie.
 
-Laatste update: 07/11/2024 04:22
+Laatste update: 07/11/2024 16:22
 
 ## Gevulde kalenders
-**Commissie voor de Rijksuitgaven** (3 gevonden)\
+**Commissie voor de Rijksuitgaven** (2 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Commissie-voor-de-Rijksuitgaven.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Commissie-voor-de-Rijksuitgaven.ics)
 
 **Vaste commissie voor Asiel en Migratie** (10 gevonden)\
@@ -13,7 +13,7 @@ Laatste update: 07/11/2024 04:22
 **Vaste commissie voor Binnenlandse Zaken** (79 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Binnenlandse-Zaken.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Binnenlandse-Zaken.ics)
 
-**Vaste commissie voor Buitenlandse Handel en Ontwikkelingshulp** (4 gevonden)\
+**Vaste commissie voor Buitenlandse Handel en Ontwikkelingshulp** (3 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Buitenlandse-Handel-en-Ontwikkelingshulp.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Buitenlandse-Handel-en-Ontwikkelingshulp.ics)
 
 **Vaste commissie voor Buitenlandse Zaken** (75 gevonden)\
@@ -46,7 +46,7 @@ Laatste update: 07/11/2024 04:22
 **Vaste commissie voor Koninkrijksrelaties** (17 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Koninkrijksrelaties.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Koninkrijksrelaties.ics)
 
-**Vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur ** (14 gevonden)\
+**Vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur ** (13 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Landbouw--Visserij--Voedselzekerheid-en-Natuur-.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Landbouw--Visserij--Voedselzekerheid-en-Natuur-.ics)
 
 **Vaste commissie voor Onderwijs, Cultuur en Wetenschap** (61 gevonden)\
@@ -283,6 +283,9 @@ Laatste update: 07/11/2024 04:22
 
 **Tijdelijke commissie Fyra** (0 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Tijdelijke-commissie-Fyra.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Tijdelijke-commissie-Fyra.ics)
+
+**Tijdelijke commissie Grondrechten en constitutionele toetsing ** (0 gevonden)\
+[https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Tijdelijke-commissie-Grondrechten-en-constitutionele-toetsing-.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Tijdelijke-commissie-Grondrechten-en-constitutionele-toetsing-.ics)
 
 **Tijdelijke commissie Huizenprijzen** (0 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Tijdelijke-commissie-Huizenprijzen.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Tijdelijke-commissie-Huizenprijzen.ics)
