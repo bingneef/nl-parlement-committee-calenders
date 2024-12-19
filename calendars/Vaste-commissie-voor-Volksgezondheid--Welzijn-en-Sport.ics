@@ -2,598 +2,710 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (6):\n  J.Z.C.M. Tielen (VVD)\n  B.M.G. Smals (VVD)\n  W. Paulusma (D66)\n  E.J. Kuipers (onbekend)\n  M. Agema (PVV)\n  J.A.M.J. van den Berg (CDA)\n\n\n
-DTEND:20231005T150000Z
-DTSTART:20231005T110000Z
-SUMMARY:Digitale ontwikkelingen in de zorg
-UID:b1733985-f04d-4483-b18a-e6c09a6d15a7@b173.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  V. Maeijer (PVV)\n  H.P.M. Hijink (SP)\n  P. van Houwelingen (FVD)\n  J. van Wijngaarden (VVD)\n  G.J.M. Segers (ChristenUnie)\n  J.M. Paternotte (D66)\n  B.M.G. Smals (VVD)\n  C.E. Ellemeet (GroenLinks)\n  N.L. den Haan (Fractie Den Haan)\n  C.G. van der Staaij (SGP)\n  K. Arib (PvdA)\n  H.M. Palland (CDA)\n  E.J. Kuipers (onbekend)\n\n\n
-DTEND:20220602T130000Z
-DTSTART:20220602T080000Z
-SUMMARY:Medische ethiek / Orgaandonatie
-UID:bdc5202d-553e-4a49-86c8-fee94ba94e45@bdc5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd maximaal 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  R. Raemakers (D66)\n  J.P. Dijk (SP)\n  J. van den Hil (VVD)\n  C. Helder (onbekend)\n  J.A.M.J. van den Berg (CDA)\n  W.P.H.J. Peters (CDA)\n  M. Agema (PVV)\n  P. van Houwelingen (FVD)\n  T.J. Bushoff (PvdA)\n\n\n
-DTEND:20230927T120000Z
-DTSTART:20230927T080000Z
-SUMMARY:Arbeidsmarktbeleid in de zorg 
-UID:32c77d59-db90-4a1c-87a9-bfb8b2c4d6f8@32c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  W. Paulusma (D66)\n  J.A.M.J. van den Berg (CDA)\n  C.E. Ellemeet (GroenLinks)\n  M. Agema (PVV)\n  T. van Ark (onbekend)\n  A. (Aukje) de Vries (VVD)\n  A.H. Kuiken (PvdA)\n  N.J.F. Pouw-Verweij (JA21)\n  H.P.M. Hijink (SP)\n\n\n
-DTEND:20210630T170000Z
-DTSTART:20210630T120000Z
-SUMMARY:Pakketbeheer
-UID:ee3d0680-ed35-4ac6-afd4-0c14e3795444@ee3d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nDe spreektijd per fractie bedraagt maximaal 5 minuten.\n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  C. Helder (onbekend)\n  J.Z.C.M. Tielen (VVD)\n  J.A.M.J. van den Berg (CDA)\n  M. Mohandis (PvdA)\n  E.J. Kuipers (onbekend)\n  W. Paulusma (D66)\n  M. Agema (PVV)\n\n\n
-DTEND:20220915T130000Z
-DTSTART:20220915T080000Z
-SUMMARY:Gegevensuitwisseling /–bescherming in de zorg / E-Health/Slimme zorg / Administratieve lasten
-UID:893cb4e1-f5c0-41cb-a766-57192e63a890@893c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  N.L. den Haan (Fractie Den Haan)\n  J.A.M.J. van den Berg (CDA)\n  V. Maeijer (PVV)\n  A.H. Kuiken (PvdA)\n  C.E. Ellemeet (GroenLinks)\n  M. Agema (PVV)\n  W. Paulusma (D66)\n  H.P.M. Hijink (SP)\n  O.C. Tellegen (VVD)\n  T. van Ark (onbekend)\n\n\n
-DTEND:20210616T210000Z
-DTSTART:20210616T160000Z
-SUMMARY:Geneesmiddelenbeleid
-UID:aa2c11a7-5890-461e-a9a4-bcfeaaa4d597@aa2c.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Notitie:\nSpreektijd 6 minuten per fractie maximaal.\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  M. van Ooijen (onbekend)\n  W. Paulusma (D66)\n  C. Helder (onbekend)\n  C.E. Ellemeet (GroenLinks)\n  E.J. Kuipers (onbekend)\n  M. Agema (PVV)\n  H. Bevers (VVD)\n  H.P.M. Hijink (SP)\n  E.M. van Esch (PvdD)\n  J.A.M.J. van den Berg (CDA)\n\n\n
 DTEND:20220929T173000Z
 DTSTART:20220929T113000Z
 SUMMARY:Kabinetsreactie op het WRR–rapport "Kiezen voor houdbare zorg. Mensen middelen en maatschappelijk draagvlak"
-UID:e5f13980-88c7-45b9-934c-5a58950e8852@e5f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd: 5 minuten \n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  Y.J. van Hijum (onbekend)\n  M. Agema (onbekend)\n  W. Paulusma (D66)\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (onbekend)\n  T.J. Bushoff (GroenLinks-PvdA)\n  J.Z.C.M. Tielen (VVD)\n  D.E.M.C. (Daniëlle) Jansen (NSC)\n\n\n
-DTEND:20241219T140000Z
-DTSTART:20241219T090000Z
-SUMMARY:Arbeidsmarktbeleid in de zorg
-UID:c35fecde-1437-453a-817f-54bea4210330@c35f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten eerste termijn\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  M. Agema (PVV)\n  L.M. Werner (CDA)\n  C. Helder (onbekend)\n  A.H. Kuiken (PvdA)\n  N.L. den Haan (Fractie Den Haan)\n  C.G. van der Staaij (SGP)\n  Onbekend (onbekend)\n  M.H. Bikker (ChristenUnie)\n  C.E. Ellemeet (GroenLinks)\n  W.P.H.J. Peters (CDA)\n  H.P.M. Hijink (SP)\n  F. Sahla (D66)\n  M. van Ooijen (onbekend)\n  J. van Wijngaarden (VVD)\n\n\n
-DTEND:20220331T160000Z
-DTSTART:20220331T110000Z
-SUMMARY:Dementiezorg/Langer Thuis/Palliatieve zorg/PGB/Wijkverpleging/Wmo
-UID:f92f1b32-944a-4bd6-bcd7-cfba6550f23b@f92f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nspreektijd 5 minuten per fractie maximaal.\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  W. Paulusma (D66)\n  B.M.G. Smals (VVD)\n  P. van Houwelingen (FVD)\n  A.H. Kuiken (PvdA)\n  E.J. Kuipers (onbekend)\n  H.P.M. Hijink (SP)\n  J.Z.C.M. Tielen (VVD)\n  M. Agema (PVV)\n  C.E. Ellemeet (GroenLinks)\n  J.A.M.J. van den Berg (CDA)\n  N.J.F. Pouw-Verweij (JA21)\n  N.L. den Haan (Fractie Den Haan)\n\n\n
-DTEND:20221109T140000Z
-DTSTART:20221109T090000Z
-SUMMARY:Acute Zorg
-UID:32c97476-2159-4a12-917e-0ed0e4497bad@32c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  B.M.G. Smals (VVD)\n  C. Helder (onbekend)\n  H. Bevers (VVD)\n  J.P. Kwint (SP)\n  P. van Houwelingen (FVD)\n  T.J. Bushoff (PvdA)\n  J.A.M.J. van den Berg (CDA)\n  R. Raemakers (D66)\n  M. Agema (PVV)\n  E.J. Kuipers (onbekend)\n\n\n
-DTEND:20231004T130000Z
-DTSTART:20231004T080000Z
-SUMMARY:Goed bestuur en toezicht binnen de zorg
-UID:d6f705e0-5a03-46d6-9d08-25e1f861fa32@d6f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (1):\n  M. Agema (onbekend)\n\n\n
-DTEND:20250604T150000Z
-DTSTART:20250604T120000Z
-SUMMARY:EU-Gezondheidsraad
-UID:c38ea45b-688f-48f2-9ff8-c2aada68801a@c38e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd maximaal 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  Onbekend (onbekend)\n  R. Raemakers (D66)\n  J.Z.C.M. Tielen (VVD)\n  E.J. Kuipers (onbekend)\n  Onbekend (onbekend)\n  vaste commissie voor Europese Zaken (onbekend)\n  W.P.H.J. Peters (CDA)\n  J.A.M.J. van den Berg (CDA)\n  V. Maeijer (PVV)\n\n\n
-DTEND:20230531T173000Z
-DTSTART:20230531T133000Z
-SUMMARY:EU-Gezondheidsraad (formele EU-Gezondheidsraad 13 juni 2023)/behandelvoorbehoud herziening EU-geneesmiddelenwetgeving
-UID:c5d46000-8493-48e5-a414-d6f10f54809e@c5d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  G. Uslu (onbekend)\n  C. Helder (onbekend)\n  R.J. (Rudmer) Heerema (VVD)\n  vaste commissie voor Onderwijs\, Cultuur en Wetenschap (onbekend)\n  J.M.P. van der Laan (D66)\n  E.M. Westerveld (GroenLinks)\n  J.P. Kwint (SP)\n\n\n
-DTEND:20231018T150000Z
-DTSTART:20231018T110000Z
-SUMMARY:Rapport 'Schaduwdansen' over grensoverschrijdend gedrag in de danssector 
-UID:e8b3b702-9880-47f1-8425-c3db4d5c5f7e@e8b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijden 6 minuten \n\nHet is niet een besloten evenement\n\nAanwezigen (18):\n  E.J. Kuipers (onbekend)\n  C.G. van der Staaij (SGP)\n  A.H. Kuiken (PvdA)\n  C. Helder (onbekend)\n  H. Bevers (VVD)\n  C.A.M. van der Plas (BBB)\n  M.A.M. Adriaansens (onbekend)\n  E.M. Westerveld (GroenLinks)\n  W.R. van Haga (Groep Van Haga)\n  T. Kuzu (DENK)\n  H.P.M. Hijink (SP)\n  M. Agema (PVV)\n  W. Paulusma (D66)\n  N.L. den Haan (Fractie Den Haan)\n  J.A.M.J. van den Berg (CDA)\n  N. Gündogan (Gündogan)\n  P.H. Omtzigt (Omtzigt)\n  R.J. Dekker (FVD)\n\n\n
-DTEND:20220928T163000Z
-DTSTART:20220928T113000Z
-SUMMARY:Ontwikkelingen rondom het coronavirus
-UID:16cf1115-ed68-4b3c-8d1d-25434e2ba39e@16cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  M.H. Bikker (ChristenUnie)\n  M. Agema (PVV)\n  A. (Aukje) de Vries (VVD)\n  H.P.M. Hijink (SP)\n  J.A.M.J. van den Berg (CDA)\n  T. van Ark (onbekend)\n  W. Paulusma (D66)\n  A.H. Kuiken (PvdA)\n  C.E. Ellemeet (GroenLinks)\n  N.J.F. Pouw-Verweij (JA21)\n  S.H. Simons (BIJ1)\n\n\n
-DTEND:20210705T173000Z
-DTSTART:20210705T123000Z
-SUMMARY:Medisch specialistische zorg/ziekenhuiszorg
-UID:d6dc8dbe-7529-46af-a6cf-200a8e38f94f@d6dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  H.M. Palland (CDA)\n  M. Agema (PVV)\n  W. Paulusma (D66)\n  C.E. Ellemeet (GroenLinks)\n  H. Bevers (VVD)\n  C. Stoffer (SGP)\n  N.J.F. Pouw-Verweij (JA21)\n  J.P. Dijk (SP)\n  E.J. Kuipers (onbekend)\n  M.H. Bikker (ChristenUnie)\n\n\n
-DTEND:20230628T160000Z
-DTSTART:20230628T120000Z
-SUMMARY:Medische ethiek / orgaandonatie
-UID:a2ec3f87-5acc-4292-846d-d4b247a974d7@a2ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 3 minuten eerte termijn.\n\nHet is niet een besloten evenement\n\nAanwezigen (19):\n  J.Z.C.M. Tielen (VVD)\n  P.H. Omtzigt (Omtzigt)\n  C. Stoffer (SGP)\n  H.P.M. Hijink (SP)\n  E.J. Kuipers (onbekend)\n  A.H. Kuiken (PvdA)\n  F. Azarkan (DENK)\n  P. van Houwelingen (FVD)\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n  M.H. Bikker (ChristenUnie)\n  C.A.M. van der Plas (BBB)\n  J.A.M.J. van den Berg (CDA)\n  W.R. van Haga (Groep Van Haga)\n  B.M.G. Smals (VVD)\n  vaste commissie voor Europese Zaken (onbekend)\n  E.M. van Esch (PvdD)\n  V. Maeijer (PVV)\n  N.J.F. Pouw-Verweij (JA21)\n  W. Paulusma (D66)\n\n\n
-DTEND:20220309T110000Z
-DTSTART:20220309T090000Z
-SUMMARY:EU voorstel Digitaal Covid Certificaat
-UID:da738c46-1ef0-4663-9a0e-c26d2e346d2e@da73.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd maximaal 3 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  N.J.F. Pouw-Verweij (JA21)\n  J.A.M.J. van den Berg (CDA)\n  H.P.M. Hijink (SP)\n  M. Agema (PVV)\n  C.E. Ellemeet (GroenLinks)\n  J.Z.C.M. Tielen (VVD)\n  E.J. Kuipers (onbekend)\n  N.L. den Haan (Fractie Den Haan)\n  E.M. van Esch (PvdD)\n  B.M.G. Smals (VVD)\n  F. Sahla (D66)\n  N. Drost (ChristenUnie)\n\n\n
-DTEND:20230309T120000Z
-DTSTART:20230309T090000Z
-SUMMARY:Verduurzaming van de zorg
-UID:02101fd2-d975-466a-a136-9e2bc760b3f4@0210.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd maximaal 6 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  N.L. den Haan (Fractie Den Haan)\n  E.J. Kuipers (onbekend)\n  J.P. Dijk (SP)\n  T.J. Bushoff (PvdA)\n  C.A.M. van der Plas (BBB)\n  J.A.M.J. van den Berg (CDA)\n  J.Z.C.M. Tielen (VVD)\n  C.E. Ellemeet (GroenLinks)\n  W. Paulusma (D66)\n  M. Agema (PVV)\n\n\n
-DTEND:20230621T160000Z
-DTSTART:20230621T100000Z
-SUMMARY:Zorgverzekeringsstelsel
-UID:8d289489-9da6-40ea-874e-f88a5694c335@8d28.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 7 minuten in eerste termijn\n\nHet is niet een besloten evenement\n\nAanwezigen (18):\n  C.A.M. van der Plas (BBB)\n  M.H. Bikker (ChristenUnie)\n  M. Goudzwaard (JA21)\n  C. Stoffer (SGP)\n  H.P.M. Hijink (SP)\n  B.M.G. Smals (VVD)\n  P. van Houwelingen (FVD)\n  J.Z.C.M. Tielen (VVD)\n  N.L. den Haan (Fractie Den Haan)\n  A.H. Kuiken (PvdA)\n  E.M. Westerveld (GroenLinks)\n  E.J. Kuipers (onbekend)\n  W.R. van Haga (Groep Van Haga)\n  W. Paulusma (D66)\n  E.M. van Esch (PvdD)\n  S.H. (Sylvana) Simons (BIJ1)\n  J.A.M.J. van den Berg (CDA)\n  M. Agema (PVV)\n\n\n
-DTEND:20220616T210000Z
-DTSTART:20220616T123000Z
-SUMMARY:Langere termijn coronabeleid
-UID:f6e9b02f-603c-4500-bbd9-a219b3be63ac@f6e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  A. Kuik (CDA)\n  M. van Ooijen (onbekend)\n  B.M.G. Smals (VVD)\n  W. Paulusma (D66)\n  J.Z.C.M. Tielen (VVD)\n  M. Agema (PVV)\n  E.J. Kuipers (onbekend)\n  C.E. Ellemeet (GroenLinks)\n  T.J. Bushoff (PvdA)\n  N.L. den Haan (Fractie Den Haan)\n\n\n
-DTEND:20230216T134500Z
-DTSTART:20230216T084500Z
-SUMMARY:Medische preventie
-UID:bb5f2ffd-3f0a-409f-9ec1-1de3193bb8e1@bb5f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  W. Paulusma (D66)\n  P. Blokhuis (onbekend)\n  N.J.F. Pouw-Verweij (JA21)\n  M. Agema (PVV)\n  E.M. Westerveld (GroenLinks)\n  C.A.M. van der Plas (BBB)\n  A.H. Kuiken (PvdA)\n  N.L. den Haan (Fractie Den Haan)\n  B.M.G. Smals (VVD)\n  J.A.M.J. van den Berg (CDA)\n\n\n
-DTEND:20211109T210000Z
-DTSTART:20211109T160000Z
-SUMMARY:GGZ / Maatschappelijke opvang / Suïcidepreventie
-UID:8f225a71-fa87-4396-a87a-af6da24b1221@8f22.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 3 minuten.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  vaste commissie voor Onderwijs\, Cultuur en Wetenschap (onbekend)\n  M. Agema (PVV)\n  J.A.M.J. van den Berg (CDA)\n  Onbekend (onbekend)\n  A. (Aukje) de Vries (VVD)\n  P. van Houwelingen (FVD)\n  J.M. Paternotte (D66)\n  H.M. de Jonge (onbekend)\n  V. Maeijer (PVV)\n  vaste commissie voor Europese Zaken (onbekend)\n  N.J.F. Pouw-Verweij (JA21)\n\n\n
-DTEND:20210609T150000Z
-DTSTART:20210609T120000Z
-SUMMARY:EU-Gezondheidsraad d.d. 15 juni 2021
-UID:566df7d0-24f3-4204-b869-26b11167488b@566d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd 4 minuten per fractie maximaal \n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  V.P.G. Karremans (onbekend)\n  vaste commissie voor Koninkrijksrelaties (onbekend)\n  F.H. Bruyning (NSC)\n  J.Z.C.M. Tielen (VVD)\n  W. Paulusma (D66)\n  R.B. Blaauw (PVV)\n  E. Slagt-Tichelman (GroenLinks-PvdA)\n\n\n
-DTEND:20241002T170000Z
-DTSTART:20241002T130000Z
-SUMMARY:Caribisch Nederland - VWS
-UID:53c2edea-4de7-423f-9d38-44b75a327e53@53c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  C.A.M. van der Plas (BBB)\n  S. Mutluer (PvdA)\n  V. Maeijer (PVV)\n  J.M.P. van der Laan (D66)\n  A. Kuik (CDA)\n  R.J. (Rudmer) Heerema (VVD)\n  Onbekend (onbekend)\n  E.M. Westerveld (GroenLinks)\n  E.M. van Esch (PvdD)\n  M.H. Bikker (ChristenUnie)\n  M. van Ooijen (onbekend)\n  N.L. den Haan (Fractie Den Haan)\n  Onbekend (onbekend)\n\n\n
-DTEND:20220324T180000Z
-DTSTART:20220324T130000Z
-SUMMARY:Leefstijlpreventie
-UID:a26ae98b-fa6d-44ba-bdbc-42d16f36af49@a26a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  G.F.C. van Meijeren (FVD)\n  W.P.H.J. Peters (CDA)\n  M. van Nispen (SP)\n  V. Maeijer (PVV)\n  R.J. (Rudmer) Heerema (VVD)\n  M. Mohandis (PvdA)\n  E.M. Westerveld (GroenLinks)\n  J.M.P. van der Laan (D66)\n  G. van den Brink (CDA)\n  C. Helder (onbekend)\n\n\n
-DTEND:20230621T200000Z
-DTSTART:20230621T160000Z
-SUMMARY:Sportbeleid
-UID:66d84cb8-2bad-4776-953c-8a52af4ffc3b@66d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd maximaal 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  C. Helder (onbekend)\n  M. Mohandis (PvdA)\n  P. van Houwelingen (FVD)\n  M. Agema (PVV)\n  J. van den Hil (VVD)\n  N.L. den Haan (Fractie Den Haan)\n  E.M. Westerveld (GroenLinks)\n  H.P.M. Hijink (SP)\n  M. van Ooijen (onbekend)\n  R. Raemakers (D66)\n  J.A.M.J. van den Berg (CDA)\n  M.H. Bikker (ChristenUnie)\n\n\n
-DTEND:20230419T210000Z
-DTSTART:20230419T160000Z
-SUMMARY:GGZ / Suïcidepreventie
-UID:404ab350-0fb8-4760-98df-11f135b5ede5@404a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd maximaal 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  I. (Inge) van Dijk (CDA)\n  V. Maeijer (PVV)\n  E.M. Westerveld (GroenLinks)\n  M. Mohandis (PvdA)\n  R.J. (Rudmer) Heerema (VVD)\n  M. van Nispen (SP)\n  C. Helder (onbekend)\n  B.M.G. Smals (VVD)\n  J.M.P. van der Laan (D66)\n\n\n
-DTEND:20230405T173000Z
-DTSTART:20230405T133000Z
-SUMMARY:Sportbeleid
-UID:f1dae947-2aac-4c6a-9c15-ab4d8fe4d26f@f1da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd maximaal 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  M.H. Bikker (ChristenUnie)\n  J.A.M.J. van den Berg (CDA)\n  W. Paulusma (D66)\n  M. van Ooijen (onbekend)\n  E.J. Kuipers (onbekend)\n  C.E. Ellemeet (GroenLinks)\n  C.G. van der Staaij (SGP)\n  J.P. Kwint (SP)\n  P. van Houwelingen (FVD)\n  J.Z.C.M. Tielen (VVD)\n\n\n
-DTEND:20231010T190000Z
-DTSTART:20231010T150000Z
-SUMMARY:Zwangerschap en geboorte
-UID:e34d5f82-ed52-44ee-84d3-5fcb6518dbee@e34d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  F. Sahla (D66)\n  J.A.M.J. van den Berg (CDA)\n  M. Agema (PVV)\n  C. Helder (onbekend)\n  A.H. Kuiken (PvdA)\n  P. van Houwelingen (FVD)\n  H.P.M. Hijink (SP)\n  J. van den Hil (VVD)\n\n\n
-DTEND:20220203T130000Z
-DTSTART:20220203T090000Z
-SUMMARY:Zorgfraude
-UID:2acd40d0-8304-49fd-91e1-cea3ce3fa557@2acd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd maximaal 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  Onbekend (onbekend)\n  D.E.M.C. (Daniëlle) Jansen (NSC)\n  W. Paulusma (D66)\n  H.M. Krul (CDA)\n  J.Z.C.M. Tielen (VVD)\n  R.A.B. Claassen (PVV)\n  T.J. Bushoff (GroenLinks-PvdA)\n  P.A. Dijkstra (onbekend)\n  M. Agema (PVV)\n\n\n
-DTEND:20240530T120000Z
-DTSTART:20240530T080000Z
-SUMMARY:Hulp- en geneesmiddelenbeleid
-UID:5929852d-b755-4de0-8c66-30aded39326b@5929.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd\n\nHet is niet een besloten evenement\n\nAanwezigen (6):\n  M.G.F. Rikkers-Oosterkamp (BBB)\n  M. Agema (onbekend)\n  J.Z.C.M. Tielen (VVD)\n  vaste commissie voor Europese Zaken (onbekend)\n  R.B. Blaauw (PVV)\n  T.J. Bushoff (GroenLinks-PvdA)\n\n\n
-DTEND:20241120T160000Z
-DTSTART:20241120T130000Z
-SUMMARY:EU gezondheidsraad
-UID:8415c1a4-f431-4bfb-ab8e-68558c396a31@8415.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd maximaal 5 minuten per fractie in eerste termijn\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  B.M.G. Smals (VVD)\n  R.J. (Rudmer) Heerema (VVD)\n  M.H. Bikker (ChristenUnie)\n  N.L. den Haan (Fractie Den Haan)\n  H.P.M. Hijink (SP)\n  W. Paulusma (D66)\n  E.J. Slootweg (CDA)\n  M. van Ooijen (onbekend)\n  M. Agema (PVV)\n  M. Mohandis (PvdA)\n  T. Kuzu (DENK)\n\n\n
-DTEND:20220607T200000Z
-DTSTART:20220607T150000Z
-SUMMARY:Medische preventie / Verslavingszorg/drugspreventie
-UID:066b9ad1-fe9e-436d-b980-3467c34b6b06@066b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 6 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  T.J. Bushoff (GroenLinks-PvdA)\n  J.Z.C.M. Tielen (VVD)\n  J.P. Dijk (SP)\n  D.E.M.C. (Daniëlle) Jansen (NSC)\n  H.M. Krul (CDA)\n  R.A.B. Claassen (PVV)\n  P.A. Dijkstra (onbekend)\n\n\n
-DTEND:20240619T160000Z
-DTSTART:20240619T100000Z
-SUMMARY:Zorgverzekeringsstelsel
-UID:24df940e-d834-4c0d-b1ea-809a8e17602f@24df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd  3 minuten per fractie maximaal.\n \n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  H.P.M. Hijink (SP)\n  M.H. Bikker (ChristenUnie)\n  L.M. Werner (CDA)\n  J. van Wijngaarden (VVD)\n  M. Mohandis (PvdA)\n  M. Goudzwaard (JA21)\n  F. Sahla (D66)\n  C. Helder (onbekend)\n  M. Agema (PVV)\n  C.G. van der Staaij (SGP)\n  E.M. Westerveld (GroenLinks)\n\n\n
-DTEND:20220623T110000Z
-DTSTART:20220623T080000Z
-SUMMARY:PGB
-UID:06caacf2-8fc8-4cf8-b7ed-27a7f355628b@06ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  J.Z.C.M. Tielen (VVD)\n  W. Paulusma (D66)\n  N. Drost (ChristenUnie)\n  B.M.G. Smals (VVD)\n  N.L. den Haan (Fractie Den Haan)\n  C.G. van der Staaij (SGP)\n  M. Agema (PVV)\n  C.E. Ellemeet (GroenLinks)\n  J.A.M.J. van den Berg (CDA)\n  T.J. Bushoff (PvdA)\n  E.J. Kuipers (onbekend)\n  J.P. Dijk (SP)\n  C. Helder (onbekend)\n\n\n
-DTEND:20230705T150000Z
-DTSTART:20230705T110000Z
-SUMMARY:Eerstelijnszorg
-UID:9a816741-21cc-4e7f-a318-6d66b62ecbd5@9a81.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd 5 minuten per fractie \n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  J.P. Dijk (SP)\n  J.Z.C.M. Tielen (VVD)\n  N. Drost (ChristenUnie)\n  M. Agema (PVV)\n  M. van Ooijen (onbekend)\n  E.J. Kuipers (onbekend)\n  W. Paulusma (D66)\n  C. Helder (onbekend)\n  J.A.M.J. van den Berg (CDA)\n  C.A.M. van der Plas (BBB)\n  T.J. Bushoff (PvdA)\n\n\n
-DTEND:20231011T160000Z
-DTSTART:20231011T110000Z
-SUMMARY:Integraal Zorgakkoord 
-UID:374fd846-ac59-42c7-8765-146406c98b71@374f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal drie minuten eerste termijn.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  M.H. Bikker (ChristenUnie)\n  E.J. Kuipers (onbekend)\n  W.P.H.J. Peters (CDA)\n  J.A.M.J. van den Berg (CDA)\n  vaste commissie voor Europese Zaken (onbekend)\n  V. Maeijer (PVV)\n  J.Z.C.M. Tielen (VVD)\n  M. Goudzwaard (JA21)\n  vaste commissie voor Digitale Zaken (onbekend)\n  W. Paulusma (D66)\n  H.P.M. Hijink (SP)\n\n\n
-DTEND:20220615T160000Z
-DTSTART:20220615T140000Z
-SUMMARY:Behandelvoorbehoud: EU-voorstel Europese ruimte voor gezondheidsgegevens 
-UID:9378770d-9d6e-43ff-aa43-07bd61382478@9378.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten eerste termijn\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  N.L. den Haan (Fractie Den Haan)\n  M.H. Bikker (ChristenUnie)\n  E.M. Westerveld (GroenLinks)\n  C. Helder (onbekend)\n  J. van Wijngaarden (VVD)\n  Onbekend (onbekend)\n  L.M. Werner (CDA)\n  Onbekend (onbekend)\n  B.M.G. Smals (VVD)\n  H.P.M. Hijink (SP)\n  R. Raemakers (D66)\n  M. Agema (PVV)\n\n\n
-DTEND:20220421T130000Z
-DTSTART:20220421T080000Z
-SUMMARY:Gehandicaptenbeleid / Verpleeghuiszorg / Wlz
-UID:15b8802b-ecad-403c-b29e-3e45efe00159@15b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nspreektijd 4 minuten per fractie maximaal.\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  M. Agema (PVV)\n  H.P.M. Hijink (SP)\n  C. Helder (onbekend)\n  M. Mohandis (PvdA)\n  W.P.H.J. Peters (CDA)\n  J.A.M.J. van den Berg (CDA)\n  M.H. Bikker (ChristenUnie)\n  J. van den Hil (VVD)\n  R. Raemakers (D66)\n  E.M. Westerveld (GroenLinks)\n\n\n
-DTEND:20221102T160000Z
-DTSTART:20221102T120000Z
-SUMMARY:GGZ/ Suïcidepreventie 
-UID:23b1db7f-72e7-4345-aeef-b6dbc19d9efb@23b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd 3 minuten per fractie maximaal.\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  W. Paulusma (D66)\n  J. van den Hil (VVD)\n  D.G.M. Ceder (ChristenUnie)\n  N.L. den Haan (Fractie Den Haan)\n  S.H. (Sylvana) Simons (BIJ1)\n  M. van Ooijen (onbekend)\n  vaste commissie voor Koninkrijksrelaties (onbekend)\n  J.A.M.J. van den Berg (CDA)\n\n\n
-DTEND:20221005T120000Z
-DTSTART:20221005T080000Z
-SUMMARY:Caribisch Nederland VWS
-UID:c24af73a-9b8b-46fb-b36e-0e3b0bb2eb50@c24a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n4 minuten spreektijd per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  C. Helder (onbekend)\n  H.P.M. Hijink (SP)\n  C.G. van der Staaij (SGP)\n  N.J.F. Pouw-Verweij (JA21)\n  C.A.M. van der Plas (BBB)\n  S.H. (Sylvana) Simons (BIJ1)\n  W. Paulusma (D66)\n  C.E. Ellemeet (GroenLinks)\n  M. Mohandis (PvdA)\n  M. Agema (PVV)\n  B.M.G. Smals (VVD)\n  J. van den Hil (VVD)\n  J.A.M.J. van den Berg (CDA)\n\n\n
-DTEND:20230118T163000Z
-DTSTART:20230118T123000Z
-SUMMARY:Arbeidsmarktbeleid in de zorg
-UID:171ce408-a88a-4056-a3f6-1d058783014a@171c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 5 minuten in eerste termijn\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  M. Agema (PVV)\n  B.M.G. Smals (VVD)\n  N.L. den Haan (Fractie Den Haan)\n  H.P.M. Hijink (SP)\n  M. van Ooijen (onbekend)\n  C.G. van der Staaij (SGP)\n  E.M. Westerveld (GroenLinks)\n  D. de Neef (VVD)\n  A.H. Kuiken (PvdA)\n  M.H. Bikker (ChristenUnie)\n  J.A.M.J. van den Berg (CDA)\n  R. Raemakers (D66)\n  C.A.M. van der Plas (BBB)\n  C. Helder (onbekend)\n\n\n
-DTEND:20220511T130000Z
-DTSTART:20220511T080000Z
-SUMMARY:GGZ / Maatschappelijke opvang / Suïcidepreventie
-UID:af4dd638-a449-4b94-8e4f-687a4a3946ea@af4d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  W. Paulusma (D66)\n  M. Agema (PVV)\n  C.A.M. van der Plas (BBB)\n  P. van Houwelingen (FVD)\n  M.H. Bikker (ChristenUnie)\n  W.P.H.J. Peters (CDA)\n  E.J. Kuipers (onbekend)\n  K. Arib (PvdA)\n  C.G. van der Staaij (SGP)\n  N.J.F. Pouw-Verweij (JA21)\n  H.P.M. Hijink (SP)\n  C.E. Ellemeet (GroenLinks)\n  N.L. den Haan (Fractie Den Haan)\n  J.A.M.J. van den Berg (CDA)\n  J. van den Hil (VVD)\n\n\n
-DTEND:20220217T140000Z
-DTSTART:20220217T090000Z
-SUMMARY:Toekomstige organisatie hartzorg
-UID:eb784b3f-e8d8-422a-a23d-1850f321851b@eb78.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (17):\n  R. Raemakers (D66)\n  E.J. Kuipers (onbekend)\n  H. Bevers (VVD)\n  T. Kuzu (DENK)\n  C.E. Ellemeet (GroenLinks)\n  C.G. van der Staaij (SGP)\n  H.P.M. Hijink (SP)\n  Onbekend (onbekend)\n  C. Helder (onbekend)\n  M. van Ooijen (onbekend)\n  J.A.M.J. van den Berg (CDA)\n  N.J.F. Pouw-Verweij (JA21)\n  Onbekend (onbekend)\n  M. Agema (PVV)\n  C.A.M. van der Plas (BBB)\n  P. van Houwelingen (FVD)\n  Onbekend (onbekend)\n\n\n
-DTEND:20221012T180000Z
-DTSTART:20221012T130000Z
-SUMMARY:Integraal Zorgakkoord
-UID:37422ce7-b210-467a-abcd-0bfeae4506d4@3742.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd maximaal 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  M. Mohandis (PvdA)\n  W.P.H.J. Peters (CDA)\n  F.M. Weerwind (onbekend)\n  J.P. Kwint (SP)\n  D.G.M. Ceder (ChristenUnie)\n  E.M. Westerveld (GroenLinks)\n  V. Maeijer (PVV)\n  R. Raemakers (D66)\n  R. Verkuijlen (VVD)\n  C.G. van der Staaij (SGP)\n  C.A.M. van der Plas (BBB)\n  N.J.F. Pouw-Verweij (JA21)\n  M. van Ooijen (onbekend)\n\n\n
-DTEND:20230420T200000Z
-DTSTART:20230420T160000Z
-SUMMARY:Jeugdbeleid
-UID:8a36392c-82d6-47b3-9060-9c1a08fbd6fd@8a36.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  B.M.G. Smals (VVD)\n  F. Sahla (D66)\n  C. Helder (onbekend)\n  M.H. Bikker (ChristenUnie)\n  N.J.F. Pouw-Verweij (JA21)\n  V. Maeijer (PVV)\n  L.M. Werner (CDA)\n  N.L. den Haan (Fractie Den Haan)\n  M. Mohandis (PvdA)\n  H. Bevers (VVD)\n  J.P. Dijk (SP)\n\n\n
-DTEND:20230511T160000Z
-DTSTART:20230511T120000Z
-SUMMARY:Wijkverpleging
-UID:bc7df70e-fdec-4933-804b-03bf33a2f236@bc7d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 6 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  H.P.M. Hijink (SP)\n  M. Mohandis (PvdA)\n  C.E. Ellemeet (GroenLinks)\n  W. Paulusma (D66)\n  E.J. Kuipers (onbekend)\n  V. Maeijer (PVV)\n  B.M.G. Smals (VVD)\n  N.L. den Haan (Fractie Den Haan)\n  J.Z.C.M. Tielen (VVD)\n  J.A.M.J. van den Berg (CDA)\n\n\n
-DTEND:20220609T150000Z
-DTSTART:20220609T080000Z
-SUMMARY:Geneesmiddelenbeleid / Hulpmiddelenbeleid / Pakketbeheer
-UID:75716299-c008-4866-a926-982104b19559@7571.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  J.Z.C.M. Tielen (VVD)\n  Onbekend (onbekend)\n  H.M. Krul (CDA)\n  M. Agema (onbekend)\n  V.P.G. Karremans (onbekend)\n  R.A.B. Claassen (PVV)\n  W. Paulusma (D66)\n  S.E.M. Dobbe (SP)\n  Onbekend (onbekend)\n  T.J. Bushoff (GroenLinks-PvdA)\n  Onbekend (onbekend)\n  V. Maeijer (onbekend)\n  D.J.H. (Diederik) van Dijk (SGP)\n  D.E.M.C. (Daniëlle) Jansen (NSC)\n\n\n
-DTEND:20241204T170000Z
-DTSTART:20241204T120000Z
-SUMMARY:Integraal Zorgakkoord
-UID:5c1b2295-bd94-4a2b-9cd7-d0de3b8c8da4@5c1b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (16):\n  J.Z.C.M. Tielen (VVD)\n  D.E.M.C. (Daniëlle) Jansen (NSC)\n  Onbekend (onbekend)\n  V. Maeijer (onbekend)\n  T.J. Bushoff (GroenLinks-PvdA)\n  Onbekend (onbekend)\n  M.H. Bikker (ChristenUnie)\n  H.M. Krul (CDA)\n  M.G.F. Rikkers-Oosterkamp (BBB)\n  R.A.B. Claassen (PVV)\n  M. Agema (onbekend)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  J.P. Dijk (SP)\n  M. Mohandis (GroenLinks-PvdA)\n  Onbekend (onbekend)\n\n\n
-DTEND:20241107T130000Z
-DTSTART:20241107T090000Z
-SUMMARY:Eerstelijnszorg 
-UID:a112ec4b-3471-453b-a9dd-6d7033faf6de@a112.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd maximaal 6 minuten per fractie in eerste termijn\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  J.M.P. van der Laan (D66)\n  I. (Inge) van Dijk (CDA)\n  W.P.H.J. Peters (CDA)\n  M.H. Bikker (ChristenUnie)\n  M. Mohandis (PvdA)\n  E.M. Westerveld (GroenLinks)\n  M. van Nispen (SP)\n  R.J. (Rudmer) Heerema (VVD)\n  V. Maeijer (PVV)\n  C. Helder (onbekend)\n\n\n
-DTEND:20220629T120000Z
-DTSTART:20220629T080000Z
-SUMMARY:Sportbeleid
-UID:e4b42fb4-1d23-4dc7-8cb6-717e7e884316@e4b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd maximaal 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  D.E.M.C. (Daniëlle) Jansen (NSC)\n  E. Slagt-Tichelman (GroenLinks-PvdA)\n  H.M. Krul (CDA)\n  I. Kostic (PvdD)\n  M. van Ooijen (onbekend)\n  S.E.M. Dobbe (SP)\n  P.P. Crijns (PVV)\n  I. el Abassi (DENK)\n  J.Z.C.M. Tielen (VVD)\n\n\n
-DTEND:20240516T130000Z
-DTSTART:20240516T090000Z
-SUMMARY:Leefstijlpreventie
-UID:828e7c3a-5865-4717-adcc-3a7ea437d6e0@828e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd maximaal 3 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  J.Z.C.M. Tielen (VVD)\n  V. Maeijer (PVV)\n  vaste commissie voor Europese Zaken (onbekend)\n  J.A.M.J. van den Berg (CDA)\n  T.J. Bushoff (PvdA)\n  E.J. Kuipers (onbekend)\n  R. Raemakers (D66)\n  B.M.G. Smals (VVD)\n  P. van Houwelingen (FVD)\n\n\n
-DTEND:20230308T160000Z
-DTSTART:20230308T130000Z
-SUMMARY:EU-Gezondheidsraad (formele EU-Gezondheidsraad 14 maart 2023)
-UID:6f30b629-0ff3-4439-a153-6dc5510f298b@6f30.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 3 minuten \n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  vaste commissie voor Europese Zaken (onbekend)\n  J.Z.C.M. Tielen (VVD)\n  P.A. Dijkstra (onbekend)\n  T.J. Bushoff (GroenLinks-PvdA)\n  V. Maeijer (PVV)\n  D.E.M.C. (Daniëlle) Jansen (NSC)\n  W. Paulusma (D66)\n\n\n
-DTEND:20240417T150000Z
-DTSTART:20240417T120000Z
-SUMMARY:Informele EU-Gezondheidsraad d.d. 23 en 24 april 2024
-UID:65d19152-7ac5-4c70-b0d6-aad8d0f650d1@65d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 3 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  vaste commissie voor Europese Zaken (onbekend)\n  E.J. Kuipers (onbekend)\n  J.Z.C.M. Tielen (VVD)\n  W. Paulusma (D66)\n  J.A.M.J. van den Berg (CDA)\n  P. van Houwelingen (FVD)\n  V. Maeijer (PVV)\n\n\n
-DTEND:20221130T160000Z
-DTSTART:20221130T130000Z
-SUMMARY:EU-Gezondheidsraad (formele EU-Gezondheidsraad (9 december) 
-UID:d696db28-2591-42c9-b2e2-9faa8ef453e2@d696.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  W. Paulusma (D66)\n  N.J.F. Pouw-Verweij (JA21)\n  A.H. Kuiken (PvdA)\n  H.M. de Jonge (onbekend)\n  J.A.M.J. van den Berg (CDA)\n  C.E. Ellemeet (GroenLinks)\n  H.P.M. Hijink (SP)\n  M.H. Bikker (ChristenUnie)\n  C.G. van der Staaij (SGP)\n  J. van den Hil (VVD)\n  Onbekend (onbekend)\n  N.L. den Haan (Fractie Den Haan)\n\n\n
-DTEND:20211007T193000Z
-DTSTART:20211007T140000Z
-SUMMARY:Arbeidsmarktbeleid in de zorg 
-UID:0a839472-dba9-4ecc-9681-180c7680f40a@0a83.org
+UID:fd3f9e62-5eb1-4fbc-a82b-e8ddcba11899@fd3f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  W. Paulusma (D66)\n  T.J. Bushoff (PvdA)\n  E.J. Kuipers (onbekend)\n  J.Z.C.M. Tielen (VVD)\n  N.L. den Haan (Fractie Den Haan)\n  B.M.G. Smals (VVD)\n  C.A.M. van der Plas (BBB)\n  J.A.M.J. van den Berg (CDA)\n  C.E. Ellemeet (GroenLinks)\n  V. Maeijer (PVV)\n  H.P.M. Hijink (SP)\n\n\n
 DTEND:20230322T130000Z
 DTSTART:20230322T090000Z
 SUMMARY:Geneesmiddelenbeleid
-UID:2cbb809f-3fbe-429a-963a-908066d1ca44@2cbb.org
+UID:4527f72c-485c-451f-ab62-c1453ede7b67@4527.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  L.M. Werner (CDA)\n  M. van Ooijen (onbekend)\n  R. Raemakers (D66)\n  H.P.M. Hijink (SP)\n  J. van den Hil (VVD)\n  P.A. Grinwis (ChristenUnie)\n  Onbekend (onbekend)\n  M. Agema (PVV)\n  E.M. Westerveld (GroenLinks)\n  vaste commissie voor Binnenlandse Zaken (onbekend)\n  M. Mohandis (PvdA)\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (onbekend)\n\n\n
-DTEND:20221207T130000Z
-DTSTART:20221207T090000Z
-SUMMARY:Maatschappelijke opvang/beschermd wonen
-UID:51ba7256-4762-4295-8d9f-c6adbb884e77@51ba.org
+DESCRIPTION:Notitie:\nSpreektijd 5 minuten per fractie \n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  J.P. Dijk (SP)\n  J.Z.C.M. Tielen (VVD)\n  N. Drost (ChristenUnie)\n  M. Agema (PVV)\n  M. van Ooijen (onbekend)\n  E.J. Kuipers (onbekend)\n  W. Paulusma (D66)\n  C. Helder (onbekend)\n  J.A.M.J. van den Berg (CDA)\n  C.A.M. van der Plas (BBB)\n  T.J. Bushoff (PvdA)\n\n\n
+DTEND:20231011T160000Z
+DTSTART:20231011T110000Z
+SUMMARY:Integraal Zorgakkoord 
+UID:2c48f9e1-3a9f-481f-bdf8-64276f067a44@2c48.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 7 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  H.P.M. Hijink (SP)\n  A.H. Kuiken (PvdA)\n  M. Agema (PVV)\n  N.L. den Haan (Fractie Den Haan)\n  M.H. Bikker (ChristenUnie)\n  J.A.M.J. van den Berg (CDA)\n  J.Z.C.M. Tielen (VVD)\n  C.A.M. van der Plas (BBB)\n  C.E. Ellemeet (GroenLinks)\n  B.M.G. Smals (VVD)\n  W. Paulusma (D66)\n  P. van Houwelingen (FVD)\n  E.J. Kuipers (onbekend)\n  C.G. van der Staaij (SGP)\n\n\n
-DTEND:20220525T210000Z
-DTSTART:20220525T140000Z
-SUMMARY:Acute zorg / Eerstelijnszorg / Bloedvoorziening / Medisch zorglandschap / Medisch specialistische zorg / Mondzorg / Zwangerschap en geboorte
-UID:42c4d4d2-42f5-4695-8647-891c8fa92170@42c4.org
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 3 minuten eerte termijn.\n\nHet is niet een besloten evenement\n\nAanwezigen (19):\n  J.Z.C.M. Tielen (VVD)\n  P.H. Omtzigt (Omtzigt)\n  C. Stoffer (SGP)\n  H.P.M. Hijink (SP)\n  E.J. Kuipers (onbekend)\n  A.H. Kuiken (PvdA)\n  F. Azarkan (DENK)\n  P. van Houwelingen (FVD)\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n  M.H. Bikker (ChristenUnie)\n  C.A.M. van der Plas (BBB)\n  J.A.M.J. van den Berg (CDA)\n  W.R. van Haga (Groep Van Haga)\n  B.M.G. Smals (VVD)\n  vaste commissie voor Europese Zaken (onbekend)\n  E.M. van Esch (PvdD)\n  V. Maeijer (PVV)\n  N.J.F. Pouw-Verweij (JA21)\n  W. Paulusma (D66)\n\n\n
+DTEND:20220309T110000Z
+DTSTART:20220309T090000Z
+SUMMARY:EU voorstel Digitaal Covid Certificaat
+UID:e2002923-51a3-4c69-b381-9415d2e63534@e200.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (16):\n  E.J. Kuipers (onbekend)\n  W.R. van Haga (Groep Van Haga)\n  A.H. Kuiken (PvdA)\n  Onbekend (onbekend)\n  P. van Houwelingen (FVD)\n  N.L. den Haan (Fractie Den Haan)\n  W. Paulusma (D66)\n  C.G. van der Staaij (SGP)\n  M. Agema (PVV)\n  E.M. Westerveld (GroenLinks)\n  J.Z.C.M. Tielen (VVD)\n  M.H. Bikker (ChristenUnie)\n  J.A.M.J. van den Berg (CDA)\n  W.P.H.J. Peters (CDA)\n  M. Goudzwaard (JA21)\n  H.P.M. Hijink (SP)\n\n\n
-DTEND:20220419T203000Z
-DTSTART:20220419T143000Z
-SUMMARY:Ontwikkelingen rondom het coronavirus
-UID:2259d70a-13ee-40a1-b455-e0ac5b27b9f9@2259.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd maximaal 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  J.Z.C.M. Tielen (VVD)\n  W. Paulusma (D66)\n  B.M.G. Smals (VVD)\n  J.A.M.J. van den Berg (CDA)\n  J.P. Dijk (SP)\n  E.J. Kuipers (onbekend)\n  T.J. Bushoff (PvdA)\n  M. Agema (PVV)\n\n\n
-DTEND:20231025T160000Z
-DTSTART:20231025T120000Z
-SUMMARY:Ziekenhuiszorg
-UID:5209a57d-aa50-4f74-9855-4db3c488ece7@5209.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 3 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  E. Slagt-Tichelman (GroenLinks-PvdA)\n  A.S. Joseph (NSC)\n  S.E.M. Dobbe (SP)\n  M. Agema (PVV)\n  S.T.M. Hermans (VVD)\n  C. Helder (onbekend)\n  W. Paulusma (D66)\n\n\n
-DTEND:20240410T110000Z
-DTSTART:20240410T080000Z
-SUMMARY:Wijkverpleging
-UID:57b9e579-4b2a-4013-be78-65b6bc879a48@57b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  M.G.F. Rikkers-Oosterkamp (BBB)\n  R.A.B. Claassen (PVV)\n  H.M. Krul (CDA)\n  H. Bevers (VVD)\n  E.M. Westerveld (GroenLinks-PvdA)\n  V. Maeijer (onbekend)\n  Onbekend (onbekend)\n  S.E.M. Dobbe (SP)\n\n\n
-DTEND:20241010T153000Z
-DTSTART:20241010T113000Z
-SUMMARY:Medische kindzorg
-UID:a03063d5-70cc-4391-85bc-a54882f488dd@a030.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd 12 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (16):\n  W. Paulusma (D66)\n  B.M.G. Smals (VVD)\n  J.Z.C.M. Tielen (VVD)\n  M.H. Bikker (ChristenUnie)\n  H.P.M. Hijink (SP)\n  J.A.M.J. van den Berg (CDA)\n  W.R. van Haga (Groep Van Haga)\n  A.H. Kuiken (PvdA)\n  P.H. Omtzigt (Omtzigt)\n  C.A.M. van der Plas (BBB)\n  C. Helder (onbekend)\n  E.M. Westerveld (GroenLinks)\n  F. Azarkan (DENK)\n  M. Agema (PVV)\n  C.G. van der Staaij (SGP)\n  P. van Houwelingen (FVD)\n\n\n
-DTEND:20221221T190000Z
-DTSTART:20221221T090000Z
-SUMMARY:Mondkapjesdeal (wordt voortgezet)
-UID:1d9f6d0c-1412-4789-9cc5-de1245e5ad6b@1d9f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd maximaal 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  N. Drost (ChristenUnie)\n  T. Kuzu (DENK)\n  E.J. Kuipers (onbekend)\n  P. van Houwelingen (FVD)\n  C. Helder (onbekend)\n  M. Agema (PVV)\n  T.J. Bushoff (PvdA)\n  J.Z.C.M. Tielen (VVD)\n  B.M.G. Smals (VVD)\n  P.H. Omtzigt (Omtzigt)\n  W. Paulusma (D66)\n  E.M. Westerveld (GroenLinks)\n  J.P. Dijk (SP)\n  W.R. van Haga (Groep Van Haga)\n  J.A.M.J. van den Berg (CDA)\n\n\n
-DTEND:20230510T160000Z
-DTSTART:20230510T113000Z
-SUMMARY:Ontwikkelingen rondom het coronavirus/pandemische paraatheid
-UID:3b710d67-2a53-4931-abf3-4957109a456b@3b71.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 2 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  B.M.G. Smals (VVD)\n  J.P. Dijk (SP)\n  M. Agema (PVV)\n  C. Helder (onbekend)\n  M. Mohandis (PvdA)\n  H. Bevers (VVD)\n  E.M. Westerveld (GroenLinks)\n  W. Paulusma (D66)\n  L.M. Werner (CDA)\n\n\n
-DTEND:20230613T170000Z
-DTSTART:20230613T150000Z
-SUMMARY:Medische kindzorg
-UID:3031e4fd-17b2-43a3-adcd-ca86088d88c7@3031.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  D.E.M.C. (Daniëlle) Jansen (NSC)\n  D.J.H. (Diederik) van Dijk (SGP)\n  P.A. Dijkstra (onbekend)\n  J.Z.C.M. Tielen (VVD)\n  J.P. Dijk (SP)\n  W. Paulusma (D66)\n  Onbekend (onbekend)\n  R.A.B. Claassen (PVV)\n  T.J. Bushoff (GroenLinks-PvdA)\n\n\n
-DTEND:20240403T173000Z
-DTSTART:20240403T133000Z
-SUMMARY:Acute Zorg 
-UID:b69b8892-2377-4842-9aaf-487b6df8d18e@b69b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  C.A.M. van der Plas (BBB)\n  J.P. Kwint (SP)\n  S. Warmerdam (D66)\n  H. Bevers (VVD)\n  C. Helder (onbekend)\n  L.M. Werner (CDA)\n  E.M. Westerveld (GroenLinks)\n  M. Agema (PVV)\n  C.G. van der Staaij (SGP)\n\n\n
-DTEND:20231005T200000Z
-DTSTART:20231005T160000Z
-SUMMARY:Gehandicaptenbeleid
-UID:3c401a8f-af80-4463-9059-b6a32a5a89db@3c40.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  E.J. Kuipers (onbekend)\n  J.A.M.J. van den Berg (CDA)\n  N.L. den Haan (Fractie Den Haan)\n  B.M.G. Smals (VVD)\n  C.E. Ellemeet (GroenLinks)\n  M. Agema (PVV)\n  J. van den Hil (VVD)\n  W. Paulusma (D66)\n  H.P.M. Hijink (SP)\n  T. Kuzu (DENK)\n\n\n
-DTEND:20220629T173000Z
-DTSTART:20220629T123000Z
-SUMMARY:Zorgverzekeringswet / Eigen bijdragen in de zorg
-UID:0dd2ab33-6d4f-447c-aea9-fab698838e5f@0dd2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  A.H. Kuiken (PvdA)\n  J.P. Kwint (SP)\n  P. Blokhuis (onbekend)\n  D.G.M. Ceder (ChristenUnie)\n  S. Dekker (onbekend)\n  C.G. van der Staaij (SGP)\n  E.M. Westerveld (GroenLinks)\n  vaste commissie voor Financiën (onbekend)\n  M. Agema (PVV)\n  W.P.H.J. Peters (CDA)\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n  vaste commissie voor Binnenlandse Zaken (onbekend)\n  R. Raemakers (D66)\n  D. de Neef (VVD)\n\n\n
-DTEND:20210622T210000Z
-DTSTART:20210622T163000Z
-SUMMARY:Jeugdbeleid/Huiselijk Geweld en kindermishandeling
-UID:99926f1b-56d2-4438-880a-6c4e03e3f55a@9992.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  P.A. Dijkstra (onbekend)\n  M. Synhaeve (D66)\n  E. Slagt-Tichelman (GroenLinks-PvdA)\n  M. Agema (PVV)\n  C. Helder (onbekend)\n  J.Z.C.M. Tielen (VVD)\n  H.M. Krul (CDA)\n  A.S. Joseph (NSC)\n  S.E.M. Dobbe (SP)\n\n\n
-DTEND:20240306T173000Z
-DTSTART:20240306T133000Z
-SUMMARY:Arbeidsmarktbeleid in de zorg
-UID:d39a4709-70d4-47da-a00b-59cec8a122cc@d39a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 6 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  J.Z.C.M. Tielen (VVD)\n  E.J. Kuipers (onbekend)\n  W.R. van Haga (Groep Van Haga)\n  M. Agema (PVV)\n  W. Paulusma (D66)\n  H.P.M. Hijink (SP)\n  C.A.M. van der Plas (BBB)\n  E.M. Westerveld (GroenLinks)\n  Onbekend (onbekend)\n  J.A.M.J. van den Berg (CDA)\n  P. van Houwelingen (FVD)\n\n\n
-DTEND:20221215T180000Z
-DTSTART:20221215T120000Z
-SUMMARY:Ontwikkelingen rondom het coronavirus
-UID:084ee219-2634-4599-ac22-eec03eab1642@084e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 6 minuten eerste termijn\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  C.G. van der Staaij (SGP)\n  W. Paulusma (D66)\n  B.M.G. Smals (VVD)\n  J. van den Hil (VVD)\n  D. de Neef (VVD)\n  H.P.M. Hijink (SP)\n  N.L. den Haan (Fractie Den Haan)\n  C. Helder (onbekend)\n  P. van Houwelingen (FVD)\n  J.A.M.J. van den Berg (CDA)\n  M.H. Bikker (ChristenUnie)\n  M. Agema (PVV)\n  C.E. Ellemeet (GroenLinks)\n\n\n
-DTEND:20220706T130000Z
-DTSTART:20220706T073000Z
-SUMMARY:Arbeidsmarktbeleid in de zorg
-UID:40782d1f-16b4-42e7-9830-bcf046bdcabb@4078.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  T.J. Bushoff (GroenLinks-PvdA)\n  R.A.B. Claassen (PVV)\n  W. Paulusma (D66)\n  Onbekend (onbekend)\n  F.M. Thiadens (PVV)\n  J.Z.C.M. Tielen (VVD)\n  M.G.F. Rikkers-Oosterkamp (BBB)\n  V.P.G. Karremans (onbekend)\n  Onbekend (onbekend)\n\n\n
-DTEND:20241121T130000Z
-DTSTART:20241121T090000Z
-SUMMARY:Medische preventie
-UID:ab96ce0d-0138-47bb-a622-ec2c7120257f@ab96.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd maximaal 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  J.C. Sneller (D66)\n  H.P.M. Hijink (SP)\n  M. Mohandis (PvdA)\n  B.M.G. Smals (VVD)\n  R. Bisschop (SGP)\n  A. Kuik (CDA)\n  M.H. Bikker (ChristenUnie)\n  C.E. Ellemeet (GroenLinks)\n  J.Z.C.M. Tielen (VVD)\n  M. van Ooijen (onbekend)\n  E.J. Kuipers (onbekend)\n  T. Kuzu (DENK)\n\n\n
-DTEND:20230329T160000Z
-DTSTART:20230329T110000Z
-SUMMARY:Drugspreventie en verslavingszorg 
-UID:37c370b7-c5f6-4ecb-bf92-32a41719f2a9@37c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  E.M. Westerveld (GroenLinks)\n  V. Maeijer (PVV)\n  M. Agema (PVV)\n  T. van Ark (onbekend)\n  I. (Inge) van Dijk (CDA)\n  A.H. Kuiken (PvdA)\n  M. van Nispen (SP)\n  J.M.P. van der Laan (D66)\n  R.J. (Rudmer) Heerema (VVD)\n\n\n
-DTEND:20210629T203000Z
-DTSTART:20210629T163000Z
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (1):\n  V.P.G. Karremans (onbekend)\n\n\n
+DTEND:20250626T120000Z
+DTSTART:20250626T080000Z
 SUMMARY:Sportbeleid
-UID:2a6d2ee8-87ac-4de2-87cf-694f23706024@2a6d.org
+UID:600b3a27-d0ae-4a57-b42e-a07d60e77991@600b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (16):\n  W. Paulusma (D66)\n  E. Slagt-Tichelman (GroenLinks-PvdA)\n  I. el Abassi (DENK)\n  M.H. Bikker (ChristenUnie)\n  A.S. Joseph (NSC)\n  Onbekend (onbekend)\n  H.M. Krul (CDA)\n  H. Bevers (VVD)\n  S.E.M. Dobbe (SP)\n  M.G.F. Rikkers-Oosterkamp (BBB)\n  F.M. Thiadens (PVV)\n  V. Maeijer (onbekend)\n  M. Mohandis (GroenLinks-PvdA)\n  D.J.H. (Diederik) van Dijk (SGP)\n  M. Agema (onbekend)\n  vaste commissie voor Volkshuisvesting en Ruimtelijke Ordening (onbekend)\n\n\n
-DTEND:20241016T130000Z
-DTSTART:20241016T080000Z
-SUMMARY:Ouderenzorg (incl. ouderenhuisvesting)
-UID:c95ce94d-28d7-4240-8076-a5f0b98618d9@c95c.org
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  F. Sahla (D66)\n  J.A.M.J. van den Berg (CDA)\n  M. Agema (PVV)\n  C. Helder (onbekend)\n  A.H. Kuiken (PvdA)\n  P. van Houwelingen (FVD)\n  H.P.M. Hijink (SP)\n  J. van den Hil (VVD)\n\n\n
+DTEND:20220203T130000Z
+DTSTART:20220203T090000Z
+SUMMARY:Zorgfraude
+UID:8e25423f-92d1-4e48-8cac-9ab3ae75f9cb@8e25.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  H. Bevers (VVD)\n  V.P.G. Karremans (onbekend)\n\n\n
-DTEND:20250115T170000Z
-DTSTART:20250115T130000Z
-SUMMARY:Medische ethiek/orgaandonatie
-UID:2991925a-eb3a-4dd0-82ce-7d41db31d07a@2991.org
+DESCRIPTION:Notitie:\nSpreektijd per fractie 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  W. Paulusma (D66)\n  M. Agema (PVV)\n  C.A.M. van der Plas (BBB)\n  P. van Houwelingen (FVD)\n  M.H. Bikker (ChristenUnie)\n  W.P.H.J. Peters (CDA)\n  E.J. Kuipers (onbekend)\n  K. Arib (PvdA)\n  C.G. van der Staaij (SGP)\n  N.J.F. Pouw-Verweij (JA21)\n  H.P.M. Hijink (SP)\n  C.E. Ellemeet (GroenLinks)\n  N.L. den Haan (Fractie Den Haan)\n  J.A.M.J. van den Berg (CDA)\n  J. van den Hil (VVD)\n\n\n
+DTEND:20220217T140000Z
+DTSTART:20220217T090000Z
+SUMMARY:Toekomstige organisatie hartzorg
+UID:39b33e1a-8cde-4aae-9551-1c0b80ff4780@39b3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nspreektijd 4 minuten per fractie maximaal.\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  B.M.G. Smals (VVD)\n  M. van Ooijen (onbekend)\n  W. Paulusma (D66)\n  C. (Chris) Simons (VVD)\n  L.M. Werner (CDA)\n  W.R. van Haga (Groep Van Haga)\n  H.P.M. Hijink (SP)\n  M. Mohandis (PvdA)\n  V. Maeijer (PVV)\n\n\n
-DTEND:20230412T160000Z
-DTSTART:20230412T120000Z
-SUMMARY:Oorlogsgetroffenen
-UID:e7664b19-1b84-470d-a4e6-4dd1d235b903@e766.org
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  W. Paulusma (D66)\n  P. Blokhuis (onbekend)\n  N.J.F. Pouw-Verweij (JA21)\n  M. Agema (PVV)\n  E.M. Westerveld (GroenLinks)\n  C.A.M. van der Plas (BBB)\n  A.H. Kuiken (PvdA)\n  N.L. den Haan (Fractie Den Haan)\n  B.M.G. Smals (VVD)\n  J.A.M.J. van den Berg (CDA)\n\n\n
+DTEND:20211109T210000Z
+DTSTART:20211109T160000Z
+SUMMARY:GGZ / Maatschappelijke opvang / Suïcidepreventie
+UID:896f2ee9-fb55-4ea7-ad5b-adad4383ce41@896f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  M.H. Bikker (ChristenUnie)\n  R.A.B. Claassen (PVV)\n  W.P.J. van Eijk (VVD)\n  A.S. Joseph (NSC)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  J.Z.C.M. Tielen (VVD)\n  C. Helder (onbekend)\n  E.M. Westerveld (GroenLinks-PvdA)\n  S.E.M. Dobbe (SP)\n\n\n
-DTEND:20240411T170000Z
-DTSTART:20240411T130000Z
-SUMMARY:GGZ / Suïcidepreventie
-UID:e2953ecf-6957-4c04-88b6-81591de7c264@e295.org
+DESCRIPTION:Notitie:\nSpreektijd maximaal 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  M. Mohandis (PvdA)\n  W.P.H.J. Peters (CDA)\n  F.M. Weerwind (onbekend)\n  J.P. Kwint (SP)\n  D.G.M. Ceder (ChristenUnie)\n  E.M. Westerveld (GroenLinks)\n  V. Maeijer (PVV)\n  R. Raemakers (D66)\n  R. Verkuijlen (VVD)\n  C.G. van der Staaij (SGP)\n  C.A.M. van der Plas (BBB)\n  N.J.F. Pouw-Verweij (JA21)\n  M. van Ooijen (onbekend)\n\n\n
+DTEND:20230420T200000Z
+DTSTART:20230420T160000Z
+SUMMARY:Jeugdbeleid
+UID:0d085b31-f334-4705-9e3b-269735c8bdec@0d08.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd 4 minuten per fractie maximaal\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  N.L. den Haan (Fractie Den Haan)\n  E.M. Westerveld (GroenLinks)\n  E.M. van Esch (PvdD)\n  V. Maeijer (PVV)\n  T.H.P. Baudet (FVD)\n  W.P.H.J. Peters (CDA)\n  A. Kuik (CDA)\n  J.M.P. van der Laan (D66)\n  M. van Ooijen (onbekend)\n  H.P.M. Hijink (SP)\n  R.J. (Rudmer) Heerema (VVD)\n  M. Mohandis (PvdA)\n  G.J.M. Segers (ChristenUnie)\n\n\n
-DTEND:20221214T180000Z
-DTSTART:20221214T140000Z
-SUMMARY:Leefstijlpreventie
-UID:621b8895-d6dd-4063-92b7-507a4e8ed895@621b.org
+DESCRIPTION:Notitie:\nSpreektijd 4 minuten per fractie maximaal \n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  V.P.G. Karremans (onbekend)\n  vaste commissie voor Koninkrijksrelaties (onbekend)\n  F.H. Bruyning (NSC)\n  J.Z.C.M. Tielen (VVD)\n  W. Paulusma (D66)\n  R.B. Blaauw (PVV)\n  E. Slagt-Tichelman (GroenLinks-PvdA)\n\n\n
+DTEND:20241002T170000Z
+DTSTART:20241002T130000Z
+SUMMARY:Caribisch Nederland - VWS
+UID:f393249f-5eb1-4d07-be80-eb158059d204@f393.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal twee minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  L.M. Werner (CDA)\n  J.M.P. van der Laan (D66)\n  H.M. de Jonge (onbekend)\n  Onbekend (onbekend)\n  J.P. Kwint (SP)\n  E.M. Westerveld (GroenLinks)\n  M. Agema (PVV)\n  O.C. Tellegen (VVD)\n  A.H. Kuiken (PvdA)\n\n\n
 DTEND:20210623T160000Z
 DTSTART:20210623T150000Z
 SUMMARY:Intensieve Kindzorg
-UID:81f926fa-4c59-4a9b-8eb0-ba5f7a27c13e@81f9.org
+UID:a438120c-19c3-4beb-9840-ac9e9b094f32@a438.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  M.G.F. Rikkers-Oosterkamp (BBB)\n  R.A.B. Claassen (PVV)\n  H.M. Krul (CDA)\n  H. Bevers (VVD)\n  E.M. Westerveld (GroenLinks-PvdA)\n  V. Maeijer (onbekend)\n  Onbekend (onbekend)\n  S.E.M. Dobbe (SP)\n\n\n
+DTEND:20241010T153000Z
+DTSTART:20241010T113000Z
+SUMMARY:Medische kindzorg
+UID:c0500982-ab78-4e62-8512-130d9dccdf30@c050.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (17):\n  R. Raemakers (D66)\n  E.J. Kuipers (onbekend)\n  H. Bevers (VVD)\n  T. Kuzu (DENK)\n  C.E. Ellemeet (GroenLinks)\n  C.G. van der Staaij (SGP)\n  H.P.M. Hijink (SP)\n  Onbekend (onbekend)\n  C. Helder (onbekend)\n  M. van Ooijen (onbekend)\n  J.A.M.J. van den Berg (CDA)\n  N.J.F. Pouw-Verweij (JA21)\n  Onbekend (onbekend)\n  M. Agema (PVV)\n  C.A.M. van der Plas (BBB)\n  P. van Houwelingen (FVD)\n  Onbekend (onbekend)\n\n\n
+DTEND:20221012T180000Z
+DTSTART:20221012T130000Z
+SUMMARY:Integraal Zorgakkoord
+UID:d94bf1b5-1758-408a-a6d4-6c99b37d86b5@d94b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal vijf minuten voor de eerste termijn\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  A.H. Kuiken (PvdA)\n  M. van Ooijen (onbekend)\n  D. de Neef (VVD)\n  N.L. den Haan (Fractie Den Haan)\n  D.G.M. Ceder (ChristenUnie)\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n  S.H. (Sylvana) Simons (BIJ1)\n  E.M. Westerveld (GroenLinks)\n  J.P. Kwint (SP)\n  C.G. van der Staaij (SGP)\n  V. Maeijer (PVV)\n  F.M. Weerwind (onbekend)\n  W.P.H.J. Peters (CDA)\n  R. Raemakers (D66)\n\n\n
 DTEND:20220518T160000Z
 DTSTART:20220518T110000Z
 SUMMARY:Jeugdbeleid
-UID:b4614cbb-90c7-4758-89df-1a26164585d9@b461.org
+UID:4c554295-7e0d-44f6-b8db-d399bfc72c68@4c55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (3):\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  V. Maeijer (onbekend)\n\n\n
+DTEND:20250213T140000Z
+DTSTART:20250213T090000Z
+SUMMARY:Langdurige zorg 
+UID:e966aeca-966e-4b2e-b3fb-e06cfa0423c0@e966.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd maximaal 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  C. Helder (onbekend)\n  M. Mohandis (PvdA)\n  P. van Houwelingen (FVD)\n  M. Agema (PVV)\n  J. van den Hil (VVD)\n  N.L. den Haan (Fractie Den Haan)\n  E.M. Westerveld (GroenLinks)\n  H.P.M. Hijink (SP)\n  M. van Ooijen (onbekend)\n  R. Raemakers (D66)\n  J.A.M.J. van den Berg (CDA)\n  M.H. Bikker (ChristenUnie)\n\n\n
+DTEND:20230419T210000Z
+DTSTART:20230419T160000Z
+SUMMARY:GGZ / Suïcidepreventie
+UID:945bb39f-8df1-495c-b899-1661440b4db9@945b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\n
+DTEND:20251008T120000Z
+DTSTART:20251008T080000Z
+SUMMARY:Nederlandse Agenda Oncologische zorg
+UID:245d1417-1e6b-4e5f-be80-bb2d127d794d@245d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (1):\n  M. Agema (onbekend)\n\n\n
+DTEND:20250320T130000Z
+DTSTART:20250320T090000Z
+SUMMARY:Medisch Zorglandschap
+UID:0db97dea-b309-468b-889e-00670f2883b2@0db9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (1):\n  M. Agema (onbekend)\n\n\n
+DTEND:20250612T130000Z
+DTSTART:20250612T080000Z
+SUMMARY:Zorgverzekeringsstelsel
+UID:729e30a9-eeac-4e26-bce9-4b02d749ca43@729e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal ..... minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (1):\n  V. Maeijer (onbekend)\n\n\n
+DTEND:20250903T160000Z
+DTSTART:20250903T120000Z
+SUMMARY:Wijkverpleging
+UID:137784ad-d968-4c92-9af8-11b238a8ff49@1377.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd maximaal 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  Onbekend (onbekend)\n  R. Raemakers (D66)\n  J.Z.C.M. Tielen (VVD)\n  E.J. Kuipers (onbekend)\n  Onbekend (onbekend)\n  vaste commissie voor Europese Zaken (onbekend)\n  W.P.H.J. Peters (CDA)\n  J.A.M.J. van den Berg (CDA)\n  V. Maeijer (PVV)\n\n\n
+DTEND:20230531T173000Z
+DTSTART:20230531T133000Z
+SUMMARY:EU-Gezondheidsraad (formele EU-Gezondheidsraad 13 juni 2023)/behandelvoorbehoud herziening EU-geneesmiddelenwetgeving
+UID:b6681229-648b-4e80-961e-f512035c364b@b668.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  D.E.M.C. (Daniëlle) Jansen (NSC)\n  D.J.H. (Diederik) van Dijk (SGP)\n  P.A. Dijkstra (onbekend)\n  J.Z.C.M. Tielen (VVD)\n  J.P. Dijk (SP)\n  W. Paulusma (D66)\n  Onbekend (onbekend)\n  R.A.B. Claassen (PVV)\n  T.J. Bushoff (GroenLinks-PvdA)\n\n\n
+DTEND:20240403T173000Z
+DTSTART:20240403T133000Z
+SUMMARY:Acute Zorg 
+UID:bb2e909d-5ea2-4f3f-89f9-4e2df44f6a37@bb2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijden 6 minuten \n\nHet is niet een besloten evenement\n\nAanwezigen (18):\n  E.J. Kuipers (onbekend)\n  C.G. van der Staaij (SGP)\n  A.H. Kuiken (PvdA)\n  C. Helder (onbekend)\n  H. Bevers (VVD)\n  C.A.M. van der Plas (BBB)\n  M.A.M. Adriaansens (onbekend)\n  E.M. Westerveld (GroenLinks)\n  W.R. van Haga (Groep Van Haga)\n  T. Kuzu (DENK)\n  H.P.M. Hijink (SP)\n  M. Agema (PVV)\n  W. Paulusma (D66)\n  N.L. den Haan (Fractie Den Haan)\n  J.A.M.J. van den Berg (CDA)\n  N. Gündogan (Gündogan)\n  P.H. Omtzigt (Omtzigt)\n  R.J. Dekker (FVD)\n\n\n
+DTEND:20220928T163000Z
+DTSTART:20220928T113000Z
+SUMMARY:Ontwikkelingen rondom het coronavirus
+UID:6fb275a0-44a4-42be-8b35-53537d64fad3@6fb2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  W. Paulusma (D66)\n  N.J.F. Pouw-Verweij (JA21)\n  A.H. Kuiken (PvdA)\n  H.M. de Jonge (onbekend)\n  J.A.M.J. van den Berg (CDA)\n  C.E. Ellemeet (GroenLinks)\n  H.P.M. Hijink (SP)\n  M.H. Bikker (ChristenUnie)\n  C.G. van der Staaij (SGP)\n  J. van den Hil (VVD)\n  Onbekend (onbekend)\n  N.L. den Haan (Fractie Den Haan)\n\n\n
+DTEND:20211007T193000Z
+DTSTART:20211007T140000Z
+SUMMARY:Arbeidsmarktbeleid in de zorg 
+UID:d79e5440-4ba5-4d12-81cf-4bd9e986c842@d79e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  B.M.G. Smals (VVD)\n  C. Helder (onbekend)\n  H. Bevers (VVD)\n  J.P. Kwint (SP)\n  P. van Houwelingen (FVD)\n  T.J. Bushoff (PvdA)\n  J.A.M.J. van den Berg (CDA)\n  R. Raemakers (D66)\n  M. Agema (PVV)\n  E.J. Kuipers (onbekend)\n\n\n
+DTEND:20231004T130000Z
+DTSTART:20231004T080000Z
+SUMMARY:Goed bestuur en toezicht binnen de zorg
+UID:ee99ae5a-4bf7-4e08-bec4-12efc3eab893@ee99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  J.Z.C.M. Tielen (VVD)\n  Onbekend (onbekend)\n  V.P.G. Karremans (onbekend)\n  M. Agema (onbekend)\n  Onbekend (onbekend)\n  W. Paulusma (D66)\n  Onbekend (onbekend)\n\n\n
+DTEND:20250402T160000Z
+DTSTART:20250402T120000Z
+SUMMARY:Publieke gezondheidszorg
+UID:4aa8ef08-668b-4960-889f-d4193ead14f9@4aa8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 5 minuten in eerste termijn\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  M. Agema (PVV)\n  B.M.G. Smals (VVD)\n  N.L. den Haan (Fractie Den Haan)\n  H.P.M. Hijink (SP)\n  M. van Ooijen (onbekend)\n  C.G. van der Staaij (SGP)\n  E.M. Westerveld (GroenLinks)\n  D. de Neef (VVD)\n  A.H. Kuiken (PvdA)\n  M.H. Bikker (ChristenUnie)\n  J.A.M.J. van den Berg (CDA)\n  R. Raemakers (D66)\n  C.A.M. van der Plas (BBB)\n  C. Helder (onbekend)\n\n\n
+DTEND:20220511T130000Z
+DTSTART:20220511T080000Z
+SUMMARY:GGZ / Maatschappelijke opvang / Suïcidepreventie
+UID:b06272d7-53a3-433c-a509-fcd18d38d89b@b062.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nspreektijd 4 minuten per fractie maximaal.\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  M. Agema (PVV)\n  H.P.M. Hijink (SP)\n  C. Helder (onbekend)\n  M. Mohandis (PvdA)\n  W.P.H.J. Peters (CDA)\n  J.A.M.J. van den Berg (CDA)\n  M.H. Bikker (ChristenUnie)\n  J. van den Hil (VVD)\n  R. Raemakers (D66)\n  E.M. Westerveld (GroenLinks)\n\n\n
+DTEND:20221102T160000Z
+DTSTART:20221102T120000Z
+SUMMARY:GGZ/ Suïcidepreventie 
+UID:4b7ddc83-53f1-49e8-8c48-42afa12b427f@4b7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  W. Paulusma (D66)\n  J.A.M.J. van den Berg (CDA)\n  C.E. Ellemeet (GroenLinks)\n  M. Agema (PVV)\n  T. van Ark (onbekend)\n  A. (Aukje) de Vries (VVD)\n  A.H. Kuiken (PvdA)\n  N.J.F. Pouw-Verweij (JA21)\n  H.P.M. Hijink (SP)\n\n\n
+DTEND:20210630T170000Z
+DTSTART:20210630T120000Z
+SUMMARY:Pakketbeheer
+UID:faec2239-2e32-4a1d-9b80-458eb209b03a@faec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 3 minuten.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  vaste commissie voor Onderwijs\, Cultuur en Wetenschap (onbekend)\n  M. Agema (PVV)\n  J.A.M.J. van den Berg (CDA)\n  Onbekend (onbekend)\n  A. (Aukje) de Vries (VVD)\n  P. van Houwelingen (FVD)\n  J.M. Paternotte (D66)\n  H.M. de Jonge (onbekend)\n  V. Maeijer (PVV)\n  vaste commissie voor Europese Zaken (onbekend)\n  N.J.F. Pouw-Verweij (JA21)\n\n\n
+DTEND:20210609T150000Z
+DTSTART:20210609T120000Z
+SUMMARY:EU-Gezondheidsraad d.d. 15 juni 2021
+UID:00cd360c-167c-460e-a504-7fe7bafa803d@00cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  M.H. Bikker (ChristenUnie)\n  M. Agema (PVV)\n  A. (Aukje) de Vries (VVD)\n  H.P.M. Hijink (SP)\n  J.A.M.J. van den Berg (CDA)\n  T. van Ark (onbekend)\n  W. Paulusma (D66)\n  A.H. Kuiken (PvdA)\n  C.E. Ellemeet (GroenLinks)\n  N.J.F. Pouw-Verweij (JA21)\n  S.H. Simons (BIJ1)\n\n\n
+DTEND:20210705T173000Z
+DTSTART:20210705T123000Z
+SUMMARY:Medisch specialistische zorg/ziekenhuiszorg
+UID:9e23bf55-c466-4a66-9ab7-8411c80f1ec2@9e23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd  3 minuten per fractie maximaal.\n \n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  H.P.M. Hijink (SP)\n  M.H. Bikker (ChristenUnie)\n  L.M. Werner (CDA)\n  J. van Wijngaarden (VVD)\n  M. Mohandis (PvdA)\n  M. Goudzwaard (JA21)\n  F. Sahla (D66)\n  C. Helder (onbekend)\n  M. Agema (PVV)\n  C.G. van der Staaij (SGP)\n  E.M. Westerveld (GroenLinks)\n\n\n
+DTEND:20220623T110000Z
+DTSTART:20220623T080000Z
+SUMMARY:PGB
+UID:fe41e997-e83a-4fe4-8416-b70f75944ce2@fe41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd 3 minuten per fractie maximaal.\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  W. Paulusma (D66)\n  J. van den Hil (VVD)\n  D.G.M. Ceder (ChristenUnie)\n  N.L. den Haan (Fractie Den Haan)\n  S.H. (Sylvana) Simons (BIJ1)\n  M. van Ooijen (onbekend)\n  vaste commissie voor Koninkrijksrelaties (onbekend)\n  J.A.M.J. van den Berg (CDA)\n\n\n
+DTEND:20221005T120000Z
+DTSTART:20221005T080000Z
+SUMMARY:Caribisch Nederland VWS
+UID:d6271604-7c2d-4d2d-82e4-bd8ebccfcaad@d627.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  B.M.G. Smals (VVD)\n  F. Sahla (D66)\n  C. Helder (onbekend)\n  M.H. Bikker (ChristenUnie)\n  N.J.F. Pouw-Verweij (JA21)\n  V. Maeijer (PVV)\n  L.M. Werner (CDA)\n  N.L. den Haan (Fractie Den Haan)\n  M. Mohandis (PvdA)\n  H. Bevers (VVD)\n  J.P. Dijk (SP)\n\n\n
+DTEND:20230511T160000Z
+DTSTART:20230511T120000Z
+SUMMARY:Wijkverpleging
+UID:2e417be6-327b-4b2f-8e46-39b728ad9e8e@2e41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (2):\n  Onbekend (onbekend)\n  V. Maeijer (onbekend)\n\n\n
+DTEND:20250521T120000Z
+DTSTART:20250521T080000Z
+SUMMARY:Maatschappelijk domein (inclusief Huiselijk geweld\, kindermishandeling en geweld in afhankelijkheidsrelaties)
+UID:7a69812b-9c2d-44a1-8add-a3d05b10f93a@7a69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten eerste termijn\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  N.L. den Haan (Fractie Den Haan)\n  M.H. Bikker (ChristenUnie)\n  E.M. Westerveld (GroenLinks)\n  C. Helder (onbekend)\n  J. van Wijngaarden (VVD)\n  Onbekend (onbekend)\n  L.M. Werner (CDA)\n  Onbekend (onbekend)\n  B.M.G. Smals (VVD)\n  H.P.M. Hijink (SP)\n  R. Raemakers (D66)\n  M. Agema (PVV)\n\n\n
+DTEND:20220421T130000Z
+DTSTART:20220421T080000Z
+SUMMARY:Gehandicaptenbeleid / Verpleeghuiszorg / Wlz
+UID:9f374845-e897-4796-a541-a2b1ccc44b01@9f37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd 12 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (16):\n  W. Paulusma (D66)\n  B.M.G. Smals (VVD)\n  J.Z.C.M. Tielen (VVD)\n  M.H. Bikker (ChristenUnie)\n  H.P.M. Hijink (SP)\n  J.A.M.J. van den Berg (CDA)\n  W.R. van Haga (Groep Van Haga)\n  A.H. Kuiken (PvdA)\n  P.H. Omtzigt (Omtzigt)\n  C.A.M. van der Plas (BBB)\n  C. Helder (onbekend)\n  E.M. Westerveld (GroenLinks)\n  F. Azarkan (DENK)\n  M. Agema (PVV)\n  C.G. van der Staaij (SGP)\n  P. van Houwelingen (FVD)\n\n\n
+DTEND:20221221T190000Z
+DTSTART:20221221T090000Z
+SUMMARY:Mondkapjesdeal (wordt voortgezet)
+UID:45f0ac5b-43e8-421d-ae1a-8e0c80533159@45f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (1):\n  V.P.G. Karremans (onbekend)\n\n\n
+DTEND:20250424T120000Z
+DTSTART:20250424T080000Z
+SUMMARY:Leefstijlpreventie
+UID:5419ea03-be71-48ad-81fa-81a9349ce3af@5419.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 7 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  H.P.M. Hijink (SP)\n  A.H. Kuiken (PvdA)\n  M. Agema (PVV)\n  N.L. den Haan (Fractie Den Haan)\n  M.H. Bikker (ChristenUnie)\n  J.A.M.J. van den Berg (CDA)\n  J.Z.C.M. Tielen (VVD)\n  C.A.M. van der Plas (BBB)\n  C.E. Ellemeet (GroenLinks)\n  B.M.G. Smals (VVD)\n  W. Paulusma (D66)\n  P. van Houwelingen (FVD)\n  E.J. Kuipers (onbekend)\n  C.G. van der Staaij (SGP)\n\n\n
+DTEND:20220525T210000Z
+DTSTART:20220525T140000Z
+SUMMARY:Acute zorg / Eerstelijnszorg / Bloedvoorziening / Medisch zorglandschap / Medisch specialistische zorg / Mondzorg / Zwangerschap en geboorte
+UID:aabb1faf-9745-48d1-be24-1c2ea46cb65f@aabb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  N.L. den Haan (Fractie Den Haan)\n  J.A.M.J. van den Berg (CDA)\n  V. Maeijer (PVV)\n  A.H. Kuiken (PvdA)\n  C.E. Ellemeet (GroenLinks)\n  M. Agema (PVV)\n  W. Paulusma (D66)\n  H.P.M. Hijink (SP)\n  O.C. Tellegen (VVD)\n  T. van Ark (onbekend)\n\n\n
+DTEND:20210616T210000Z
+DTSTART:20210616T160000Z
+SUMMARY:Geneesmiddelenbeleid
+UID:4a65d5cc-35c1-4ecf-a5cb-d7c525e899f4@4a65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (1):\n  M. Agema (onbekend)\n\n\n
+DTEND:20250925T120000Z
+DTSTART:20250925T080000Z
+SUMMARY:Acute zorg
+UID:d98093bf-7743-46b5-bde9-462a602dd01c@d980.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nspreektijd 4 minuten per fractie maximaal.\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  B.M.G. Smals (VVD)\n  M. van Ooijen (onbekend)\n  W. Paulusma (D66)\n  C. (Chris) Simons (VVD)\n  L.M. Werner (CDA)\n  W.R. van Haga (Groep Van Haga)\n  H.P.M. Hijink (SP)\n  M. Mohandis (PvdA)\n  V. Maeijer (PVV)\n\n\n
+DTEND:20230412T160000Z
+DTSTART:20230412T120000Z
+SUMMARY:Oorlogsgetroffenen
+UID:e2428ad8-f98a-4db8-8f60-a5cc89893e17@e242.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (2):\n  V. Maeijer (onbekend)\n  M. Agema (onbekend)\n\n\n
+DTEND:20250910T120000Z
+DTSTART:20250910T080000Z
+SUMMARY:Ouderenzorg (incl. ouderenhuisvesting)
+UID:7486e617-4762-463d-b204-e7a4f19118ca@7486.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 6 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  J.Z.C.M. Tielen (VVD)\n  E.J. Kuipers (onbekend)\n  W.R. van Haga (Groep Van Haga)\n  M. Agema (PVV)\n  W. Paulusma (D66)\n  H.P.M. Hijink (SP)\n  C.A.M. van der Plas (BBB)\n  E.M. Westerveld (GroenLinks)\n  Onbekend (onbekend)\n  J.A.M.J. van den Berg (CDA)\n  P. van Houwelingen (FVD)\n\n\n
+DTEND:20221215T180000Z
+DTSTART:20221215T120000Z
+SUMMARY:Ontwikkelingen rondom het coronavirus
+UID:f029aa63-fb03-4ba0-9c86-4cf9637f822b@f029.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd maximaal 3 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  N.J.F. Pouw-Verweij (JA21)\n  J.A.M.J. van den Berg (CDA)\n  H.P.M. Hijink (SP)\n  M. Agema (PVV)\n  C.E. Ellemeet (GroenLinks)\n  J.Z.C.M. Tielen (VVD)\n  E.J. Kuipers (onbekend)\n  N.L. den Haan (Fractie Den Haan)\n  E.M. van Esch (PvdD)\n  B.M.G. Smals (VVD)\n  F. Sahla (D66)\n  N. Drost (ChristenUnie)\n\n\n
+DTEND:20230309T120000Z
+DTSTART:20230309T090000Z
+SUMMARY:Verduurzaming van de zorg
+UID:88b173fd-787a-4df9-982b-4fc4945e5d75@88b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (6):\n  J.Z.C.M. Tielen (VVD)\n  B.M.G. Smals (VVD)\n  W. Paulusma (D66)\n  E.J. Kuipers (onbekend)\n  M. Agema (PVV)\n  J.A.M.J. van den Berg (CDA)\n\n\n
+DTEND:20231005T150000Z
+DTSTART:20231005T110000Z
+SUMMARY:Digitale ontwikkelingen in de zorg
+UID:01eda5c2-bbdb-4d56-bc25-b5762e23556f@01ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  C.A.M. van der Plas (BBB)\n  J.P. Kwint (SP)\n  S. Warmerdam (D66)\n  H. Bevers (VVD)\n  C. Helder (onbekend)\n  L.M. Werner (CDA)\n  E.M. Westerveld (GroenLinks)\n  M. Agema (PVV)\n  C.G. van der Staaij (SGP)\n\n\n
+DTEND:20231005T200000Z
+DTSTART:20231005T160000Z
+SUMMARY:Gehandicaptenbeleid
+UID:3739884d-ec55-4895-b695-20f897a85e9a@3739.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd: 5 minuten \n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  Y.J. van Hijum (onbekend)\n  M. Agema (onbekend)\n  W. Paulusma (D66)\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (onbekend)\n  T.J. Bushoff (GroenLinks-PvdA)\n  J.Z.C.M. Tielen (VVD)\n  D.E.M.C. (Daniëlle) Jansen (NSC)\n\n\n
+DTEND:20241219T140000Z
+DTSTART:20241219T090000Z
+SUMMARY:Arbeidsmarktbeleid in de zorg
+UID:4c51672b-4a8f-4739-9187-5ad7dd38adce@4c51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 6 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  T.J. Bushoff (GroenLinks-PvdA)\n  J.Z.C.M. Tielen (VVD)\n  J.P. Dijk (SP)\n  D.E.M.C. (Daniëlle) Jansen (NSC)\n  H.M. Krul (CDA)\n  R.A.B. Claassen (PVV)\n  P.A. Dijkstra (onbekend)\n\n\n
+DTEND:20240619T160000Z
+DTSTART:20240619T100000Z
+SUMMARY:Zorgverzekeringsstelsel
+UID:ad5de031-19fc-465b-bfd7-14350e3288d5@ad5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd maximaal 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  D.E.M.C. (Daniëlle) Jansen (NSC)\n  E. Slagt-Tichelman (GroenLinks-PvdA)\n  H.M. Krul (CDA)\n  I. Kostic (PvdD)\n  M. van Ooijen (onbekend)\n  S.E.M. Dobbe (SP)\n  P.P. Crijns (PVV)\n  I. el Abassi (DENK)\n  J.Z.C.M. Tielen (VVD)\n\n\n
+DTEND:20240516T130000Z
+DTSTART:20240516T090000Z
+SUMMARY:Leefstijlpreventie
+UID:74055637-9c09-4cf1-aa2e-f0b208df5067@7405.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nspreektijd 5 minuten per fractie maximaal.\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  W. Paulusma (D66)\n  B.M.G. Smals (VVD)\n  P. van Houwelingen (FVD)\n  A.H. Kuiken (PvdA)\n  E.J. Kuipers (onbekend)\n  H.P.M. Hijink (SP)\n  J.Z.C.M. Tielen (VVD)\n  M. Agema (PVV)\n  C.E. Ellemeet (GroenLinks)\n  J.A.M.J. van den Berg (CDA)\n  N.J.F. Pouw-Verweij (JA21)\n  N.L. den Haan (Fractie Den Haan)\n\n\n
+DTEND:20221109T140000Z
+DTSTART:20221109T090000Z
+SUMMARY:Acute Zorg
+UID:69473dac-9e9b-4503-8789-f16040de5f8d@6947.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  J.Z.C.M. Tielen (VVD)\n  W. Paulusma (D66)\n  N. Drost (ChristenUnie)\n  B.M.G. Smals (VVD)\n  N.L. den Haan (Fractie Den Haan)\n  C.G. van der Staaij (SGP)\n  M. Agema (PVV)\n  C.E. Ellemeet (GroenLinks)\n  J.A.M.J. van den Berg (CDA)\n  T.J. Bushoff (PvdA)\n  E.J. Kuipers (onbekend)\n  J.P. Dijk (SP)\n  C. Helder (onbekend)\n\n\n
+DTEND:20230705T150000Z
+DTSTART:20230705T110000Z
+SUMMARY:Eerstelijnszorg
+UID:86274dcd-8b13-4d2b-868e-3f3f740496a2@8627.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nDe spreektijd per fractie bedraagt maximaal 5 minuten.\n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  C. Helder (onbekend)\n  J.Z.C.M. Tielen (VVD)\n  J.A.M.J. van den Berg (CDA)\n  M. Mohandis (PvdA)\n  E.J. Kuipers (onbekend)\n  W. Paulusma (D66)\n  M. Agema (PVV)\n\n\n
+DTEND:20220915T130000Z
+DTSTART:20220915T080000Z
+SUMMARY:Gegevensuitwisseling /–bescherming in de zorg / E-Health/Slimme zorg / Administratieve lasten
+UID:4ffb4df0-745d-4876-9736-3cc6e79217ff@4ffb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 3 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  E. Slagt-Tichelman (GroenLinks-PvdA)\n  A.S. Joseph (NSC)\n  S.E.M. Dobbe (SP)\n  M. Agema (PVV)\n  S.T.M. Hermans (VVD)\n  C. Helder (onbekend)\n  W. Paulusma (D66)\n\n\n
+DTEND:20240410T110000Z
+DTSTART:20240410T080000Z
+SUMMARY:Wijkverpleging
+UID:868cd25a-a7b5-4cdd-8991-71198a33a2ad@868c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal .... minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (1):\n  V.P.G. Karremans (onbekend)\n\n\n
+DTEND:20250312T173000Z
+DTSTART:20250312T133000Z
+SUMMARY:GGZ / Suïcidepreventie
+UID:5d683ab2-62e7-4196-b944-37b982dae64b@5d68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  P.A. Dijkstra (onbekend)\n  M. Synhaeve (D66)\n  E. Slagt-Tichelman (GroenLinks-PvdA)\n  M. Agema (PVV)\n  C. Helder (onbekend)\n  J.Z.C.M. Tielen (VVD)\n  H.M. Krul (CDA)\n  A.S. Joseph (NSC)\n  S.E.M. Dobbe (SP)\n\n\n
+DTEND:20240306T173000Z
+DTSTART:20240306T133000Z
+SUMMARY:Arbeidsmarktbeleid in de zorg
+UID:24f49f51-f54c-4736-ae4c-71b166217137@24f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd\n\nHet is niet een besloten evenement\n\nAanwezigen (6):\n  M.G.F. Rikkers-Oosterkamp (BBB)\n  M. Agema (onbekend)\n  J.Z.C.M. Tielen (VVD)\n  vaste commissie voor Europese Zaken (onbekend)\n  R.B. Blaauw (PVV)\n  T.J. Bushoff (GroenLinks-PvdA)\n\n\n
+DTEND:20241120T160000Z
+DTSTART:20241120T130000Z
+SUMMARY:EU gezondheidsraad
+UID:306510de-6182-443c-b254-d9ab4d963d04@3065.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd maximaal 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  J.Z.C.M. Tielen (VVD)\n  W. Paulusma (D66)\n  B.M.G. Smals (VVD)\n  J.A.M.J. van den Berg (CDA)\n  J.P. Dijk (SP)\n  E.J. Kuipers (onbekend)\n  T.J. Bushoff (PvdA)\n  M. Agema (PVV)\n\n\n
+DTEND:20231025T160000Z
+DTSTART:20231025T120000Z
+SUMMARY:Ziekenhuiszorg
+UID:d399258e-a81d-4c15-b043-9b6a91d96761@d399.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  V. Maeijer (PVV)\n  H.P.M. Hijink (SP)\n  P. van Houwelingen (FVD)\n  J. van Wijngaarden (VVD)\n  G.J.M. Segers (ChristenUnie)\n  J.M. Paternotte (D66)\n  B.M.G. Smals (VVD)\n  C.E. Ellemeet (GroenLinks)\n  N.L. den Haan (Fractie Den Haan)\n  C.G. van der Staaij (SGP)\n  K. Arib (PvdA)\n  H.M. Palland (CDA)\n  E.J. Kuipers (onbekend)\n\n\n
+DTEND:20220602T130000Z
+DTSTART:20220602T080000Z
+SUMMARY:Medische ethiek / Orgaandonatie
+UID:6ff09884-fabc-4011-90fc-6b0a5c30c13b@6ff0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd maximaal 6 minuten per fractie in eerste termijn\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  J.M.P. van der Laan (D66)\n  I. (Inge) van Dijk (CDA)\n  W.P.H.J. Peters (CDA)\n  M.H. Bikker (ChristenUnie)\n  M. Mohandis (PvdA)\n  E.M. Westerveld (GroenLinks)\n  M. van Nispen (SP)\n  R.J. (Rudmer) Heerema (VVD)\n  V. Maeijer (PVV)\n  C. Helder (onbekend)\n\n\n
+DTEND:20220629T120000Z
+DTSTART:20220629T080000Z
+SUMMARY:Sportbeleid
+UID:bf51e675-ef25-464e-a2b9-59ae9f528b13@bf51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 6 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (3):\n  Onbekend (onbekend)\n  V.P.G. Karremans (onbekend)\n  E.M. Westerveld (GroenLinks-PvdA)\n\n\n
+DTEND:20250618T120000Z
+DTSTART:20250618T080000Z
+SUMMARY:Jeugdbeleid
+UID:a8693ad0-67df-437f-bb5b-34eb4e7f9c36@a869.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd maximaal 3 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  J.Z.C.M. Tielen (VVD)\n  V. Maeijer (PVV)\n  vaste commissie voor Europese Zaken (onbekend)\n  J.A.M.J. van den Berg (CDA)\n  T.J. Bushoff (PvdA)\n  E.J. Kuipers (onbekend)\n  R. Raemakers (D66)\n  B.M.G. Smals (VVD)\n  P. van Houwelingen (FVD)\n\n\n
+DTEND:20230308T160000Z
+DTSTART:20230308T130000Z
+SUMMARY:EU-Gezondheidsraad (formele EU-Gezondheidsraad 14 maart 2023)
+UID:e1b41529-0753-4511-abda-013adcf859ab@e1b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 3 minuten \n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  vaste commissie voor Europese Zaken (onbekend)\n  J.Z.C.M. Tielen (VVD)\n  P.A. Dijkstra (onbekend)\n  T.J. Bushoff (GroenLinks-PvdA)\n  V. Maeijer (PVV)\n  D.E.M.C. (Daniëlle) Jansen (NSC)\n  W. Paulusma (D66)\n\n\n
+DTEND:20240417T150000Z
+DTSTART:20240417T120000Z
+SUMMARY:Informele EU-Gezondheidsraad d.d. 23 en 24 april 2024
+UID:0ad7049a-2b6f-43b9-9491-c60b202a57da@0ad7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (1):\n  M. Agema (onbekend)\n\n\n
+DTEND:20250410T120000Z
+DTSTART:20250410T080000Z
+SUMMARY:Digitale ontwikkelingen in de zorg
+UID:b07a4753-def9-4718-8b84-dce9bc5bfc2b@b07a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (1):\n  M. Agema (onbekend)\n\n\n
+DTEND:20250604T150000Z
+DTSTART:20250604T120000Z
+SUMMARY:EU-Gezondheidsraad
+UID:4434785f-8355-4d21-bcc4-6abd22f62907@4434.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 6 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  H.P.M. Hijink (SP)\n  M. Mohandis (PvdA)\n  C.E. Ellemeet (GroenLinks)\n  W. Paulusma (D66)\n  E.J. Kuipers (onbekend)\n  V. Maeijer (PVV)\n  B.M.G. Smals (VVD)\n  N.L. den Haan (Fractie Den Haan)\n  J.Z.C.M. Tielen (VVD)\n  J.A.M.J. van den Berg (CDA)\n\n\n
+DTEND:20220609T150000Z
+DTSTART:20220609T080000Z
+SUMMARY:Geneesmiddelenbeleid / Hulpmiddelenbeleid / Pakketbeheer
+UID:e2dcbe8a-122f-4c25-8c10-4d2e1c74b29b@e2dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n4 minuten spreektijd per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  C. Helder (onbekend)\n  H.P.M. Hijink (SP)\n  C.G. van der Staaij (SGP)\n  N.J.F. Pouw-Verweij (JA21)\n  C.A.M. van der Plas (BBB)\n  S.H. (Sylvana) Simons (BIJ1)\n  W. Paulusma (D66)\n  C.E. Ellemeet (GroenLinks)\n  M. Mohandis (PvdA)\n  M. Agema (PVV)\n  B.M.G. Smals (VVD)\n  J. van den Hil (VVD)\n  J.A.M.J. van den Berg (CDA)\n\n\n
+DTEND:20230118T163000Z
+DTSTART:20230118T123000Z
+SUMMARY:Arbeidsmarktbeleid in de zorg
+UID:81df29cf-844f-4fe6-afa0-0586e859e703@81df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd maximaal 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  I. (Inge) van Dijk (CDA)\n  V. Maeijer (PVV)\n  E.M. Westerveld (GroenLinks)\n  M. Mohandis (PvdA)\n  R.J. (Rudmer) Heerema (VVD)\n  M. van Nispen (SP)\n  C. Helder (onbekend)\n  B.M.G. Smals (VVD)\n  J.M.P. van der Laan (D66)\n\n\n
+DTEND:20230405T173000Z
+DTSTART:20230405T133000Z
+SUMMARY:Sportbeleid
+UID:1f163052-9315-4ac4-9a12-7cb4735e29a1@1f16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  E.M. Westerveld (GroenLinks)\n  V. Maeijer (PVV)\n  M. Agema (PVV)\n  T. van Ark (onbekend)\n  I. (Inge) van Dijk (CDA)\n  A.H. Kuiken (PvdA)\n  M. van Nispen (SP)\n  J.M.P. van der Laan (D66)\n  R.J. (Rudmer) Heerema (VVD)\n\n\n
+DTEND:20210629T203000Z
+DTSTART:20210629T163000Z
+SUMMARY:Sportbeleid
+UID:52f2711c-c36f-4415-aa31-be2e67b723dc@52f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  G. Uslu (onbekend)\n  C. Helder (onbekend)\n  R.J. (Rudmer) Heerema (VVD)\n  vaste commissie voor Onderwijs\, Cultuur en Wetenschap (onbekend)\n  J.M.P. van der Laan (D66)\n  E.M. Westerveld (GroenLinks)\n  J.P. Kwint (SP)\n\n\n
+DTEND:20231018T150000Z
+DTSTART:20231018T110000Z
+SUMMARY:Rapport 'Schaduwdansen' over grensoverschrijdend gedrag in de danssector 
+UID:e075bcfc-41e7-4ae1-a825-e55db8047865@e075.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal drie minuten eerste termijn.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  M.H. Bikker (ChristenUnie)\n  E.J. Kuipers (onbekend)\n  W.P.H.J. Peters (CDA)\n  J.A.M.J. van den Berg (CDA)\n  vaste commissie voor Europese Zaken (onbekend)\n  V. Maeijer (PVV)\n  J.Z.C.M. Tielen (VVD)\n  M. Goudzwaard (JA21)\n  vaste commissie voor Digitale Zaken (onbekend)\n  W. Paulusma (D66)\n  H.P.M. Hijink (SP)\n\n\n
+DTEND:20220615T160000Z
+DTSTART:20220615T140000Z
+SUMMARY:Behandelvoorbehoud: EU-voorstel Europese ruimte voor gezondheidsgegevens 
+UID:843ece78-db0d-4b59-b0c4-01f50b953bc9@843e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd maximaal 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  J.C. Sneller (D66)\n  H.P.M. Hijink (SP)\n  M. Mohandis (PvdA)\n  B.M.G. Smals (VVD)\n  R. Bisschop (SGP)\n  A. Kuik (CDA)\n  M.H. Bikker (ChristenUnie)\n  C.E. Ellemeet (GroenLinks)\n  J.Z.C.M. Tielen (VVD)\n  M. van Ooijen (onbekend)\n  E.J. Kuipers (onbekend)\n  T. Kuzu (DENK)\n\n\n
+DTEND:20230329T160000Z
+DTSTART:20230329T110000Z
+SUMMARY:Drugspreventie en verslavingszorg 
+UID:9df938ba-3098-465e-a123-dd2a4cda09a1@9df9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd maximaal 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  Onbekend (onbekend)\n  D.E.M.C. (Daniëlle) Jansen (NSC)\n  W. Paulusma (D66)\n  H.M. Krul (CDA)\n  J.Z.C.M. Tielen (VVD)\n  R.A.B. Claassen (PVV)\n  T.J. Bushoff (GroenLinks-PvdA)\n  P.A. Dijkstra (onbekend)\n  M. Agema (PVV)\n\n\n
+DTEND:20240530T120000Z
+DTSTART:20240530T080000Z
+SUMMARY:Hulp- en geneesmiddelenbeleid
+UID:5d780e4e-3401-4c30-b098-3575247a2885@5d78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  L.M. Werner (CDA)\n  M. van Ooijen (onbekend)\n  R. Raemakers (D66)\n  H.P.M. Hijink (SP)\n  J. van den Hil (VVD)\n  P.A. Grinwis (ChristenUnie)\n  Onbekend (onbekend)\n  M. Agema (PVV)\n  E.M. Westerveld (GroenLinks)\n  vaste commissie voor Binnenlandse Zaken (onbekend)\n  M. Mohandis (PvdA)\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (onbekend)\n\n\n
+DTEND:20221207T130000Z
+DTSTART:20221207T090000Z
+SUMMARY:Maatschappelijke opvang/beschermd wonen
+UID:d37f52d3-098d-4062-b7f8-ff9b018f7f8a@d37f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 3 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  vaste commissie voor Europese Zaken (onbekend)\n  E.J. Kuipers (onbekend)\n  J.Z.C.M. Tielen (VVD)\n  W. Paulusma (D66)\n  J.A.M.J. van den Berg (CDA)\n  P. van Houwelingen (FVD)\n  V. Maeijer (PVV)\n\n\n
+DTEND:20221130T160000Z
+DTSTART:20221130T130000Z
+SUMMARY:EU-Gezondheidsraad (formele EU-Gezondheidsraad (9 december) 
+UID:4d68105b-51c0-43e8-be4a-9264554ea7d4@4d68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd 4 minuten per fractie maximaal\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  N.L. den Haan (Fractie Den Haan)\n  E.M. Westerveld (GroenLinks)\n  E.M. van Esch (PvdD)\n  V. Maeijer (PVV)\n  T.H.P. Baudet (FVD)\n  W.P.H.J. Peters (CDA)\n  A. Kuik (CDA)\n  J.M.P. van der Laan (D66)\n  M. van Ooijen (onbekend)\n  H.P.M. Hijink (SP)\n  R.J. (Rudmer) Heerema (VVD)\n  M. Mohandis (PvdA)\n  G.J.M. Segers (ChristenUnie)\n\n\n
+DTEND:20221214T180000Z
+DTSTART:20221214T140000Z
+SUMMARY:Leefstijlpreventie
+UID:489a942a-2888-4457-9e62-56ebb92f4afa@489a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 2 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  B.M.G. Smals (VVD)\n  J.P. Dijk (SP)\n  M. Agema (PVV)\n  C. Helder (onbekend)\n  M. Mohandis (PvdA)\n  H. Bevers (VVD)\n  E.M. Westerveld (GroenLinks)\n  W. Paulusma (D66)\n  L.M. Werner (CDA)\n\n\n
+DTEND:20230613T170000Z
+DTSTART:20230613T150000Z
+SUMMARY:Medische kindzorg
+UID:04f58bf2-1d4d-40e8-bccf-eee19e4e6c39@04f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (1):\n  V. Maeijer (onbekend)\n\n\n
+DTEND:20250619T120000Z
+DTSTART:20250619T080000Z
+SUMMARY:Gehandicaptenbeleid
+UID:0025c305-1531-4706-9433-7a1da12e79df@0025.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  H.M. Palland (CDA)\n  M. Agema (PVV)\n  W. Paulusma (D66)\n  C.E. Ellemeet (GroenLinks)\n  H. Bevers (VVD)\n  C. Stoffer (SGP)\n  N.J.F. Pouw-Verweij (JA21)\n  J.P. Dijk (SP)\n  E.J. Kuipers (onbekend)\n  M.H. Bikker (ChristenUnie)\n\n\n
+DTEND:20230628T160000Z
+DTSTART:20230628T120000Z
+SUMMARY:Medische ethiek / orgaandonatie
+UID:036f45e3-ef3b-449c-ab68-7aecf2e946e1@036f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  T.J. Bushoff (GroenLinks-PvdA)\n  R.A.B. Claassen (PVV)\n  W. Paulusma (D66)\n  Onbekend (onbekend)\n  F.M. Thiadens (PVV)\n  J.Z.C.M. Tielen (VVD)\n  M.G.F. Rikkers-Oosterkamp (BBB)\n  V.P.G. Karremans (onbekend)\n  Onbekend (onbekend)\n\n\n
+DTEND:20241121T130000Z
+DTSTART:20241121T090000Z
+SUMMARY:Medische preventie
+UID:c787e522-406b-41c2-a630-99bb5d994659@c787.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (16):\n  W. Paulusma (D66)\n  E. Slagt-Tichelman (GroenLinks-PvdA)\n  I. el Abassi (DENK)\n  M.H. Bikker (ChristenUnie)\n  A.S. Joseph (NSC)\n  Onbekend (onbekend)\n  H.M. Krul (CDA)\n  H. Bevers (VVD)\n  S.E.M. Dobbe (SP)\n  M.G.F. Rikkers-Oosterkamp (BBB)\n  F.M. Thiadens (PVV)\n  V. Maeijer (onbekend)\n  M. Mohandis (GroenLinks-PvdA)\n  D.J.H. (Diederik) van Dijk (SGP)\n  M. Agema (onbekend)\n  vaste commissie voor Volkshuisvesting en Ruimtelijke Ordening (onbekend)\n\n\n
+DTEND:20241016T130000Z
+DTSTART:20241016T080000Z
+SUMMARY:Ouderenzorg (incl. ouderenhuisvesting)
+UID:74877802-92cd-42bf-b7e9-8087d747edd1@7487.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  E.J. Kuipers (onbekend)\n  J.A.M.J. van den Berg (CDA)\n  N.L. den Haan (Fractie Den Haan)\n  B.M.G. Smals (VVD)\n  C.E. Ellemeet (GroenLinks)\n  M. Agema (PVV)\n  J. van den Hil (VVD)\n  W. Paulusma (D66)\n  H.P.M. Hijink (SP)\n  T. Kuzu (DENK)\n\n\n
+DTEND:20220629T173000Z
+DTSTART:20220629T123000Z
+SUMMARY:Zorgverzekeringswet / Eigen bijdragen in de zorg
+UID:300bc2aa-2f7c-4fcb-980b-394128be2e31@300b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (16):\n  J.Z.C.M. Tielen (VVD)\n  D.E.M.C. (Daniëlle) Jansen (NSC)\n  Onbekend (onbekend)\n  V. Maeijer (onbekend)\n  T.J. Bushoff (GroenLinks-PvdA)\n  Onbekend (onbekend)\n  M.H. Bikker (ChristenUnie)\n  H.M. Krul (CDA)\n  M.G.F. Rikkers-Oosterkamp (BBB)\n  R.A.B. Claassen (PVV)\n  M. Agema (onbekend)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  J.P. Dijk (SP)\n  M. Mohandis (GroenLinks-PvdA)\n  Onbekend (onbekend)\n\n\n
+DTEND:20241107T130000Z
+DTSTART:20241107T090000Z
+SUMMARY:Eerstelijnszorg 
+UID:56207932-e504-4e6d-9199-9d635e504083@5620.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  G.F.C. van Meijeren (FVD)\n  W.P.H.J. Peters (CDA)\n  M. van Nispen (SP)\n  V. Maeijer (PVV)\n  R.J. (Rudmer) Heerema (VVD)\n  M. Mohandis (PvdA)\n  E.M. Westerveld (GroenLinks)\n  J.M.P. van der Laan (D66)\n  G. van den Brink (CDA)\n  C. Helder (onbekend)\n\n\n
+DTEND:20230621T200000Z
+DTSTART:20230621T160000Z
+SUMMARY:Sportbeleid
+UID:9549b0bd-e431-49b1-aed9-0b2a5c7ea820@9549.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nSpreektijd per fractie 5 minuten in eerste termijn\n\nHet is niet een besloten evenement\n\nAanwezigen (18):\n  J.A.M.J. van den Berg (CDA)\n  A.H. Kuiken (PvdA)\n  C. Helder (onbekend)\n  B.M.G. Smals (VVD)\n  T. Kuzu (DENK)\n  C.A.M. van der Plas (BBB)\n  H.P.M. Hijink (SP)\n  C.E. Ellemeet (GroenLinks)\n  E.J. Kuipers (onbekend)\n  M.H. Bikker (ChristenUnie)\n  J.Z.C.M. Tielen (VVD)\n  S.H. Simons (BIJ1)\n  C.G. van der Staaij (SGP)\n  M. van Ooijen (onbekend)\n  E.M. van Esch (PvdD)\n  W. Paulusma (D66)\n  N.L. den Haan (Fractie Den Haan)\n  M. Agema (PVV)\n\n\n
 DTEND:20220308T220000Z
 DTSTART:20220308T160000Z
 SUMMARY:Hoofdlijnendebat
-UID:d6e2e71f-bbfa-4090-9537-9df4279497d9@d6e2.org
+UID:2aa434a4-4d5a-4d7b-b88c-ae8f92948412@2aa4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 7 minuten in eerste termijn\n\nHet is niet een besloten evenement\n\nAanwezigen (18):\n  C.A.M. van der Plas (BBB)\n  M.H. Bikker (ChristenUnie)\n  M. Goudzwaard (JA21)\n  C. Stoffer (SGP)\n  H.P.M. Hijink (SP)\n  B.M.G. Smals (VVD)\n  P. van Houwelingen (FVD)\n  J.Z.C.M. Tielen (VVD)\n  N.L. den Haan (Fractie Den Haan)\n  A.H. Kuiken (PvdA)\n  E.M. Westerveld (GroenLinks)\n  E.J. Kuipers (onbekend)\n  W.R. van Haga (Groep Van Haga)\n  W. Paulusma (D66)\n  E.M. van Esch (PvdD)\n  S.H. (Sylvana) Simons (BIJ1)\n  J.A.M.J. van den Berg (CDA)\n  M. Agema (PVV)\n\n\n
+DTEND:20220616T210000Z
+DTSTART:20220616T123000Z
+SUMMARY:Langere termijn coronabeleid
+UID:bc2319a9-d330-4fbe-a00f-a6b98021dc9b@bc23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  C.A.M. van der Plas (BBB)\n  S. Mutluer (PvdA)\n  V. Maeijer (PVV)\n  J.M.P. van der Laan (D66)\n  A. Kuik (CDA)\n  R.J. (Rudmer) Heerema (VVD)\n  Onbekend (onbekend)\n  E.M. Westerveld (GroenLinks)\n  E.M. van Esch (PvdD)\n  M.H. Bikker (ChristenUnie)\n  M. van Ooijen (onbekend)\n  N.L. den Haan (Fractie Den Haan)\n  Onbekend (onbekend)\n\n\n
+DTEND:20220324T180000Z
+DTSTART:20220324T130000Z
+SUMMARY:Leefstijlpreventie
+UID:75dcbcb0-dd5d-4604-9973-6add2c4a2f0f@75dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  A.H. Kuiken (PvdA)\n  J.P. Kwint (SP)\n  P. Blokhuis (onbekend)\n  D.G.M. Ceder (ChristenUnie)\n  S. Dekker (onbekend)\n  C.G. van der Staaij (SGP)\n  E.M. Westerveld (GroenLinks)\n  vaste commissie voor Financiën (onbekend)\n  M. Agema (PVV)\n  W.P.H.J. Peters (CDA)\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n  vaste commissie voor Binnenlandse Zaken (onbekend)\n  R. Raemakers (D66)\n  D. de Neef (VVD)\n\n\n
+DTEND:20210622T210000Z
+DTSTART:20210622T163000Z
+SUMMARY:Jeugdbeleid/Huiselijk Geweld en kindermishandeling
+UID:adb73b7f-3457-41a4-be35-93406b4ed5ae@adb7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd maximaal 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  M.H. Bikker (ChristenUnie)\n  J.A.M.J. van den Berg (CDA)\n  W. Paulusma (D66)\n  M. van Ooijen (onbekend)\n  E.J. Kuipers (onbekend)\n  C.E. Ellemeet (GroenLinks)\n  C.G. van der Staaij (SGP)\n  J.P. Kwint (SP)\n  P. van Houwelingen (FVD)\n  J.Z.C.M. Tielen (VVD)\n\n\n
+DTEND:20231010T190000Z
+DTSTART:20231010T150000Z
+SUMMARY:Zwangerschap en geboorte
+UID:5c17e810-da73-4858-bbc6-012d25751b0b@5c17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd maximaal 5 minuten per fractie in eerste termijn\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  B.M.G. Smals (VVD)\n  R.J. (Rudmer) Heerema (VVD)\n  M.H. Bikker (ChristenUnie)\n  N.L. den Haan (Fractie Den Haan)\n  H.P.M. Hijink (SP)\n  W. Paulusma (D66)\n  E.J. Slootweg (CDA)\n  M. van Ooijen (onbekend)\n  M. Agema (PVV)\n  M. Mohandis (PvdA)\n  T. Kuzu (DENK)\n\n\n
+DTEND:20220607T200000Z
+DTSTART:20220607T150000Z
+SUMMARY:Medische preventie / Verslavingszorg/drugspreventie
+UID:023b8a8e-27e8-409e-8d9d-5645fdca7086@023b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd maximaal 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  N. Drost (ChristenUnie)\n  T. Kuzu (DENK)\n  E.J. Kuipers (onbekend)\n  P. van Houwelingen (FVD)\n  C. Helder (onbekend)\n  M. Agema (PVV)\n  T.J. Bushoff (PvdA)\n  J.Z.C.M. Tielen (VVD)\n  B.M.G. Smals (VVD)\n  P.H. Omtzigt (Omtzigt)\n  W. Paulusma (D66)\n  E.M. Westerveld (GroenLinks)\n  J.P. Dijk (SP)\n  W.R. van Haga (Groep Van Haga)\n  J.A.M.J. van den Berg (CDA)\n\n\n
+DTEND:20230510T160000Z
+DTSTART:20230510T113000Z
+SUMMARY:Ontwikkelingen rondom het coronavirus/pandemische paraatheid
+UID:a5df7b56-602d-42d6-b96d-eeb41d8ca5b8@a5df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd maximaal 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  R. Raemakers (D66)\n  J.P. Dijk (SP)\n  J. van den Hil (VVD)\n  C. Helder (onbekend)\n  J.A.M.J. van den Berg (CDA)\n  W.P.H.J. Peters (CDA)\n  M. Agema (PVV)\n  P. van Houwelingen (FVD)\n  T.J. Bushoff (PvdA)\n\n\n
+DTEND:20230927T120000Z
+DTSTART:20230927T080000Z
+SUMMARY:Arbeidsmarktbeleid in de zorg 
+UID:ba609a5f-43ce-4085-9d3d-c364045301ce@ba60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (1):\n  V.P.G. Karremans (onbekend)\n\n\n
+DTEND:20250220T170000Z
+DTSTART:20250220T130000Z
+SUMMARY:Oversterfte
+UID:8dc67006-4df1-4bfc-a6fb-05876a90e2e6@8dc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 6 minuten eerste termijn\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  C.G. van der Staaij (SGP)\n  W. Paulusma (D66)\n  B.M.G. Smals (VVD)\n  J. van den Hil (VVD)\n  D. de Neef (VVD)\n  H.P.M. Hijink (SP)\n  N.L. den Haan (Fractie Den Haan)\n  C. Helder (onbekend)\n  P. van Houwelingen (FVD)\n  J.A.M.J. van den Berg (CDA)\n  M.H. Bikker (ChristenUnie)\n  M. Agema (PVV)\n  C.E. Ellemeet (GroenLinks)\n\n\n
+DTEND:20220706T130000Z
+DTSTART:20220706T073000Z
+SUMMARY:Arbeidsmarktbeleid in de zorg
+UID:6eddf680-2c2e-4f36-be65-a01ecd931ce2@6edd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd maximaal 6 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  N.L. den Haan (Fractie Den Haan)\n  E.J. Kuipers (onbekend)\n  J.P. Dijk (SP)\n  T.J. Bushoff (PvdA)\n  C.A.M. van der Plas (BBB)\n  J.A.M.J. van den Berg (CDA)\n  J.Z.C.M. Tielen (VVD)\n  C.E. Ellemeet (GroenLinks)\n  W. Paulusma (D66)\n  M. Agema (PVV)\n\n\n
+DTEND:20230621T160000Z
+DTSTART:20230621T100000Z
+SUMMARY:Zorgverzekeringsstelsel
+UID:8e51ea11-42de-4c0f-871b-2f44a6ce497c@8e51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  A. Kuik (CDA)\n  M. van Ooijen (onbekend)\n  B.M.G. Smals (VVD)\n  W. Paulusma (D66)\n  J.Z.C.M. Tielen (VVD)\n  M. Agema (PVV)\n  E.J. Kuipers (onbekend)\n  C.E. Ellemeet (GroenLinks)\n  T.J. Bushoff (PvdA)\n  N.L. den Haan (Fractie Den Haan)\n\n\n
+DTEND:20230216T134500Z
+DTSTART:20230216T084500Z
+SUMMARY:Medische preventie
+UID:79263dec-226c-4833-ac23-70af35507d9a@7926.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten eerste termijn\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  M. Agema (PVV)\n  L.M. Werner (CDA)\n  C. Helder (onbekend)\n  A.H. Kuiken (PvdA)\n  N.L. den Haan (Fractie Den Haan)\n  C.G. van der Staaij (SGP)\n  Onbekend (onbekend)\n  M.H. Bikker (ChristenUnie)\n  C.E. Ellemeet (GroenLinks)\n  W.P.H.J. Peters (CDA)\n  H.P.M. Hijink (SP)\n  F. Sahla (D66)\n  M. van Ooijen (onbekend)\n  J. van Wijngaarden (VVD)\n\n\n
+DTEND:20220331T160000Z
+DTSTART:20220331T110000Z
+SUMMARY:Dementiezorg/Langer Thuis/Palliatieve zorg/PGB/Wijkverpleging/Wmo
+UID:19caf39d-f47b-45ac-a828-f1578f61ae1e@19ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  H. Bevers (VVD)\n  V.P.G. Karremans (onbekend)\n\n\n
+DTEND:20250115T170000Z
+DTSTART:20250115T130000Z
+SUMMARY:Medische ethiek/orgaandonatie
+UID:ff3dfe8b-e868-4347-83b5-5827c4382cea@ff3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  M.H. Bikker (ChristenUnie)\n  R.A.B. Claassen (PVV)\n  W.P.J. van Eijk (VVD)\n  A.S. Joseph (NSC)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  J.Z.C.M. Tielen (VVD)\n  C. Helder (onbekend)\n  E.M. Westerveld (GroenLinks-PvdA)\n  S.E.M. Dobbe (SP)\n\n\n
+DTEND:20240411T170000Z
+DTSTART:20240411T130000Z
+SUMMARY:GGZ / Suïcidepreventie
+UID:2db07779-0ddf-4485-a563-8803fcaa0f9c@2db0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (16):\n  E.J. Kuipers (onbekend)\n  W.R. van Haga (Groep Van Haga)\n  A.H. Kuiken (PvdA)\n  Onbekend (onbekend)\n  P. van Houwelingen (FVD)\n  N.L. den Haan (Fractie Den Haan)\n  W. Paulusma (D66)\n  C.G. van der Staaij (SGP)\n  M. Agema (PVV)\n  E.M. Westerveld (GroenLinks)\n  J.Z.C.M. Tielen (VVD)\n  M.H. Bikker (ChristenUnie)\n  J.A.M.J. van den Berg (CDA)\n  W.P.H.J. Peters (CDA)\n  M. Goudzwaard (JA21)\n  H.P.M. Hijink (SP)\n\n\n
+DTEND:20220419T203000Z
+DTSTART:20220419T143000Z
+SUMMARY:Ontwikkelingen rondom het coronavirus
+UID:ed7b2581-1e49-4859-9b6f-c99c3eb11bde@ed7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 5 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  J.Z.C.M. Tielen (VVD)\n  Onbekend (onbekend)\n  H.M. Krul (CDA)\n  M. Agema (onbekend)\n  V.P.G. Karremans (onbekend)\n  R.A.B. Claassen (PVV)\n  W. Paulusma (D66)\n  S.E.M. Dobbe (SP)\n  Onbekend (onbekend)\n  T.J. Bushoff (GroenLinks-PvdA)\n  Onbekend (onbekend)\n  V. Maeijer (onbekend)\n  D.J.H. (Diederik) van Dijk (SGP)\n  D.E.M.C. (Daniëlle) Jansen (NSC)\n\n\n
+DTEND:20241204T170000Z
+DTSTART:20241204T120000Z
+SUMMARY:Integraal Zorgakkoord
+UID:53210fbe-7fc1-4be2-ab6e-d609ad53bcd1@5321.org
 END:VEVENT
 END:VCALENDAR
