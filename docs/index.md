@@ -1,7 +1,7 @@
 # Commissie vergaderingen Eerste- en Tweede Kamer
 Dit project genereert elke dag de kalenders van de verschillende commissies van de kamers van het parlement. Je kan de link in de kalender programma (bijvoorbeeld Outlook) kopiëren voor automatische synchronisatie.
 
-Laatste update: 19/12/2024 04:21
+Laatste update: 19/12/2024 16:21
 
 ## Gevulde kalenders
 **Commissie voor de Rijksuitgaven** (2 gevonden)\
@@ -16,7 +16,7 @@ Laatste update: 19/12/2024 04:21
 **Vaste commissie voor Buitenlandse Handel en Ontwikkelingshulp** (7 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Buitenlandse-Handel-en-Ontwikkelingshulp.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Buitenlandse-Handel-en-Ontwikkelingshulp.ics)
 
-**Vaste commissie voor Buitenlandse Zaken** (77 gevonden)\
+**Vaste commissie voor Buitenlandse Zaken** (82 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Buitenlandse-Zaken.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Buitenlandse-Zaken.ics)
 
 **Vaste commissie voor Defensie** (53 gevonden)\
@@ -25,10 +25,10 @@ Laatste update: 19/12/2024 04:21
 **Vaste commissie voor Digitale Zaken** (40 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Digitale-Zaken.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Digitale-Zaken.ics)
 
-**Vaste commissie voor Economische Zaken** (12 gevonden)\
+**Vaste commissie voor Economische Zaken** (14 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Economische-Zaken.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Economische-Zaken.ics)
 
-**Vaste commissie voor Europese Zaken** (14 gevonden)\
+**Vaste commissie voor Europese Zaken** (16 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Europese-Zaken.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Europese-Zaken.ics)
 
 **Vaste commissie voor Financiën** (105 gevonden)\
@@ -40,7 +40,7 @@ Laatste update: 19/12/2024 04:21
 **Vaste commissie voor Justitie en Veiligheid** (143 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Justitie-en-Veiligheid.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Justitie-en-Veiligheid.ics)
 
-**Vaste commissie voor Klimaat en Groene Groei** (12 gevonden)\
+**Vaste commissie voor Klimaat en Groene Groei** (25 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Klimaat-en-Groene-Groei.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Klimaat-en-Groene-Groei.ics)
 
 **Vaste commissie voor Koninkrijksrelaties** (18 gevonden)\
@@ -49,7 +49,7 @@ Laatste update: 19/12/2024 04:21
 **Vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur ** (28 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Landbouw--Visserij--Voedselzekerheid-en-Natuur-.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Landbouw--Visserij--Voedselzekerheid-en-Natuur-.ics)
 
-**Vaste commissie voor Onderwijs, Cultuur en Wetenschap** (66 gevonden)\
+**Vaste commissie voor Onderwijs, Cultuur en Wetenschap** (67 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Onderwijs--Cultuur-en-Wetenschap.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Onderwijs--Cultuur-en-Wetenschap.ics)
 
 **Vaste commissie voor Sociale Zaken en Werkgelegenheid** (79 gevonden)\
