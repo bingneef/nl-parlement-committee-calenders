@@ -1,7 +1,7 @@
 # Commissie vergaderingen Eerste- en Tweede Kamer
 Dit project genereert elke dag de kalenders van de verschillende commissies van de kamers van het parlement. Je kan de link in de kalender programma (bijvoorbeeld Outlook) kopiëren voor automatische synchronisatie.
 
-Laatste update: 06/02/2025 04:22
+Laatste update: 06/02/2025 16:21
 
 ## Gevulde kalenders
 **Commissie voor de Rijksuitgaven** (2 gevonden)\
@@ -10,7 +10,7 @@ Laatste update: 06/02/2025 04:22
 **Vaste commissie voor Asiel en Migratie** (14 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Asiel-en-Migratie.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Asiel-en-Migratie.ics)
 
-**Vaste commissie voor Binnenlandse Zaken** (80 gevonden)\
+**Vaste commissie voor Binnenlandse Zaken** (81 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Binnenlandse-Zaken.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Binnenlandse-Zaken.ics)
 
 **Vaste commissie voor Buitenlandse Handel en Ontwikkelingshulp** (8 gevonden)\
@@ -19,10 +19,10 @@ Laatste update: 06/02/2025 04:22
 **Vaste commissie voor Buitenlandse Zaken** (82 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Buitenlandse-Zaken.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Buitenlandse-Zaken.ics)
 
-**Vaste commissie voor Defensie** (56 gevonden)\
+**Vaste commissie voor Defensie** (57 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Defensie.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Defensie.ics)
 
-**Vaste commissie voor Digitale Zaken** (39 gevonden)\
+**Vaste commissie voor Digitale Zaken** (40 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Digitale-Zaken.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Digitale-Zaken.ics)
 
 **Vaste commissie voor Economische Zaken** (15 gevonden)\
@@ -34,7 +34,7 @@ Laatste update: 06/02/2025 04:22
 **Vaste commissie voor Financiën** (107 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Financiën.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Financiën.ics)
 
-**Vaste commissie voor Infrastructuur en Waterstaat** (121 gevonden)\
+**Vaste commissie voor Infrastructuur en Waterstaat** (122 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Infrastructuur-en-Waterstaat.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Infrastructuur-en-Waterstaat.ics)
 
 **Vaste commissie voor Justitie en Veiligheid** (145 gevonden)\
@@ -46,7 +46,7 @@ Laatste update: 06/02/2025 04:22
 **Vaste commissie voor Koninkrijksrelaties** (18 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Koninkrijksrelaties.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Koninkrijksrelaties.ics)
 
-**Vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur ** (29 gevonden)\
+**Vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur ** (28 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Landbouw--Visserij--Voedselzekerheid-en-Natuur-.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Landbouw--Visserij--Voedselzekerheid-en-Natuur-.ics)
 
 **Vaste commissie voor Onderwijs, Cultuur en Wetenschap** (67 gevonden)\
