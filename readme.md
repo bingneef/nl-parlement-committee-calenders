@@ -1,7 +1,7 @@
 # Commissie vergaderingen Eerste- en Tweede Kamer
 Dit project genereert elke dag de kalenders van de verschillende commissies van de kamers van het parlement. Je kan de link in de kalender programma (bijvoorbeeld Outlook) kopiëren voor automatische synchronisatie.
 
-Laatste update: 07/03/2025 04:21
+Laatste update: 07/03/2025 16:22
 
 ## Gevulde kalenders
 **Commissie voor de Rijksuitgaven** (3 gevonden)\
@@ -10,7 +10,7 @@ Laatste update: 07/03/2025 04:21
 **Vaste commissie voor Asiel en Migratie** (13 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Asiel-en-Migratie.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Asiel-en-Migratie.ics)
 
-**Vaste commissie voor Binnenlandse Zaken** (82 gevonden)\
+**Vaste commissie voor Binnenlandse Zaken** (83 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Binnenlandse-Zaken.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Binnenlandse-Zaken.ics)
 
 **Vaste commissie voor Buitenlandse Handel en Ontwikkelingshulp** (10 gevonden)\
@@ -25,13 +25,13 @@ Laatste update: 07/03/2025 04:21
 **Vaste commissie voor Digitale Zaken** (40 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Digitale-Zaken.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Digitale-Zaken.ics)
 
-**Vaste commissie voor Economische Zaken** (15 gevonden)\
+**Vaste commissie voor Economische Zaken** (17 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Economische-Zaken.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Economische-Zaken.ics)
 
 **Vaste commissie voor Europese Zaken** (18 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Europese-Zaken.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Europese-Zaken.ics)
 
-**Vaste commissie voor Financiën** (113 gevonden)\
+**Vaste commissie voor Financiën** (114 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Financiën.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Financiën.ics)
 
 **Vaste commissie voor Infrastructuur en Waterstaat** (129 gevonden)\
