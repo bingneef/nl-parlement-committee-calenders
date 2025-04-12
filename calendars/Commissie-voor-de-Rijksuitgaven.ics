@@ -2,24 +2,24 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Notitie:\n *Indicatieve spreektijd per fractie 4 minuten*\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  E. Heinen (onbekend)\n  C.J. Faddegon (PVV)\n\n\n
+DTEND:20250701T183000Z
+DTSTART:20250701T153000Z
+SUMMARY:Begrotingsproces
+UID:60128ab1-73d5-463d-87f4-52173b0e996e@6012.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Notitie:\n*Uw fungerend voorzitter stelt een indicatievieve spreektijd van 5 minuten per fractie voor\, uitgaande van ongeveer vijf sprekers*\n\nHet is niet een besloten evenement\n\nAanwezigen (5):\n  J.C. Sneller (D66)\n  W.B. Hoekstra (onbekend)\n  B.A.W. Snels (GroenLinks)\n  J.L. Geurts (CDA)\n  E. Heinen (VVD)\n\n\n
 DTEND:20210624T120000Z
 DTSTART:20210624T100000Z
 SUMMARY:Begroten en verantwoorden 
-UID:38225c5d-e758-4037-bd57-0a6b8a88e011@3822.org
+UID:c9104bf2-74cc-411f-b6af-b03f181f054d@c910.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nNoot: \nLeden die wensen deel te nemen aan het commissiedebat worden verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n  H. Nijboer (PvdA)\n  vaste commissie voor Financiën (onbekend)\n  I. (Inge) van Dijk (CDA)\n  S. Maatoug (GroenLinks)\n  J.C. Sneller (D66)\n  S.A.M. Kaag (onbekend)\n  vaste commissie voor Onderwijs\, Cultuur en Wetenschap (onbekend)\n  vaste commissie voor Landbouw\, Natuur en Voedselkwaliteit (onbekend)\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (onbekend)\n  E. Heinen (VVD)\n\n\n
 DTEND:20220914T190000Z
 DTSTART:20220914T160000Z
 SUMMARY:Begrotingsproces
-UID:0da60db3-e561-4ef4-8656-83d112cff99b@0da6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\n *Indicatieve spreektijd per fractie 4 minuten*\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  E. Heinen (onbekend)\n  C.J. Faddegon (PVV)\n\n\n
-DTEND:20250701T183000Z
-DTSTART:20250701T153000Z
-SUMMARY:Begrotingsproces
-UID:df2ea09a-d6ab-449b-a9be-98f25854a967@df2e.org
+UID:65530d9c-3b4f-4ea7-90d3-0b099ad64cd5@6553.org
 END:VEVENT
 END:VCALENDAR
