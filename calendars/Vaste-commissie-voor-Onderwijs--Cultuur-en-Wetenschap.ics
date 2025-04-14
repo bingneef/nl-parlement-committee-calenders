@@ -2,514 +2,521 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 6 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  K. Bouchallikh (GroenLinks)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  N.L. den Haan (Fractie Den Haan)\n  H. van der Molen (CDA)\n  J.M.P. van der Laan (D66)\n  Onbekend (onbekend)\n  R.H. Dijkgraaf (onbekend)\n  S. Kerseboom (FVD)\n  H.H. van der Woude (VVD)\n  H.E. de Hoop (PvdA)\n  H.J. Beertema (PVV)\n\n\n
-DTEND:20220209T124500Z
-DTSTART:20220209T091500Z
-SUMMARY:Internationalisering en Kennisveiligheid
-UID:9000fb20-5944-4395-97f6-934ee219af30@9000.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\ncommissiedebat met uur verlengd en \nagenda is gewijzigd\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  L. Bromet (GroenLinks-PvdA)\n  M.L.J. Paul (onbekend)\n  vaste commissie voor Digitale Zaken (onbekend)\n  N.A. Uppelschoten (PVV)\n  I. Rooderkerk (D66)\n  A. Kisteman (VVD)\n  Onbekend (onbekend)\n  M. Oostenbrink (BBB)\n  A. Pijpelink (GroenLinks-PvdA)\n  A.J. Soepboer (NSC)\n\n\n
-DTEND:20250403T130000Z
-DTSTART:20250403T080000Z
-SUMMARY:Digitalisering en leermiddelen in het funderend onderwijs
-UID:d52e51cc-8086-4c70-b6a8-d3f4ee94fd87@d52e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nVerplaatst i.v.m. overlap plenair debat\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  H.M. Krul (CDA)\n  A. Pijpelink (GroenLinks-PvdA)\n  M. Tseggai (GroenLinks-PvdA)\n  C.R. van Zanten (BBB)\n  R.H. Dijkgraaf (onbekend)\n  R.Y. Hertzberger (NSC)\n  R.B. Blaauw (PVV)\n  P. van Houwelingen (FVD)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  M. van Ooijen (onbekend)\n  D.G.M. Ceder (ChristenUnie)\n  D.A. Ergin (DENK)\n  C. Martens-America (VVD)\n  J.M. Paternotte (D66)\n\n\n
-DTEND:20240425T133000Z
-DTSTART:20240425T103000Z
-SUMMARY:Mentale gezondheid van jongeren en studenten
-UID:60546104-af0a-48cf-9dd5-980f2eb714c0@6054.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (1):\n  E.E.W. Bruins (onbekend)\n\n\n
-DTEND:20250603T173000Z
-DTSTART:20250603T143000Z
-SUMMARY:Academische vrijheid
-UID:70250470-3790-4741-abad-639f5df14440@7025.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nAgendapunten met * toegevoegd en gewijzigd tijdstip \nSpreektijd 6 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  S. Kerseboom (FVD)\n  W.P.H.J. Peters (CDA)\n  vaste commissie voor Economische Zaken en Klimaat (onbekend)\n  S.J.F. van der Graaf (ChristenUnie)\n  J.M.P. van der Laan (D66)\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n  E.M. Westerveld (GroenLinks)\n  R.H. Dijkgraaf (onbekend)\n  H.J. Beertema (PVV)\n  R. Bisschop (SGP)\n  J.P. Kwint (SP)\n  H.E. de Hoop (PvdA)\n  H.H. van der Woude (VVD)\n  N.J.F. Pouw-Verweij (JA21)\n\n\n
-DTEND:20230418T200000Z
-DTSTART:20230418T153000Z
-SUMMARY:Wetenschapsbeleid
-UID:613d25e9-eaba-4c6d-80bc-ba906c07e424@613d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  R. Bisschop (SGP)\n  S.M. Richardson (VVD)\n  N.L. den Haan (Fractie Den Haan)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  N.J.F. Pouw-Verweij (BBB)\n  N. Drost (ChristenUnie)\n  E.M. Westerveld (GroenLinks)\n  H.M. Krul (CDA)\n  M.L.J. Paul (onbekend)\n  H. Kat (D66)\n  Onbekend (onbekend)\n\n\n
-DTEND:20231025T113000Z
-DTSTART:20231025T080000Z
-SUMMARY:Maatschappelijke diensttijd
-UID:c64f0eb3-b82e-44a6-acb3-3e4ed337085a@c64f.org
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\ntoevoeging agendapunt met * en\nwijziging aanwezigheid bewindspersoon\n(in de OCW-procedurevergadering van 8 december jl. is besloten dat Evaluatie experiment instellingsaccreditatie niet in dit commissiedebat aan de orde komt (maar in apart schriftelijk overleg)\; daarmee komt hoofdaccent op primair en voortgezet onderwijs te liggen)\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  W.P.H.J. Peters (CDA)\n  Onbekend (onbekend)\n  P.H. van Meenen (D66)\n  M.L.J. Paul (VVD)\n  G.J.M. Segers (ChristenUnie)\n  H.J. Beertema (PVV)\n  J.P. Kwint (SP)\n  I.J.M. Michon-Derkzen (VVD)\n  A.D. Wiersma (onbekend)\n\n\n
+DTEND:20221214T120000Z
+DTSTART:20221214T090000Z
+SUMMARY:Onderzoekskaders 2022 Inspectie van het Onderwijs
+UID:77875096-6d6d-49a6-9c72-991b812bbb2c@7787.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\ni.v.m. toevoeging agendapunt met *\nSpreektijd 6 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  E.M. Westerveld (GroenLinks)\n  A.D. Wiersma (onbekend)\n  Onbekend (onbekend)\n  P.H. van Meenen (D66)\n  W.P.H.J. Peters (CDA)\n  H.E. de Hoop (PvdA)\n  G.J.M. Segers (ChristenUnie)\n  H.J. Beertema (PVV)\n  R. Bisschop (SGP)\n  M.L.J. Paul (VVD)\n  I.J.M. Michon-Derkzen (VVD)\n\n\n
 DTEND:20220309T123000Z
 DTSTART:20220309T090000Z
 SUMMARY:Sociale Veiligheid op school
-UID:e8306075-8d78-422a-8cef-8263756b5582@e830.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunten met * toegevoegd\nSpreektijd 8 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  Onbekend (onbekend)\n  M. van Ooijen (onbekend)\n  I.J.M. Michon-Derkzen (VVD)\n  P.H. van Meenen (D66)\n  J.P. Kwint (SP)\n  A.D. Wiersma (onbekend)\n  M.L.J. Paul (VVD)\n  N. Drost (ChristenUnie)\n  N.J.F. Pouw-Verweij (JA21)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  W.P.H.J. Peters (CDA)\n  E.M. Westerveld (GroenLinks)\n  H.J. Beertema (PVV)\n  H.E. de Hoop (PvdA)\n  R. Bisschop (SGP)\n\n\n
-DTEND:20230405T140000Z
-DTSTART:20230405T080000Z
-SUMMARY:Passend onderwijs
-UID:a867555f-3942-4340-835d-7f542cac7404@a867.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nAgendapunten met * toegevoegd\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (1):\n  E.E.W. Bruins (onbekend)\n\n\n
-DTEND:20250619T160000Z
-DTSTART:20250619T120000Z
-SUMMARY:Onderzoeks- en Wetenschapsbeleid
-UID:3244ea79-d1ee-4652-b66b-a73b68ecefde@3244.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\ni.v.m. wijziging spreektijd\nSpreektijd 7 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  I.J.M. Michon-Derkzen (VVD)\n  H.J. Beertema (PVV)\n  G.J.M. Segers (ChristenUnie)\n  Onbekend (onbekend)\n  P.H. van Meenen (D66)\n  R. Bisschop (SGP)\n  M. Goudzwaard (JA21)\n  M.L.J. Paul (VVD)\n  W.P.H.J. Peters (CDA)\n  E.M. Westerveld (GroenLinks)\n  H.E. de Hoop (PvdA)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  A.D. Wiersma (onbekend)\n\n\n
-DTEND:20220330T123000Z
-DTSTART:20220330T080000Z
-SUMMARY:Passend onderwijs
-UID:628de9bc-a76e-4976-837c-5d752dba2f6d@628d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  A.D. Wiersma (onbekend)\n  Onbekend (onbekend)\n  R.H. Dijkgraaf (onbekend)\n  P.H. van Meenen (D66)\n  Z. El Yassini (VVD)\n  W.P.H.J. Peters (CDA)\n  S.R.T. van Baarle (DENK)\n  E.M. Westerveld (GroenLinks)\n  H.J. Beertema (PVV)\n\n\n
-DTEND:20221130T123000Z
-DTSTART:20221130T090000Z
-SUMMARY:Onderwijs aan vluchtelingen po/vo/mbo/ho
-UID:44f402b4-5951-49ed-9cd4-ec918338764f@44f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunten met * toegevoegd\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  S.M. Beckerman (SP)\n  E.M. Westerveld (GroenLinks-PvdA)\n  M.L.J. Paul (onbekend)\n  A.H.J. de Kort (VVD)\n  M. van Ooijen (onbekend)\n  I. Rooderkerk (D66)\n  C.R. van Zanten (BBB)\n  A.J. Soepboer (NSC)\n  D.G.M. Ceder (ChristenUnie)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  Onbekend (onbekend)\n  P.H. van der Hoeff (PVV)\n  C. Stoffer (SGP)\n\n\n
-DTEND:20240529T130000Z
-DTSTART:20240529T080000Z
-SUMMARY:Passend onderwijs
-UID:176dad02-a4f2-4dc8-85e7-b1c279cc24b8@176d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  S.W. Sjoerdsma (D66)\n  P.J.T. van Strien (VVD)\n  M. Mohandis (PvdA)\n  M. (Martin) Bosma (PVV)\n  L.M. Werner (CDA)\n  S.J.F. van der Graaf (ChristenUnie)\n  E.M. Westerveld (GroenLinks)\n  J.P. Kwint (SP)\n  S.R.T. van Baarle (DENK)\n  G. Uslu (onbekend)\n\n\n
-DTEND:20220706T120000Z
-DTSTART:20220706T080000Z
-SUMMARY:Hoofdlijnenbrief Media 2022
-UID:d5fc2c84-99f2-4235-b347-808e1f3be4a8@d5fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nAgendapunten met * toegevoegd\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  P.H. van der Hoeff (PVV)\n  R.B. Blaauw (PVV)\n  P. van Houwelingen (FVD)\n  A.J. Soepboer (NSC)\n  J.M. Paternotte (D66)\n  M.L.J. Paul (onbekend)\n  D.G.M. Ceder (ChristenUnie)\n  C.R. van Zanten (BBB)\n  H.M. Krul (CDA)\n  A.H.J. de Kort (VVD)\n  C. Stoffer (SGP)\n  D.A. Ergin (DENK)\n  A. Pijpelink (GroenLinks-PvdA)\n\n\n
-DTEND:20240313T120000Z
-DTSTART:20240313T090000Z
-SUMMARY:Toezicht en handhaving
-UID:40d9414c-1ac7-4298-8757-ef25bc0dc8d4@40d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  S.M. Beckerman (SP)\n  H.M. Krul (CDA)\n  Onbekend (onbekend)\n  M. Mohandis (GroenLinks-PvdA)\n  C. Stoffer (SGP)\n  D.G.M. Ceder (ChristenUnie)\n  H. Bevers (VVD)\n  C.R. van Zanten (BBB)\n  Onbekend (onbekend)\n  E.E.W. Bruins (onbekend)\n  R.Y. Hertzberger (NSC)\n  Onbekend (onbekend)\n  vaste commissie voor Defensie (onbekend)\n  C. van der Wal (VVD)\n  M.K. van der Velde (PVV)\n\n\n
-DTEND:20241017T150000Z
-DTSTART:20241017T110000Z
-SUMMARY:Erfgoed
-UID:834aa3e5-e019-437b-8075-abbbf03aa009@834a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunten met * toegevoegd\nSpreektijd 5 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  J.M.P. van der Laan (D66)\n  I.J.M. Michon-Derkzen (VVD)\n  E.M. Westerveld (GroenLinks)\n  L.M. Werner (CDA)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  H.J. Beertema (PVV)\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (onbekend)\n  S. Mutluer (PvdA)\n  R.H. Dijkgraaf (onbekend)\n  C.E.G. van Gennip (onbekend)\n  H.H. van der Woude (VVD)\n\n\n
-DTEND:20230524T160000Z
-DTSTART:20230524T120000Z
-SUMMARY:Integrale aanpak seksueel grensoverschrijdend gedrag 
-UID:849307b8-a5e7-4132-b91a-8021b7583215@8493.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  I.J.M. Michon-Derkzen (VVD)\n  R.H. Dijkgraaf (onbekend)\n  R. Bisschop (SGP)\n  Onbekend (onbekend)\n  A.D. Wiersma (onbekend)\n  E.M. Westerveld (GroenLinks)\n  M.L.J. Paul (VVD)\n  P.H. van Meenen (D66)\n  W.P.H.J. Peters (CDA)\n  G.J.M. Segers (ChristenUnie)\n  H.J. Beertema (PVV)\n  J.P. Kwint (SP)\n\n\n
-DTEND:20221215T130000Z
-DTSTART:20221215T090000Z
-SUMMARY:Leraren en Lerarenopleidingen 
-UID:4424dc2e-cd2a-4e53-ac64-b0896d24c5d9@4424.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 5 minuten per fractie (incl. dinerpauze)\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  C. Stoffer (SGP)\n  I. Rooderkerk (D66)\n  M. Tseggai (GroenLinks-PvdA)\n  C. Martens-America (VVD)\n  S.M. Beckerman (SP)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  R.H. Dijkgraaf (onbekend)\n  D.A. Ergin (DENK)\n  A. Pijpelink (GroenLinks-PvdA)\n  C.R. van Zanten (BBB)\n  A.J. Soepboer (NSC)\n  R.B. Blaauw (PVV)\n\n\n
-DTEND:20240416T193000Z
-DTSTART:20240416T143000Z
-SUMMARY:mbo
-UID:c6e91a76-beeb-45cd-951d-133118b3e846@c6e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nAgendapunten met * toegevoegd\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  S.M. Beckerman (SP)\n  N.A. Uppelschoten (PVV)\n  H.M. Krul (CDA)\n  C. Martens-America (VVD)\n  J.M. Paternotte (D66)\n  A.J. Soepboer (NSC)\n  M. Tseggai (GroenLinks-PvdA)\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (onbekend)\n  M. Oostenbrink (BBB)\n  E.E.W. Bruins (onbekend)\n  D.A. Ergin (DENK)\n\n\n
-DTEND:20250402T120000Z
-DTSTART:20250402T080000Z
-SUMMARY:Stages in het mbo\, hbo\, wo en aansluiting op de arbeidsmarkt
-UID:f9891ab9-2fba-46e3-9cd5-70026d08bf30@f989.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (4):\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  E.E.W. Bruins (onbekend)\n  C.R. van Zanten (BBB)\n  Onbekend (onbekend)\n\n\n
-DTEND:20250514T150000Z
-DTSTART:20250514T110000Z
-SUMMARY:Mentale gezondheid scholieren en studenten
-UID:280490fb-be81-4e89-ab78-91d05add18be@2804.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunten met * toegevoegd\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  K. Bouchallikh (GroenLinks)\n  Z. El Yassini (VVD)\n  C.A.M. van der Plas (BBB)\n  H.E. de Hoop (PvdA)\n  J.P. Kwint (SP)\n  S.R.T. van Baarle (DENK)\n  K.B. Hagen (D66)\n  S.J.F. van der Graaf (ChristenUnie)\n  H.J. Beertema (PVV)\n  H. van der Molen (CDA)\n  R.H. Dijkgraaf (onbekend)\n  I.J.M. Michon-Derkzen (VVD)\n\n\n
-DTEND:20221109T120000Z
-DTSTART:20221109T090000Z
-SUMMARY:MBO (voortzetting commissiedebat op 16 november)
-UID:96e2d6f3-64af-473e-aeda-b15d1edc29a1@96e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt * toegevoegd\nSpreektijd 6 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  R. Bisschop (SGP)\n  P.H. van Meenen (D66)\n  H.E. de Hoop (PvdA)\n  A.D. Wiersma (onbekend)\n  W.P.H.J. Peters (CDA)\n  E.M. Westerveld (GroenLinks)\n  M.L.J. Paul (VVD)\n  S. Kerseboom (FVD)\n  J.P. Kwint (SP)\n  G.J.M. Segers (ChristenUnie)\n\n\n
-DTEND:20220406T113000Z
-DTSTART:20220406T080000Z
-SUMMARY:Curriculum funderend onderwijs po/vo
-UID:1ca32d02-79a7-4915-ab86-0b231d6cf9a1@1ca3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 2 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (23):\n  C.A.M. van der Plas (BBB)\n  Onbekend (onbekend)\n  S.J.F. van der Graaf (ChristenUnie)\n  K. Bouchallikh (GroenLinks)\n  H.J. Beertema (PVV)\n  Onbekend (onbekend)\n  J.P. Kwint (SP)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  H.E. de Hoop (PvdA)\n  Onbekend (onbekend)\n  H. van der Molen (CDA)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  R. Bisschop (SGP)\n  Onbekend (onbekend)\n  R.H. Dijkgraaf (onbekend)\n  Onbekend (onbekend)\n  S.R.T. van Baarle (DENK)\n  Z. El Yassini (VVD)\n  K.B. Hagen (D66)\n  Onbekend (onbekend)\n\n\n
-DTEND:20221116T110000Z
-DTSTART:20221116T090000Z
-SUMMARY:MBO (voortzetting van commissiedebat van 9 november)
-UID:ea1914e9-3f0a-4667-8c36-7aa068d3f4b3@ea19.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  R.H. Dijkgraaf (onbekend)\n  H.E. de Hoop (PvdA)\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (onbekend)\n  N.J.F. Pouw-Verweij (JA21)\n  I.J.M. Michon-Derkzen (VVD)\n  W.P.H.J. Peters (CDA)\n  J.P. Kwint (SP)\n  K.B. Hagen (D66)\n  K. Bouchallikh (GroenLinks)\n  Z. El Yassini (VVD)\n\n\n
-DTEND:20230216T150000Z
-DTSTART:20230216T120000Z
-SUMMARY:Macrodoelmatigheid mbo
-UID:fa3de2c0-ee40-4b8b-92da-4faeebe82cdd@fa3d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (6):\n  A. Kisteman (VVD)\n  Onbekend (onbekend)\n  M.L.J. Paul (onbekend)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  C.R. van Zanten (BBB)\n  V. Maeijer (onbekend)\n\n\n
-DTEND:20250521T190000Z
-DTSTART:20250521T130000Z
-SUMMARY:Passend onderwijs
-UID:9620675a-9e34-40b6-9814-8ff6bbfdfca7@9620.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunten met * toegevoegd\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (16):\n  Onbekend (onbekend)\n  M.L.J. Paul (onbekend)\n  P.H. van der Hoeff (PVV)\n  A.J. Soepboer (NSC)\n  R.B. Blaauw (PVV)\n  Onbekend (onbekend)\n  I.J.M. Michon-Derkzen (VVD)\n  C.R. van Zanten (BBB)\n  C. Stoffer (SGP)\n  J.M. Paternotte (D66)\n  S.M. Beckerman (SP)\n  A. Pijpelink (GroenLinks-PvdA)\n  A.H.J. de Kort (VVD)\n  D.G.M. Ceder (ChristenUnie)\n  P. van Houwelingen (FVD)\n  R.H. Dijkgraaf (onbekend)\n\n\n
-DTEND:20240228T140000Z
-DTSTART:20240228T090000Z
-SUMMARY:Leraren
-UID:3b52e3e8-bacb-4ba2-85a6-3132bbb32e4c@3b52.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\ni.v.m. uitbreiding spreektijd (was: 4 minuten)\nSpreektijd 6 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  J.M.P. van der Laan (D66)\n  H.J. Beertema (PVV)\n  R. Bisschop (SGP)\n  Onbekend (onbekend)\n  I.J.M. Michon-Derkzen (VVD)\n  P.H. Omtzigt (Omtzigt)\n  H.H. van der Woude (VVD)\n  E.M. Westerveld (GroenLinks)\n  W.P.H.J. Peters (CDA)\n  S.J.F. van der Graaf (ChristenUnie)\n  J.P. Kwint (SP)\n  R.H. Dijkgraaf (onbekend)\n\n\n
-DTEND:20230615T160000Z
-DTSTART:20230615T110000Z
-SUMMARY:Internationalisering hoger onderwijs
-UID:4fefe39a-f872-4b3f-ab02-1ef6fb1ba807@4fef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\ni.v.m. verplaatsen commissiedebat (was gepland op 19 juni 2024)\nDit debat is een voortzetting van het commissiedebat Mentale gezondheid van jongeren en studenten d.d. 25 april 2024. Tijdens dit debat zal de minister van Onderwijs\, Cultuur en Wetenschap zijn eerste termijn afmaken en vindt de tweede termijn van de Kamer en beide bewindspersonen plaats.\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  R.B. Blaauw (PVV)\n  Onbekend (onbekend)\n  P. van Houwelingen (FVD)\n  M. Tseggai (GroenLinks-PvdA)\n  I.J.M. Michon-Derkzen (VVD)\n  R.Y. Hertzberger (NSC)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  H.M. Krul (CDA)\n  D.G.M. Ceder (ChristenUnie)\n  C. Martens-America (VVD)\n  J.M. Paternotte (D66)\n  C.R. van Zanten (BBB)\n  R.H. Dijkgraaf (onbekend)\n\n\n
-DTEND:20240612T120000Z
-DTSTART:20240612T100000Z
-SUMMARY:Vervolg commissiedebat Mentale gezondheid van jongeren en studenten 
-UID:1d735e3e-dc67-4792-abb8-06ffb6f10907@1d73.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd 5 minuten per fractie.\n \n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  J.P. Kwint (SP)\n  Onbekend (onbekend)\n  W.P.H.J. Peters (CDA)\n  R.H. Dijkgraaf (onbekend)\n  J.M.P. van der Laan (D66)\n  N.L. den Haan (Fractie Den Haan)\n  H.J. Beertema (PVV)\n  E.M. Westerveld (GroenLinks)\n  H.H. van der Woude (VVD)\n\n\n
-DTEND:20231011T140000Z
-DTSTART:20231011T080000Z
-SUMMARY:Onderwijskwaliteit in het hoger onderwijs
-UID:b0cd238d-1346-4a28-bd75-32f08d2ed5c5@b0cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nGewijzigd tijdstip i.v.m. beschikbaarheid minister\nen agendapunt met * toegevoegd\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  C. Martens-America (VVD)\n  L.C.J. Stultiens\, voorzitter CD (GroenLinks-PvdA)\n  E.E.W. Bruins (onbekend)\n  vaste commissie voor Defensie (onbekend)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  vaste commissie voor Economische Zaken (onbekend)\n  A. Heite (NSC)\n  N.A. Uppelschoten (PVV)\n  P.H. van der Hoeff (PVV)\n  I. Rooderkerk (D66)\n\n\n
-DTEND:20250130T113000Z
-DTSTART:20250130T083000Z
-SUMMARY:Kennisveiligheid
-UID:e473bda5-ac8e-4dda-ac1b-06f996da4e57@e473.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  M.L.J. Paul (onbekend)\n  I. Rooderkerk (D66)\n  A.J. Soepboer (NSC)\n  H.M. Krul (CDA)\n  A. Kisteman (VVD)\n  A. Pijpelink (GroenLinks-PvdA)\n  C. Stoffer (SGP)\n  L. Bromet (GroenLinks-PvdA)\n  N.A. Uppelschoten (PVV)\n  C.R. van Zanten (BBB)\n\n\n
-DTEND:20250212T130000Z
-DTSTART:20250212T090000Z
-SUMMARY:Sturing in het funderend onderwijs
-UID:381a7371-da17-451f-8e6a-0cdb2a056436@381a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  Onbekend (onbekend)\n  H.M. Krul (CDA)\n  Onbekend (onbekend)\n  E.E.W. Bruins (onbekend)\n  A.J. Soepboer\, voorzitter (NSC)\n  I. Rooderkerk (D66)\n  N.A. Uppelschoten (PVV)\n  C. Martens-America (VVD)\n  A. Pijpelink (GroenLinks-PvdA)\n\n\n
-DTEND:20241211T130000Z
-DTSTART:20241211T090000Z
-SUMMARY:mbo
-UID:66a872c4-83bf-4f5a-8f66-f95fd6042dbe@66a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunten met * toegevoegd\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (4):\n  E.E.W. Bruins (onbekend)\n  vaste commissie voor Economische Zaken (onbekend)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n\n\n
-DTEND:20250612T120000Z
-DTSTART:20250612T080000Z
-SUMMARY:Cultuur
-UID:43fcb0b3-4881-4c44-8a53-f6426df59115@43fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunten met * toegevoegd\nSpreektijden 6 minuten per fractie\n(inc. 3 kwartier dinerpauze)\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  H.E. de Hoop (PvdA)\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n  M. (Martin) Bosma (PVV)\n  C.A.M. van der Plas (BBB)\n  P.J.T. van Strien (VVD)\n  J. Wuite (D66)\n  E.M. Westerveld (GroenLinks)\n  N.J.F. Pouw-Verweij (JA21)\n  J.P. Kwint (SP)\n  A. Slob (onbekend)\n  S. Kerseboom (FVD)\n  L.M. Werner (CDA)\n\n\n
-DTEND:20211012T191500Z
-DTSTART:20211012T150000Z
-SUMMARY:Verzameldebat media (o.a. omroepbestel\, persveiligheid)
-UID:136755fe-7869-467f-963e-451da24bb8d2@1367.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  B.J. Eerdmans (JA21)\n  C. Stoffer (SGP)\n  A.J. Soepboer (NSC)\n  A.H.J. de Kort (VVD)\n  M.L.J. Paul (onbekend)\n  Onbekend (onbekend)\n  A. Pijpelink (GroenLinks-PvdA)\n  C.R. van Zanten (BBB)\n  I. Rooderkerk (D66)\n  Onbekend (onbekend)\n  P.H. van der Hoeff (PVV)\n\n\n
-DTEND:20240515T120000Z
-DTSTART:20240515T090000Z
-SUMMARY:Veiligheid op scholen
-UID:ec11e900-28e9-4b1e-9e57-b244c5c964fa@ec11.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nAgendapunten met * toegevoegd\nSpreektijd 7 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  R.H. Dijkgraaf (onbekend)\n  W.P.H.J. Peters (CDA)\n  R. Bisschop (SGP)\n  Onbekend (onbekend)\n  H.E. de Hoop (PvdA)\n  E.M. Westerveld (GroenLinks)\n  H.J. Beertema (PVV)\n  S. Kerseboom (FVD)\n  I.J.M. Michon-Derkzen (VVD)\n  H.H. van der Woude (VVD)\n  J.M.P. van der Laan (D66)\n\n\n
-DTEND:20220630T130000Z
-DTSTART:20220630T080000Z
-SUMMARY:Beleidsbrief Hoger onderwijs en wetenschap
-UID:abe81b88-7253-42a5-9102-d1a7091911a8@abe8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nAgendapunt met * toegevoegd\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  A.H.J. de Kort (VVD)\n  C.R. van Zanten (BBB)\n  I.J.M. Michon-Derkzen (VVD)\n  I. Rooderkerk (D66)\n  P.H. van der Hoeff (PVV)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  M.L.J. Paul (onbekend)\n  A.J. Soepboer (NSC)\n  A. Pijpelink (GroenLinks-PvdA)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n\n\n
-DTEND:20240627T120000Z
-DTSTART:20240627T080000Z
-SUMMARY:vmbo 
-UID:d81e1760-40ad-4795-acca-9bc94a02f6e1@d81e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\ni.v.m. verplaatsen commissiedebat (was gepland op 22 maart 2022)\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  H.E. de Hoop (PvdA)\n  vaste commissie voor Digitale Zaken (onbekend)\n  H.H. van der Woude (VVD)\n  Onbekend (onbekend)\n  P.H. van Meenen (D66)\n  R.H. Dijkgraaf (onbekend)\n  Onbekend (onbekend)\n  J.P. Kwint (SP)\n  H. van der Molen (CDA)\n\n\n
-DTEND:20220407T103000Z
-DTSTART:20220407T080000Z
-SUMMARY:Dienst Uitvoering Onderwijs (DUO)
-UID:e6a92900-fe11-40b4-8bb9-3a4cb5209f7a@e6a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd 2 minuten per fractie\n \n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  J.P. Kwint (SP)\n  L.M. Werner (CDA)\n  M. (Martin) Bosma (PVV)\n  G. Uslu (onbekend)\n  M. Mohandis (PvdA)\n  P.J.T. van Strien (VVD)\n  J. Wuite (D66)\n  E.M. Westerveld (GroenLinks)\n\n\n
-DTEND:20220622T123000Z
-DTSTART:20220622T113000Z
-SUMMARY:Hoofdlijnenbrief cultuur 2022: Herstel\, vernieuwing en groei (tweede termijn)
-UID:a1c4e0b0-7ec9-4fd9-8e76-05b012ca65bd@a1c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nAgendapunten met * toegevoegd\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  J.M. Paternotte (D66)\n  Onbekend (onbekend)\n  S.M. Beckerman (SP)\n  Onbekend (onbekend)\n  E.E.W. Bruins (onbekend)\n  C. Stoffer (SGP)\n  D.A. Ergin (DENK)\n  C.R. van Zanten (BBB)\n  C. Martens-America (VVD)\n  R.Y. Hertzberger (NSC)\n  Onbekend (onbekend)\n  P.H. van der Hoeff (PVV)\n  L.C.J. Stultiens (GroenLinks-PvdA)\n\n\n
-DTEND:20241023T170000Z
-DTSTART:20241023T120000Z
-SUMMARY:DUO en Hoger onderwijs
-UID:1e5b55e5-7e92-4d15-b322-981d6666ca7e@1e5b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nAgendapunt met * toegevoegd\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  vaste commissie voor Digitale Zaken (onbekend)\n  I. Rooderkerk (D66)\n  A. Pijpelink (GroenLinks-PvdA)\n  C. Stoffer (SGP)\n  Onbekend (onbekend)\n  M.L.J. Paul (onbekend)\n  N.A. Uppelschoten (PVV)\n  A. Kisteman (VVD)\n  Onbekend (onbekend)\n  C.R. van Zanten (BBB)\n  D.A. Ergin (DENK)\n  A.J. Soepboer (NSC)\n  Onbekend (onbekend)\n  D.G.M. Ceder (ChristenUnie)\n\n\n
-DTEND:20241016T120000Z
-DTSTART:20241016T080000Z
-SUMMARY:Curriculumherziening en de voortgangsrapportage masterplan basisvaardigheden 
-UID:8aed93a7-741c-492c-bcf2-5907843770ce@8aed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  O.R. Ephraim (Groep Van Haga)\n  M. Goudzwaard (JA21)\n  G.J.M. Segers (ChristenUnie)\n  H.E. de Hoop (PvdA)\n  W.P.H.J. Peters (CDA)\n  M.L.J. Paul (VVD)\n  A.D. Wiersma (onbekend)\n  P.H. van Meenen (D66)\n  H.J. Beertema (PVV)\n  J.P. Kwint (SP)\n  N.L. den Haan (Fractie Den Haan)\n  Onbekend (onbekend)\n\n\n
-DTEND:20220524T180000Z
-DTSTART:20220524T143000Z
-SUMMARY:Nationaal Programma Onderwijs (po en vo)
-UID:d9e4d8b9-b450-4a54-b211-3b6c210bc03a@d9e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\ni.v.m. wijziging datum commissiedebat \nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  Onbekend (onbekend)\n  H.J. Beertema (PVV)\n  M.L.J. Paul (VVD)\n  I.J.M. Michon-Derkzen (VVD)\n  A.D. Wiersma (onbekend)\n  Onbekend (onbekend)\n  P.H. van Meenen (D66)\n  R. Bisschop (SGP)\n  N. Drost (ChristenUnie)\n  N.J.F. Pouw-Verweij (JA21)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  E.M. Westerveld (GroenLinks)\n  J.P. Kwint (SP)\n  W.P.H.J. Peters (CDA)\n  M. van Ooijen (onbekend)\n\n\n
-DTEND:20230531T110000Z
-DTSTART:20230531T080000Z
-SUMMARY:Zorg en onderwijs
-UID:e0ff35d5-a216-4d34-a7a1-35261e54ec23@e0ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\ni.v.m. emailprocedure d.d. 10 april 2024\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  C. Martens-America (VVD)\n  M.K. van der Velde (PVV)\n  P. van Houwelingen (FVD)\n  I. Rooderkerk (D66)\n  B.J. Eerdmans (JA21)\n  D.A. Ergin (DENK)\n  M. Tseggai (GroenLinks-PvdA)\n  Onbekend (onbekend)\n  F.Q. Gräper-van Koolwijk (onbekend)\n  H.M. Krul (CDA)\n  M.C.G. Keijzer (BBB)\n  I.J.M. Michon-Derkzen (VVD)\n  J.N. van Vroonhoven (NSC)\n  vaste commissie voor Binnenlandse Zaken (onbekend)\n  D.G.M. Ceder (ChristenUnie)\n\n\n
-DTEND:20240411T130000Z
-DTSTART:20240411T080000Z
-SUMMARY:Media
-UID:ca572929-e32c-43c8-bae8-5e4ba51b123b@ca57.org
+UID:2d28c146-96be-49b9-b5ec-28f1a1d50ded@2d28.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nCommissiedebat verplaatst i.v.m. afwezigheid minister De Jonge\nbij commissiedebat op 6 oktober\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  Onbekend (onbekend)\n  P.H. van Meenen (D66)\n  Onbekend (onbekend)\n  E.M. Westerveld (GroenLinks)\n  Onbekend (onbekend)\n  R. Bisschop (SGP)\n  H.E. de Hoop (PvdA)\n  A.D. Wiersma (onbekend)\n  H.M. de Jonge (onbekend)\n  J.P. Kwint (SP)\n  W.P.H.J. Peters (CDA)\n  H.J. Beertema (PVV)\n  vaste commissie voor Binnenlandse Zaken (onbekend)\n  I.J.M. Michon-Derkzen (VVD)\n  M.L.J. Paul (VVD)\n\n\n
 DTEND:20221201T120000Z
 DTSTART:20221201T090000Z
 SUMMARY:Onderwijshuisvesting funderend onderwijs
-UID:66d62f0a-7106-43ff-9c08-fbc1939716e0@66d6.org
+UID:1c2439b4-a9e8-44cb-ab22-78a5b052272e@1c24.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\ntoevoeging agendapunt met * en\nwijziging aanwezigheid bewindspersoon\n(in de OCW-procedurevergadering van 8 december jl. is besloten dat Evaluatie experiment instellingsaccreditatie niet in dit commissiedebat aan de orde komt (maar in apart schriftelijk overleg)\; daarmee komt hoofdaccent op primair en voortgezet onderwijs te liggen)\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  W.P.H.J. Peters (CDA)\n  Onbekend (onbekend)\n  P.H. van Meenen (D66)\n  M.L.J. Paul (VVD)\n  G.J.M. Segers (ChristenUnie)\n  H.J. Beertema (PVV)\n  J.P. Kwint (SP)\n  I.J.M. Michon-Derkzen (VVD)\n  A.D. Wiersma (onbekend)\n\n\n
-DTEND:20221214T120000Z
-DTSTART:20221214T090000Z
-SUMMARY:Onderzoekskaders 2022 Inspectie van het Onderwijs
-UID:367ce979-345e-4bcc-9406-b233399ea536@367c.org
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  I.J.M. Michon-Derkzen (VVD)\n  R.H. Dijkgraaf (onbekend)\n  R. Bisschop (SGP)\n  Onbekend (onbekend)\n  A.D. Wiersma (onbekend)\n  E.M. Westerveld (GroenLinks)\n  M.L.J. Paul (VVD)\n  P.H. van Meenen (D66)\n  W.P.H.J. Peters (CDA)\n  G.J.M. Segers (ChristenUnie)\n  H.J. Beertema (PVV)\n  J.P. Kwint (SP)\n\n\n
+DTEND:20221215T130000Z
+DTSTART:20221215T090000Z
+SUMMARY:Leraren en Lerarenopleidingen 
+UID:27fc17a5-23f8-4b42-b915-1af72e46379e@27fc.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunten met * toegevoegd\nSpreektijd 7 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  J.C.M. (Hans) Teunissen (D66)\n  I.J.M. Michon-Derkzen (VVD)\n  J.P. Kwint (SP)\n  R.H. Dijkgraaf (onbekend)\n  K. Bouchallikh (GroenLinks)\n  H.J. Beertema (PVV)\n  W.P.H.J. Peters (CDA)\n  Z. El Yassini (VVD)\n  N.J.F. Pouw-Verweij (BBB)\n\n\n
-DTEND:20230913T130000Z
-DTSTART:20230913T080000Z
-SUMMARY:Mbo (basisvaardigheden/positie en medezeggenschap van studenten)
-UID:c3dd5148-bd04-4b84-adc5-3429cc69d240@c3dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd 5 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (5):\n  J.M.P. van der Laan (D66)\n  R.P. Brekelmans (VVD)\n  R.H. Dijkgraaf (onbekend)\n  M. Goudzwaard (JA21)\n  S. Kerseboom (FVD)\n\n\n
-DTEND:20220602T150000Z
-DTSTART:20220602T120000Z
-SUMMARY:Kennisveiligheid Nederlandse kennisinstellingen  
-UID:13672ea2-9092-4afc-bd84-5c9440112704@1367.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (1):\n  E.E.W. Bruins (onbekend)\n\n\n
-DTEND:20250423T120000Z
-DTSTART:20250423T080000Z
-SUMMARY:DUO en hoger onderwijs
-UID:9a9a485b-1b3c-40db-b418-5f144880ba95@9a9a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 6 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  M. (Martin) Bosma (PVV)\n  E.M. Westerveld (GroenLinks)\n  Onbekend (onbekend)\n  vaste commissie voor Economische Zaken en Klimaat (onbekend)\n  P.J.T. van Strien (VVD)\n  G. Uslu (onbekend)\n  Onbekend (onbekend)\n  J.P. Kwint (SP)\n  M.A.M. Adriaansens (onbekend)\n  J. Wuite (D66)\n  L.M. Werner (CDA)\n\n\n
-DTEND:20220310T163000Z
-DTSTART:20220310T130000Z
-SUMMARY:Steunpakket voor de culturele en creatieve sector + Garantieregeling evenementen + Evaluatie field labs
-UID:9ff90ea0-dacf-4f26-9193-1e73b22f2527@9ff9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (1):\n  E.E.W. Bruins (onbekend)\n\n\n
-DTEND:20251001T120000Z
-DTSTART:20251001T080000Z
-SUMMARY:mbo
-UID:cc7b927b-a0b0-4242-8359-51252d0087fd@cc7b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunten met * toegevoegd\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  M.L.J. Paul (onbekend)\n  A. Kisteman (VVD)\n\n\n
-DTEND:20250515T120000Z
-DTSTART:20250515T080000Z
-SUMMARY:Toetsen en examens
-UID:1450f3aa-5aeb-4b1f-a890-d1a4d85fb7f9@1450.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (16):\n  Onbekend (onbekend)\n  J.P. Kwint (SP)\n  H.J. Beertema (PVV)\n  W.P.H.J. Peters (CDA)\n  Onbekend (onbekend)\n  M. Goudzwaard (JA21)\n  A.D. Wiersma (onbekend)\n  G.J.M. Segers (ChristenUnie)\n  P.H. van Meenen (D66)\n  M.L.J. Paul (VVD)\n  Onbekend (onbekend)\n  H.E. de Hoop (PvdA)\n  Onbekend (onbekend)\n  E.M. Westerveld (GroenLinks)\n  R. Bisschop (SGP)\n  Onbekend (onbekend)\n\n\n
-DTEND:20220614T183000Z
-DTSTART:20220614T150000Z
-SUMMARY:Masterplan basisvaardigheden en eindrapportage: 'Analyse en evaluatie referentieniveaus Nederlandse taal en rekenen'
-UID:f1f6cad9-277b-473a-a0fc-052cb4c6b1a4@f1f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijden 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  I.K. van Engelshoven (onbekend)\n  Onbekend (onbekend)\n  E.M. Westerveld (GroenLinks)\n  Onbekend (onbekend)\n  J.P. Kwint (SP)\n  E.M.J. Ploumen (PvdA)\n  P.J.T. van Strien (VVD)\n  N. Gündogan (Volt)\n  F.P. Wassenberg (PvdD)\n  N.J.F. Pouw-Verweij (JA21)\n  J. Wuite (D66)\n\n\n
-DTEND:20210928T200000Z
-DTSTART:20210928T170000Z
-SUMMARY:Cultuur en corona
-UID:295f1fc1-d82b-4b1e-bb9f-bbed1974faa0@295f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nOp verzoek is ook de staatssecretaris van Infrastructuur en Waterstaat uitgenodigd. Zij zal aanwezig zijn in de eerste termijn.\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  J.P. Kwint (SP)\n  P.H. van Meenen (D66)\n  vaste commissie voor Binnenlandse Zaken (onbekend)\n  vaste commissie voor Infrastructuur en Waterstaat (onbekend)\n  V.L.W.A. Heijnen (onbekend)\n  A.D. Wiersma (onbekend)\n  S.R.T. van Baarle (DENK)\n  M.L.J. Paul (VVD)\n  W.P.H.J. Peters (CDA)\n  H.J. Beertema (PVV)\n  H.E. de Hoop (PvdA)\n  E.M. Westerveld (GroenLinks)\n\n\n
-DTEND:20221019T113000Z
-DTSTART:20221019T083000Z
-SUMMARY:Leerlingenvervoer
-UID:4aab275c-cd8b-48f5-94de-0c38d262d942@4aab.org
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nAgendapunten met * toegevoegd en gewijzigd tijdstip \nSpreektijd 6 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  S. Kerseboom (FVD)\n  W.P.H.J. Peters (CDA)\n  vaste commissie voor Economische Zaken en Klimaat (onbekend)\n  S.J.F. van der Graaf (ChristenUnie)\n  J.M.P. van der Laan (D66)\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n  E.M. Westerveld (GroenLinks)\n  R.H. Dijkgraaf (onbekend)\n  H.J. Beertema (PVV)\n  R. Bisschop (SGP)\n  J.P. Kwint (SP)\n  H.E. de Hoop (PvdA)\n  H.H. van der Woude (VVD)\n  N.J.F. Pouw-Verweij (JA21)\n\n\n
+DTEND:20230418T200000Z
+DTSTART:20230418T153000Z
+SUMMARY:Wetenschapsbeleid
+UID:e360ca3f-8382-48bd-b885-28f695f1ff43@e360.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\ni.v.m. toevoegen agendapunten met *\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  P.J.T. van Strien (VVD)\n  J.P. Kwint (SP)\n  G. Uslu (onbekend)\n  M. Mohandis (PvdA)\n  E.M. Westerveld (GroenLinks)\n  M. (Martin) Bosma (PVV)\n  L.M. Werner (CDA)\n  J. Wuite (D66)\n\n\n
 DTEND:20230629T150000Z
 DTSTART:20230629T110000Z
 SUMMARY:Uitgangspuntenbrief culturele basisinfrastructuur 2025-2028 (BIS)
-UID:48877a4d-5333-431e-afd7-2597b8f06cad@4887.org
+UID:86699149-e851-4506-a63a-e094e6c911f6@8669.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (1):\n  E.E.W. Bruins (onbekend)\n\n\n
-DTEND:20251029T130000Z
-DTSTART:20251029T090000Z
-SUMMARY:Hoger onderwijs
-UID:90555764-aa1e-460a-bdef-cdc044bd166b@9055.org
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\ni.v.m. emailprocedure d.d. 10 april 2024\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  C. Martens-America (VVD)\n  M.K. van der Velde (PVV)\n  P. van Houwelingen (FVD)\n  I. Rooderkerk (D66)\n  B.J. Eerdmans (JA21)\n  D.A. Ergin (DENK)\n  M. Tseggai (GroenLinks-PvdA)\n  Onbekend (onbekend)\n  F.Q. Gräper-van Koolwijk (onbekend)\n  H.M. Krul (CDA)\n  M.C.G. Keijzer (BBB)\n  I.J.M. Michon-Derkzen (VVD)\n  J.N. van Vroonhoven (NSC)\n  vaste commissie voor Binnenlandse Zaken (onbekend)\n  D.G.M. Ceder (ChristenUnie)\n\n\n
+DTEND:20240411T130000Z
+DTSTART:20240411T080000Z
+SUMMARY:Media
+UID:f232621e-4978-4f97-b74d-2d920fe46c7c@f232.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  B.J. Eerdmans (JA21)\n  I. Rooderkerk (D66)\n  A.J. Soepboer (NSC)\n  Onbekend (onbekend)\n  M.L.J. Paul (onbekend)\n  E.M. Westerveld (GroenLinks-PvdA)\n  C.A.M. van der Plas (BBB)\n  A. Kisteman (VVD)\n  N.A. Uppelschoten (PVV)\n  I.J.M. Michon-Derkzen (VVD)\n\n\n
-DTEND:20240911T110000Z
-DTSTART:20240911T080000Z
-SUMMARY:Praktijkonderwijs
-UID:74d8e211-6419-4558-bb86-8860215d030a@74d8.org
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  A.D. Wiersma (onbekend)\n  Onbekend (onbekend)\n  R.H. Dijkgraaf (onbekend)\n  P.H. van Meenen (D66)\n  Z. El Yassini (VVD)\n  W.P.H.J. Peters (CDA)\n  S.R.T. van Baarle (DENK)\n  E.M. Westerveld (GroenLinks)\n  H.J. Beertema (PVV)\n\n\n
+DTEND:20221130T123000Z
+DTSTART:20221130T090000Z
+SUMMARY:Onderwijs aan vluchtelingen po/vo/mbo/ho
+UID:baab3a6a-36aa-4e89-bf58-12127961b5d6@baab.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  I.J.M. Michon-Derkzen (VVD)\n  L.M. Werner (CDA)\n  E.M. Westerveld (GroenLinks)\n  P.J.T. van Strien (VVD)\n  J. Wuite (D66)\n  M. (Martin) Bosma (PVV)\n  M. Mohandis (PvdA)\n  J.P. Kwint (SP)\n  G. Uslu (onbekend)\n\n\n
-DTEND:20220615T110000Z
-DTSTART:20220615T080000Z
-SUMMARY:Hoofdlijnenbrief cultuur 2022: Herstel\, vernieuwing en groei
-UID:7ef6ec57-bdcb-493d-ace9-f06ada7a3876@7ef6.org
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunten met * toegevoegd\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  S.M. Beckerman (SP)\n  E.M. Westerveld (GroenLinks-PvdA)\n  M.L.J. Paul (onbekend)\n  A.H.J. de Kort (VVD)\n  M. van Ooijen (onbekend)\n  I. Rooderkerk (D66)\n  C.R. van Zanten (BBB)\n  A.J. Soepboer (NSC)\n  D.G.M. Ceder (ChristenUnie)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  Onbekend (onbekend)\n  P.H. van der Hoeff (PVV)\n  C. Stoffer (SGP)\n\n\n
+DTEND:20240529T130000Z
+DTSTART:20240529T080000Z
+SUMMARY:Passend onderwijs
+UID:b47d3251-4029-40e2-801a-b759f5c8492e@b47d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 5 minuten per fractie (incl. dinerpauze)\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  C. Stoffer (SGP)\n  I. Rooderkerk (D66)\n  M. Tseggai (GroenLinks-PvdA)\n  C. Martens-America (VVD)\n  S.M. Beckerman (SP)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  R.H. Dijkgraaf (onbekend)\n  D.A. Ergin (DENK)\n  A. Pijpelink (GroenLinks-PvdA)\n  C.R. van Zanten (BBB)\n  A.J. Soepboer (NSC)\n  R.B. Blaauw (PVV)\n\n\n
+DTEND:20240416T193000Z
+DTSTART:20240416T143000Z
+SUMMARY:mbo
+UID:80da8652-7517-4ad0-a903-5ecaa55ac1b2@80da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nAgendapunten met * toegevoegd\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  S.M. Beckerman (SP)\n  N.A. Uppelschoten (PVV)\n  H.M. Krul (CDA)\n  C. Martens-America (VVD)\n  J.M. Paternotte (D66)\n  A.J. Soepboer (NSC)\n  M. Tseggai (GroenLinks-PvdA)\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (onbekend)\n  M. Oostenbrink (BBB)\n  E.E.W. Bruins (onbekend)\n  D.A. Ergin (DENK)\n\n\n
+DTEND:20250402T120000Z
+DTSTART:20250402T080000Z
+SUMMARY:Stages in het mbo\, hbo\, wo en aansluiting op de arbeidsmarkt
+UID:d51c2208-f951-47f5-b19a-9138dec69a38@d51c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (1):\n  E.E.W. Bruins (onbekend)\n\n\n
+DTEND:20250423T120000Z
+DTSTART:20250423T080000Z
+SUMMARY:DUO en hoger onderwijs
+UID:4b982d7b-fe06-4f73-ae70-47d9eb150267@4b98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (6):\n  A. Kisteman (VVD)\n  Onbekend (onbekend)\n  M.L.J. Paul (onbekend)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  C.R. van Zanten (BBB)\n  V. Maeijer (onbekend)\n\n\n
+DTEND:20250521T190000Z
+DTSTART:20250521T130000Z
+SUMMARY:Passend onderwijs
+UID:13370758-5040-4eee-88cf-2728d16a6529@1337.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  R.H. Dijkgraaf (onbekend)\n  H.E. de Hoop (PvdA)\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (onbekend)\n  N.J.F. Pouw-Verweij (JA21)\n  I.J.M. Michon-Derkzen (VVD)\n  W.P.H.J. Peters (CDA)\n  J.P. Kwint (SP)\n  K.B. Hagen (D66)\n  K. Bouchallikh (GroenLinks)\n  Z. El Yassini (VVD)\n\n\n
+DTEND:20230216T150000Z
+DTSTART:20230216T120000Z
+SUMMARY:Macrodoelmatigheid mbo
+UID:d57760b8-35b4-4002-8221-d35811239dd8@d577.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  S.M. Beckerman (SP)\n  H.M. Krul (CDA)\n  Onbekend (onbekend)\n  M. Mohandis (GroenLinks-PvdA)\n  C. Stoffer (SGP)\n  D.G.M. Ceder (ChristenUnie)\n  H. Bevers (VVD)\n  C.R. van Zanten (BBB)\n  Onbekend (onbekend)\n  E.E.W. Bruins (onbekend)\n  R.Y. Hertzberger (NSC)\n  Onbekend (onbekend)\n  vaste commissie voor Defensie (onbekend)\n  C. van der Wal (VVD)\n  M.K. van der Velde (PVV)\n\n\n
+DTEND:20241017T150000Z
+DTSTART:20241017T110000Z
+SUMMARY:Erfgoed
+UID:53872de9-8225-4314-8148-b50e91c84552@5387.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunten met * toegevoegd\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (4):\n  E.E.W. Bruins (onbekend)\n  vaste commissie voor Economische Zaken (onbekend)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n\n\n
+DTEND:20250612T120000Z
+DTSTART:20250612T080000Z
+SUMMARY:Cultuur
+UID:4070f214-1516-4033-bfc1-7fe5ac53577d@4070.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  Onbekend (onbekend)\n  H.M. Krul (CDA)\n  Onbekend (onbekend)\n  E.E.W. Bruins (onbekend)\n  A.J. Soepboer\, voorzitter (NSC)\n  I. Rooderkerk (D66)\n  N.A. Uppelschoten (PVV)\n  C. Martens-America (VVD)\n  A. Pijpelink (GroenLinks-PvdA)\n\n\n
+DTEND:20241211T130000Z
+DTSTART:20241211T090000Z
+SUMMARY:mbo
+UID:f5b47d49-468b-454a-9e77-970f3ebd0b17@f5b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijden 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  I.K. van Engelshoven (onbekend)\n  Onbekend (onbekend)\n  E.M. Westerveld (GroenLinks)\n  Onbekend (onbekend)\n  J.P. Kwint (SP)\n  E.M.J. Ploumen (PvdA)\n  P.J.T. van Strien (VVD)\n  N. Gündogan (Volt)\n  F.P. Wassenberg (PvdD)\n  N.J.F. Pouw-Verweij (JA21)\n  J. Wuite (D66)\n\n\n
+DTEND:20210928T200000Z
+DTSTART:20210928T170000Z
+SUMMARY:Cultuur en corona
+UID:6aafbf0a-e787-464e-b036-36afb78fbad2@6aaf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunten met * toegevoegd\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  M.L.J. Paul (onbekend)\n  A. Kisteman (VVD)\n\n\n
+DTEND:20250515T120000Z
+DTSTART:20250515T080000Z
+SUMMARY:Toetsen en examens
+UID:a2b8b8a6-a1c8-42f0-88a5-ef0614648e22@a2b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\ni.v.m. verplaatsen commissiedebat (was gepland op 19 juni 2024)\nDit debat is een voortzetting van het commissiedebat Mentale gezondheid van jongeren en studenten d.d. 25 april 2024. Tijdens dit debat zal de minister van Onderwijs\, Cultuur en Wetenschap zijn eerste termijn afmaken en vindt de tweede termijn van de Kamer en beide bewindspersonen plaats.\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  R.B. Blaauw (PVV)\n  Onbekend (onbekend)\n  P. van Houwelingen (FVD)\n  M. Tseggai (GroenLinks-PvdA)\n  I.J.M. Michon-Derkzen (VVD)\n  R.Y. Hertzberger (NSC)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  H.M. Krul (CDA)\n  D.G.M. Ceder (ChristenUnie)\n  C. Martens-America (VVD)\n  J.M. Paternotte (D66)\n  C.R. van Zanten (BBB)\n  R.H. Dijkgraaf (onbekend)\n\n\n
+DTEND:20240612T120000Z
+DTSTART:20240612T100000Z
+SUMMARY:Vervolg commissiedebat Mentale gezondheid van jongeren en studenten 
+UID:3d527eb9-e4ae-469e-9dcb-9cbb1aac3308@3d52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (1):\n  E.E.W. Bruins (onbekend)\n\n\n
+DTEND:20251001T120000Z
+DTSTART:20251001T080000Z
+SUMMARY:mbo
+UID:a0b601a0-1eeb-4890-80db-231cda6a0bfa@a0b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 6 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  K. Bouchallikh (GroenLinks)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  N.L. den Haan (Fractie Den Haan)\n  H. van der Molen (CDA)\n  J.M.P. van der Laan (D66)\n  Onbekend (onbekend)\n  R.H. Dijkgraaf (onbekend)\n  S. Kerseboom (FVD)\n  H.H. van der Woude (VVD)\n  H.E. de Hoop (PvdA)\n  H.J. Beertema (PVV)\n\n\n
+DTEND:20220209T124500Z
+DTSTART:20220209T091500Z
+SUMMARY:Internationalisering en Kennisveiligheid
+UID:41d78506-6ec5-4a01-ac76-87c3e97e276a@41d7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  M. Mohandis (PvdA)\n  Onbekend (onbekend)\n  I.J.M. Michon-Derkzen (VVD)\n  J.C. Sneller (D66)\n  J.P. Kwint (SP)\n  L.M. Werner (CDA)\n  G. Uslu (onbekend)\n  P.J.T. van Strien (VVD)\n\n\n
 DTEND:20231005T110000Z
 DTSTART:20231005T080000Z
 SUMMARY:Lokale\, regionale en streekomroepen
-UID:d6850c79-8d63-40c1-8291-5ec5c07a2d61@d685.org
+UID:30a8e562-e165-49aa-971a-3f66ec3ab5e4@30a8.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunten met * toegevoegd\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  N.A. Uppelschoten (PVV)\n  H. Bevers (VVD)\n  M.L.J. Paul (onbekend)\n  A.J. Soepboer (NSC)\n  I. Rooderkerk (D66)\n  D.A. Ergin (DENK)\n  M. Oostenbrink (BBB)\n  H.M. Krul (CDA)\n  S.M. Beckerman (SP)\n  A. Kisteman (VVD)\n  A. Pijpelink (GroenLinks-PvdA)\n\n\n
-DTEND:20250326T130000Z
-DTSTART:20250326T090000Z
-SUMMARY:Onderwijskansen
-UID:15f2271a-6edc-45d1-9fae-dcc3df174278@15f2.org
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nAgendapunten met * toegevoegd\nSpreektijd 7 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  R.H. Dijkgraaf (onbekend)\n  W.P.H.J. Peters (CDA)\n  R. Bisschop (SGP)\n  Onbekend (onbekend)\n  H.E. de Hoop (PvdA)\n  E.M. Westerveld (GroenLinks)\n  H.J. Beertema (PVV)\n  S. Kerseboom (FVD)\n  I.J.M. Michon-Derkzen (VVD)\n  H.H. van der Woude (VVD)\n  J.M.P. van der Laan (D66)\n\n\n
+DTEND:20220630T130000Z
+DTSTART:20220630T080000Z
+SUMMARY:Beleidsbrief Hoger onderwijs en wetenschap
+UID:ed6712f7-4c8c-47f3-a736-b8ca6dba3d90@ed67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd 2 minuten per fractie\n \n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  J.P. Kwint (SP)\n  L.M. Werner (CDA)\n  M. (Martin) Bosma (PVV)\n  G. Uslu (onbekend)\n  M. Mohandis (PvdA)\n  P.J.T. van Strien (VVD)\n  J. Wuite (D66)\n  E.M. Westerveld (GroenLinks)\n\n\n
+DTEND:20220622T123000Z
+DTSTART:20220622T113000Z
+SUMMARY:Hoofdlijnenbrief cultuur 2022: Herstel\, vernieuwing en groei (tweede termijn)
+UID:c3b1c03a-82ba-466b-8c3d-47fa6d8747e9@c3b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nVerplaatst i.v.m. overlap plenair debat\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  H.M. Krul (CDA)\n  A. Pijpelink (GroenLinks-PvdA)\n  M. Tseggai (GroenLinks-PvdA)\n  C.R. van Zanten (BBB)\n  R.H. Dijkgraaf (onbekend)\n  R.Y. Hertzberger (NSC)\n  R.B. Blaauw (PVV)\n  P. van Houwelingen (FVD)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  M. van Ooijen (onbekend)\n  D.G.M. Ceder (ChristenUnie)\n  D.A. Ergin (DENK)\n  C. Martens-America (VVD)\n  J.M. Paternotte (D66)\n\n\n
+DTEND:20240425T133000Z
+DTSTART:20240425T103000Z
+SUMMARY:Mentale gezondheid van jongeren en studenten
+UID:ca006650-e1b6-4f6f-b6e0-f7df48f34dc0@ca00.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nSpreektijd 6 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (18):\n  S.R.T. van Baarle (DENK)\n  E.M. Westerveld (GroenLinks)\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (onbekend)\n  vaste commissie voor Digitale Zaken (onbekend)\n  J.P. Kwint (SP)\n  A. Slob (onbekend)\n  I.K. van Engelshoven (onbekend)\n  J.M. Paternotte (D66)\n  O.R. Ephraim (Groep Van Haga)\n  vaste commissie voor Europese Zaken (onbekend)\n  vaste commissie voor Binnenlandse Zaken (onbekend)\n  Onbekend (onbekend)\n  W.P.H.J. Peters (CDA)\n  Onbekend (onbekend)\n  Z. El Yassini (VVD)\n  O.C. Tellegen (VVD)\n  H.J. Beertema (PVV)\n  H.E. de Hoop (PvdA)\n\n\n
 DTEND:20211201T123000Z
 DTSTART:20211201T090000Z
 SUMMARY:Digitalisering in het onderwijs
-UID:163e445e-e83c-4eb6-a96f-8e2f7182eb03@163e.org
+UID:2ae19046-d007-4928-98c6-b0745e25ea36@2ae1.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 3 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  J.P. Kwint (SP)\n  E.M. Westerveld (GroenLinks)\n  F.P. Wassenberg (PvdD)\n  A. Slob (onbekend)\n  I.J.M. Michon-Derkzen (VVD)\n  H.J. Beertema (PVV)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  W.P.H.J. Peters (CDA)\n  P.H. van Meenen (D66)\n  H.E. de Hoop (PvdA)\n  G.J.M. Segers (ChristenUnie)\n\n\n
-DTEND:20210527T100000Z
-DTSTART:20210527T080000Z
-SUMMARY:Onderwijs en corona po/vo\, inzake loslaten 1\,5m afstandsmaatregel in het voortgezet onderwijs
-UID:50ddcdc7-c817-4184-9433-f41716badf21@50dd.org
+DESCRIPTION:Notitie:\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (1):\n  E.E.W. Bruins (onbekend)\n\n\n
+DTEND:20250603T173000Z
+DTSTART:20250603T143000Z
+SUMMARY:Academische vrijheid
+UID:fe31aa22-3041-489a-bf24-5850213f84c3@fe31.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE AGENDA\ntijdstip is gewijzigd (was: 9.30-12.30 uur)\nSpreektijd 5 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  H.J. Beertema (PVV)\n  E.M. Westerveld (GroenLinks)\n  H.E. de Hoop (PvdA)\n  A.D. Wiersma (onbekend)\n  P.H. van Meenen (D66)\n  M.L.J. Paul (VVD)\n  Onbekend (onbekend)\n  W.P.H.J. Peters (CDA)\n\n\n
-DTEND:20220126T120000Z
-DTSTART:20220126T090000Z
-SUMMARY:Examens in het voortgezet onderwijs
-UID:d83946ad-717c-495e-9452-30d2b919e3b7@d839.org
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\ni.v.m. uitbreiding spreektijd (was: 4 minuten)\nSpreektijd 6 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  J.M.P. van der Laan (D66)\n  H.J. Beertema (PVV)\n  R. Bisschop (SGP)\n  Onbekend (onbekend)\n  I.J.M. Michon-Derkzen (VVD)\n  P.H. Omtzigt (Omtzigt)\n  H.H. van der Woude (VVD)\n  E.M. Westerveld (GroenLinks)\n  W.P.H.J. Peters (CDA)\n  S.J.F. van der Graaf (ChristenUnie)\n  J.P. Kwint (SP)\n  R.H. Dijkgraaf (onbekend)\n\n\n
+DTEND:20230615T160000Z
+DTSTART:20230615T110000Z
+SUMMARY:Internationalisering hoger onderwijs
+UID:4725ee95-f9db-49ed-96e2-4a174d9a0fbe@4725.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  E.M. Westerveld (GroenLinks)\n  J.P. Kwint (SP)\n  S.R.T. van Baarle (DENK)\n  A.D. Wiersma (onbekend)\n  F.P. Wassenberg (PvdD)\n  K.B. Hagen (D66)\n  S. Kerseboom (FVD)\n  M.L.J. Paul (VVD)\n  H.J. Beertema (PVV)\n  M. Mohandis (PvdA)\n  I.J.M. Michon-Derkzen (VVD)\n\n\n
-DTEND:20230607T110000Z
-DTSTART:20230607T080000Z
-SUMMARY:Kansengelijkheid in het funderend onderwijs
-UID:06540ac2-5eb0-47c2-add5-20c9d1781384@0654.org
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nAgendapunt met * toegevoegd\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  vaste commissie voor Digitale Zaken (onbekend)\n  I. Rooderkerk (D66)\n  A. Pijpelink (GroenLinks-PvdA)\n  C. Stoffer (SGP)\n  Onbekend (onbekend)\n  M.L.J. Paul (onbekend)\n  N.A. Uppelschoten (PVV)\n  A. Kisteman (VVD)\n  Onbekend (onbekend)\n  C.R. van Zanten (BBB)\n  D.A. Ergin (DENK)\n  A.J. Soepboer (NSC)\n  Onbekend (onbekend)\n  D.G.M. Ceder (ChristenUnie)\n\n\n
+DTEND:20241016T120000Z
+DTSTART:20241016T080000Z
+SUMMARY:Curriculumherziening en de voortgangsrapportage masterplan basisvaardigheden 
+UID:5912dae7-4410-4433-8111-885e5d14b656@5912.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunten met * toegevoegd\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  B. Becker (VVD)\n  I. Kostic (PvdD)\n  S.E.M. Dobbe (SP)\n  D.A. Ergin (DENK)\n  M.K. van der Velde (PVV)\n  I.J.M. Michon-Derkzen (VVD)\n  C. Stoffer (SGP)\n  R.H. Dijkgraaf (onbekend)\n  S. Mutluer (GroenLinks-PvdA)\n  F.A. Zeedijk (NSC)\n  I. Rooderkerk (D66)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  C.R. van Zanten (BBB)\n\n\n
-DTEND:20240403T130000Z
-DTSTART:20240403T080000Z
-SUMMARY:Emancipatie
-UID:95a03ee8-71ae-42d7-9bef-767f9bdcc9a6@95a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nAgendapunten met * toegevoegd\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  P. van Houwelingen (FVD)\n  C. Martens-America (VVD)\n  H. Bevers (VVD)\n  P.H. van der Hoeff (PVV)\n  L.C.J. Stultiens (GroenLinks-PvdA)\n  Onbekend (onbekend)\n  C. Stoffer (SGP)\n  R.Y. Hertzberger (NSC)\n  J.M. Paternotte (D66)\n  S.M. Beckerman (SP)\n  Onbekend (onbekend)\n  I. Kostic (PvdD)\n  E.E.W. Bruins (onbekend)\n  Onbekend (onbekend)\n  D.A. Ergin (DENK)\n\n\n
-DTEND:20241003T130000Z
-DTSTART:20241003T080000Z
-SUMMARY:Onderzoeks- en wetenschapsbeleid
-UID:548c7701-f2da-492c-8303-43d4cda3a1a1@548c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (3):\n  B. Becker (VVD)\n  C.R. van Zanten (BBB)\n  M.L.J. Paul (onbekend)\n\n\n
-DTEND:20250618T130000Z
-DTSTART:20250618T080000Z
-SUMMARY:Emancipatie
-UID:41fb6098-9a63-4d5a-befe-8a430b57a305@41fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nDatum is gewijzigd\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (3):\n  M.L.J. Paul (onbekend)\n  E.E.W. Bruins (onbekend)\n  vaste commissie voor Koninkrijksrelaties (onbekend)\n\n\n
-DTEND:20250910T120000Z
-DTSTART:20250910T080000Z
-SUMMARY:Onderwijs en Wetenschap in Caribisch Nederland
-UID:67f2cc6f-59f1-415b-b47a-6368c531fde3@67f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  C. Stoffer (SGP)\n  A. Pijpelink (GroenLinks-PvdA)\n  I. Rooderkerk (D66)\n  M.L.J. Paul (onbekend)\n  H. Bevers (VVD)\n  A.J. Soepboer (NSC)\n  A. Kisteman (VVD)\n  C.R. van Zanten (BBB)\n  N.A. Uppelschoten (PVV)\n  E.E.W. Bruins (onbekend)\n\n\n
-DTEND:20250122T130000Z
-DTSTART:20250122T090000Z
-SUMMARY:Leraren
-UID:0d8d9fa3-b028-4f7b-8c9b-988edc66e123@0d8d.org
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nAgendapunten met * toegevoegd\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  J.M. Paternotte (D66)\n  Onbekend (onbekend)\n  S.M. Beckerman (SP)\n  Onbekend (onbekend)\n  E.E.W. Bruins (onbekend)\n  C. Stoffer (SGP)\n  D.A. Ergin (DENK)\n  C.R. van Zanten (BBB)\n  C. Martens-America (VVD)\n  R.Y. Hertzberger (NSC)\n  Onbekend (onbekend)\n  P.H. van der Hoeff (PVV)\n  L.C.J. Stultiens (GroenLinks-PvdA)\n\n\n
+DTEND:20241023T170000Z
+DTSTART:20241023T120000Z
+SUMMARY:DUO en Hoger onderwijs
+UID:27afb585-b261-476d-b633-ad04029879dd@27af.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  A.J. Soepboer (NSC)\n  P. van Houwelingen (FVD)\n  A. Pijpelink (GroenLinks-PvdA)\n  M.L.J. Paul (onbekend)\n  A. Kisteman (VVD)\n  I. Rooderkerk (D66)\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (onbekend)\n  Onbekend (onbekend)\n  C.R. van Zanten (BBB)\n  N.A. Uppelschoten (PVV)\n\n\n
 DTEND:20241113T130000Z
 DTSTART:20241113T090000Z
 SUMMARY:Laaggeletterdheid
-UID:de7a8acb-b732-4145-b6c1-fc507dec6687@de7a.org
+UID:14b22b39-93d4-434c-afbc-d700b8ee1b26@14b2.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijden 6 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  H.E. de Hoop (PvdA)\n  P.H. van Meenen (D66)\n  N.J.F. Pouw-Verweij (JA21)\n  Onbekend (onbekend)\n  E.M. Westerveld (GroenLinks)\n  A. Slob (onbekend)\n  I.K. van Engelshoven (onbekend)\n  Onbekend (onbekend)\n  J.P. Kwint (SP)\n  H.J. Beertema (PVV)\n  W.P.H.J. Peters (CDA)\n  M.L.J. Paul (VVD)\n\n\n
-DTEND:20211006T114500Z
-DTSTART:20211006T081500Z
-SUMMARY:Leraren
-UID:f1ad410e-d839-4923-827f-33d97b93ccfc@f1ad.org
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 6 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  M. (Martin) Bosma (PVV)\n  E.M. Westerveld (GroenLinks)\n  Onbekend (onbekend)\n  vaste commissie voor Economische Zaken en Klimaat (onbekend)\n  P.J.T. van Strien (VVD)\n  G. Uslu (onbekend)\n  Onbekend (onbekend)\n  J.P. Kwint (SP)\n  M.A.M. Adriaansens (onbekend)\n  J. Wuite (D66)\n  L.M. Werner (CDA)\n\n\n
+DTEND:20220310T163000Z
+DTSTART:20220310T130000Z
+SUMMARY:Steunpakket voor de culturele en creatieve sector + Garantieregeling evenementen + Evaluatie field labs
+UID:af359746-9dbf-47c9-80f4-782ba4f2aceb@af35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunten met * toegevoegd\nSpreektijd 7 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  J.C.M. (Hans) Teunissen (D66)\n  I.J.M. Michon-Derkzen (VVD)\n  J.P. Kwint (SP)\n  R.H. Dijkgraaf (onbekend)\n  K. Bouchallikh (GroenLinks)\n  H.J. Beertema (PVV)\n  W.P.H.J. Peters (CDA)\n  Z. El Yassini (VVD)\n  N.J.F. Pouw-Verweij (BBB)\n\n\n
+DTEND:20230913T130000Z
+DTSTART:20230913T080000Z
+SUMMARY:Mbo (basisvaardigheden/positie en medezeggenschap van studenten)
+UID:c398c942-bd60-406d-ae71-640e64225d9a@c398.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nAgendapunten met * toegevoegd\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  P. van Houwelingen (FVD)\n  C. Martens-America (VVD)\n  H. Bevers (VVD)\n  P.H. van der Hoeff (PVV)\n  L.C.J. Stultiens (GroenLinks-PvdA)\n  Onbekend (onbekend)\n  C. Stoffer (SGP)\n  R.Y. Hertzberger (NSC)\n  J.M. Paternotte (D66)\n  S.M. Beckerman (SP)\n  Onbekend (onbekend)\n  I. Kostic (PvdD)\n  E.E.W. Bruins (onbekend)\n  Onbekend (onbekend)\n  D.A. Ergin (DENK)\n\n\n
+DTEND:20241003T130000Z
+DTSTART:20241003T080000Z
+SUMMARY:Onderzoeks- en wetenschapsbeleid
+UID:571ce95d-eb29-4a6c-8570-a7bf6c143597@571c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE AGENDA\ntijdstip is gewijzigd (was: 9.30-12.30 uur)\nSpreektijd 5 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  H.J. Beertema (PVV)\n  E.M. Westerveld (GroenLinks)\n  H.E. de Hoop (PvdA)\n  A.D. Wiersma (onbekend)\n  P.H. van Meenen (D66)\n  M.L.J. Paul (VVD)\n  Onbekend (onbekend)\n  W.P.H.J. Peters (CDA)\n\n\n
+DTEND:20220126T120000Z
+DTSTART:20220126T090000Z
+SUMMARY:Examens in het voortgezet onderwijs
+UID:1ab987bf-302d-480d-bc71-aba0d3a01bfc@1ab9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\ncommissiedebat met uur verlengd en \nagenda is gewijzigd\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  L. Bromet (GroenLinks-PvdA)\n  M.L.J. Paul (onbekend)\n  vaste commissie voor Digitale Zaken (onbekend)\n  N.A. Uppelschoten (PVV)\n  I. Rooderkerk (D66)\n  A. Kisteman (VVD)\n  Onbekend (onbekend)\n  M. Oostenbrink (BBB)\n  A. Pijpelink (GroenLinks-PvdA)\n  A.J. Soepboer (NSC)\n\n\n
+DTEND:20250403T130000Z
+DTSTART:20250403T080000Z
+SUMMARY:Digitalisering en leermiddelen in het funderend onderwijs
+UID:c5e65415-4193-4489-a478-f80e11ebf485@c5e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (4):\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (onbekend)\n  Y.J. van Hijum (onbekend)\n  E.E.W. Bruins (onbekend)\n  M.L.J. Paul (onbekend)\n\n\n
+DTEND:20251112T120000Z
+DTSTART:20251112T090000Z
+SUMMARY:Leven Lang Ontwikkelen
+UID:316f7dd5-c5a9-4777-ba7c-233880d66706@316f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\ni.v.m. wijziging spreektijd\nSpreektijd 7 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  I.J.M. Michon-Derkzen (VVD)\n  H.J. Beertema (PVV)\n  G.J.M. Segers (ChristenUnie)\n  Onbekend (onbekend)\n  P.H. van Meenen (D66)\n  R. Bisschop (SGP)\n  M. Goudzwaard (JA21)\n  M.L.J. Paul (VVD)\n  W.P.H.J. Peters (CDA)\n  E.M. Westerveld (GroenLinks)\n  H.E. de Hoop (PvdA)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  A.D. Wiersma (onbekend)\n\n\n
+DTEND:20220330T123000Z
+DTSTART:20220330T080000Z
+SUMMARY:Passend onderwijs
+UID:e489424a-b34a-4c6b-927d-42aff2c25219@e489.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  S.W. Sjoerdsma (D66)\n  P.J.T. van Strien (VVD)\n  M. Mohandis (PvdA)\n  M. (Martin) Bosma (PVV)\n  L.M. Werner (CDA)\n  S.J.F. van der Graaf (ChristenUnie)\n  E.M. Westerveld (GroenLinks)\n  J.P. Kwint (SP)\n  S.R.T. van Baarle (DENK)\n  G. Uslu (onbekend)\n\n\n
+DTEND:20220706T120000Z
+DTSTART:20220706T080000Z
+SUMMARY:Hoofdlijnenbrief Media 2022
+UID:689a7de4-086f-4ea5-ad19-51300b780428@689a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  I.J.M. Michon-Derkzen (VVD)\n  L.M. Werner (CDA)\n  E.M. Westerveld (GroenLinks)\n  P.J.T. van Strien (VVD)\n  J. Wuite (D66)\n  M. (Martin) Bosma (PVV)\n  M. Mohandis (PvdA)\n  J.P. Kwint (SP)\n  G. Uslu (onbekend)\n\n\n
+DTEND:20220615T110000Z
+DTSTART:20220615T080000Z
+SUMMARY:Hoofdlijnenbrief cultuur 2022: Herstel\, vernieuwing en groei
+UID:d1efc348-c542-49f3-8d02-0a44f11d3b54@d1ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunten met * toegevoegd\nSpreektijd 5 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  J.M.P. van der Laan (D66)\n  I.J.M. Michon-Derkzen (VVD)\n  E.M. Westerveld (GroenLinks)\n  L.M. Werner (CDA)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  H.J. Beertema (PVV)\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (onbekend)\n  S. Mutluer (PvdA)\n  R.H. Dijkgraaf (onbekend)\n  C.E.G. van Gennip (onbekend)\n  H.H. van der Woude (VVD)\n\n\n
+DTEND:20230524T160000Z
+DTSTART:20230524T120000Z
+SUMMARY:Integrale aanpak seksueel grensoverschrijdend gedrag 
+UID:a9765f95-1ee0-488f-a9cf-bc54c1b8b9c7@a976.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunten met * toegevoegd\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  B. Becker (VVD)\n  I. Kostic (PvdD)\n  S.E.M. Dobbe (SP)\n  D.A. Ergin (DENK)\n  M.K. van der Velde (PVV)\n  I.J.M. Michon-Derkzen (VVD)\n  C. Stoffer (SGP)\n  R.H. Dijkgraaf (onbekend)\n  S. Mutluer (GroenLinks-PvdA)\n  F.A. Zeedijk (NSC)\n  I. Rooderkerk (D66)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  C.R. van Zanten (BBB)\n\n\n
+DTEND:20240403T130000Z
+DTSTART:20240403T080000Z
+SUMMARY:Emancipatie
+UID:9f87dd11-9f5f-476c-9287-8980c03128f1@9f87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nGewijzigd tijdstip i.v.m. beschikbaarheid minister\nen agendapunt met * toegevoegd\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  C. Martens-America (VVD)\n  L.C.J. Stultiens\, voorzitter CD (GroenLinks-PvdA)\n  E.E.W. Bruins (onbekend)\n  vaste commissie voor Defensie (onbekend)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  vaste commissie voor Economische Zaken (onbekend)\n  A. Heite (NSC)\n  N.A. Uppelschoten (PVV)\n  P.H. van der Hoeff (PVV)\n  I. Rooderkerk (D66)\n\n\n
+DTEND:20250130T113000Z
+DTSTART:20250130T083000Z
+SUMMARY:Kennisveiligheid
+UID:9df44291-594d-431b-94a1-134b68fb5aaa@9df4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunten met * toegevoegd\nSpreektijden 6 minuten per fractie\n(inc. 3 kwartier dinerpauze)\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  H.E. de Hoop (PvdA)\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n  M. (Martin) Bosma (PVV)\n  C.A.M. van der Plas (BBB)\n  P.J.T. van Strien (VVD)\n  J. Wuite (D66)\n  E.M. Westerveld (GroenLinks)\n  N.J.F. Pouw-Verweij (JA21)\n  J.P. Kwint (SP)\n  A. Slob (onbekend)\n  S. Kerseboom (FVD)\n  L.M. Werner (CDA)\n\n\n
+DTEND:20211012T191500Z
+DTSTART:20211012T150000Z
+SUMMARY:Verzameldebat media (o.a. omroepbestel\, persveiligheid)
+UID:a51349ba-cc4b-4a8c-a1e5-d5c4ce911f90@a513.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  R. Bisschop (SGP)\n  S.M. Richardson (VVD)\n  N.L. den Haan (Fractie Den Haan)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  N.J.F. Pouw-Verweij (BBB)\n  N. Drost (ChristenUnie)\n  E.M. Westerveld (GroenLinks)\n  H.M. Krul (CDA)\n  M.L.J. Paul (onbekend)\n  H. Kat (D66)\n  Onbekend (onbekend)\n\n\n
+DTEND:20231025T113000Z
+DTSTART:20231025T080000Z
+SUMMARY:Maatschappelijke diensttijd
+UID:d74136a2-6b40-44f5-9931-7c37962714f5@d741.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nDatum is gewijzigd\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (3):\n  M.L.J. Paul (onbekend)\n  E.E.W. Bruins (onbekend)\n  vaste commissie voor Koninkrijksrelaties (onbekend)\n\n\n
+DTEND:20250910T120000Z
+DTSTART:20250910T080000Z
+SUMMARY:Onderwijs en Wetenschap in Caribisch Nederland
+UID:4702f6a3-dd33-4290-985d-422c3b047910@4702.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (3):\n  B. Becker (VVD)\n  C.R. van Zanten (BBB)\n  M.L.J. Paul (onbekend)\n\n\n
+DTEND:20250618T130000Z
+DTSTART:20250618T080000Z
+SUMMARY:Emancipatie
+UID:dfa0c0ee-7ed7-4a37-ae27-b1fd7cda56d0@dfa0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  E.M. Westerveld (GroenLinks)\n  J.P. Kwint (SP)\n  S.R.T. van Baarle (DENK)\n  A.D. Wiersma (onbekend)\n  F.P. Wassenberg (PvdD)\n  K.B. Hagen (D66)\n  S. Kerseboom (FVD)\n  M.L.J. Paul (VVD)\n  H.J. Beertema (PVV)\n  M. Mohandis (PvdA)\n  I.J.M. Michon-Derkzen (VVD)\n\n\n
+DTEND:20230607T110000Z
+DTSTART:20230607T080000Z
+SUMMARY:Kansengelijkheid in het funderend onderwijs
+UID:6f2d52cc-b7c1-4472-9863-e2e11eb9bbc6@6f2d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunten met * toegevoegd\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  R. Bisschop (SGP)\n  M. Mohandis (PvdA)\n  S.M. Beckerman (SP)\n  M. (Martin) Bosma (PVV)\n  L.M. Werner (CDA)\n  G. Uslu (onbekend)\n  I.J.M. Michon-Derkzen (VVD)\n  J. Wuite (D66)\n  Onbekend (onbekend)\n  Z. El Yassini (VVD)\n\n\n
 DTEND:20231004T110000Z
 DTSTART:20231004T080000Z
 SUMMARY:Erfgoed
-UID:45f48258-5984-4280-b87d-99e23060b434@45f4.org
+UID:a733da45-28d2-4186-a191-72b265ccf562@a733.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nAgendapunten met * toegevoegd\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (1):\n  E.E.W. Bruins (onbekend)\n\n\n
+DTEND:20250619T160000Z
+DTSTART:20250619T120000Z
+SUMMARY:Onderzoeks- en Wetenschapsbeleid
+UID:5e48c968-0c29-4273-8a20-0eda6b1edf35@5e48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\ni.v.m. wijziging datum commissiedebat \nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  Onbekend (onbekend)\n  H.J. Beertema (PVV)\n  M.L.J. Paul (VVD)\n  I.J.M. Michon-Derkzen (VVD)\n  A.D. Wiersma (onbekend)\n  Onbekend (onbekend)\n  P.H. van Meenen (D66)\n  R. Bisschop (SGP)\n  N. Drost (ChristenUnie)\n  N.J.F. Pouw-Verweij (JA21)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  E.M. Westerveld (GroenLinks)\n  J.P. Kwint (SP)\n  W.P.H.J. Peters (CDA)\n  M. van Ooijen (onbekend)\n\n\n
+DTEND:20230531T110000Z
+DTSTART:20230531T080000Z
+SUMMARY:Zorg en onderwijs
+UID:513e7470-86e7-4d5c-b3e7-e1a7a11ba0c8@513e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunten met * toegevoegd\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (16):\n  Onbekend (onbekend)\n  M.L.J. Paul (onbekend)\n  P.H. van der Hoeff (PVV)\n  A.J. Soepboer (NSC)\n  R.B. Blaauw (PVV)\n  Onbekend (onbekend)\n  I.J.M. Michon-Derkzen (VVD)\n  C.R. van Zanten (BBB)\n  C. Stoffer (SGP)\n  J.M. Paternotte (D66)\n  S.M. Beckerman (SP)\n  A. Pijpelink (GroenLinks-PvdA)\n  A.H.J. de Kort (VVD)\n  D.G.M. Ceder (ChristenUnie)\n  P. van Houwelingen (FVD)\n  R.H. Dijkgraaf (onbekend)\n\n\n
+DTEND:20240228T140000Z
+DTSTART:20240228T090000Z
+SUMMARY:Leraren
+UID:becc0aa6-a4d7-4d6f-9c88-cbb8af913536@becc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunten met * toegevoegd\nSpreektijd 8 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  Onbekend (onbekend)\n  M. van Ooijen (onbekend)\n  I.J.M. Michon-Derkzen (VVD)\n  P.H. van Meenen (D66)\n  J.P. Kwint (SP)\n  A.D. Wiersma (onbekend)\n  M.L.J. Paul (VVD)\n  N. Drost (ChristenUnie)\n  N.J.F. Pouw-Verweij (JA21)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  W.P.H.J. Peters (CDA)\n  E.M. Westerveld (GroenLinks)\n  H.J. Beertema (PVV)\n  H.E. de Hoop (PvdA)\n  R. Bisschop (SGP)\n\n\n
+DTEND:20230405T140000Z
+DTSTART:20230405T080000Z
+SUMMARY:Passend onderwijs
+UID:b5d7da72-d156-4ca0-852c-9a997674bcb6@b5d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt * toegevoegd\nSpreektijd 6 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  R. Bisschop (SGP)\n  P.H. van Meenen (D66)\n  H.E. de Hoop (PvdA)\n  A.D. Wiersma (onbekend)\n  W.P.H.J. Peters (CDA)\n  E.M. Westerveld (GroenLinks)\n  M.L.J. Paul (VVD)\n  S. Kerseboom (FVD)\n  J.P. Kwint (SP)\n  G.J.M. Segers (ChristenUnie)\n\n\n
+DTEND:20220406T113000Z
+DTSTART:20220406T080000Z
+SUMMARY:Curriculum funderend onderwijs po/vo
+UID:d7341daa-ff6e-4bb5-b1a2-3325426bc010@d734.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nAgendapunten met * toegevoegd\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (13):\n  P.H. van der Hoeff (PVV)\n  R.B. Blaauw (PVV)\n  P. van Houwelingen (FVD)\n  A.J. Soepboer (NSC)\n  J.M. Paternotte (D66)\n  M.L.J. Paul (onbekend)\n  D.G.M. Ceder (ChristenUnie)\n  C.R. van Zanten (BBB)\n  H.M. Krul (CDA)\n  A.H.J. de Kort (VVD)\n  C. Stoffer (SGP)\n  D.A. Ergin (DENK)\n  A. Pijpelink (GroenLinks-PvdA)\n\n\n
+DTEND:20240313T120000Z
+DTSTART:20240313T090000Z
+SUMMARY:Toezicht en handhaving
+UID:f3675573-bf8b-4d94-a997-fac14c13ae57@f367.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 2 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (23):\n  C.A.M. van der Plas (BBB)\n  Onbekend (onbekend)\n  S.J.F. van der Graaf (ChristenUnie)\n  K. Bouchallikh (GroenLinks)\n  H.J. Beertema (PVV)\n  Onbekend (onbekend)\n  J.P. Kwint (SP)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  H.E. de Hoop (PvdA)\n  Onbekend (onbekend)\n  H. van der Molen (CDA)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  R. Bisschop (SGP)\n  Onbekend (onbekend)\n  R.H. Dijkgraaf (onbekend)\n  Onbekend (onbekend)\n  S.R.T. van Baarle (DENK)\n  Z. El Yassini (VVD)\n  K.B. Hagen (D66)\n  Onbekend (onbekend)\n\n\n
+DTEND:20221116T110000Z
+DTSTART:20221116T090000Z
+SUMMARY:MBO (voortzetting van commissiedebat van 9 november)
+UID:4ef5ffc1-6a8c-400c-b966-af835ec1d912@4ef5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (16):\n  Onbekend (onbekend)\n  J.P. Kwint (SP)\n  H.J. Beertema (PVV)\n  W.P.H.J. Peters (CDA)\n  Onbekend (onbekend)\n  M. Goudzwaard (JA21)\n  A.D. Wiersma (onbekend)\n  G.J.M. Segers (ChristenUnie)\n  P.H. van Meenen (D66)\n  M.L.J. Paul (VVD)\n  Onbekend (onbekend)\n  H.E. de Hoop (PvdA)\n  Onbekend (onbekend)\n  E.M. Westerveld (GroenLinks)\n  R. Bisschop (SGP)\n  Onbekend (onbekend)\n\n\n
+DTEND:20220614T183000Z
+DTSTART:20220614T150000Z
+SUMMARY:Masterplan basisvaardigheden en eindrapportage: 'Analyse en evaluatie referentieniveaus Nederlandse taal en rekenen'
+UID:542d2531-fd5b-4e43-b625-d15a67245f94@542d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  O.R. Ephraim (Groep Van Haga)\n  M. Goudzwaard (JA21)\n  G.J.M. Segers (ChristenUnie)\n  H.E. de Hoop (PvdA)\n  W.P.H.J. Peters (CDA)\n  M.L.J. Paul (VVD)\n  A.D. Wiersma (onbekend)\n  P.H. van Meenen (D66)\n  H.J. Beertema (PVV)\n  J.P. Kwint (SP)\n  N.L. den Haan (Fractie Den Haan)\n  Onbekend (onbekend)\n\n\n
+DTEND:20220524T180000Z
+DTSTART:20220524T143000Z
+SUMMARY:Nationaal Programma Onderwijs (po en vo)
+UID:e0ed582b-220c-4636-8c3d-03fabca13f6e@e0ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nAgendapunt met * toegevoegd\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  A.H.J. de Kort (VVD)\n  C.R. van Zanten (BBB)\n  I.J.M. Michon-Derkzen (VVD)\n  I. Rooderkerk (D66)\n  P.H. van der Hoeff (PVV)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  M.L.J. Paul (onbekend)\n  A.J. Soepboer (NSC)\n  A. Pijpelink (GroenLinks-PvdA)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n\n\n
+DTEND:20240627T120000Z
+DTSTART:20240627T080000Z
+SUMMARY:vmbo 
+UID:97c454a2-96aa-4f35-bdca-f41d0dfeeef3@97c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  C. Stoffer (SGP)\n  A. Pijpelink (GroenLinks-PvdA)\n  I. Rooderkerk (D66)\n  M.L.J. Paul (onbekend)\n  H. Bevers (VVD)\n  A.J. Soepboer (NSC)\n  A. Kisteman (VVD)\n  C.R. van Zanten (BBB)\n  N.A. Uppelschoten (PVV)\n  E.E.W. Bruins (onbekend)\n\n\n
+DTEND:20250122T130000Z
+DTSTART:20250122T090000Z
+SUMMARY:Leraren
+UID:d051eccf-34f7-4919-9305-dc986e37e2a2@d051.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunten met * toegevoegd\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  N.A. Uppelschoten (PVV)\n  H. Bevers (VVD)\n  M.L.J. Paul (onbekend)\n  A.J. Soepboer (NSC)\n  I. Rooderkerk (D66)\n  D.A. Ergin (DENK)\n  M. Oostenbrink (BBB)\n  H.M. Krul (CDA)\n  S.M. Beckerman (SP)\n  A. Kisteman (VVD)\n  A. Pijpelink (GroenLinks-PvdA)\n\n\n
+DTEND:20250326T130000Z
+DTSTART:20250326T090000Z
+SUMMARY:Onderwijskansen
+UID:4ced6ff1-67de-4d3e-b491-d21c3a743d1d@4ced.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  B.J. Eerdmans (JA21)\n  I. Rooderkerk (D66)\n  A.J. Soepboer (NSC)\n  Onbekend (onbekend)\n  M.L.J. Paul (onbekend)\n  E.M. Westerveld (GroenLinks-PvdA)\n  C.A.M. van der Plas (BBB)\n  A. Kisteman (VVD)\n  N.A. Uppelschoten (PVV)\n  I.J.M. Michon-Derkzen (VVD)\n\n\n
+DTEND:20240911T110000Z
+DTSTART:20240911T080000Z
+SUMMARY:Praktijkonderwijs
+UID:7ecce284-711e-4bf3-8068-8a6ce57434e2@7ecc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd 5 minuten per fractie.\n \n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  J.P. Kwint (SP)\n  Onbekend (onbekend)\n  W.P.H.J. Peters (CDA)\n  R.H. Dijkgraaf (onbekend)\n  J.M.P. van der Laan (D66)\n  N.L. den Haan (Fractie Den Haan)\n  H.J. Beertema (PVV)\n  E.M. Westerveld (GroenLinks)\n  H.H. van der Woude (VVD)\n\n\n
+DTEND:20231011T140000Z
+DTSTART:20231011T080000Z
+SUMMARY:Onderwijskwaliteit in het hoger onderwijs
+UID:f63322bd-5f47-4e9c-ad9f-5dfb72e27ea6@f633.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd 5 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (5):\n  J.M.P. van der Laan (D66)\n  R.P. Brekelmans (VVD)\n  R.H. Dijkgraaf (onbekend)\n  M. Goudzwaard (JA21)\n  S. Kerseboom (FVD)\n\n\n
+DTEND:20220602T150000Z
+DTSTART:20220602T120000Z
+SUMMARY:Kennisveiligheid Nederlandse kennisinstellingen  
+UID:7a87a55c-610c-4091-bfb4-fc1e8d495860@7a87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nOp verzoek is ook de staatssecretaris van Infrastructuur en Waterstaat uitgenodigd. Zij zal aanwezig zijn in de eerste termijn.\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  J.P. Kwint (SP)\n  P.H. van Meenen (D66)\n  vaste commissie voor Binnenlandse Zaken (onbekend)\n  vaste commissie voor Infrastructuur en Waterstaat (onbekend)\n  V.L.W.A. Heijnen (onbekend)\n  A.D. Wiersma (onbekend)\n  S.R.T. van Baarle (DENK)\n  M.L.J. Paul (VVD)\n  W.P.H.J. Peters (CDA)\n  H.J. Beertema (PVV)\n  H.E. de Hoop (PvdA)\n  E.M. Westerveld (GroenLinks)\n\n\n
+DTEND:20221019T113000Z
+DTSTART:20221019T083000Z
+SUMMARY:Leerlingenvervoer
+UID:73bcc961-ef86-4741-8d98-c66766fb5a54@73bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunten met * toegevoegd\nSpreektijd 4 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  K. Bouchallikh (GroenLinks)\n  Z. El Yassini (VVD)\n  C.A.M. van der Plas (BBB)\n  H.E. de Hoop (PvdA)\n  J.P. Kwint (SP)\n  S.R.T. van Baarle (DENK)\n  K.B. Hagen (D66)\n  S.J.F. van der Graaf (ChristenUnie)\n  H.J. Beertema (PVV)\n  H. van der Molen (CDA)\n  R.H. Dijkgraaf (onbekend)\n  I.J.M. Michon-Derkzen (VVD)\n\n\n
+DTEND:20221109T120000Z
+DTSTART:20221109T090000Z
+SUMMARY:MBO (voortzetting commissiedebat op 16 november)
+UID:4dc8e2e2-193a-4b72-ac04-346c3ae1550e@4dc8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\ni.v.m. verplaatsen commissiedebat (was gepland op 22 maart 2022)\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  H.E. de Hoop (PvdA)\n  vaste commissie voor Digitale Zaken (onbekend)\n  H.H. van der Woude (VVD)\n  Onbekend (onbekend)\n  P.H. van Meenen (D66)\n  R.H. Dijkgraaf (onbekend)\n  Onbekend (onbekend)\n  J.P. Kwint (SP)\n  H. van der Molen (CDA)\n\n\n
+DTEND:20220407T103000Z
+DTSTART:20220407T080000Z
+SUMMARY:Dienst Uitvoering Onderwijs (DUO)
+UID:923bef42-a008-42eb-a308-eada202febfa@923b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (4):\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  E.E.W. Bruins (onbekend)\n  C.R. van Zanten (BBB)\n  Onbekend (onbekend)\n\n\n
+DTEND:20250514T150000Z
+DTSTART:20250514T110000Z
+SUMMARY:Mentale gezondheid scholieren en studenten
+UID:f7ede48e-f6c7-4991-9566-0fa4a2d8e3ed@f7ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijden 6 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  H.E. de Hoop (PvdA)\n  P.H. van Meenen (D66)\n  N.J.F. Pouw-Verweij (JA21)\n  Onbekend (onbekend)\n  E.M. Westerveld (GroenLinks)\n  A. Slob (onbekend)\n  I.K. van Engelshoven (onbekend)\n  Onbekend (onbekend)\n  J.P. Kwint (SP)\n  H.J. Beertema (PVV)\n  W.P.H.J. Peters (CDA)\n  M.L.J. Paul (VVD)\n\n\n
+DTEND:20211006T114500Z
+DTSTART:20211006T081500Z
+SUMMARY:Leraren
+UID:ea9b2e19-72b8-41bb-80b0-e39fc689c0ab@ea9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd 4 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (1):\n  E.E.W. Bruins (onbekend)\n\n\n
+DTEND:20251029T130000Z
+DTSTART:20251029T090000Z
+SUMMARY:Hoger onderwijs
+UID:74338469-a71d-4d4a-8cad-3361f5b28043@7433.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  B.J. Eerdmans (JA21)\n  C. Stoffer (SGP)\n  A.J. Soepboer (NSC)\n  A.H.J. de Kort (VVD)\n  M.L.J. Paul (onbekend)\n  Onbekend (onbekend)\n  A. Pijpelink (GroenLinks-PvdA)\n  C.R. van Zanten (BBB)\n  I. Rooderkerk (D66)\n  Onbekend (onbekend)\n  P.H. van der Hoeff (PVV)\n\n\n
+DTEND:20240515T120000Z
+DTSTART:20240515T090000Z
+SUMMARY:Veiligheid op scholen
+UID:6338f516-e696-47c6-b685-6512e08ac62f@6338.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 5 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  M.L.J. Paul (onbekend)\n  I. Rooderkerk (D66)\n  A.J. Soepboer (NSC)\n  H.M. Krul (CDA)\n  A. Kisteman (VVD)\n  A. Pijpelink (GroenLinks-PvdA)\n  C. Stoffer (SGP)\n  L. Bromet (GroenLinks-PvdA)\n  N.A. Uppelschoten (PVV)\n  C.R. van Zanten (BBB)\n\n\n
+DTEND:20250212T130000Z
+DTSTART:20250212T090000Z
+SUMMARY:Sturing in het funderend onderwijs
+UID:862ecd2e-7a3e-43d5-b9fd-cbae0891c7a2@862e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHERZIENE CONVOCATIE\nagendapunt met * toegevoegd\nSpreektijd 3 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  J.P. Kwint (SP)\n  E.M. Westerveld (GroenLinks)\n  F.P. Wassenberg (PvdD)\n  A. Slob (onbekend)\n  I.J.M. Michon-Derkzen (VVD)\n  H.J. Beertema (PVV)\n  vaste commissie voor Volksgezondheid\, Welzijn en Sport (onbekend)\n  W.P.H.J. Peters (CDA)\n  P.H. van Meenen (D66)\n  H.E. de Hoop (PvdA)\n  G.J.M. Segers (ChristenUnie)\n\n\n
+DTEND:20210527T100000Z
+DTSTART:20210527T080000Z
+SUMMARY:Onderwijs en corona po/vo\, inzake loslaten 1\,5m afstandsmaatregel in het voortgezet onderwijs
+UID:ff973ee9-45de-4273-b4b6-a8b1210505d6@ff97.org
 END:VEVENT
 END:VCALENDAR
