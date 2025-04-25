@@ -1,7 +1,7 @@
 # Commissie vergaderingen Eerste- en Tweede Kamer
 Dit project genereert elke dag de kalenders van de verschillende commissies van de kamers van het parlement. Je kan de link in de kalender programma (bijvoorbeeld Outlook) kopiëren voor automatische synchronisatie.
 
-Laatste update: 25/04/2025 04:22
+Laatste update: 25/04/2025 16:22
 
 ## Gevulde kalenders
 **Commissie voor de Rijksuitgaven** (3 gevonden)\
@@ -37,7 +37,7 @@ Laatste update: 25/04/2025 04:22
 **Vaste commissie voor Infrastructuur en Waterstaat** (139 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Infrastructuur-en-Waterstaat.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Infrastructuur-en-Waterstaat.ics)
 
-**Vaste commissie voor Justitie en Veiligheid** (148 gevonden)\
+**Vaste commissie voor Justitie en Veiligheid** (151 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Justitie-en-Veiligheid.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Justitie-en-Veiligheid.ics)
 
 **Vaste commissie voor Klimaat en Groene Groei** (24 gevonden)\
@@ -55,7 +55,7 @@ Laatste update: 25/04/2025 04:22
 **Vaste commissie voor Sociale Zaken en Werkgelegenheid** (80 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Sociale-Zaken-en-Werkgelegenheid.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Sociale-Zaken-en-Werkgelegenheid.ics)
 
-**Vaste commissie voor Volksgezondheid, Welzijn en Sport** (106 gevonden)\
+**Vaste commissie voor Volksgezondheid, Welzijn en Sport** (105 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Volksgezondheid--Welzijn-en-Sport.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Volksgezondheid--Welzijn-en-Sport.ics)
 
 **Vaste commissie voor Volkshuisvesting en Ruimtelijke Ordening** (15 gevonden)\
