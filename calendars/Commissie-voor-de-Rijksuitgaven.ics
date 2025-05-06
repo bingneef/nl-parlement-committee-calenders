@@ -2,24 +2,24 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\n *Indicatieve spreektijd per fractie 4 minuten*\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  E. Heinen (onbekend)\n  C.J. Faddegon (PVV)\n\n\n
-DTEND:20250701T183000Z
-DTSTART:20250701T153000Z
-SUMMARY:Begrotingsproces
-UID:a50c7ad5-83e7-44d9-9ad4-f524d15ecfd1@a50c.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Notitie:\nNoot: \nLeden die wensen deel te nemen aan het commissiedebat worden verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n  H. Nijboer (PvdA)\n  vaste commissie voor Financiën (onbekend)\n  I. (Inge) van Dijk (CDA)\n  S. Maatoug (GroenLinks)\n  J.C. Sneller (D66)\n  S.A.M. Kaag (onbekend)\n  vaste commissie voor Onderwijs\, Cultuur en Wetenschap (onbekend)\n  vaste commissie voor Landbouw\, Natuur en Voedselkwaliteit (onbekend)\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (onbekend)\n  E. Heinen (VVD)\n\n\n
 DTEND:20220914T190000Z
 DTSTART:20220914T160000Z
 SUMMARY:Begrotingsproces
-UID:9b78566c-9017-4f2c-8d64-33789305c021@9b78.org
+UID:ee711585-0962-410e-9117-7f032a5cd614@ee71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n *Indicatieve spreektijd per fractie 4 minuten*\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  E. Heinen (onbekend)\n  C.J. Faddegon (PVV)\n\n\n
+DTEND:20250701T183000Z
+DTSTART:20250701T153000Z
+SUMMARY:Begrotingsproces
+UID:d75325f5-4fae-4bd4-b290-e5f14c3d334b@d753.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\n*Uw fungerend voorzitter stelt een indicatievieve spreektijd van 5 minuten per fractie voor\, uitgaande van ongeveer vijf sprekers*\n\nHet is niet een besloten evenement\n\nAanwezigen (5):\n  J.C. Sneller (D66)\n  W.B. Hoekstra (onbekend)\n  B.A.W. Snels (GroenLinks)\n  J.L. Geurts (CDA)\n  E. Heinen (VVD)\n\n\n
 DTEND:20210624T120000Z
 DTSTART:20210624T100000Z
 SUMMARY:Begroten en verantwoorden 
-UID:8f1ffa36-9c52-4814-8120-22445fc18346@8f1f.org
+UID:efadb9b4-64d7-49a3-bb2f-98a43f86741e@efad.org
 END:VEVENT
 END:VCALENDAR
