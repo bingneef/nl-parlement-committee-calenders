@@ -2,24 +2,24 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\n*Uw fungerend voorzitter stelt een indicatievieve spreektijd van 5 minuten per fractie voor\, uitgaande van ongeveer vijf sprekers*\n\nHet is niet een besloten evenement\n\nAanwezigen (5):\n  J.C. Sneller (D66)\n  W.B. Hoekstra (onbekend)\n  B.A.W. Snels (GroenLinks)\n  J.L. Geurts (CDA)\n  E. Heinen (VVD)\n\n\n
-DTEND:20210624T120000Z
-DTSTART:20210624T100000Z
-SUMMARY:Begroten en verantwoorden 
-UID:4e1969cc-1427-47e7-9897-ac229cd5b2a5@4e19.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Notitie:\n *Indicatieve spreektijd per fractie 4 minuten*\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  E. Heinen (onbekend)\n  C.J. Faddegon (PVV)\n\n\n
 DTEND:20250701T183000Z
 DTSTART:20250701T153000Z
 SUMMARY:Begrotingsproces
-UID:222f84a6-0d43-4eba-885e-a7b8baece6b5@222f.org
+UID:b0386eca-6a38-40a4-bef2-c550ef5c2803@b038.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n*Uw fungerend voorzitter stelt een indicatievieve spreektijd van 5 minuten per fractie voor\, uitgaande van ongeveer vijf sprekers*\n\nHet is niet een besloten evenement\n\nAanwezigen (5):\n  J.C. Sneller (D66)\n  W.B. Hoekstra (onbekend)\n  B.A.W. Snels (GroenLinks)\n  J.L. Geurts (CDA)\n  E. Heinen (VVD)\n\n\n
+DTEND:20210624T120000Z
+DTSTART:20210624T100000Z
+SUMMARY:Begroten en verantwoorden 
+UID:5e3f7c1c-b45d-4735-9a54-3041d143ad20@5e3f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nNoot: \nLeden die wensen deel te nemen aan het commissiedebat worden verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n  H. Nijboer (PvdA)\n  vaste commissie voor Financiën (onbekend)\n  I. (Inge) van Dijk (CDA)\n  S. Maatoug (GroenLinks)\n  J.C. Sneller (D66)\n  S.A.M. Kaag (onbekend)\n  vaste commissie voor Onderwijs\, Cultuur en Wetenschap (onbekend)\n  vaste commissie voor Landbouw\, Natuur en Voedselkwaliteit (onbekend)\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (onbekend)\n  E. Heinen (VVD)\n\n\n
 DTEND:20220914T190000Z
 DTSTART:20220914T160000Z
 SUMMARY:Begrotingsproces
-UID:4b3e6d8b-4e0f-437c-8b43-ae752cd29fd5@4b3e.org
+UID:8d402143-ae95-4455-8fd6-ac15ab036738@8d40.org
 END:VEVENT
 END:VCALENDAR
