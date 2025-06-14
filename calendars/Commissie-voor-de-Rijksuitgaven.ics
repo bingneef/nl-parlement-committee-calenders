@@ -2,24 +2,24 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\n *Indicatieve spreektijd per fractie 4 minuten*\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  E. Heinen (onbekend)\n  C.J. Faddegon (PVV)\n\n\n
-DTEND:20250701T183000Z
-DTSTART:20250701T153000Z
-SUMMARY:Begrotingsproces
-UID:9ce48a99-5560-4f09-9bb9-eb9848de1cbf@9ce4.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Notitie:\nNoot: \nLeden die wensen deel te nemen aan het commissiedebat worden verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n  H. Nijboer (PvdA)\n  vaste commissie voor Financiën (onbekend)\n  I. (Inge) van Dijk (CDA)\n  S. Maatoug (GroenLinks)\n  J.C. Sneller (D66)\n  S.A.M. Kaag (onbekend)\n  vaste commissie voor Onderwijs\, Cultuur en Wetenschap (onbekend)\n  vaste commissie voor Landbouw\, Natuur en Voedselkwaliteit (onbekend)\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (onbekend)\n  E. Heinen (VVD)\n\n\n
 DTEND:20220914T190000Z
 DTSTART:20220914T160000Z
 SUMMARY:Begrotingsproces
-UID:a67af206-08ba-4da6-aea6-6c2f6cd5c582@a67a.org
+UID:d5feb07f-b3b7-4f59-a401-2f19a38efcd4@d5fe.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\n*Uw fungerend voorzitter stelt een indicatievieve spreektijd van 5 minuten per fractie voor\, uitgaande van ongeveer vijf sprekers*\n\nHet is niet een besloten evenement\n\nAanwezigen (5):\n  J.C. Sneller (D66)\n  W.B. Hoekstra (onbekend)\n  B.A.W. Snels (GroenLinks)\n  J.L. Geurts (CDA)\n  E. Heinen (VVD)\n\n\n
 DTEND:20210624T120000Z
 DTSTART:20210624T100000Z
 SUMMARY:Begroten en verantwoorden 
-UID:eda8c042-de4e-4321-bcfc-4d5ecd4f338c@eda8.org
+UID:ca055472-6e50-4de4-879d-6aba109682f9@ca05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n *Indicatieve spreektijd per fractie 4 minuten*\nLeden die wensen deel te nemen aan het commissiedebat wordt verzocht zich aan te melden via het tabblad deelnemers\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  E. Heinen (onbekend)\n  C.J. Faddegon (PVV)\n\n\n
+DTEND:20250701T183000Z
+DTSTART:20250701T153000Z
+SUMMARY:Begrotingsproces
+UID:eab45d4e-6aa0-4981-981b-db9ac86402c5@eab4.org
 END:VEVENT
 END:VCALENDAR
