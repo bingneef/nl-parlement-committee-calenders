@@ -2,24 +2,24 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (1):\n  E. Heinen (onbekend)\n\n\n
-DTEND:20250904T110000Z
-DTSTART:20250904T080000Z
-SUMMARY:Begrotingsproces
-UID:3aabeacb-f261-4c33-bb1f-8e5e0ab25ed4@3aab.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Notitie:\nNoot: \nLeden die wensen deel te nemen aan het commissiedebat worden verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n  H. Nijboer (PvdA)\n  vaste commissie voor Financiën (onbekend)\n  I. (Inge) van Dijk (CDA)\n  S. Maatoug (GroenLinks)\n  J.C. Sneller (D66)\n  S.A.M. Kaag (onbekend)\n  vaste commissie voor Onderwijs\, Cultuur en Wetenschap (onbekend)\n  vaste commissie voor Landbouw\, Natuur en Voedselkwaliteit (onbekend)\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (onbekend)\n  E. Heinen (VVD)\n\n\n
 DTEND:20220914T190000Z
 DTSTART:20220914T160000Z
 SUMMARY:Begrotingsproces
-UID:8d413f14-e7f6-435b-bb3f-b84a06cd8e3e@8d41.org
+UID:cadaf3c6-edc4-4af7-806a-bda0c12a78b6@cada.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (1):\n  E. Heinen (onbekend)\n\n\n
+DTEND:20250904T110000Z
+DTSTART:20250904T080000Z
+SUMMARY:Begrotingsproces
+UID:629230ce-ebf6-4c2d-b6a4-e2e51daadfd6@6292.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\n*Uw fungerend voorzitter stelt een indicatievieve spreektijd van 5 minuten per fractie voor\, uitgaande van ongeveer vijf sprekers*\n\nHet is niet een besloten evenement\n\nAanwezigen (5):\n  J.C. Sneller (D66)\n  W.B. Hoekstra (onbekend)\n  B.A.W. Snels (GroenLinks)\n  J.L. Geurts (CDA)\n  E. Heinen (VVD)\n\n\n
 DTEND:20210624T120000Z
 DTSTART:20210624T100000Z
 SUMMARY:Begroten en verantwoorden 
-UID:76a8aa91-c6ab-425f-b030-cf4c123abc4e@76a8.org
+UID:103916db-71fa-4417-8cca-c0803dcd085c@1039.org
 END:VEVENT
 END:VCALENDAR
