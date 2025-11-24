@@ -1,7 +1,7 @@
 # Commissie vergaderingen Eerste- en Tweede Kamer
 Dit project genereert elke dag de kalenders van de verschillende commissies van de kamers van het parlement. Je kan de link in de kalender programma (bijvoorbeeld Outlook) kopiëren voor automatische synchronisatie.
 
-Laatste update: 24/11/2025 04:24
+Laatste update: 24/11/2025 16:22
 
 ## Gevulde kalenders
 **Commissie voor de Rijksuitgaven** (3 gevonden)\
@@ -16,7 +16,7 @@ Laatste update: 24/11/2025 04:24
 **Vaste commissie voor Buitenlandse Handel en Ontwikkelingshulp** (14 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Buitenlandse-Handel-en-Ontwikkelingshulp.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Buitenlandse-Handel-en-Ontwikkelingshulp.ics)
 
-**Vaste commissie voor Buitenlandse Zaken** (94 gevonden)\
+**Vaste commissie voor Buitenlandse Zaken** (93 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Buitenlandse-Zaken.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Buitenlandse-Zaken.ics)
 
 **Vaste commissie voor Defensie** (63 gevonden)\
