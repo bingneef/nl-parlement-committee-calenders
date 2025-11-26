@@ -1,7 +1,7 @@
 # Commissie vergaderingen Eerste- en Tweede Kamer
 Dit project genereert elke dag de kalenders van de verschillende commissies van de kamers van het parlement. Je kan de link in de kalender programma (bijvoorbeeld Outlook) kopiëren voor automatische synchronisatie.
 
-Laatste update: 26/11/2025 04:23
+Laatste update: 26/11/2025 16:22
 
 ## Gevulde kalenders
 **Commissie voor de Rijksuitgaven** (3 gevonden)\
@@ -25,7 +25,7 @@ Laatste update: 26/11/2025 04:23
 **Vaste commissie voor Digitale Zaken** (41 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Digitale-Zaken.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Digitale-Zaken.ics)
 
-**Vaste commissie voor Economische Zaken** (17 gevonden)\
+**Vaste commissie voor Economische Zaken** (18 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Economische-Zaken.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Economische-Zaken.ics)
 
 **Vaste commissie voor Europese Zaken** (17 gevonden)\
@@ -58,7 +58,7 @@ Laatste update: 26/11/2025 04:23
 **Vaste commissie voor Volksgezondheid, Welzijn en Sport** (102 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Volksgezondheid--Welzijn-en-Sport.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Volksgezondheid--Welzijn-en-Sport.ics)
 
-**Vaste commissie voor Volkshuisvesting en Ruimtelijke Ordening** (12 gevonden)\
+**Vaste commissie voor Volkshuisvesting en Ruimtelijke Ordening** (15 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Volkshuisvesting-en-Ruimtelijke-Ordening.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Volkshuisvesting-en-Ruimtelijke-Ordening.ics)
 
 ## Lege kalenders
