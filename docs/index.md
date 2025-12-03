@@ -1,7 +1,7 @@
 # Commissie vergaderingen Eerste- en Tweede Kamer
 Dit project genereert elke dag de kalenders van de verschillende commissies van de kamers van het parlement. Je kan de link in de kalender programma (bijvoorbeeld Outlook) kopiëren voor automatische synchronisatie.
 
-Laatste update: 02/12/2025 16:23
+Laatste update: 03/12/2025 04:23
 
 ## Gevulde kalenders
 **Commissie voor de Rijksuitgaven** (3 gevonden)\
@@ -52,7 +52,7 @@ Laatste update: 02/12/2025 16:23
 **Vaste commissie voor Onderwijs, Cultuur en Wetenschap** (73 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Onderwijs--Cultuur-en-Wetenschap.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Onderwijs--Cultuur-en-Wetenschap.ics)
 
-**Vaste commissie voor Sociale Zaken en Werkgelegenheid** (83 gevonden)\
+**Vaste commissie voor Sociale Zaken en Werkgelegenheid** (82 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Sociale-Zaken-en-Werkgelegenheid.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Sociale-Zaken-en-Werkgelegenheid.ics)
 
 **Vaste commissie voor Volksgezondheid, Welzijn en Sport** (102 gevonden)\
