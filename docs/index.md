@@ -1,7 +1,7 @@
 # Commissie vergaderingen Eerste- en Tweede Kamer
 Dit project genereert elke dag de kalenders van de verschillende commissies van de kamers van het parlement. Je kan de link in de kalender programma (bijvoorbeeld Outlook) kopiëren voor automatische synchronisatie.
 
-Laatste update: 05/01/2026 04:38
+Laatste update: 05/01/2026 16:23
 
 ## Gevulde kalenders
 **Commissie voor de Rijksuitgaven** (3 gevonden)\
@@ -13,10 +13,10 @@ Laatste update: 05/01/2026 04:38
 **Vaste commissie voor Binnenlandse Zaken** (96 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Binnenlandse-Zaken.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Binnenlandse-Zaken.ics)
 
-**Vaste commissie voor Buitenlandse Handel en Ontwikkelingshulp** (20 gevonden)\
+**Vaste commissie voor Buitenlandse Handel en Ontwikkelingshulp** (21 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Buitenlandse-Handel-en-Ontwikkelingshulp.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Buitenlandse-Handel-en-Ontwikkelingshulp.ics)
 
-**Vaste commissie voor Buitenlandse Zaken** (95 gevonden)\
+**Vaste commissie voor Buitenlandse Zaken** (96 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Buitenlandse-Zaken.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Buitenlandse-Zaken.ics)
 
 **Vaste commissie voor Defensie** (65 gevonden)\
@@ -43,7 +43,7 @@ Laatste update: 05/01/2026 04:38
 **Vaste commissie voor Klimaat en Groene Groei** (32 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Klimaat-en-Groene-Groei.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Klimaat-en-Groene-Groei.ics)
 
-**Vaste commissie voor Koninkrijksrelaties** (22 gevonden)\
+**Vaste commissie voor Koninkrijksrelaties** (23 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Koninkrijksrelaties.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Koninkrijksrelaties.ics)
 
 **Vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur ** (37 gevonden)\
