@@ -2,171 +2,178 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Notitie:\nDe spreektijd per fractie is vastgesteld op 5 minuten in de eerste termijn\n\nHet is niet een besloten evenement\n\nAanwezigen (6):\n  I.J.M. Michon-Derkzen (VVD)\n  V.P.G. Karremans (onbekend)\n  J. Thijssen (GroenLinks-PvdA)\n  J.C. Sneller (D66)\n  V.C.H.M. Verouden (NSC)\n  A. Kisteman Voorzitter (VVD)\n\n\n
+DTEND:20251002T120000Z
+DTSTART:20251002T080000Z
+SUMMARY:Marktordening en consumentenbescherming
+UID:df2b4f2f-0358-4d95-bc2e-6e47eb075789@df2b.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (9):\n  H. Vermeer (BBB)\n  M.R.H. van Lanschot (CDA)\n  V.P.G. Karremans (onbekend)\n  T.M.T. van der Lee (GroenLinks-PvdA)\n  A. Oualhadj (D66)\n  C. Stoffer (SGP)\n  C. Martens-America (VVD)\n  E.C. Prickaertz (PVV)\n  vaste commissie voor Financiën (onbekend)\n\n\n
 DTEND:20251218T170000Z
 DTSTART:20251218T140000Z
 SUMMARY:Startups en scale-ups
-UID:fd9b1e72-5e73-40cc-91e8-0f0075f7c6e8@fd9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (7):\n  J. Thijssen (GroenLinks-PvdA)\n  F.A. Zeedijk (NSC)\n  D.S. Beljaarts (onbekend)\n  I.J.M. Michon-Derkzen (VVD)\n  C. Martens-America (VVD)\n  R.F. van Meetelen (PVV)\n  J.C. Sneller (D66)\n\n\n
-DTEND:20241002T180000Z
-DTSTART:20241002T160000Z
-SUMMARY:Staat van de economie (tweede termijn)
-UID:7b506024-0f14-4ce5-b82a-cc2e99f5dc94@7b50.org
+UID:b5b78eeb-aa29-4c8e-a528-06ce69dfc952@b5b7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nDe spreektijd is vastgesteld op maximaal 5 minuten per fractie in het eerste termijn.\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  A.J. Flach (SGP)\n  I. (Inge) van Dijk (CDA)\n  J. Thijssen (GroenLinks-PvdA)\n  J.C. Sneller (D66)\n  D.S. Beljaarts (onbekend)\n  C. Martens-America (VVD)\n  R.F. van Meetelen (PVV)\n  W.L. Postma (NSC)\n  I.J.M. Michon-Derkzen (VVD)\n  H. Vermeer (BBB)\n\n\n
 DTEND:20250213T160000Z
 DTSTART:20250213T120000Z
 SUMMARY:Verdienvermogen van Nederland 
-UID:e4acfbed-9720-4a0f-a69e-1a47c7ba4c6b@e4ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (1):\n  V.P.G. Karremans (onbekend)\n\n\n
-DTEND:20260527T150000Z
-DTSTART:20260527T120000Z
-SUMMARY:Midden- en kleinbedrijf
-UID:b0be8a8f-218f-431a-918f-85dc81fff4d1@b0be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nDe spreektijd per fractie is vastgesteld op 5 minuten in het eerste termijn.\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  R.F. van Meetelen (PVV)\n  H. Vermeer (BBB)\n  I.J.M. Michon-Derkzen (VVD)\n  J. Thijssen (GroenLinks-PvdA)\n  J.C. Sneller (D66)\n  I. (Inge) van Dijk (CDA)\n  V.P.G. Karremans (onbekend)\n  C. Martens-America Voorzitter (VVD)\n\n\n
-DTEND:20250925T193000Z
-DTSTART:20250925T153000Z
-SUMMARY:Verdienvermogen van Nederland
-UID:7cd885e4-c3ef-4e7d-88e5-82dd08b04c33@7cd8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nDe spreektijd per fractie is vastgesteld op 5 minuten in het eerste termijn.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  V.P.G. Karremans (onbekend)\n  H. Vermeer (BBB)\n  I. (Inge) van Dijk (CDA)\n  V.C.H.M. Verouden (NSC)\n  L.A.J.M. Dassen (Volt)\n  I.J.M. Michon-Derkzen (VVD)\n  R.F. van Meetelen (PVV)\n  P.A. Grinwis (ChristenUnie)\n  J. Thijssen (GroenLinks-PvdA)\n  A. Kisteman (VVD)\n  A.J. Flach (SGP)\n\n\n
-DTEND:20250911T120000Z
-DTSTART:20250911T080000Z
-SUMMARY:Midden- en kleinbedrijf
-UID:e2839dd3-da64-4619-ae29-adb3a26fd092@e283.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nDe spreektijd is vastgesteld op 4 min. per fractie in de eerste termijn. \n\nHet is niet een besloten evenement\n\nAanwezigen (4):\n  I.J.M. Michon-Derkzen (VVD)\n  H.G. Herbert (onbekend)\n  vaste commissie voor Europese Zaken (onbekend)\n  J.G.L.M. Bühler (CDA)\n\n\n
-DTEND:20260304T120000Z
-DTSTART:20260304T090000Z
-SUMMARY:Economische veiligheid en strategische autonomie
-UID:c6e84e9e-5dec-4e72-ac7f-ad802538b3a8@c6e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nDe spreektijd is vastgesteld op 3 min. per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (6):\n  A. Kisteman (VVD)\n  I.J.M. Michon-Derkzen (VVD)\n  F.L. Idsinga (NSC)\n  J. Thijssen (GroenLinks-PvdA)\n  R.F. van Meetelen (PVV)\n  D.S. Beljaarts (onbekend)\n\n\n
-DTEND:20250130T120000Z
-DTSTART:20250130T100000Z
-SUMMARY:Telecommunicatie 
-UID:dd8a0532-74c2-4819-aedb-5f925dbdcac8@dd8a.org
+UID:d6eb1c61-4846-4a74-886a-099c37043cea@d6eb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nDe spreektijd per fractie is vastgesteld op max. 4 minuten in de eerste termijn.\n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  C. Stoffer (SGP)\n  D.S. Beljaarts (onbekend)\n  A. Kisteman (VVD)\n  J. Thijssen (GroenLinks-PvdA)\n  Onbekend (onbekend)\n  R.F. van Meetelen (PVV)\n  I.J.M. Michon-Derkzen (VVD)\n\n\n
 DTEND:20250527T183000Z
 DTSTART:20250527T153000Z
 SUMMARY:Toerisme & recreatie (aanvang 18.00 uur)
-UID:26bbbd26-f385-49b3-b405-d3a84c85574b@26bb.org
+UID:ea4f6cae-48b3-41b2-8235-95a9dcd1f06e@ea4f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nDe spreektijd is vastgesteld op 4 minuten per fractie. \n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  P. van Houwelingen (FVD)\n  D.S. Beljaarts (onbekend)\n  R.F. van Meetelen (PVV)\n  C. Martens-America (VVD)\n  Onbekend (onbekend)\n  F.A. Zeedijk (NSC)\n  I. (Inge) van Dijk (CDA)\n  A.J. Flach (SGP)\n  J. Thijssen (GroenLinks-PvdA)\n  J.C. Sneller (D66)\n\n\n
-DTEND:20240911T153000Z
-DTSTART:20240911T123000Z
-SUMMARY:Staat van de economie (debat wordt op een later moment voortgezet)
-UID:f9b142e6-d799-40df-a285-b81da7394fb7@f9b1.org
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (7):\n  J. Thijssen (GroenLinks-PvdA)\n  F.A. Zeedijk (NSC)\n  D.S. Beljaarts (onbekend)\n  I.J.M. Michon-Derkzen (VVD)\n  C. Martens-America (VVD)\n  R.F. van Meetelen (PVV)\n  J.C. Sneller (D66)\n\n\n
+DTEND:20241002T180000Z
+DTSTART:20241002T160000Z
+SUMMARY:Staat van de economie (tweede termijn)
+UID:bb07c618-1bbd-498a-bfae-23f006839baf@bb07.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nDe spreektijd is vastgesteld op 4 min. per fractie in de eerste termijn\n\nHet is niet een besloten evenement\n\nAanwezigen (6):\n  W.L. Postma (NSC)\n  V.P.G. Karremans (onbekend)\n  C. Martens-America (VVD)\n  H. Vermeer (BBB)\n  J. Thijssen (GroenLinks-PvdA)\n  I. (Inge) van Dijk (CDA)\n\n\n
-DTEND:20250903T123000Z
-DTSTART:20250903T093000Z
-SUMMARY:Halfgeleiderindustrie 
-UID:0cf57d37-7a02-4802-8d00-767c9877ad4d@0cf5.org
+DESCRIPTION:Notitie:\nDe spreektijd is vastgesteld op 4 min. per fractie in de eerste termijn. \n\nHet is niet een besloten evenement\n\nAanwezigen (6):\n  I.J.M. Michon-Derkzen (VVD)\n  H.G. Herbert (onbekend)\n  D.J. van den Berg (JA21)\n  A. Kisteman voorzitter (VVD)\n  vaste commissie voor Europese Zaken (onbekend)\n  J.G.L.M. Bühler (CDA)\n\n\n
+DTEND:20260304T120000Z
+DTSTART:20260304T090000Z
+SUMMARY:Economische veiligheid en strategische autonomie
+UID:7c74d318-2e31-4ec3-8c96-155db9d65f81@7c74.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nDe spreektijd per fractie is vastgesteld op 5 minuten in de eerste termijn\n\nHet is niet een besloten evenement\n\nAanwezigen (6):\n  I.J.M. Michon-Derkzen (VVD)\n  V.P.G. Karremans (onbekend)\n  J. Thijssen (GroenLinks-PvdA)\n  J.C. Sneller (D66)\n  V.C.H.M. Verouden (NSC)\n  A. Kisteman Voorzitter (VVD)\n\n\n
-DTEND:20251002T120000Z
-DTSTART:20251002T080000Z
-SUMMARY:Marktordening en consumentenbescherming
-UID:520b0aeb-fb50-49ce-b32d-d3a64f9e00b5@520b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (1):\n  V.P.G. Karremans (onbekend)\n\n\n
-DTEND:20260422T173000Z
-DTSTART:20260422T143000Z
-SUMMARY:Marktordening en consumentenbescherming
-UID:0ccf58ae-3166-4de4-9cc2-525db1f14642@0ccf.org
+DESCRIPTION:Notitie:\nDe spreektijd per fractie is vastgesteld op 5 minuten in het eerste termijn.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  V.P.G. Karremans (onbekend)\n  H. Vermeer (BBB)\n  I. (Inge) van Dijk (CDA)\n  V.C.H.M. Verouden (NSC)\n  L.A.J.M. Dassen (Volt)\n  I.J.M. Michon-Derkzen (VVD)\n  R.F. van Meetelen (PVV)\n  P.A. Grinwis (ChristenUnie)\n  J. Thijssen (GroenLinks-PvdA)\n  A. Kisteman (VVD)\n  A.J. Flach (SGP)\n\n\n
+DTEND:20250911T120000Z
+DTSTART:20250911T080000Z
+SUMMARY:Midden- en kleinbedrijf
+UID:91f19660-179c-43da-9cb3-abd275008223@91f1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nIndien een van de leden een tweeminutendebat inclusief stemmingen wenst te voeren (voorafgaand aan de raad op 6 maart 2025)\, dan dient daartoe een vooraankondiging gedaan te worden tijdens de Regeling van Werkzaamheden op dinsdag 4 maart 2025.\nDe spreektijd is vastgesteld op maximaal 3 minuten per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  J.C. Sneller (D66)\n  I.J.M. Michon-Derkzen (VVD)\n  A.J. Flach (SGP)\n  D.S. Beljaarts (onbekend)\n  vaste commissie voor Europese Zaken (onbekend)\n  W.L. Postma (NSC)\n  J. Thijssen (GroenLinks-PvdA)\n  C. Martens-America (VVD)\n\n\n
 DTEND:20250305T143000Z
 DTSTART:20250305T123000Z
 SUMMARY:Raad voor Concurrentievermogen/Interne markt & Industrie (formeel)
-UID:d95a1247-da14-4398-94bb-9236bf9da6cb@d95a.org
+UID:21acbc1a-6a40-409b-84ff-98faf98593cd@21ac.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nDe spreektijd is vastgesteld op 4 min. per fractie in de eerste termijn\n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  D.S. Beljaarts (onbekend)\n  W.L. Postma (NSC)\n  I.J.M. Michon-Derkzen (VVD)\n  I. (Inge) van Dijk (CDA)\n  C. Martens-America (VVD)\n  J. Thijssen (GroenLinks-PvdA)\n  J.C. Sneller (D66)\n\n\n
-DTEND:20250409T110000Z
-DTSTART:20250409T080000Z
-SUMMARY:Ruimtevaart
-UID:34b1a004-d0c9-4c76-8caf-1c87e1e44735@34b1.org
+DESCRIPTION:Het is niet een besloten evenement\n\n
+DTEND:20260325T170000Z
+DTSTART:20260325T130000Z
+SUMMARY:Reservering Commissiedebat Collectieve warmte + zaalprep
+UID:c83b113a-4f2f-4401-84c0-0656cf3087ba@c83b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nDe spreektijd is vastgesteld op 4 minuten per fractie in de eerste termijn.\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  V.P.G. Karremans (onbekend)\n  I.J.M. Michon-Derkzen (VVD)\n\n\n
-DTEND:20260319T163000Z
-DTSTART:20260319T133000Z
-SUMMARY:Innovatie 
-UID:8eee84fd-313d-43ae-9ccd-88bd1591f731@8eee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (1):\n  V.P.G. Karremans (onbekend)\n\n\n
-DTEND:20260409T110000Z
-DTSTART:20260409T080000Z
-SUMMARY:Verdienvermogen van Nederland
-UID:e9b9cda7-abe7-4954-aadc-8df23d1c1a58@e9b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nDe spreektijd is vastgesteld op 4 min. per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  A. Kisteman (VVD)\n  F.A. Zeedijk (NSC)\n  D.S. Beljaarts (onbekend)\n  S.M. Beckerman (SP)\n  I.J.M. Michon-Derkzen (VVD)\n  J. Thijssen (GroenLinks-PvdA)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  H. Vermeer (BBB)\n  C. Stoffer (SGP)\n  D.J.G. Graus (PVV)\n\n\n
-DTEND:20241009T140000Z
-DTSTART:20241009T110000Z
-SUMMARY:Post
-UID:f1194c20-fd30-45df-915c-5f16f8f92d78@f119.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nIndien een van de leden een tweeminutendebat inclusief stemmingen wenst te voeren\, voorafgaand aan de Raad voor Concurrentievermogen/Interne Markt & Industrie (formeel) op 26 september 2024\, dan dient daartoe een vooraankondiging gedaan te worden tijdens de Regeling van Werkzaamheden op dinsdag 24 september 2024.\nDe spreektijd is vastgesteld op maximaal 4 minuten per fractie in de eerste termijn.\n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  D.S. Beljaarts (onbekend)\n  vaste commissie voor Europese Zaken (onbekend)\n  Onbekend (onbekend)\n  F.A. Zeedijk (NSC)\n  R.F. van Meetelen (PVV)\n  J. Thijssen (GroenLinks-PvdA)\n  C. Martens-America (VVD)\n\n\n
-DTEND:20240925T110000Z
-DTSTART:20240925T080000Z
-SUMMARY:Raad voor Concurrentievermogen/Interne Markt & Industrie (formeel)
-UID:8d95a27c-361d-4b76-9dad-23f10174afc3@8d95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nIndien een van de leden een tweeminutendebat inclusief stemmingen wenst te voeren (voorafgaand aan de raad op 28 mei 2026 )\, dan dient daartoe een vooraankondiging gedaan te worden tijdens de Regeling van Werkzaamheden op dinsdag 19 mei 2026.\nDe spreektijd is vastgesteld op maximaal 3 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (4):\n  V.P.G. Karremans (onbekend)\n  G. Moes (onbekend)\n  vaste commissie voor Europese Zaken (onbekend)\n  vaste commissie voor Onderwijs\, Cultuur en Wetenschap (onbekend)\n\n\n
-DTEND:20260521T143000Z
-DTSTART:20260521T123000Z
-SUMMARY:(formele) Raad van concurrentie vermogen/Interne markt en industrie\, onderzoek en ruimtevaart op 28 en 29 mei 2026
-UID:e8e2021b-1a95-41c3-83c9-8434a80ef69d@e8e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nDe spreektijd is vastgesteld op 5 min. per fractie in de eerste termijn\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  J. Thijssen (GroenLinks-PvdA)\n  W.L. Postma (NSC)\n  V.P.G. Karremans (onbekend)\n  C. Martens-America (VVD)\n  A.J. Flach (SGP)\n  R.F. van Meetelen (PVV)\n  J.C. Sneller (D66)\n  I. (Inge) van Dijk-voorzitter (CDA)\n\n\n
-DTEND:20250702T120000Z
-DTSTART:20250702T080000Z
-SUMMARY:Staat van de Economie
-UID:719e85c0-b7f7-4ebf-8d1c-2a0a28def57d@719e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nDe spreektijd is vasstgesteld op 4 min. per fractie in het eerste termijn.\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  J.C. Sneller (D66)\n  D.S. Beljaarts (onbekend)\n  J. Thijssen (GroenLinks-PvdA)\n  C. Martens-America (VVD)\n  I. (Inge) van Dijk (CDA)\n  Onbekend (onbekend)\n  L.A.J.M. Dassen (Volt)\n  R.F. van Meetelen (PVV)\n\n\n
-DTEND:20241204T163000Z
-DTSTART:20241204T133000Z
-SUMMARY:Innovatie & Ruimtevaart 
-UID:2e8bbe88-9d48-4f9b-9fec-178e4cf9ca57@2e8b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nDe spreektijd is vastgesteld op 4 min. per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  I.J.M. Michon-Derkzen (VVD)\n  L.A.J.M. Dassen (Volt)\n  D.S. Beljaarts (onbekend)\n  H. Vermeer (BBB)\n  vaste commissie voor Buitenlandse Handel en Ontwikkelingshulp (onbekend)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  F.A. Zeedijk (NSC)\n  Onbekend (onbekend)\n  C. Martens-America (VVD)\n  Onbekend (onbekend)\n  J. Thijssen (GroenLinks-PvdA)\n\n\n
-DTEND:20241107T120000Z
-DTSTART:20241107T090000Z
-SUMMARY:Economische Veiligheid en strategische autonomie
-UID:2bb22400-a0c9-426b-aaf3-53304823101d@2bb2.org
+DESCRIPTION:Notitie:\nDe spreektijd is vastgesteld op 4 minuten per fractie. \n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  P. van Houwelingen (FVD)\n  D.S. Beljaarts (onbekend)\n  R.F. van Meetelen (PVV)\n  C. Martens-America (VVD)\n  Onbekend (onbekend)\n  F.A. Zeedijk (NSC)\n  I. (Inge) van Dijk (CDA)\n  A.J. Flach (SGP)\n  J. Thijssen (GroenLinks-PvdA)\n  J.C. Sneller (D66)\n\n\n
+DTEND:20240911T153000Z
+DTSTART:20240911T123000Z
+SUMMARY:Staat van de economie (debat wordt op een later moment voortgezet)
+UID:31421df8-69c4-4200-9507-9549521889a1@3142.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nDe spreektijd is vastgesteld op maximaal 5 minuten per fractie in het eerste termijn.\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  P.A. Grinwis (ChristenUnie)\n  Onbekend (onbekend)\n  A.J. Flach (SGP)\n  L.A.J.M. Dassen (Volt)\n  R.F. van Meetelen (PVV)\n  A. Kisteman (VVD)\n  I. (Inge) van Dijk (CDA)\n  B.J. Eerdmans (JA21)\n  Onbekend (onbekend)\n  D.S. Beljaarts (onbekend)\n  R.J. White (GroenLinks-PvdA)\n  I.J.M. Michon-Derkzen (VVD)\n  H. Vermeer (BBB)\n  F.L. Idsinga (NSC)\n\n\n
 DTEND:20250320T130000Z
 DTSTART:20250320T090000Z
 SUMMARY:Midden- en kleinbedrijf
-UID:44d38765-f300-4a7a-b369-dec8d1bb28aa@44d3.org
+UID:07acd3cc-7c12-48fb-af23-64d50ba119e8@07ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (1):\n  V.P.G. Karremans (onbekend)\n\n\n
+DTEND:20260527T150000Z
+DTSTART:20260527T120000Z
+SUMMARY:Midden- en kleinbedrijf
+UID:d421f74c-4948-4f5e-8c17-a2852d1d597a@d421.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nDe spreektijd is vastgesteld op 3 min. per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (6):\n  A. Kisteman (VVD)\n  I.J.M. Michon-Derkzen (VVD)\n  F.L. Idsinga (NSC)\n  J. Thijssen (GroenLinks-PvdA)\n  R.F. van Meetelen (PVV)\n  D.S. Beljaarts (onbekend)\n\n\n
+DTEND:20250130T120000Z
+DTSTART:20250130T100000Z
+SUMMARY:Telecommunicatie 
+UID:da73575b-c4d7-4b47-b4b5-58264737db10@da73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (1):\n  V.P.G. Karremans (onbekend)\n\n\n
+DTEND:20260422T173000Z
+DTSTART:20260422T143000Z
+SUMMARY:Marktordening en consumentenbescherming
+UID:1dc91159-35af-4f67-80ae-d24d3ad93c2d@1dc9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nIndien een van de leden een tweeminutendebat inclusief stemmingen wenst te voeren\, voorafgaand aan de Raad voor Concurrentievermogen/Interne Markt & Industrie (formeel) op 26 september 2024\, dan dient daartoe een vooraankondiging gedaan te worden tijdens de Regeling van Werkzaamheden op dinsdag 24 september 2024.\nDe spreektijd is vastgesteld op maximaal 4 minuten per fractie in de eerste termijn.\n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  D.S. Beljaarts (onbekend)\n  vaste commissie voor Europese Zaken (onbekend)\n  Onbekend (onbekend)\n  F.A. Zeedijk (NSC)\n  R.F. van Meetelen (PVV)\n  J. Thijssen (GroenLinks-PvdA)\n  C. Martens-America (VVD)\n\n\n
+DTEND:20240925T110000Z
+DTSTART:20240925T080000Z
+SUMMARY:Raad voor Concurrentievermogen/Interne Markt & Industrie (formeel)
+UID:048fe848-31f5-49e3-aab7-04075155e24e@048f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nDe spreektijd is vasstgesteld op 4 min. per fractie in het eerste termijn.\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  J.C. Sneller (D66)\n  D.S. Beljaarts (onbekend)\n  J. Thijssen (GroenLinks-PvdA)\n  C. Martens-America (VVD)\n  I. (Inge) van Dijk (CDA)\n  Onbekend (onbekend)\n  L.A.J.M. Dassen (Volt)\n  R.F. van Meetelen (PVV)\n\n\n
+DTEND:20241204T163000Z
+DTSTART:20241204T133000Z
+SUMMARY:Innovatie & Ruimtevaart 
+UID:e1b2da18-804c-49f9-b75b-14e8ec4eb5bd@e1b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nDe spreektijd is vastgesteld op 4 min. per fractie in de eerste termijn\n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  D.S. Beljaarts (onbekend)\n  W.L. Postma (NSC)\n  I.J.M. Michon-Derkzen (VVD)\n  I. (Inge) van Dijk (CDA)\n  C. Martens-America (VVD)\n  J. Thijssen (GroenLinks-PvdA)\n  J.C. Sneller (D66)\n\n\n
+DTEND:20250409T110000Z
+DTSTART:20250409T080000Z
+SUMMARY:Ruimtevaart
+UID:474d196e-e2e2-46b1-a75e-8b8d2f13ca66@474d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nDe spreektijd is vastgesteld op 5 min. per fractie in de eerste termijn\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  J. Thijssen (GroenLinks-PvdA)\n  W.L. Postma (NSC)\n  V.P.G. Karremans (onbekend)\n  C. Martens-America (VVD)\n  A.J. Flach (SGP)\n  R.F. van Meetelen (PVV)\n  J.C. Sneller (D66)\n  I. (Inge) van Dijk-voorzitter (CDA)\n\n\n
+DTEND:20250702T120000Z
+DTSTART:20250702T080000Z
+SUMMARY:Staat van de Economie
+UID:6b48be87-f62e-4060-9d1e-29e9ba90024d@6b48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nDe spreektijd is vastgesteld op 4 min. per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  I.J.M. Michon-Derkzen (VVD)\n  L.A.J.M. Dassen (Volt)\n  D.S. Beljaarts (onbekend)\n  H. Vermeer (BBB)\n  vaste commissie voor Buitenlandse Handel en Ontwikkelingshulp (onbekend)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  F.A. Zeedijk (NSC)\n  Onbekend (onbekend)\n  C. Martens-America (VVD)\n  Onbekend (onbekend)\n  J. Thijssen (GroenLinks-PvdA)\n\n\n
+DTEND:20241107T120000Z
+DTSTART:20241107T090000Z
+SUMMARY:Economische Veiligheid en strategische autonomie
+UID:484aa304-ae19-439a-a3bc-13a044838533@484a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nDe spreektijd is vastgesteld op 4 minuten per fractie in de eerste termijn.\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  V.P.G. Karremans (onbekend)\n  I.J.M. Michon-Derkzen (VVD)\n\n\n
+DTEND:20260319T163000Z
+DTSTART:20260319T133000Z
+SUMMARY:Innovatie 
+UID:dce24993-6071-43d0-86cb-13a9b23c9089@dce2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nIndien een van de leden een tweeminutendebat inclusief stemmingen wenst te voeren (voorafgaand aan de raad op 28 mei 2026 )\, dan dient daartoe een vooraankondiging gedaan te worden tijdens de Regeling van Werkzaamheden op dinsdag 19 mei 2026.\nDe spreektijd is vastgesteld op maximaal 3 minuten per fractie\n\nHet is niet een besloten evenement\n\nAanwezigen (4):\n  V.P.G. Karremans (onbekend)\n  G. Moes (onbekend)\n  vaste commissie voor Europese Zaken (onbekend)\n  vaste commissie voor Onderwijs\, Cultuur en Wetenschap (onbekend)\n\n\n
+DTEND:20260521T143000Z
+DTSTART:20260521T123000Z
+SUMMARY:(formele) Raad van concurrentie vermogen/Interne markt en industrie\, onderzoek en ruimtevaart op 28 en 29 mei 2026
+UID:dce88416-a5c6-4a7c-a221-803703c98bd8@dce8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nDe spreektijd is vastgesteld op 4 min. per fractie.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  A. Kisteman (VVD)\n  F.A. Zeedijk (NSC)\n  D.S. Beljaarts (onbekend)\n  S.M. Beckerman (SP)\n  I.J.M. Michon-Derkzen (VVD)\n  J. Thijssen (GroenLinks-PvdA)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  H. Vermeer (BBB)\n  C. Stoffer (SGP)\n  D.J.G. Graus (PVV)\n\n\n
+DTEND:20241009T140000Z
+DTSTART:20241009T110000Z
+SUMMARY:Post
+UID:7f2dc3bd-dcfb-460e-b5b6-b7aeb6fd9f68@7f2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (1):\n  V.P.G. Karremans (onbekend)\n\n\n
+DTEND:20260409T110000Z
+DTSTART:20260409T080000Z
+SUMMARY:Verdienvermogen van Nederland
+UID:214ea2b7-1ff1-4d6d-a6b5-b7480dc42254@214e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nDe spreektijd per fractie is vastgesteld op 5 minuten in het eerste termijn.\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  R.F. van Meetelen (PVV)\n  H. Vermeer (BBB)\n  I.J.M. Michon-Derkzen (VVD)\n  J. Thijssen (GroenLinks-PvdA)\n  J.C. Sneller (D66)\n  I. (Inge) van Dijk (CDA)\n  V.P.G. Karremans (onbekend)\n  C. Martens-America Voorzitter (VVD)\n\n\n
+DTEND:20250925T193000Z
+DTSTART:20250925T153000Z
+SUMMARY:Verdienvermogen van Nederland
+UID:c1b184ff-78fc-496a-941f-d5b7a8b021a3@c1b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nDe spreektijd is vastgesteld op 4 min. per fractie in de eerste termijn\n\nHet is niet een besloten evenement\n\nAanwezigen (6):\n  W.L. Postma (NSC)\n  V.P.G. Karremans (onbekend)\n  C. Martens-America (VVD)\n  H. Vermeer (BBB)\n  J. Thijssen (GroenLinks-PvdA)\n  I. (Inge) van Dijk (CDA)\n\n\n
+DTEND:20250903T123000Z
+DTSTART:20250903T093000Z
+SUMMARY:Halfgeleiderindustrie 
+UID:b3717201-e86b-4be4-8fe9-55202157dfe5@b371.org
 END:VEVENT
 END:VCALENDAR
