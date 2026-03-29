@@ -2,52 +2,52 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHerziene Agenda i.v.m. toevoeging agenda punt*\nspreektijd eerste termijn Kamer: 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  D.J. van den Berg (JA21)\n  C. Teunissen (PvdD)\n  A.F.J. van Ark (CDA)\n  vaste commissie voor Klimaat en Groene Groei (onbekend)\n  S.C. Kröger (GroenLinks-PvdA)\n  P. Bamenga (D66)\n  S. van Veldhoven-van der Meer (onbekend)\n  Q.M. Rajkowski (VVD)\n  S.W. Sjoerdsma (onbekend)\n\n\n
-DTEND:20260312T123000Z
-DTSTART:20260312T090000Z
-SUMMARY:Internationale Klimaatstrategie
-UID:997c9ad3-1202-4760-8c87-a9021d68ab1e@997c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\n
-DTEND:20260528T110000Z
-DTSTART:20260528T080000Z
-SUMMARY:Bestrijding conflict gerelateerd seksueel geweld 
-UID:d4b69dc0-0891-47be-8183-d67e59ad0868@d4b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (1):\n  S.W. Sjoerdsma (onbekend)\n\n\n
-DTEND:20260513T160000Z
-DTSTART:20260513T130000Z
-SUMMARY:Raad Buitenlandse Zaken Handel van 22 mei 2026
-UID:f629564c-cc64-44fe-9643-d3707ca60bbe@f629.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Notitie:\nHerziene versie i.v.m. toevoegingen agendapunt* \nspreektijd eerste termijn Kamer: 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  S.W. Sjoerdsma (onbekend)\n\n\n
 DTEND:20260401T110000Z
 DTSTART:20260401T080000Z
 SUMMARY:Humanitaire Hulp
-UID:fd0862ef-664e-40c4-a243-b6af5dfdb1c0@fd08.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHerziene versie i.v.m. wijziging bewindspersoon\nspreektijd eerste termijn Kamer: 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  vaste commissie voor Financiën (onbekend)\n  S.W. Sjoerdsma (onbekend)\n\n\n
-DTEND:20260408T143000Z
-DTSTART:20260408T113000Z
-SUMMARY:Voorjaarsvergadering Wereldbank
-UID:fa4f6956-4a6f-4925-b9cb-f5f9998d7052@fa4f.org
+UID:e17b6a28-b5e9-4b71-be5d-e76a46d3ad2f@e17b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging zaak* aan agenda punt\nspreektijd eerste termijn Kamer: 4 minuten\nIndien één van de leden een tweeminutendebat wenst te voeren voorafgaand aan de RBZ Handel van 26 en 29 maart\, dan dient daartoe een vooraankondiging gedaan te worden tijdens de plenaire Regeling van Werkzaamheden van dinsdag 17 maart 2026\, zodat op donderdag 19 maart een tweeminutendebat kan plaatsvinden. Een tweeminutendebat kan niet later plaatsvinden i.v.m. buitenlandse verplichtingen van de bewindspersoon. \n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  S.W. Sjoerdsma (onbekend)\n  M.P. Hoogeveen (JA21)\n  Q.M. Rajkowski (VVD)\n  J.B. Lohman (CDA)\n  P. Bamenga (D66)\n  S.C. Kröger (GroenLinks-PvdA)\n  vaste commissie voor Europese Zaken (onbekend)\n\n\n
 DTEND:20260319T153000Z
 DTSTART:20260319T123000Z
 SUMMARY:Raad Buitenlandse Zaken Handel 26&29 maart 2026
-UID:e8cb52cd-6858-4fec-b955-581f25ecd754@e8cb.org
+UID:cc312e3c-0278-4453-815c-58fdba2f491c@cc31.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nspreektijd eerste termijn Kamer: 4 minuten\nIndien u naar aanleiding van dit commissiedebat een tweeminutendebat inclusief stemmingen wenst te voeren voorafgaand aan de Raad Buitenlandse Zaken Ontwikkeling dan kan dit debat inclusief stemmingen uiterlijk plaatsvinden op woensdag 13 mei 2026 en dient daarvoor uiterlijk dinsdag 12 mei 2026 een vooraankondiging te worden gedaan tijdens de plenaire Regeling van Werkzaamheden.\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  S.W. Sjoerdsma (onbekend)\n  vaste commissie voor Europese Zaken (onbekend)\n\n\n
 DTEND:20260512T183000Z
 DTSTART:20260512T150000Z
 SUMMARY:Raad Buitenlandse Zaken Ontwikkeling van 19 mei 2026
-UID:7d24e839-7080-40e7-be3f-f6bb0343544a@7d24.org
+UID:7c5c1b33-34ff-4263-b62d-7146b1c92476@7c5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (1):\n  S.W. Sjoerdsma (onbekend)\n\n\n
+DTEND:20260513T160000Z
+DTSTART:20260513T130000Z
+SUMMARY:Raad Buitenlandse Zaken Handel van 22 mei 2026
+UID:62586c89-d338-477f-9425-67ae678be7ed@6258.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHerziene Agenda i.v.m. toevoeging agenda punt*\nspreektijd eerste termijn Kamer: 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  D.J. van den Berg (JA21)\n  C. Teunissen (PvdD)\n  A.F.J. van Ark (CDA)\n  vaste commissie voor Klimaat en Groene Groei (onbekend)\n  S.C. Kröger (GroenLinks-PvdA)\n  P. Bamenga (D66)\n  S. van Veldhoven-van der Meer (onbekend)\n  Q.M. Rajkowski (VVD)\n  S.W. Sjoerdsma (onbekend)\n\n\n
+DTEND:20260312T123000Z
+DTSTART:20260312T090000Z
+SUMMARY:Internationale Klimaatstrategie
+UID:900dd97a-880f-4884-a715-1745e32cda19@900d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHerziene versie i.v.m. wijziging bewindspersoon\nspreektijd eerste termijn Kamer: 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (2):\n  vaste commissie voor Financiën (onbekend)\n  S.W. Sjoerdsma (onbekend)\n\n\n
+DTEND:20260408T143000Z
+DTSTART:20260408T113000Z
+SUMMARY:Voorjaarsvergadering Wereldbank
+UID:a5fe8aba-1a29-4981-b984-c9b3201ea56f@a5fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\n
+DTEND:20260528T110000Z
+DTSTART:20260528T080000Z
+SUMMARY:Bestrijding conflict gerelateerd seksueel geweld 
+UID:11e9a500-2d84-4ec6-9531-67fa604841f8@11e9.org
 END:VEVENT
 END:VCALENDAR
