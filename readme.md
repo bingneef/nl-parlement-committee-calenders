@@ -1,13 +1,13 @@
 # Commissie vergaderingen Eerste- en Tweede Kamer
 Dit project genereert elke dag de kalenders van de verschillende commissies van de kamers van het parlement. Je kan de link in de kalender programma (bijvoorbeeld Outlook) kopiëren voor automatische synchronisatie.
 
-Laatste update: 15/05/2026 05:35
+Laatste update: 15/05/2026 16:52
 
 ## Gevulde kalenders
 **Commissie voor de Rijksuitgaven** (3 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Commissie-voor-de-Rijksuitgaven.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Commissie-voor-de-Rijksuitgaven.ics)
 
-**Vaste commissie voor Asiel en Migratie** (26 gevonden)\
+**Vaste commissie voor Asiel en Migratie** (28 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Asiel-en-Migratie.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Asiel-en-Migratie.ics)
 
 **Vaste commissie voor Binnenlandse Zaken** (104 gevonden)\
