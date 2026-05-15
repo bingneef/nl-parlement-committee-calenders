@@ -2,171 +2,171 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging agendapunten.\n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  R.J. Kamminga (VVD)\n  J.P. van Haasen (PVV)\n  W. Paulusma (D66)\n  J.M. Paternotte (D66)\n  R.J. White (GroenLinks-PvdA)\n  F.H. Bruyning (NSC)\n  A.C. van Huffelen (onbekend)\n\n\n
+DTEND:20240208T150000Z
+DTSTART:20240208T130000Z
+SUMMARY:Verzameldebat CAS
+UID:bbe60d28-8abe-46f8-bfeb-43aa961942d1@bbe6.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. wijziging tijdstip. \n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  A.H. Kuiken (PvdA)\n  R.J. Kamminga (VVD)\n  J.A.M.J. van den Berg (CDA)\n  D.J. Eppink (JA21)\n  K. Bouchallikh (GroenLinks)\n  D.G.M. Ceder (ChristenUnie)\n  A.C. van Huffelen (onbekend)\n  J. Wuite (D66)\n\n\n
 DTEND:20220414T164500Z
 DTSTART:20220414T141500Z
 SUMMARY:Governance Caribisch Nederland
-UID:2b77d9f4-b341-4b59-b0c8-73a3a5fc4a7e@2b77.org
+UID:28413823-433c-4b02-8816-1520b7b31d3c@2841.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (4):\n  J.A.M.J. van den Berg (CDA)\n  J. Wuite (D66)\n  A.C. van Huffelen (onbekend)\n  D.G.M. Ceder (ChristenUnie)\n\n\n
 DTEND:20230628T163000Z
 DTSTART:20230628T150000Z
 SUMMARY:Comply or Explain
-UID:a8a5a6a2-d0f7-4343-a810-4badb744ca2d@a8a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. nieuwe datum.\nSpreektijd 1e termijn:\n 3 minuten.\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  P. Bamenga (D66)\n  G.P. Tuinman (BBB)\n  J.M. Paternotte (D66)\n  A.C. van Huffelen (onbekend)\n  J.P. van Haasen (PVV)\n  I.J.M. Michon-Derkzen (VVD)\n  W. Paulusma (D66)\n  Onbekend (onbekend)\n  F.H. Bruyning (NSC)\n  R.J. White (GroenLinks-PvdA)\n\n\n
-DTEND:20240402T180000Z
-DTSTART:20240402T160000Z
-SUMMARY:Verzameldebat BES
-UID:2ad28fc8-2df9-4903-9fb4-ac95754a8c3b@2ad2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nDerde herziene agenda i.v.m. toevoegingen*\n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  E. van Marum (onbekend)\n  D.A. van Groningen (VVD)\n  R.J. White (GroenLinks-PvdA)\n  P. Bamenga (D66)\n  F.H. Bruyning (NSC)\n  J.P. van Haasen (PVV)\n  O.C. (Olger) van Dijk (NSC)\n\n\n
-DTEND:20250930T193000Z
-DTSTART:20250930T150000Z
-SUMMARY:Verzameldebat CAS
-UID:71fbe567-6254-46e3-b05f-91b4ff9b9c3f@71fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd 1e termijn:\n 3 minuten.\n \n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  vaste commissie voor Infrastructuur en Waterstaat (onbekend)\n  D.G.M. Ceder (ChristenUnie)\n  A. (Aukje) de Vries (VVD)\n  J.P. van Haasen (PVV)\n  F.Z. Szabó (onbekend)\n  F.H. Bruyning (NSC)\n  R.J. White (GroenLinks-PvdA)\n  P. Bamenga (D66)\n  S. Mutluer (GroenLinks-PvdA)\n  C.A. Jansen (onbekend)\n  O.C. (Olger) van Dijk (NSC)\n\n\n
-DTEND:20250312T190000Z
-DTSTART:20250312T170000Z
-SUMMARY:Situatie Selibon 
-UID:9490b01d-2d8c-479b-a290-7a47b214a6f8@9490.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nTweede herziene convocatie i.v.m. toevoeging agendapunten.*\n\nHet is niet een besloten evenement\n\nAanwezigen (6):\n  J.A.M.J. van den Berg (CDA)\n  J. Wuite (D66)\n  K. Bouchallikh (GroenLinks)\n  A.C. van Huffelen (onbekend)\n  R.J. Kamminga (VVD)\n  M.L.J. Paul (VVD)\n\n\n
-DTEND:20230413T153000Z
-DTSTART:20230413T120000Z
-SUMMARY:Verzamel-commissiedebat BES
-UID:413cb57b-4d28-415a-9d10-90f57bc625b2@413c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd 1e termijn:\n 4 minuten. \nDerde herziene convocatie i.v.m. toevoeging agendapunten *\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  J.P. van Haasen (PVV)\n  A.C. van Huffelen (onbekend)\n  I.J.M. Michon-Derkzen (VVD)\n  Onbekend (onbekend)\n  R.A.A. Jetten (onbekend)\n  R.J. White (GroenLinks-PvdA)\n  J.M. Paternotte (D66)\n  vaste commissie voor Infrastructuur en Waterstaat (onbekend)\n  W. Paulusma (D66)\n  vaste commissie voor Economische Zaken en Klimaat (onbekend)\n  F.H. Bruyning (NSC)\n  M.G.J. Harbers (onbekend)\n\n\n
-DTEND:20240409T180000Z
-DTSTART:20240409T143000Z
-SUMMARY:Klimaat Caribisch deel Koninkrijk
-UID:71f460f1-5969-454e-a64a-0edb73f77e3a@71f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  M.E.E. de Beer (VVD)\n  E. van der Burg (onbekend)\n  J.A. Vijlbrief (onbekend)\n  M. Tseggai (GroenLinks-PvdA)\n  H.L.O. (Heera) Dijk (D66)\n  A. Nanninga (JA21)\n  A.N. Biekman (D66)\n  T.A. (Tijs) van den Brink (CDA)\n  D.G.M. Ceder (ChristenUnie)\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (onbekend)\n\n\n
-DTEND:20260423T153000Z
-DTSTART:20260423T123000Z
-SUMMARY:Bestaanszekerheid Caribisch Nederland 
-UID:6046e965-d34d-44ff-8e46-fe2220360489@6046.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nLet op! gewijzigd tijdstip\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  A.H. Kuiken (PvdA)\n  J.A.M.J. van den Berg (CDA)\n  A. (Aukje) de Vries (VVD)\n  R.W. Knops (onbekend)\n  D.G.M. Ceder (ChristenUnie)\n  J. Wuite (D66)\n  J.M. Paternotte (D66)\n  S.H. Simons (BIJ1)\n\n\n
-DTEND:20210602T170000Z
-DTSTART:20210602T150000Z
-SUMMARY:Sint Eustatius 
-UID:79da6e76-e131-431a-adaf-a1d7b1bc16ea@79da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging agendapunten*\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  A.C. van Huffelen (onbekend)\n  Onbekend (onbekend)\n  R.J. Kamminga (VVD)\n  Onbekend (onbekend)\n  S.H. Simons (BIJ1)\n  A.H. Kuiken (PvdA)\n  Onbekend (onbekend)\n  J. Wuite (D66)\n  M.L.J. Paul (VVD)\n  J.A.M.J. van den Berg (CDA)\n\n\n
-DTEND:20220310T110000Z
-DTSTART:20220310T083000Z
-SUMMARY:Landspakketten en hervormingen CAS
-UID:deda5d08-2682-4b1e-9a59-a649c006df39@deda.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (12):\n  E. van Marum (onbekend)\n  T.A. (Tijs) van den Brink (CDA)\n  I.J.M. Michon-Derkzen (VVD)\n  M. Tseggai (GroenLinks-PvdA)\n  A.A. Aartsen (onbekend)\n  D.G.M. Ceder (ChristenUnie)\n  J.M.M. Schilder (Groep Markuszower)\n  S. Mutluer (GroenLinks-PvdA)\n  vaste commissie voor Infrastructuur en Waterstaat (onbekend)\n  A. Nanninga (JA21)\n  H.L.O. (Heera) Dijk (D66)\n  E. Vlottes (PVV)\n\n\n
-DTEND:20260212T150000Z
-DTSTART:20260212T130000Z
-SUMMARY:Selibon
-UID:fa5ae530-ab01-4f5b-ae51-10ea0242a8bd@fa5a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (1):\n  E. van der Burg (onbekend)\n\n\n
-DTEND:20260527T160000Z
-DTSTART:20260527T130000Z
-SUMMARY:Bonaire\, Sint Eustatius en Saba
-UID:8b20d54f-4606-4143-a6e0-04386ff1076d@8b20.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (1):\n  E. van der Burg (onbekend)\n\n\n
-DTEND:20260528T153000Z
-DTSTART:20260528T123000Z
-SUMMARY:Aruba\, Curaçao en Sint Maarten 
-UID:015c0772-2d5c-47f4-b23a-8b65d17105c5@015c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging agendapunten.\n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  R.J. Kamminga (VVD)\n  J.P. van Haasen (PVV)\n  W. Paulusma (D66)\n  J.M. Paternotte (D66)\n  R.J. White (GroenLinks-PvdA)\n  F.H. Bruyning (NSC)\n  A.C. van Huffelen (onbekend)\n\n\n
-DTEND:20240208T150000Z
-DTSTART:20240208T130000Z
-SUMMARY:Verzameldebat CAS
-UID:faadf367-338f-4def-ae02-8abf1e0e4731@faad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nDerde herziene convocatie i.v.m. nieuwe agendapunten.*\nSpreektijd eerste termijn:\n 4 minuten.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  F.Z. Szabó (onbekend)\n  R.J. White (GroenLinks-PvdA)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  A. (Aukje) de Vries (VVD)\n  J.P. van Haasen (PVV)\n  F.H. Bruyning (NSC)\n  D.G.M. Ceder (ChristenUnie)\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (onbekend)\n  J.N.J. Nobel (onbekend)\n  Onbekend (onbekend)\n\n\n
-DTEND:20241211T160000Z
-DTSTART:20241211T130000Z
-SUMMARY:Sociaal minimum Caribisch Nederland
-UID:eedcba0f-3218-48b5-a2e6-1a354f830bdb@eedc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nTweede herziene convocatie i.v.m. toevoeging agendapunt.*\nSpreektijd eerste termijn:\n 4 minuten.\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  T.H.P. Baudet (FVD)\n  P. Bamenga (D66)\n  R.J. Kamminga (VVD)\n  D.S. Beljaarts (onbekend)\n  R.J. White (GroenLinks-PvdA)\n  vaste commissie voor Economische Zaken (onbekend)\n  F.H. Bruyning (NSC)\n  F.Z. Szabó (onbekend)\n  J.P. van Haasen (PVV)\n\n\n
-DTEND:20250416T160000Z
-DTSTART:20250416T130000Z
-SUMMARY:Economische ontwikkeling Caribisch deel Koninkrijk 
-UID:25a2e9a4-f800-40a6-b207-fef0829455ca@25a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nZesde herziene convocatie i.v.m. toevoeging zaak aan laatste agendapunt. *\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  A.H. Kuiken (PvdA)\n  R.J. Kamminga (VVD)\n  Onbekend (onbekend)\n  L. van Raan (PvdD)\n  D.G.M. Ceder (ChristenUnie)\n  K. Bouchallikh (GroenLinks)\n  J. Wuite (D66)\n  J.A.M.J. van den Berg (CDA)\n  A.C. van Huffelen (onbekend)\n\n\n
-DTEND:20220323T143000Z
-DTSTART:20220323T113000Z
-SUMMARY:Verzamel-commissiedebat BES
-UID:02669835-726b-4344-80f4-216e70847022@0266.org
+UID:fab36697-df67-4d70-a08f-7d87c2e0028b@fab3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nHerziene convocatie verzamel-commissiedebat d.d. 26 mei 2021\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  R.W. Knops (onbekend)\n  A. (Aukje) de Vries (VVD)\n  J.M. Paternotte (D66)\n  S.H. Simons (BIJ1)\n  A.H. Kuiken (PvdA)\n  J.A.M.J. van den Berg (CDA)\n  D.G.M. Ceder (ChristenUnie)\n  J. Wuite (D66)\n\n\n
 DTEND:20210526T170000Z
 DTSTART:20210526T140000Z
 SUMMARY:Verzamel-commissiedebat
-UID:b7a938c8-4d5b-4886-9c74-6e24e75ce6d2@b7a9.org
+UID:4c5130d0-692a-40bf-a3bd-d11ce6e0c98d@4c51.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nTweede herziene convocatie i.v.m. toevoeging agendapunten.*\n\nHet is niet een besloten evenement\n\nAanwezigen (5):\n  R.J. Kamminga (VVD)\n  J. Wuite (D66)\n  K. Bouchallikh (GroenLinks)\n  A.C. van Huffelen (onbekend)\n  J.A.M.J. van den Berg (CDA)\n\n\n
-DTEND:20230125T210000Z
-DTSTART:20230125T180000Z
-SUMMARY:Landspakketten en hervormingen CAS
-UID:3f5a51e5-bacb-4420-9378-d39a37d4f724@3f5a.org
+DESCRIPTION:Notitie:\nDerde herziene agenda i.v.m. toevoegingen*\n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  E. van Marum (onbekend)\n  D.A. van Groningen (VVD)\n  R.J. White (GroenLinks-PvdA)\n  P. Bamenga (D66)\n  F.H. Bruyning (NSC)\n  J.P. van Haasen (PVV)\n  O.C. (Olger) van Dijk (NSC)\n\n\n
+DTEND:20250930T193000Z
+DTSTART:20250930T150000Z
+SUMMARY:Verzameldebat CAS
+UID:ff0279fa-16c8-4c10-ad14-408e3a08dfad@ff02.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. afvoeren agendapunt en toevoegen agendapunt*. \n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  K. Bouchallikh (GroenLinks)\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (onbekend)\n  R.J. Kamminga (VVD)\n  J.A.M.J. van den Berg (CDA)\n  A.C. van Huffelen (onbekend)\n  S.H. (Sylvana) Simons (BIJ1)\n  C.J. Schouten (onbekend)\n  J. Wuite (D66)\n  D.G.M. Ceder (ChristenUnie)\n  W. Paulusma (D66)\n\n\n
-DTEND:20221115T210000Z
-DTSTART:20221115T170000Z
-SUMMARY:Sociaal domein & Bestuursakkoorden BES 
-UID:fb837916-f1ac-4049-971d-d3b7c43e6323@fb83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nVijfde herziene convocatie i.v.m. toevoeging agendapunten.*\nSpreektijd 1e termijn:\n 4 minuten.\n\nHet is niet een besloten evenement\n\nAanwezigen (6):\n  F.H. Bruyning (NSC)\n  F.Z. Szabó (onbekend)\n  A. (Aukje) de Vries (VVD)\n  R.J. White (GroenLinks-PvdA)\n  J.P. van Haasen (PVV)\n  S. Mutluer (GroenLinks-PvdA)\n\n\n
-DTEND:20250115T160000Z
-DTSTART:20250115T130000Z
-SUMMARY:Verzameldebat CAS 
-UID:7fed67d8-ce92-4cc3-b983-40a827a133f4@7fed.org
+DESCRIPTION:Notitie:\nDerde herziene convocatie i.v.m. nieuwe agendapunten.*\nSpreektijd eerste termijn:\n 4 minuten.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  F.Z. Szabó (onbekend)\n  R.J. White (GroenLinks-PvdA)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  A. (Aukje) de Vries (VVD)\n  J.P. van Haasen (PVV)\n  F.H. Bruyning (NSC)\n  D.G.M. Ceder (ChristenUnie)\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (onbekend)\n  J.N.J. Nobel (onbekend)\n  Onbekend (onbekend)\n\n\n
+DTEND:20241211T160000Z
+DTSTART:20241211T130000Z
+SUMMARY:Sociaal minimum Caribisch Nederland
+UID:9f8db19a-4770-4c11-8f00-f092a99c24eb@9f8d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nHerziene convocatie  i.v.m. toevoeging agendapunt.* \n\nHet is niet een besloten evenement\n\nAanwezigen (18):\n  Onbekend (onbekend)\n  D.G.M. Ceder (ChristenUnie)\n  R.W. Knops (onbekend)\n  M.C.G. Keijzer (onbekend)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  W. Koolmees (onbekend)\n  S.H. Simons (BIJ1)\n  R.M. Leijten (SP)\n  Onbekend (onbekend)\n  L. Bromet (GroenLinks)\n  Onbekend (onbekend)\n  A. (Aukje) de Vries (VVD)\n  J. Wuite (D66)\n  A.H. Kuiken (PvdA)\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (onbekend)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n\n\n
 DTEND:20210616T170000Z
 DTSTART:20210616T140000Z
 SUMMARY:IJkpunt bestaanszekerheid
-UID:f9261386-7ec8-4ed4-94f3-4f26a5517af4@f926.org
+UID:0c16049a-2802-4109-97e7-8943dc2f72b9@0c16.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging agendapunt.*\n\nHet is niet een besloten evenement\n\nAanwezigen (6):\n  J.A.M.J. van den Berg (CDA)\n  K. Bouchallikh (GroenLinks)\n  A.C. van Huffelen (onbekend)\n  M.L.J. Paul (VVD)\n  J. Wuite (D66)\n  R.J. Kamminga (VVD)\n\n\n
-DTEND:20230525T170000Z
-DTSTART:20230525T143000Z
-SUMMARY:Onderlinge regeling & Wederopbouw Sint Maarten
-UID:5c3493c3-e06e-4b2e-8ca9-1e6be89e7acc@5c34.org
+DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. afvoeren agendapunt en toevoegen agendapunt*. \n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  K. Bouchallikh (GroenLinks)\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (onbekend)\n  R.J. Kamminga (VVD)\n  J.A.M.J. van den Berg (CDA)\n  A.C. van Huffelen (onbekend)\n  S.H. (Sylvana) Simons (BIJ1)\n  C.J. Schouten (onbekend)\n  J. Wuite (D66)\n  D.G.M. Ceder (ChristenUnie)\n  W. Paulusma (D66)\n\n\n
+DTEND:20221115T210000Z
+DTSTART:20221115T170000Z
+SUMMARY:Sociaal domein & Bestuursakkoorden BES 
+UID:b3374a95-953d-4576-bf00-3bb95b40d8dc@b337.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (12):\n  E. van Marum (onbekend)\n  T.A. (Tijs) van den Brink (CDA)\n  I.J.M. Michon-Derkzen (VVD)\n  M. Tseggai (GroenLinks-PvdA)\n  A.A. Aartsen (onbekend)\n  D.G.M. Ceder (ChristenUnie)\n  J.M.M. Schilder (Groep Markuszower)\n  S. Mutluer (GroenLinks-PvdA)\n  vaste commissie voor Infrastructuur en Waterstaat (onbekend)\n  A. Nanninga (JA21)\n  H.L.O. (Heera) Dijk (D66)\n  E. Vlottes (PVV)\n\n\n
+DTEND:20260212T150000Z
+DTSTART:20260212T130000Z
+SUMMARY:Selibon
+UID:0ba10ab1-75e2-4fec-8fde-c5064e65c957@0ba1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nTweede herziene convocatie i.v.m. toevoeging agendapunten.*\n\nHet is niet een besloten evenement\n\nAanwezigen (6):\n  J.A.M.J. van den Berg (CDA)\n  J. Wuite (D66)\n  K. Bouchallikh (GroenLinks)\n  A.C. van Huffelen (onbekend)\n  R.J. Kamminga (VVD)\n  M.L.J. Paul (VVD)\n\n\n
+DTEND:20230413T153000Z
+DTSTART:20230413T120000Z
+SUMMARY:Verzamel-commissiedebat BES
+UID:9afd42ef-c6f2-4cd7-8bd3-e545d4cdbc80@9afd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nLet op! gewijzigd tijdstip\n\nHet is niet een besloten evenement\n\nAanwezigen (8):\n  A.H. Kuiken (PvdA)\n  J.A.M.J. van den Berg (CDA)\n  A. (Aukje) de Vries (VVD)\n  R.W. Knops (onbekend)\n  D.G.M. Ceder (ChristenUnie)\n  J. Wuite (D66)\n  J.M. Paternotte (D66)\n  S.H. Simons (BIJ1)\n\n\n
+DTEND:20210602T170000Z
+DTSTART:20210602T150000Z
+SUMMARY:Sint Eustatius 
+UID:6dd257dd-281a-4068-9131-128ca3895875@6dd2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (1):\n  E. van der Burg (onbekend)\n\n\n
+DTEND:20260527T160000Z
+DTSTART:20260527T130000Z
+SUMMARY:Bonaire\, Sint Eustatius en Saba
+UID:60d00bf3-ac9c-48cd-ba7b-b94cc015250a@60d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (1):\n  E. van der Burg (onbekend)\n\n\n
+DTEND:20260528T153000Z
+DTSTART:20260528T123000Z
+SUMMARY:Aruba\, Curaçao en Sint Maarten 
+UID:9eb27e32-305a-4b60-81fb-9aeb16213ed1@9eb2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. nieuwe datum.\nSpreektijd 1e termijn:\n 3 minuten.\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  P. Bamenga (D66)\n  G.P. Tuinman (BBB)\n  J.M. Paternotte (D66)\n  A.C. van Huffelen (onbekend)\n  J.P. van Haasen (PVV)\n  I.J.M. Michon-Derkzen (VVD)\n  W. Paulusma (D66)\n  Onbekend (onbekend)\n  F.H. Bruyning (NSC)\n  R.J. White (GroenLinks-PvdA)\n\n\n
+DTEND:20240402T180000Z
+DTSTART:20240402T160000Z
+SUMMARY:Verzameldebat BES
+UID:39b33d3b-cf3e-45aa-b0d5-4fc85b107adf@39b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd 1e termijn:\n 4 minuten. \nDerde herziene convocatie i.v.m. toevoeging agendapunten *\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  J.P. van Haasen (PVV)\n  A.C. van Huffelen (onbekend)\n  I.J.M. Michon-Derkzen (VVD)\n  Onbekend (onbekend)\n  R.A.A. Jetten (onbekend)\n  R.J. White (GroenLinks-PvdA)\n  J.M. Paternotte (D66)\n  vaste commissie voor Infrastructuur en Waterstaat (onbekend)\n  W. Paulusma (D66)\n  vaste commissie voor Economische Zaken en Klimaat (onbekend)\n  F.H. Bruyning (NSC)\n  M.G.J. Harbers (onbekend)\n\n\n
+DTEND:20240409T180000Z
+DTSTART:20240409T143000Z
+SUMMARY:Klimaat Caribisch deel Koninkrijk
+UID:ccd928f4-64e8-4b55-ab16-f20d6ba7d5f5@ccd9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nZesde herziene convocatie i.v.m. toevoeging zaak aan laatste agendapunt. *\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  A.H. Kuiken (PvdA)\n  R.J. Kamminga (VVD)\n  Onbekend (onbekend)\n  L. van Raan (PvdD)\n  D.G.M. Ceder (ChristenUnie)\n  K. Bouchallikh (GroenLinks)\n  J. Wuite (D66)\n  J.A.M.J. van den Berg (CDA)\n  A.C. van Huffelen (onbekend)\n\n\n
+DTEND:20220323T143000Z
+DTSTART:20220323T113000Z
+SUMMARY:Verzamel-commissiedebat BES
+UID:3a3bfed1-039c-4e9e-9eb8-b06561e11d25@3a3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd 1e termijn:\n 3 minuten.\n \n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  vaste commissie voor Infrastructuur en Waterstaat (onbekend)\n  D.G.M. Ceder (ChristenUnie)\n  A. (Aukje) de Vries (VVD)\n  J.P. van Haasen (PVV)\n  F.Z. Szabó (onbekend)\n  F.H. Bruyning (NSC)\n  R.J. White (GroenLinks-PvdA)\n  P. Bamenga (D66)\n  S. Mutluer (GroenLinks-PvdA)\n  C.A. Jansen (onbekend)\n  O.C. (Olger) van Dijk (NSC)\n\n\n
+DTEND:20250312T190000Z
+DTSTART:20250312T170000Z
+SUMMARY:Situatie Selibon 
+UID:68d18442-df1c-47d0-910d-e15094eab4c6@68d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nTweede herziene convocatie i.v.m. toevoeging agendapunt.*\nSpreektijd eerste termijn:\n 4 minuten.\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  T.H.P. Baudet (FVD)\n  P. Bamenga (D66)\n  R.J. Kamminga (VVD)\n  D.S. Beljaarts (onbekend)\n  R.J. White (GroenLinks-PvdA)\n  vaste commissie voor Economische Zaken (onbekend)\n  F.H. Bruyning (NSC)\n  F.Z. Szabó (onbekend)\n  J.P. van Haasen (PVV)\n\n\n
+DTEND:20250416T160000Z
+DTSTART:20250416T130000Z
+SUMMARY:Economische ontwikkeling Caribisch deel Koninkrijk 
+UID:1297d98d-ffc7-4ddb-adc3-9ecbbad0acda@1297.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (8):\n  F.H. Bruyning (NSC)\n  H. Vermeer (BBB)\n  P. Bamenga (D66)\n  J.P. van Haasen (PVV)\n  R.J. White (GroenLinks-PvdA)\n  A. (Aukje) de Vries (VVD)\n  E. van Marum (onbekend)\n  D.G.M. Ceder (ChristenUnie)\n\n\n
 DTEND:20250904T150000Z
 DTSTART:20250904T110000Z
 SUMMARY:Verzameldebat BES
-UID:2469ee63-5419-4f28-9b26-b0a016e3d597@2469.org
+UID:85da18e2-f0e7-4f2b-b5e7-de121b035f98@85da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  M.E.E. de Beer (VVD)\n  E. van der Burg (onbekend)\n  J.A. Vijlbrief (onbekend)\n  M. Tseggai (GroenLinks-PvdA)\n  H.L.O. (Heera) Dijk (D66)\n  A. Nanninga (JA21)\n  A.N. Biekman (D66)\n  T.A. (Tijs) van den Brink (CDA)\n  D.G.M. Ceder (ChristenUnie)\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (onbekend)\n\n\n
+DTEND:20260423T153000Z
+DTSTART:20260423T123000Z
+SUMMARY:Bestaanszekerheid Caribisch Nederland 
+UID:786030be-5f25-4f1c-9d4e-34d906ddfb4d@7860.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging agendapunten*\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  A.C. van Huffelen (onbekend)\n  Onbekend (onbekend)\n  R.J. Kamminga (VVD)\n  Onbekend (onbekend)\n  S.H. Simons (BIJ1)\n  A.H. Kuiken (PvdA)\n  Onbekend (onbekend)\n  J. Wuite (D66)\n  M.L.J. Paul (VVD)\n  J.A.M.J. van den Berg (CDA)\n\n\n
+DTEND:20220310T110000Z
+DTSTART:20220310T083000Z
+SUMMARY:Landspakketten en hervormingen CAS
+UID:517d221e-e9d3-4a2d-8b8e-720e254e808c@517d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging agendapunt.*\n\nHet is niet een besloten evenement\n\nAanwezigen (6):\n  J.A.M.J. van den Berg (CDA)\n  K. Bouchallikh (GroenLinks)\n  A.C. van Huffelen (onbekend)\n  M.L.J. Paul (VVD)\n  J. Wuite (D66)\n  R.J. Kamminga (VVD)\n\n\n
+DTEND:20230525T170000Z
+DTSTART:20230525T143000Z
+SUMMARY:Onderlinge regeling & Wederopbouw Sint Maarten
+UID:1e817c14-be69-441d-b872-6f07a0f3d1d0@1e81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nTweede herziene convocatie i.v.m. toevoeging agendapunten.*\n\nHet is niet een besloten evenement\n\nAanwezigen (5):\n  R.J. Kamminga (VVD)\n  J. Wuite (D66)\n  K. Bouchallikh (GroenLinks)\n  A.C. van Huffelen (onbekend)\n  J.A.M.J. van den Berg (CDA)\n\n\n
+DTEND:20230125T210000Z
+DTSTART:20230125T180000Z
+SUMMARY:Landspakketten en hervormingen CAS
+UID:8863be48-1ec1-4b88-ab02-20403953fe76@8863.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nVijfde herziene convocatie i.v.m. toevoeging agendapunten.*\nSpreektijd 1e termijn:\n 4 minuten.\n\nHet is niet een besloten evenement\n\nAanwezigen (6):\n  F.H. Bruyning (NSC)\n  F.Z. Szabó (onbekend)\n  A. (Aukje) de Vries (VVD)\n  R.J. White (GroenLinks-PvdA)\n  J.P. van Haasen (PVV)\n  S. Mutluer (GroenLinks-PvdA)\n\n\n
+DTEND:20250115T160000Z
+DTSTART:20250115T130000Z
+SUMMARY:Verzameldebat CAS 
+UID:72d94209-b946-4960-9877-886f0ffe26e3@72d9.org
 END:VEVENT
 END:VCALENDAR
