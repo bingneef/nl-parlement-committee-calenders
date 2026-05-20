@@ -2,143 +2,143 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHerziene convocatie ivm toevoeging agendapunt *\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  R.J. Kamminga (VVD)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  S.W. Sjoerdsma (D66)\n  M. Amhaouch (CDA)\n  S.A. Blok (onbekend)\n  K.P. Piri (PvdA)\n  S. Belhaj (D66)\n  V. Maeijer (PVV)\n  D.J. Eppink (JA21)\n  J.J. (Jasper) van Dijk (SP)\n\n\n
-DTEND:20210512T150000Z
-DTSTART:20210512T130000Z
-SUMMARY:Conferentie over de Toekomst van Europa
-UID:24c26ba2-083a-443a-ae0c-ec3d1e61adaf@24c2.org
+DESCRIPTION:Notitie:\nIndicatie spreektijd in eerste termijn: 4 minuten.\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  H.M. Krul (CDA)\n  T.B.W. Berendsen (onbekend)\n  H.D. Heutink (Groep Markuszower)\n  B. Becker (VVD)\n  R.F. van Meetelen (PVV)\n  L.A.J.M. Dassen (Volt)\n  H. Vermeer (BBB)\n  M.P. Hoogeveen (JA21)\n  F.C.O. Klos (D66)\n  T.S.M. Stöteler (PVV)\n  D.J.H. (Diederik) van Dijk (SGP)\n  P. van Houwelingen (FVD)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  T.M.T. van der Lee (GroenLinks-PvdA)\n\n\n
+DTEND:20260331T170000Z
+DTSTART:20260331T150000Z
+SUMMARY:EU-uitbreiding (eerste termijn Kamer\, wordt voortgezet)
+UID:2236f78a-9b10-4425-8427-25239df87f92@2236.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nSpreektijd per fractie maximaal 3 minuten.\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  Onbekend (onbekend)\n  V. Maeijer (PVV)\n  M. Amhaouch (CDA)\n  T.M.T. van der Lee (GroenLinks)\n  J. van Wijngaarden (VVD)\n  L. Bromet (GroenLinks)\n  S.W. Sjoerdsma (D66)\n  J.J. (Jasper) van Dijk (SP)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  W.B. Hoekstra (onbekend)\n\n\n
 DTEND:20221208T110000Z
 DTSTART:20221208T090000Z
 SUMMARY:Raad Algemene Zaken d.d. 13 december 2022
-UID:a5d95e88-1538-4e76-a146-0fdd35729250@a5d9.org
+UID:5b8b6509-97df-439e-bbde-efb67306cb6e@5b8b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (6):\n  C.A.M. van der Plas (BBB)\n  L. Bromet (GroenLinks-PvdA)\n  A.A.H. van Campen (VVD)\n  M. Koekkoek (Volt)\n  I. Kahraman (NSC)\n  C.C.J. Veldkamp (onbekend)\n\n\n
 DTEND:20250528T170000Z
 DTSTART:20250528T150000Z
 SUMMARY:EU-Informatievoorziening
-UID:4d2598a7-6a48-41b0-a333-d837155f4a21@4d25.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (8):\n  D.S. Beljaarts (onbekend)\n  I. Kahraman (NSC)\n  C.A.M. van der Plas (BBB)\n  J.F. Klaver (GroenLinks-PvdA)\n  G. Markuszower (PVV)\n  J.M. Paternotte (D66)\n  vaste commissie voor Economische Zaken (onbekend)\n  A.A.H. van Campen (VVD)\n\n\n
-DTEND:20250320T163000Z
-DTSTART:20250320T143000Z
-SUMMARY:Raad Algemene Zaken - cohesiebeleid d.d. 28 maart 2025
-UID:7b2dca90-bc4c-4def-a63d-55aba8a389af@7b2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (15):\n  T.M.T. van der Lee (GroenLinks)\n  Onbekend (onbekend)\n  K.P. Piri (PvdA)\n  P. van Houwelingen (FVD)\n  L.A.J.M. Dassen (Volt)\n  Onbekend (onbekend)\n  M. Amhaouch (CDA)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  R.J. Kamminga (VVD)\n  H.P.M. Knapen (onbekend)\n  R. Bisschop (SGP)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  S.W. Sjoerdsma (D66)\n  J.J. (Jasper) van Dijk (SP)\n\n\n
-DTEND:20211116T173000Z
-DTSTART:20211116T153000Z
-SUMMARY:Raad Algemene Zaken dd 23 november 2021 
-UID:5b6bd146-5bc5-423f-8ed4-9e3d6fd91e04@5b6b.org
+UID:ffc2196a-9a1c-4cd8-9f40-5c760a49041e@ffc2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (12):\n  R. Bisschop (SGP)\n  Onbekend (onbekend)\n  H.P.M. Knapen (onbekend)\n  A.H. (Agnes) Mulder (CDA)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n  K.P. Piri (PvdA)\n  V. Maeijer (PVV)\n  S.W. Sjoerdsma (D66)\n  L.A.J.M. Dassen (Volt)\n  T.M.T. van der Lee (GroenLinks)\n  R.J. Kamminga (VVD)\n\n\n
 DTEND:20211124T190000Z
 DTSTART:20211124T160000Z
 SUMMARY:Rechtsstatelijke ontwikkelingen in de Europese Unie 
-UID:ffc686d4-4d64-40e9-8ba9-63a349336dd5@ffc6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging agendapunt*\nSpreektijd: 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  K.P. Piri (PvdA)\n  Onbekend (onbekend)\n  V. Maeijer (PVV)\n  S.W. Sjoerdsma (D66)\n  T.M.T. van der Lee (GroenLinks)\n  Onbekend (onbekend)\n  M. Amhaouch (CDA)\n  M. de Graaf (PVV)\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  M. Koekkoek (Volt)\n  R.P. Brekelmans (VVD)\n  N. Gündogan (Gündogan)\n  W.B. Hoekstra (onbekend)\n\n\n
-DTEND:20230201T120000Z
-DTSTART:20230201T090000Z
-SUMMARY:Raad Algemene Zaken d.d. 6 februari 2023 / Rechtsstatelijke ontwikkelingen in de Europese Unie
-UID:b275cd1d-6697-469b-b890-785affa36fdc@b275.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  G. Markuszower (PVV)\n  Onbekend (onbekend)\n  I. Kahraman (NSC)\n  J.F. Klaver (GroenLinks-PvdA)\n  J.M. Paternotte (D66)\n  C.A.M. van der Plas (BBB)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  A.A.H. van Campen (VVD)\n  C.C.J. Veldkamp (onbekend)\n  Onbekend (onbekend)\n\n\n
-DTEND:20241010T140000Z
-DTSTART:20241010T120000Z
-SUMMARY:Raad Algemene Zaken d.d. 15 oktober 2024
-UID:6d9256c2-cdbb-4844-93b2-d640c733b648@6d92.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nDit commissiedebat is een voortzetting van 31 maart.\nStart met bewindspersoon beantwoording eerste termijn.\n\nHet is niet een besloten evenement\n\nAanwezigen (6):\n  T.B.W. Berendsen (onbekend)\n  F.C.O. Klos (D66)\n  P. van Houwelingen (FVD)\n  B. Becker (VVD)\n  T.S.M. Stöteler (PVV)\n  R.F. van Meetelen (PVV)\n\n\n
-DTEND:20260415T180000Z
-DTSTART:20260415T160000Z
-SUMMARY:EU-uitbreiding (voortzetting)
-UID:27595a1a-e90a-4297-8b46-49e35614d722@2759.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nDerde herziene convocatie i.v.m. toevoeging agendapunt*\n\nHet is niet een besloten evenement\n\nAanwezigen (5):\n  Onbekend (onbekend)\n  W.B. Hoekstra (onbekend)\n  R.J. Kamminga (VVD)\n  M. Koekkoek (Volt)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n\n\n
-DTEND:20220614T163000Z
-DTSTART:20220614T143000Z
-SUMMARY:Raad Algemene Zaken d.d. 21 juni 2022
-UID:fee93d0a-cd6a-44c6-9bc4-d31e5b10a22f@fee9.org
+UID:8d575c31-74ab-4e6f-9f57-3daf522b3177@8d57.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nTweede herziene convocatie ivm toevoeging zaak * \n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  K.P. Piri (PvdA)\n  J.J. (Jasper) van Dijk (SP)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  R.J. Kamminga (VVD)\n  P. van Houwelingen (FVD)\n  V. Maeijer (PVV)\n  M. Koekkoek (Volt)\n  T.M.T. van der Lee (GroenLinks)\n  M. Amhaouch (CDA)\n  Onbekend (onbekend)\n  D.J. Eppink (JA21)\n  S.W. Sjoerdsma (D66)\n  S.A. Blok (onbekend)\n  Onbekend (onbekend)\n\n\n
 DTEND:20210415T100000Z
 DTSTART:20210415T080000Z
 SUMMARY:Raad Algemene Zaken dd 20 april 2021
-UID:ea956132-640f-4767-b3a0-e647ec002e9f@ea95.org
+UID:c0c5d0ad-b605-4f4d-bbc0-2f3c183e07c3@c0c5.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nTweede herziene convocatie i.v.m. toevoeging agendapunten * \n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  L.A.J.M. Dassen (Volt)\n  Onbekend (onbekend)\n  V. Maeijer (PVV)\n  R.J. Kamminga (VVD)\n  P. van Houwelingen (FVD)\n  S. Belhaj (D66)\n  J.J. (Jasper) van Dijk (SP)\n  M. Amhaouch (CDA)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  K.P. Piri (PvdA)\n  S.A.M. Kaag (onbekend)\n  S.W. Sjoerdsma (D66)\n\n\n
-DTEND:20210616T093000Z
-DTSTART:20210616T073000Z
-SUMMARY:Raad Algemene Zaken dd 22 juni 2021
-UID:3199a7b2-20f7-4402-b3ba-9a060062abfd@3199.org
+DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging agendapunt*\nSpreektijd: 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  K.P. Piri (PvdA)\n  Onbekend (onbekend)\n  V. Maeijer (PVV)\n  S.W. Sjoerdsma (D66)\n  T.M.T. van der Lee (GroenLinks)\n  Onbekend (onbekend)\n  M. Amhaouch (CDA)\n  M. de Graaf (PVV)\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  M. Koekkoek (Volt)\n  R.P. Brekelmans (VVD)\n  N. Gündogan (Gündogan)\n  W.B. Hoekstra (onbekend)\n\n\n
+DTEND:20230201T120000Z
+DTSTART:20230201T090000Z
+SUMMARY:Raad Algemene Zaken d.d. 6 februari 2023 / Rechtsstatelijke ontwikkelingen in de Europese Unie
+UID:912367af-0252-4762-b495-faa400aa1d71@9123.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nTweede herzine convocatie i.v.m. toevoeging zaak*\n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  H.G.J. Bruins Slot (onbekend)\n  L.A.J.M. Dassen (Volt)\n  S.W. Sjoerdsma (D66)\n  J. van Wijngaarden (VVD)\n  T.M.T. van der Lee (GroenLinks)\n  P. van Houwelingen (FVD)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n\n\n
-DTEND:20230926T163000Z
-DTSTART:20230926T143000Z
-SUMMARY:Informele Raad Algemene Zaken d.d. 27 en 28 september 2023
-UID:7e19c92e-5440-4bb0-8f1d-0229dc1e7afe@7e19.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nDerde herziene convocatie i.v.m. toevoeging zaak*\nDe commissie heeft besloten om lid het Kamminga als eerste het woord te geven tijdens het nog te plannen commissiedebat EU-informatievoorziening\, zodat zij een terugkoppeling kan geven van haar werkzaamheden als rapporteur.\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  V. Maeijer (PVV)\n  P.H. Omtzigt (Omtzigt)\n  K.P. Piri (PvdA)\n  Onbekend (onbekend)\n  M. Amhaouch (CDA)\n  Onbekend (onbekend)\n  M. Koekkoek (Volt)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  R.J. Kamminga (VVD)\n  W.B. Hoekstra (onbekend)\n  J.J. (Jasper) van Dijk (SP)\n  C.A.M. van der Plas (BBB)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  S.W. Sjoerdsma (D66)\n\n\n
-DTEND:20220210T160000Z
-DTSTART:20220210T140000Z
-SUMMARY:EU-Informatievoorziening 
-UID:f7ff988e-c900-47a7-afaa-ecaf644c7f46@f7ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\n
-DTEND:20260610T181500Z
-DTSTART:20260610T161500Z
-SUMMARY:Raad Algemene Zaken 16 juni 2026
-UID:61cf147b-eb2c-44b2-a946-65d41097be82@61cf.org
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (8):\n  D.S. Beljaarts (onbekend)\n  I. Kahraman (NSC)\n  C.A.M. van der Plas (BBB)\n  J.F. Klaver (GroenLinks-PvdA)\n  G. Markuszower (PVV)\n  J.M. Paternotte (D66)\n  vaste commissie voor Economische Zaken (onbekend)\n  A.A.H. van Campen (VVD)\n\n\n
+DTEND:20250320T163000Z
+DTSTART:20250320T143000Z
+SUMMARY:Raad Algemene Zaken - cohesiebeleid d.d. 28 maart 2025
+UID:bca7527b-50a9-4711-81bc-83bb379ed039@bca7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging zaken*\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  L. Bromet (GroenLinks)\n  vaste commissie voor Financiën (onbekend)\n  P. van Houwelingen (FVD)\n  M. Amhaouch (CDA)\n  S.W. Sjoerdsma (D66)\n  J.J. (Jasper) van Dijk (SP)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  J. van Wijngaarden (VVD)\n  Onbekend (onbekend)\n  L.W.E. (Léon) de Jong (PVV)\n  T.M.T. van der Lee (GroenLinks)\n  H.G.J. Bruins Slot (onbekend)\n\n\n
 DTEND:20230914T103000Z
 DTSTART:20230914T073000Z
 SUMMARY:Raad Algemene Zaken d.d. 19 september / Meerjarig Financieel Kader (MFK)
-UID:6ab0a185-50bf-4122-b813-eaf1803b45ec@6ab0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nDe commissie heeft tijdens de procedurevergadering van 17 februari jl. besloten om het debat over de Brexit - Nieuwe relatie met het Verenigd Koninkrijk\, gepland op 23 maart 14:00-16:00\, toe te voegen aan het commissiedebat over de Raad Algemene Zaken d.d. 22 maart 2022 en de duur van dit debat met een uur te verlengen.\n\nHet is niet een besloten evenement\n\nAanwezigen (23):\n  K.P. Piri (PvdA)\n  G.J.M. Segers (ChristenUnie)\n  W.B. Hoekstra (onbekend)\n  M. Amhaouch (CDA)\n  contactgroep Verenigd Koninkrijk (onbekend)\n  D.J. Eppink (JA21)\n  M. Koekkoek (Volt)\n  R.J. Kamminga (VVD)\n  W.R. van Haga (Groep Van Haga)\n  J.J. (Jasper) van Dijk (SP)\n  Onbekend (onbekend)\n  C. Teunissen (PvdD)\n  L.A.J.M. Dassen (Volt)\n  T.M.T. van der Lee (GroenLinks)\n  S.W. Sjoerdsma (D66)\n  L. Bromet (GroenLinks)\n  R.M. Boucke (D66)\n  C.A.M. van der Plas (BBB)\n  Onbekend (onbekend)\n  R. Bisschop (SGP)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  Onbekend (onbekend)\n  S.J.F. van der Graaf (ChristenUnie)\n\n\n
-DTEND:20220317T160000Z
-DTSTART:20220317T130000Z
-SUMMARY:Raad Algemene Zaken d.d. 22 maart 2022 / Brexit - Nieuwe relatie met het Verenigd Koninkrijk
-UID:89fb7d74-003d-48bd-8541-2edce879be22@89fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (2):\n  T.B.W. Berendsen (onbekend)\n  R.F. van Meetelen (PVV)\n\n\n
-DTEND:20260519T203000Z
-DTSTART:20260519T183000Z
-SUMMARY:Raad Algemene Zaken 26 mei 2026 
-UID:62dfdb1b-daa9-40ae-aaa1-f9fdc70792ef@62df.org
+UID:dd89c57d-b671-49ce-b08a-125aa13f5c79@dd89.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nTweede herziene convocatie i.v.m. toevoeging zaak*\n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  K.P. Piri (PvdA)\n  P. van Houwelingen (FVD)\n  V. Maeijer (PVV)\n  M. Amhaouch (CDA)\n  S.W. Sjoerdsma (D66)\n  W.B. Hoekstra (onbekend)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  L. Bromet (GroenLinks)\n  M. Koekkoek (Volt)\n  Onbekend (onbekend)\n  R.J. Kamminga (VVD)\n  Onbekend (onbekend)\n\n\n
 DTEND:20220216T180000Z
 DTSTART:20220216T160000Z
 SUMMARY:Raad Algemene Zaken dd 22 februari 2022
-UID:9c5aac4b-6408-4b43-a637-2fc4aa52118d@9c5a.org
+UID:590fa663-7274-4aef-ab2f-56295cee8a6f@590f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nIndicatie spreektijd in eerste termijn: 4 minuten.\n\nHet is niet een besloten evenement\n\nAanwezigen (14):\n  H.M. Krul (CDA)\n  T.B.W. Berendsen (onbekend)\n  H.D. Heutink (Groep Markuszower)\n  B. Becker (VVD)\n  R.F. van Meetelen (PVV)\n  L.A.J.M. Dassen (Volt)\n  H. Vermeer (BBB)\n  M.P. Hoogeveen (JA21)\n  F.C.O. Klos (D66)\n  T.S.M. Stöteler (PVV)\n  D.J.H. (Diederik) van Dijk (SGP)\n  P. van Houwelingen (FVD)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  T.M.T. van der Lee (GroenLinks-PvdA)\n\n\n
-DTEND:20260331T170000Z
-DTSTART:20260331T150000Z
-SUMMARY:EU-uitbreiding (eerste termijn Kamer\, wordt voortgezet)
-UID:75926bfa-d1c7-41c2-a400-5c44ea76e53b@7592.org
+DESCRIPTION:Het is niet een besloten evenement\n\n
+DTEND:20260610T181500Z
+DTSTART:20260610T161500Z
+SUMMARY:Raad Algemene Zaken 16 juni 2026
+UID:20404278-e54c-4b1a-ba6d-f46066d8da21@2040.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (7):\n  T.S.M. Stöteler (PVV)\n  T.B.W. Berendsen (onbekend)\n  M.P. Hoogeveen (JA21)\n  F.C.O. Klos (D66)\n  B. Becker (VVD)\n  R.F. van Meetelen (PVV)\n  T.M.T. van der Lee (GroenLinks-PvdA)\n\n\n
+DTEND:20260519T203000Z
+DTSTART:20260519T183000Z
+SUMMARY:Raad Algemene Zaken 26 mei 2026 
+UID:f13a20ff-f13c-42ba-80ec-7396801aa229@f13a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nTweede herziene convocatie i.v.m. toevoeging agendapunten * \n\nHet is niet een besloten evenement\n\nAanwezigen (12):\n  L.A.J.M. Dassen (Volt)\n  Onbekend (onbekend)\n  V. Maeijer (PVV)\n  R.J. Kamminga (VVD)\n  P. van Houwelingen (FVD)\n  S. Belhaj (D66)\n  J.J. (Jasper) van Dijk (SP)\n  M. Amhaouch (CDA)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  K.P. Piri (PvdA)\n  S.A.M. Kaag (onbekend)\n  S.W. Sjoerdsma (D66)\n\n\n
+DTEND:20210616T093000Z
+DTSTART:20210616T073000Z
+SUMMARY:Raad Algemene Zaken dd 22 juni 2021
+UID:11ff77de-a494-425a-98e6-aefa514ea436@11ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nDe commissie heeft tijdens de procedurevergadering van 17 februari jl. besloten om het debat over de Brexit - Nieuwe relatie met het Verenigd Koninkrijk\, gepland op 23 maart 14:00-16:00\, toe te voegen aan het commissiedebat over de Raad Algemene Zaken d.d. 22 maart 2022 en de duur van dit debat met een uur te verlengen.\n\nHet is niet een besloten evenement\n\nAanwezigen (23):\n  K.P. Piri (PvdA)\n  G.J.M. Segers (ChristenUnie)\n  W.B. Hoekstra (onbekend)\n  M. Amhaouch (CDA)\n  contactgroep Verenigd Koninkrijk (onbekend)\n  D.J. Eppink (JA21)\n  M. Koekkoek (Volt)\n  R.J. Kamminga (VVD)\n  W.R. van Haga (Groep Van Haga)\n  J.J. (Jasper) van Dijk (SP)\n  Onbekend (onbekend)\n  C. Teunissen (PvdD)\n  L.A.J.M. Dassen (Volt)\n  T.M.T. van der Lee (GroenLinks)\n  S.W. Sjoerdsma (D66)\n  L. Bromet (GroenLinks)\n  R.M. Boucke (D66)\n  C.A.M. van der Plas (BBB)\n  Onbekend (onbekend)\n  R. Bisschop (SGP)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  Onbekend (onbekend)\n  S.J.F. van der Graaf (ChristenUnie)\n\n\n
+DTEND:20220317T160000Z
+DTSTART:20220317T130000Z
+SUMMARY:Raad Algemene Zaken d.d. 22 maart 2022 / Brexit - Nieuwe relatie met het Verenigd Koninkrijk
+UID:bc039261-8a22-44f3-87cf-32c926d9cda0@bc03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nDerde herziene convocatie i.v.m. toevoeging agendapunt*\n\nHet is niet een besloten evenement\n\nAanwezigen (5):\n  Onbekend (onbekend)\n  W.B. Hoekstra (onbekend)\n  R.J. Kamminga (VVD)\n  M. Koekkoek (Volt)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n\n\n
+DTEND:20220614T163000Z
+DTSTART:20220614T143000Z
+SUMMARY:Raad Algemene Zaken d.d. 21 juni 2022
+UID:9f0fb3f6-9ce8-4f9d-b1ee-54823492c0c6@9f0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nHerziene convocatie ivm toevoeging agendapunt *\n\nHet is niet een besloten evenement\n\nAanwezigen (10):\n  R.J. Kamminga (VVD)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  S.W. Sjoerdsma (D66)\n  M. Amhaouch (CDA)\n  S.A. Blok (onbekend)\n  K.P. Piri (PvdA)\n  S. Belhaj (D66)\n  V. Maeijer (PVV)\n  D.J. Eppink (JA21)\n  J.J. (Jasper) van Dijk (SP)\n\n\n
+DTEND:20210512T150000Z
+DTSTART:20210512T130000Z
+SUMMARY:Conferentie over de Toekomst van Europa
+UID:63a36800-3d5d-4b58-9e4f-626222533132@63a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (10):\n  G. Markuszower (PVV)\n  Onbekend (onbekend)\n  I. Kahraman (NSC)\n  J.F. Klaver (GroenLinks-PvdA)\n  J.M. Paternotte (D66)\n  C.A.M. van der Plas (BBB)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  A.A.H. van Campen (VVD)\n  C.C.J. Veldkamp (onbekend)\n  Onbekend (onbekend)\n\n\n
+DTEND:20241010T140000Z
+DTSTART:20241010T120000Z
+SUMMARY:Raad Algemene Zaken d.d. 15 oktober 2024
+UID:2130d08e-7da7-44d5-bb93-e70022bc1ee6@2130.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (15):\n  T.M.T. van der Lee (GroenLinks)\n  Onbekend (onbekend)\n  K.P. Piri (PvdA)\n  P. van Houwelingen (FVD)\n  L.A.J.M. Dassen (Volt)\n  Onbekend (onbekend)\n  M. Amhaouch (CDA)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  R.J. Kamminga (VVD)\n  H.P.M. Knapen (onbekend)\n  R. Bisschop (SGP)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  S.W. Sjoerdsma (D66)\n  J.J. (Jasper) van Dijk (SP)\n\n\n
+DTEND:20211116T173000Z
+DTSTART:20211116T153000Z
+SUMMARY:Raad Algemene Zaken dd 23 november 2021 
+UID:be0b0a53-f933-4680-a725-8fb7a5ef6966@be0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nTweede herzine convocatie i.v.m. toevoeging zaak*\n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  H.G.J. Bruins Slot (onbekend)\n  L.A.J.M. Dassen (Volt)\n  S.W. Sjoerdsma (D66)\n  J. van Wijngaarden (VVD)\n  T.M.T. van der Lee (GroenLinks)\n  P. van Houwelingen (FVD)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n\n\n
+DTEND:20230926T163000Z
+DTSTART:20230926T143000Z
+SUMMARY:Informele Raad Algemene Zaken d.d. 27 en 28 september 2023
+UID:7c12965e-cb29-4132-b92e-ef17733c21f6@7c12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nDit commissiedebat is een voortzetting van 31 maart.\nStart met bewindspersoon beantwoording eerste termijn.\n\nHet is niet een besloten evenement\n\nAanwezigen (6):\n  T.B.W. Berendsen (onbekend)\n  F.C.O. Klos (D66)\n  P. van Houwelingen (FVD)\n  B. Becker (VVD)\n  T.S.M. Stöteler (PVV)\n  R.F. van Meetelen (PVV)\n\n\n
+DTEND:20260415T180000Z
+DTSTART:20260415T160000Z
+SUMMARY:EU-uitbreiding (voortzetting)
+UID:0d47ee36-580e-41e2-8109-999d21760382@0d47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nDerde herziene convocatie i.v.m. toevoeging zaak*\nDe commissie heeft besloten om lid het Kamminga als eerste het woord te geven tijdens het nog te plannen commissiedebat EU-informatievoorziening\, zodat zij een terugkoppeling kan geven van haar werkzaamheden als rapporteur.\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  V. Maeijer (PVV)\n  P.H. Omtzigt (Omtzigt)\n  K.P. Piri (PvdA)\n  Onbekend (onbekend)\n  M. Amhaouch (CDA)\n  Onbekend (onbekend)\n  M. Koekkoek (Volt)\n  Onbekend (onbekend)\n  Onbekend (onbekend)\n  R.J. Kamminga (VVD)\n  W.B. Hoekstra (onbekend)\n  J.J. (Jasper) van Dijk (SP)\n  C.A.M. van der Plas (BBB)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  S.W. Sjoerdsma (D66)\n\n\n
+DTEND:20220210T160000Z
+DTSTART:20220210T140000Z
+SUMMARY:EU-Informatievoorziening 
+UID:bee8cf6b-e218-4730-a96c-5698a746b946@bee8.org
 END:VEVENT
 END:VCALENDAR
