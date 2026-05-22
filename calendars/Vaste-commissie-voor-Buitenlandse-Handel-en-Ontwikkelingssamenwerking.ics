@@ -2,52 +2,52 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\nVoortzetting van commissiedebat 1 april 2026: 1e termijn kabinet + 2e termijn\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  B.J. Eerdmans (JA21)\n  C. Stoffer (SGP)\n  D.G.M. Ceder (ChristenUnie)\n  S.C. Kröger (GroenLinks-PvdA)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  C. Teunissen (PvdD)\n  R. de Roon (PVV)\n  A.N. Lammers (Groep Markuszower)\n  S.E.M. Dobbe (SP)\n  R. den Hollander (VVD)\n  N.C.J. Maes (VVD)\n  A.F.J. van Ark (CDA)\n  S.W. Sjoerdsma (onbekend)\n  S.R.T. van Baarle (DENK)\n  P. Bamenga (D66)\n\n\n
-DTEND:20260409T100000Z
-DTSTART:20260409T080000Z
-SUMMARY:Humanitaire Hulp (voortzetting van 1 april jl.)
-UID:84175f11-06d0-4117-bdef-588f639f0485@8417.org
+DESCRIPTION:Notitie:\nHerziene Agenda i.v.m. toevoeging agenda punt*\nspreektijd eerste termijn Kamer: 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  D.J. van den Berg (JA21)\n  C. Teunissen (PvdD)\n  A.F.J. van Ark (CDA)\n  vaste commissie voor Klimaat en Groene Groei (onbekend)\n  S.C. Kröger (GroenLinks-PvdA)\n  P. Bamenga (D66)\n  S. van Veldhoven-van der Meer (onbekend)\n  Q.M. Rajkowski (VVD)\n  S.W. Sjoerdsma (onbekend)\n\n\n
+DTEND:20260312T123000Z
+DTSTART:20260312T090000Z
+SUMMARY:Internationale Klimaatstrategie
+UID:946a76c1-a4a3-47ae-a9f6-87ab141f0de9@946a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nHerziene convocatie i.v.m. toevoeging zaak* aan agenda punt\nspreektijd eerste termijn Kamer: 4 minuten\nIndien één van de leden een tweeminutendebat wenst te voeren voorafgaand aan de RBZ Handel van 26 en 29 maart\, dan dient daartoe een vooraankondiging gedaan te worden tijdens de plenaire Regeling van Werkzaamheden van dinsdag 17 maart 2026\, zodat op donderdag 19 maart een tweeminutendebat kan plaatsvinden. Een tweeminutendebat kan niet later plaatsvinden i.v.m. buitenlandse verplichtingen van de bewindspersoon. \n\nHet is niet een besloten evenement\n\nAanwezigen (7):\n  S.W. Sjoerdsma (onbekend)\n  M.P. Hoogeveen (JA21)\n  Q.M. Rajkowski (VVD)\n  J.B. Lohman (CDA)\n  P. Bamenga (D66)\n  S.C. Kröger (GroenLinks-PvdA)\n  vaste commissie voor Europese Zaken (onbekend)\n\n\n
 DTEND:20260319T153000Z
 DTSTART:20260319T123000Z
 SUMMARY:Raad Buitenlandse Zaken Handel 26&29 maart 2026
-UID:9027e802-350b-4eb4-9e9f-82617c1ac48f@9027.org
+UID:3f1c45e0-9406-46cd-b674-1aaae6f49fbc@3f1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nVoortzetting van commissiedebat 1 april 2026: 1e termijn kabinet + 2e termijn\n\nHet is niet een besloten evenement\n\nAanwezigen (15):\n  B.J. Eerdmans (JA21)\n  C. Stoffer (SGP)\n  D.G.M. Ceder (ChristenUnie)\n  S.C. Kröger (GroenLinks-PvdA)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  C. Teunissen (PvdD)\n  R. de Roon (PVV)\n  A.N. Lammers (Groep Markuszower)\n  S.E.M. Dobbe (SP)\n  R. den Hollander (VVD)\n  N.C.J. Maes (VVD)\n  A.F.J. van Ark (CDA)\n  S.W. Sjoerdsma (onbekend)\n  S.R.T. van Baarle (DENK)\n  P. Bamenga (D66)\n\n\n
+DTEND:20260409T100000Z
+DTSTART:20260409T080000Z
+SUMMARY:Humanitaire Hulp (voortzetting van 1 april jl.)
+UID:9393c1a3-cd8a-403f-85df-9433151397d7@9393.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (14):\n  C. Stoffer (SGP)\n  M.P. Hoogeveen (JA21)\n  S.R.T. van Baarle (DENK)\n  P. Bamenga (D66)\n  D.G.M. Ceder (ChristenUnie)\n  A.N. Lammers (Groep Markuszower)\n  C. Teunissen (PvdD)\n  S.W. Sjoerdsma (onbekend)\n  T.S.M. Stöteler (PVV)\n  vaste commissie voor Buitenlandse Zaken (onbekend)\n  S.C. Kröger (GroenLinks-PvdA)\n  S.E.M. Dobbe (SP)\n  A.F.J. van Ark (CDA)\n  N.C.J. Maes (VVD)\n\n\n
 DTEND:20260401T110000Z
 DTSTART:20260401T080000Z
 SUMMARY:Humanitaire Hulp (voortzetting op 9 april 2026)
-UID:5ee22a00-666b-441d-820f-0dd4dc7dc758@5ee2.org
+UID:40938fd6-6367-4e0b-9fde-0c9a0ad7e209@4093.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nHerziene versie i.v.m. wijzigingen\nspreektijd eerste termijn Kamer: 4 minuten\nIndien u naar aanleiding van dit commissiedebat een tweeminutendebat inclusief stemmingen wenst te voeren voorafgaand aan de Raad Buitenlandse Zaken Ontwikkeling dan kan dit debat inclusief stemmingen uiterlijk plaatsvinden op woensdag 13 mei 2026 en dient daarvoor uiterlijk dinsdag 12 mei 2026 een vooraankondiging te worden gedaan tijdens de plenaire Regeling van Werkzaamheden.\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  A.F.J. van Ark (CDA)\n  S.C. Kröger (GroenLinks-PvdA)\n  P. Bamenga (D66)\n  R.J. Dekker (FVD)\n  C. Stoffer (SGP)\n  M.P. Hoogeveen (JA21)\n  S.W. Sjoerdsma (onbekend)\n  R. Verkuijlen (VVD)\n  vaste commissie voor Europese Zaken (onbekend)\n\n\n
 DTEND:20260512T183000Z
 DTSTART:20260512T150000Z
 SUMMARY:Raad Buitenlandse Zaken Ontwikkeling van 18 mei 2026 
-UID:bc045c30-f066-4fdf-b109-872a56da5db5@bc04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nSpreektijd eerste termijn Kamer: 4 minuten. \n\nHet is niet een besloten evenement\n\nAanwezigen (3):\n  S.W. Sjoerdsma (onbekend)\n  R. den Hollander (VVD)\n  R. Verkuijlen (VVD)\n\n\n
-DTEND:20260528T110000Z
-DTSTART:20260528T080000Z
-SUMMARY:Bestrijding conflict-gerelateerd seksueel geweld
-UID:7dd048c2-c335-4d68-915e-71aae04350b0@7dd0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nHerziene Agenda i.v.m. toevoeging agenda punt*\nspreektijd eerste termijn Kamer: 4 minuten\n\nHet is niet een besloten evenement\n\nAanwezigen (9):\n  D.J. van den Berg (JA21)\n  C. Teunissen (PvdD)\n  A.F.J. van Ark (CDA)\n  vaste commissie voor Klimaat en Groene Groei (onbekend)\n  S.C. Kröger (GroenLinks-PvdA)\n  P. Bamenga (D66)\n  S. van Veldhoven-van der Meer (onbekend)\n  Q.M. Rajkowski (VVD)\n  S.W. Sjoerdsma (onbekend)\n\n\n
-DTEND:20260312T123000Z
-DTSTART:20260312T090000Z
-SUMMARY:Internationale Klimaatstrategie
-UID:3a7910dd-51e2-4872-8552-b1cce2679d28@3a79.org
+UID:d1a2ed39-d639-41d4-9cd5-7e23602d7bf8@d1a2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (1):\n  S.W. Sjoerdsma (onbekend)\n\n\n
 DTEND:20260618T140000Z
 DTSTART:20260618T110000Z
 SUMMARY:Beleidsbrief Buitenlandse Zaken 2026 (onderwerpen op het terrein van Buitenlandse Handel en Ontwikkelingssamenwerking)
-UID:4a3a8694-2524-4de1-a51b-8c2e253356fb@4a3a.org
+UID:ae6f4f92-fa09-42c3-8df7-18a946813d71@ae6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\nSpreektijd eerste termijn Kamer: 4 minuten. \n\nHet is niet een besloten evenement\n\nAanwezigen (3):\n  S.W. Sjoerdsma (onbekend)\n  R. den Hollander (VVD)\n  R. Verkuijlen (VVD)\n\n\n
+DTEND:20260528T110000Z
+DTSTART:20260528T080000Z
+SUMMARY:Bestrijding conflict-gerelateerd seksueel geweld
+UID:6d8686c9-ccb9-4645-9698-75e3649fe2d6@6d86.org
 END:VEVENT
 END:VCALENDAR
