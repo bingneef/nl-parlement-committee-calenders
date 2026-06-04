@@ -1,7 +1,7 @@
 # Commissie vergaderingen Eerste- en Tweede Kamer
 Dit project genereert elke dag de kalenders van de verschillende commissies van de kamers van het parlement. Je kan de link in de kalender programma (bijvoorbeeld Outlook) kopiëren voor automatische synchronisatie.
 
-Laatste update: 04/06/2026 05:53
+Laatste update: 04/06/2026 17:18
 
 ## Gevulde kalenders
 **Commissie voor de Rijksuitgaven** (3 gevonden)\
@@ -19,7 +19,7 @@ Laatste update: 04/06/2026 05:53
 **Vaste commissie voor Buitenlandse Handel en Ontwikkelingssamenwerking** (7 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Buitenlandse-Handel-en-Ontwikkelingssamenwerking.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Buitenlandse-Handel-en-Ontwikkelingssamenwerking.ics)
 
-**Vaste commissie voor Buitenlandse Zaken** (108 gevonden)\
+**Vaste commissie voor Buitenlandse Zaken** (107 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Buitenlandse-Zaken.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Buitenlandse-Zaken.ics)
 
 **Vaste commissie voor Defensie** (68 gevonden)\
@@ -37,7 +37,7 @@ Laatste update: 04/06/2026 05:53
 **Vaste commissie voor Financiën** (131 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Financiën.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Financiën.ics)
 
-**Vaste commissie voor Infrastructuur en Waterstaat** (166 gevonden)\
+**Vaste commissie voor Infrastructuur en Waterstaat** (165 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Infrastructuur-en-Waterstaat.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Infrastructuur-en-Waterstaat.ics)
 
 **Vaste commissie voor Justitie en Veiligheid** (175 gevonden)\
@@ -52,7 +52,7 @@ Laatste update: 04/06/2026 05:53
 **Vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur ** (38 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Landbouw--Visserij--Voedselzekerheid-en-Natuur-.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Landbouw--Visserij--Voedselzekerheid-en-Natuur-.ics)
 
-**Vaste commissie voor Onderwijs, Cultuur en Wetenschap** (85 gevonden)\
+**Vaste commissie voor Onderwijs, Cultuur en Wetenschap** (84 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Onderwijs--Cultuur-en-Wetenschap.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Onderwijs--Cultuur-en-Wetenschap.ics)
 
 **Vaste commissie voor Sociale Zaken en Werkgelegenheid** (96 gevonden)\
