@@ -2,31 +2,31 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Notitie:\nNoot: \nLeden die wensen deel te nemen aan het commissiedebat worden verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n  H. Nijboer (PvdA)\n  vaste commissie voor Financiën (onbekend)\n  I. (Inge) van Dijk (CDA)\n  S. Maatoug (GroenLinks)\n  J.C. Sneller (D66)\n  S.A.M. Kaag (onbekend)\n  vaste commissie voor Onderwijs\, Cultuur en Wetenschap (onbekend)\n  vaste commissie voor Landbouw\, Natuur en Voedselkwaliteit (onbekend)\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (onbekend)\n  E. Heinen (VVD)\n\n\n
+DTEND:20220914T190000Z
+DTSTART:20220914T160000Z
+SUMMARY:Begrotingsproces
+UID:65494316-a81c-45d5-beaf-54b42486f506@6549.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (7):\n  H. Vermeer (BBB)\n  F.L. Idsinga (NSC)\n  E. Heinen (onbekend)\n  T.M.T. van der Lee (GroenLinks-PvdA)\n  J.C. Sneller (D66)\n  C.J. Faddegon (PVV)\n  A. (Aukje) de Vries (VVD)\n\n\n
 DTEND:20250904T110000Z
 DTSTART:20250904T080000Z
 SUMMARY:Begrotingsproces
-UID:150439cc-07cd-4489-acd8-6b3a95f0b49e@1504.org
+UID:c302c755-d0ed-4398-ba96-ce3d61dd424a@c302.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\n*Uw fungerend voorzitter stelt een indicatievieve spreektijd van 5 minuten per fractie voor\, uitgaande van ongeveer vijf sprekers*\n\nHet is niet een besloten evenement\n\nAanwezigen (5):\n  J.C. Sneller (D66)\n  W.B. Hoekstra (onbekend)\n  B.A.W. Snels (GroenLinks)\n  J.L. Geurts (CDA)\n  E. Heinen (VVD)\n\n\n
 DTEND:20210624T120000Z
 DTSTART:20210624T100000Z
 SUMMARY:Begroten en verantwoorden 
-UID:cd138ce4-b380-4eee-8995-e3fa10357e8e@cd13.org
+UID:4d20bcce-1928-4eed-bec3-acebc5747f35@4d20.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Het is niet een besloten evenement\n\n
 DTEND:20261125T160000Z
 DTSTART:20261125T130000Z
 SUMMARY:Begrotingsproces
-UID:74c91554-34b9-414a-9f3f-9064faebdfb9@74c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Notitie:\nNoot: \nLeden die wensen deel te nemen aan het commissiedebat worden verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n  H. Nijboer (PvdA)\n  vaste commissie voor Financiën (onbekend)\n  I. (Inge) van Dijk (CDA)\n  S. Maatoug (GroenLinks)\n  J.C. Sneller (D66)\n  S.A.M. Kaag (onbekend)\n  vaste commissie voor Onderwijs\, Cultuur en Wetenschap (onbekend)\n  vaste commissie voor Landbouw\, Natuur en Voedselkwaliteit (onbekend)\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (onbekend)\n  E. Heinen (VVD)\n\n\n
-DTEND:20220914T190000Z
-DTSTART:20220914T160000Z
-SUMMARY:Begrotingsproces
-UID:150018b8-00ca-4e7b-9511-00659ce2ed4b@1500.org
+UID:2f4cae82-16e0-44b7-b33a-3f34b139b3a2@2f4c.org
 END:VEVENT
 END:VCALENDAR
