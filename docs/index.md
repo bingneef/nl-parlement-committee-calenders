@@ -1,7 +1,7 @@
 # Commissie vergaderingen Eerste- en Tweede Kamer
 Dit project genereert elke dag de kalenders van de verschillende commissies van de kamers van het parlement. Je kan de link in de kalender programma (bijvoorbeeld Outlook) kopiëren voor automatische synchronisatie.
 
-Laatste update: 09/07/2026 17:03
+Laatste update: 10/07/2026 05:37
 
 ## Gevulde kalenders
 **Commissie voor de Rijksuitgaven** (4 gevonden)\
