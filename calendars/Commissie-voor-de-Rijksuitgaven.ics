@@ -2,31 +2,31 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (7):\n  H. Vermeer (BBB)\n  F.L. Idsinga (NSC)\n  E. Heinen (onbekend)\n  T.M.T. van der Lee (GroenLinks-PvdA)\n  J.C. Sneller (D66)\n  C.J. Faddegon (PVV)\n  A. (Aukje) de Vries (VVD)\n\n\n
-DTEND:20250904T110000Z
-DTSTART:20250904T080000Z
-SUMMARY:Begrotingsproces
-UID:fd54de2d-5767-4249-986a-885e1592a897@fd54.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Notitie:\nNoot: \nLeden die wensen deel te nemen aan het commissiedebat worden verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n  H. Nijboer (PvdA)\n  vaste commissie voor Financiën (onbekend)\n  I. (Inge) van Dijk (CDA)\n  S. Maatoug (GroenLinks)\n  J.C. Sneller (D66)\n  S.A.M. Kaag (onbekend)\n  vaste commissie voor Onderwijs\, Cultuur en Wetenschap (onbekend)\n  vaste commissie voor Landbouw\, Natuur en Voedselkwaliteit (onbekend)\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (onbekend)\n  E. Heinen (VVD)\n\n\n
 DTEND:20220914T190000Z
 DTSTART:20220914T160000Z
 SUMMARY:Begrotingsproces
-UID:4a6a0039-80a8-4c3e-b4a0-28e2a0d8d22a@4a6a.org
+UID:b572f413-7654-4173-a064-f24e48d3ea2f@b572.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (7):\n  H. Vermeer (BBB)\n  F.L. Idsinga (NSC)\n  E. Heinen (onbekend)\n  T.M.T. van der Lee (GroenLinks-PvdA)\n  J.C. Sneller (D66)\n  C.J. Faddegon (PVV)\n  A. (Aukje) de Vries (VVD)\n\n\n
+DTEND:20250904T110000Z
+DTSTART:20250904T080000Z
+SUMMARY:Begrotingsproces
+UID:e7f09b4e-7d4b-406c-8bd7-dee8f0e18bad@e7f0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\n*Uw fungerend voorzitter stelt een indicatievieve spreektijd van 5 minuten per fractie voor\, uitgaande van ongeveer vijf sprekers*\n\nHet is niet een besloten evenement\n\nAanwezigen (5):\n  J.C. Sneller (D66)\n  W.B. Hoekstra (onbekend)\n  B.A.W. Snels (GroenLinks)\n  J.L. Geurts (CDA)\n  E. Heinen (VVD)\n\n\n
 DTEND:20210624T120000Z
 DTSTART:20210624T100000Z
 SUMMARY:Begroten en verantwoorden 
-UID:c60165cb-425e-4ebb-b079-a6c15af6f2d3@c601.org
+UID:001af3ac-e9a7-49bf-84a9-7f69683ca8ab@001a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Het is niet een besloten evenement\n\n
 DTEND:20261125T160000Z
 DTSTART:20261125T130000Z
 SUMMARY:Begrotingsproces
-UID:68f1e246-0dd2-496c-9216-226796e18970@68f1.org
+UID:55ec604c-c127-4ce2-b5d3-bbef5f0895d5@55ec.org
 END:VEVENT
 END:VCALENDAR
