@@ -2,31 +2,31 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Notitie:\n*Uw fungerend voorzitter stelt een indicatievieve spreektijd van 5 minuten per fractie voor\, uitgaande van ongeveer vijf sprekers*\n\nHet is niet een besloten evenement\n\nAanwezigen (5):\n  J.C. Sneller (D66)\n  W.B. Hoekstra (onbekend)\n  B.A.W. Snels (GroenLinks)\n  J.L. Geurts (CDA)\n  E. Heinen (VVD)\n\n\n
-DTEND:20210624T120000Z
-DTSTART:20210624T100000Z
-SUMMARY:Begroten en verantwoorden 
-UID:00b39c25-ecb4-43af-ab5b-8497f4c7a022@00b3.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Het is niet een besloten evenement\n\nAanwezigen (7):\n  H. Vermeer (BBB)\n  F.L. Idsinga (NSC)\n  E. Heinen (onbekend)\n  T.M.T. van der Lee (GroenLinks-PvdA)\n  J.C. Sneller (D66)\n  C.J. Faddegon (PVV)\n  A. (Aukje) de Vries (VVD)\n\n\n
 DTEND:20250904T110000Z
 DTSTART:20250904T080000Z
 SUMMARY:Begrotingsproces
-UID:bb638db0-2db2-4d85-b519-02900a5ebc76@bb63.org
+UID:1f468bf4-4141-4d31-8ff9-ba3e78aab58c@1f46.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Notitie:\nNoot: \nLeden die wensen deel te nemen aan het commissiedebat worden verzocht zich aan te melden via het tabblad deelnemers bij de activiteit in Parlis.\n\nHet is niet een besloten evenement\n\nAanwezigen (11):\n  vaste commissie voor Justitie en Veiligheid (onbekend)\n  H. Nijboer (PvdA)\n  vaste commissie voor Financiën (onbekend)\n  I. (Inge) van Dijk (CDA)\n  S. Maatoug (GroenLinks)\n  J.C. Sneller (D66)\n  S.A.M. Kaag (onbekend)\n  vaste commissie voor Onderwijs\, Cultuur en Wetenschap (onbekend)\n  vaste commissie voor Landbouw\, Natuur en Voedselkwaliteit (onbekend)\n  vaste commissie voor Sociale Zaken en Werkgelegenheid (onbekend)\n  E. Heinen (VVD)\n\n\n
 DTEND:20220914T190000Z
 DTSTART:20220914T160000Z
 SUMMARY:Begrotingsproces
-UID:adde5fa3-ca15-4a96-ab2d-28e024ac0224@adde.org
+UID:b4d01c7e-8456-4f57-985b-12a72657cb56@b4d0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Het is niet een besloten evenement\n\n
 DTEND:20261125T160000Z
 DTSTART:20261125T130000Z
 SUMMARY:Begrotingsproces
-UID:2815521f-6ccb-4e27-8177-d10e78f2bc99@2815.org
+UID:16853b3a-6bbd-413d-84cd-91956cf7ea16@1685.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Notitie:\n*Uw fungerend voorzitter stelt een indicatievieve spreektijd van 5 minuten per fractie voor\, uitgaande van ongeveer vijf sprekers*\n\nHet is niet een besloten evenement\n\nAanwezigen (5):\n  J.C. Sneller (D66)\n  W.B. Hoekstra (onbekend)\n  B.A.W. Snels (GroenLinks)\n  J.L. Geurts (CDA)\n  E. Heinen (VVD)\n\n\n
+DTEND:20210624T120000Z
+DTSTART:20210624T100000Z
+SUMMARY:Begroten en verantwoorden 
+UID:c2c42c71-171a-4f80-b07b-e1420f4304a5@c2c4.org
 END:VEVENT
 END:VCALENDAR
