@@ -1,7 +1,7 @@
 # Commissie vergaderingen Eerste- en Tweede Kamer
 Dit project genereert elke dag de kalenders van de verschillende commissies van de kamers van het parlement. Je kan de link in de kalender programma (bijvoorbeeld Outlook) kopiëren voor automatische synchronisatie.
 
-Laatste update: 29/10/2026 04:22
+Laatste update: 29/10/2026 16:22
 
 ## Gevulde kalenders
 **Commissie voor de Rijksuitgaven** (4 gevonden)\
@@ -28,7 +28,7 @@ Laatste update: 29/10/2026 04:22
 **Vaste commissie voor Digitale Zaken** (58 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Digitale-Zaken.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Digitale-Zaken.ics)
 
-**Vaste commissie voor Economische Zaken** (32 gevonden)\
+**Vaste commissie voor Economische Zaken** (33 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Economische-Zaken.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Economische-Zaken.ics)
 
 **Vaste commissie voor Europese Zaken** (28 gevonden)\
@@ -37,10 +37,10 @@ Laatste update: 29/10/2026 04:22
 **Vaste commissie voor Financiën** (137 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Financiën.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Financiën.ics)
 
-**Vaste commissie voor Infrastructuur en Waterstaat** (178 gevonden)\
+**Vaste commissie voor Infrastructuur en Waterstaat** (180 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Infrastructuur-en-Waterstaat.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Infrastructuur-en-Waterstaat.ics)
 
-**Vaste commissie voor Justitie en Veiligheid** (186 gevonden)\
+**Vaste commissie voor Justitie en Veiligheid** (185 gevonden)\
 [https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Justitie-en-Veiligheid.ics](https://raw.githubusercontent.com/bingneef/rekenkamer-commissie-scraper/main/calendars/Vaste-commissie-voor-Justitie-en-Veiligheid.ics)
 
 **Vaste commissie voor Klimaat en Groene Groei** (53 gevonden)\
